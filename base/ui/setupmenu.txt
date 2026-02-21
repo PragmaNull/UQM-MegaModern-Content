@@ -43,7 +43,6 @@ Speech
 Aspect Ratio
 Kohr-Stahp
 God Modes
-Time Dilation
 Bubble Warp
 Unlock Ships
 Head Start
@@ -603,229 +602,211 @@ full God Mode in and out of Melee.
 &!(Only functional against AI opponents and during the Story)
 
 #(CAT_26_OPTS)
-Normal
-Slow
-Fast
+Disabled
+Enabled
 
 #(CAT_26_OPT_0_DESC)
-Time flows normally.
+Instantaneously warp to any spot on the Starmap.
+Fuel will still be consumed as usual.
 
 #(CAT_26_OPT_1_DESC)
-Time moves 6 times slower.
-Hyperspace = 30 seconds
-Interplanetary =  3 minutes
-
-#(CAT_26_OPT_2_DESC)
-Time moves 5 times faster.
-Hyperspace = 1 second
-Interplanetary =  6 seconds
+Instantaneously warp to any spot on the Starmap.
+Fuel will still be consumed as usual.
 
 #(CAT_27_OPTS)
 Disabled
 Enabled
 
 #(CAT_27_OPT_0_DESC)
-Instantaneously warp to any spot on the Starmap.
-Fuel will still be consumed as usual.
+Unlock ships all ships not normally available to you in the story.
 
 #(CAT_27_OPT_1_DESC)
-Instantaneously warp to any spot on the Starmap.
-Fuel will still be consumed as usual.
+Unlock ships all ships not normally available to you in the story.
 
 #(CAT_28_OPTS)
 Disabled
 Enabled
 
 #(CAT_28_OPT_0_DESC)
-Unlock ships all ships not normally available to you in the story.
+Start with Fwiffo in your fleet, a single radioactive
+in your Storage Bay, and the Moon Base already explored.
+Allowing the StarBase to be unlocked quicker than usual.
 
 #(CAT_28_OPT_1_DESC)
-Unlock ships all ships not normally available to you in the story.
+Start with Fwiffo in your fleet, a single radioactive
+in your Storage Bay, and the Moon Base already explored.
+Allowing the StarBase to be unlocked quicker than usual.
 
 #(CAT_29_OPTS)
 Disabled
 Enabled
 
 #(CAT_29_OPT_0_DESC)
-Start with Fwiffo in your fleet, a single radioactive
-in your Storage Bay, and the Moon Base already explored.
-Allowing the StarBase to be unlocked quicker than usual.
+Earn Melnorme tech normally.
+If you've saved with this option enabled then all Melnorme
+technology will still be available for you.
 
 #(CAT_29_OPT_1_DESC)
-Start with Fwiffo in your fleet, a single radioactive
-in your Storage Bay, and the Moon Base already explored.
-Allowing the StarBase to be unlocked quicker than usual.
+Unlock all Melnorme tech including ship modules and lander upgrades.
+
+&!This option persists through saves.
 
 #(CAT_30_OPTS)
 Disabled
 Enabled
 
 #(CAT_30_OPT_0_DESC)
-Earn Melnorme tech normally.
-If you've saved with this option enabled then all Melnorme
-technology will still be available for you.
+Gives you virtually infinite R.U. in the story mode.
+
+Does not persist through game saves.
 
 #(CAT_30_OPT_1_DESC)
-Unlock all Melnorme tech including ship modules and lander upgrades.
+Gives you virtually infinite R.U. in the story mode.
 
-&!This option persists through saves.
+Does not persist through game saves.
 
 #(CAT_31_OPTS)
 Disabled
 Enabled
 
 #(CAT_31_OPT_0_DESC)
-Gives you virtually infinite R.U. in the story mode.
-
-Does not persist through game saves.
+Skips the logo, splash screen, and intro cutscene.
 
 #(CAT_31_OPT_1_DESC)
-Gives you virtually infinite R.U. in the story mode.
-
-Does not persist through game saves.
+Skips the logo, splash screen, and intro cutscene.
 
 #(CAT_32_OPTS)
-Disabled
-Enabled
-
-#(CAT_32_OPT_0_DESC)
-Skips the logo, splash screen, and intro cutscene.
-
-#(CAT_32_OPT_1_DESC)
-Skips the logo, splash screen, and intro cutscene.
-
-#(CAT_33_OPTS)
 No Extra Indicators
 Fuel Range at Destination
 Fuel Range to Sol
 All Range Indicators Enabled
 
-#(CAT_33_OPT_0_DESC)
+#(CAT_32_OPT_0_DESC)
 Just the single basic fuel range indicator.
 
-#(CAT_33_OPT_1_DESC)
+#(CAT_32_OPT_1_DESC)
 Shows an extra fuel circle that depicts the remaining amount
 of fuel you'll have at your destination
 (Indicated by a dotted light gray circle)
 
-#(CAT_33_OPT_2_DESC)
+#(CAT_32_OPT_2_DESC)
 Shows an extra fuel ellipse that depicts the point of
 no return for traveling back to Sol.
 (Indicated by a filled in, lighter grey ellipse)
 
-#(CAT_33_OPT_3_DESC)
+#(CAT_32_OPT_3_DESC)
 Shows both the fuel range at the intended destination
 and the point of no return ellipse for Sol
+
+#(CAT_33_OPTS)
+Disabled
+Enabled
+
+#(CAT_33_OPT_0_DESC)
+Plays music in the Main Menu, Setup Menu, and the
+Super Melee menu.
+
+#(CAT_33_OPT_1_DESC)
+Plays music in the Main Menu, Setup Menu, and the
+Super Melee menu.
 
 #(CAT_34_OPTS)
 Disabled
 Enabled
 
 #(CAT_34_OPT_0_DESC)
-Plays music in the Main Menu, Setup Menu, and the
-Super Melee menu.
+When enabled this option shows nebulous clouds
+in the background of star systems.
 
 #(CAT_34_OPT_1_DESC)
-Plays music in the Main Menu, Setup Menu, and the
-Super Melee menu.
+When enabled this option shows nebulous clouds
+in the background of star systems.
 
 #(CAT_35_OPTS)
 Disabled
 Enabled
 
 #(CAT_35_OPT_0_DESC)
-When enabled this option shows nebulous clouds
-in the background of star systems.
+When enabled the planets and moons will move about
+their respective orbits over time.
 
 #(CAT_35_OPT_1_DESC)
-When enabled this option shows nebulous clouds
-in the background of star systems.
+When enabled the planets and moons will move about
+their respective orbits over time.
 
 #(CAT_36_OPTS)
 Disabled
 Enabled
 
 #(CAT_36_OPT_0_DESC)
-When enabled the planets and moons will move about
-their respective orbits over time.
-
-#(CAT_36_OPT_1_DESC)
-When enabled the planets and moons will move about
-their respective orbits over time.
-
-#(CAT_37_OPTS)
-Disabled
-Enabled
-
-#(CAT_37_OPT_0_DESC)
 When enabled planets will be shown fully textured
 
-#(CAT_37_OPT_1_DESC)
+#(CAT_36_OPT_1_DESC)
 Display beautiful textured planets in star systems.
 
-#(CAT_38_OPTS)
+#(CAT_37_OPTS)
 Original (MMM DD·YYYY)
 MM·DD·YYYY
 DD MMM·YYYY
 DD·MM·YYYY
 
-#(CAT_38_OPT_0_DESC)
+#(CAT_37_OPT_0_DESC)
 Shows the date as follows: 
 
 FEB 17·2155
 
-#(CAT_38_OPT_1_DESC)
+#(CAT_37_OPT_1_DESC)
 Shows the date as follows: 
 
 02·17·2155
 
-#(CAT_38_OPT_2_DESC)
+#(CAT_37_OPT_2_DESC)
 Shows the date as follows: 
 
 17 FEB·2155
 
-#(CAT_38_OPT_3_DESC)
+#(CAT_37_OPT_3_DESC)
 Shows the date as follows: 
 
 17·02·2155
+
+#(CAT_38_OPTS)
+Disabled
+Enabled
+
+#(CAT_38_OPT_0_DESC)
+Gives you virtually infinite fuel in the story mode.
+
+#(CAT_38_OPT_1_DESC)
+Gives you virtually infinite fuel in the story mode.
 
 #(CAT_39_OPTS)
 Disabled
 Enabled
 
 #(CAT_39_OPT_0_DESC)
-Gives you virtually infinite fuel in the story mode.
+Minerals that are bigger than the remaining limit of 
+your Lander hold will be partially picked up.
+Biological data will not be picked up if larger than the hold.
 
 #(CAT_39_OPT_1_DESC)
-Gives you virtually infinite fuel in the story mode.
+Minerals that are bigger than the remaining limit of 
+your Lander hold will be partially picked up.
+Biological data will not be picked up if larger than the hold.
 
 #(CAT_40_OPTS)
 Disabled
 Enabled
 
 #(CAT_40_OPT_0_DESC)
-Minerals that are bigger than the remaining limit of 
-your Lander hold will be partially picked up.
-Biological data will not be picked up if larger than the hold.
+Displays mineral values while scanning/traversing planets
+and displays StarMap keys/buttons while on the StarMap.
 
 #(CAT_40_OPT_1_DESC)
-Minerals that are bigger than the remaining limit of 
-your Lander hold will be partially picked up.
-Biological data will not be picked up if larger than the hold.
+Displays mineral values while scanning/traversing planets
+and displays StarMap keys/buttons while on the StarMap.
 
 #(CAT_41_OPTS)
-Disabled
-Enabled
-
-#(CAT_41_OPT_0_DESC)
-Displays mineral values while scanning/traversing planets
-and displays StarMap keys/buttons while on the StarMap.
-
-#(CAT_41_OPT_1_DESC)
-Displays mineral values while scanning/traversing planets
-and displays StarMap keys/buttons while on the StarMap.
-
-#(CAT_42_OPTS)
 Default
 640x480
 960x720
@@ -834,651 +815,662 @@ Default
 1920x1440
 Custom
 
-#(CAT_42_OPT_0_DESC)
+#(CAT_41_OPT_0_DESC)
 Default resolution for Vanilla and HD graphics.
 320x240 resolution for Vanilla
 1280x960 resolution for HD
 
-#(CAT_42_OPT_1_DESC)
+#(CAT_41_OPT_1_DESC)
 Scale graphics to 640x480 resolution.
 
-#(CAT_42_OPT_2_DESC)
+#(CAT_41_OPT_2_DESC)
 Scale graphics to 960x720 resolution.
 
-#(CAT_42_OPT_3_DESC)
+#(CAT_41_OPT_3_DESC)
 Scale graphics to 1280x960 resolution.
 Native resolution for HD.
 
-#(CAT_42_OPT_4_DESC)
+#(CAT_41_OPT_4_DESC)
 Scale graphics to 1600x1200 resolution.
 
-#(CAT_42_OPT_5_DESC)
+#(CAT_41_OPT_5_DESC)
 Scale graphics to 1920x1440 resolution.
 
-#(CAT_42_OPT_6_DESC)
+#(CAT_41_OPT_6_DESC)
 Using a custom resolution.
+
+#(CAT_42_OPTS)
+Disabled
+Enabled
+
+#(CAT_42_OPT_0_DESC)
+Gives you virtually infinite Melnorme Credits.
+
+#(CAT_42_OPT_1_DESC)
+Gives you virtually infinite Melnorme Credits.
 
 #(CAT_43_OPTS)
 Disabled
 Enabled
 
 #(CAT_43_OPT_0_DESC)
-Gives you virtually infinite Melnorme Credits.
+Colored text for temperature, weather, and tectonic hazards 
+when viewing planetary scans based on severity.
 
 #(CAT_43_OPT_1_DESC)
-Gives you virtually infinite Melnorme Credits.
+Colored text for temperature, weather, and tectonic hazards 
+when viewing planetary scans based on severity.
 
 #(CAT_44_OPTS)
 Disabled
 Enabled
 
 #(CAT_44_OPT_0_DESC)
-Colored text for temperature, weather, and tectonic hazards 
-when viewing planetary scans based on severity.
+An alternative UI inspired by Clay's "SC2 Redo" concept art
 
 #(CAT_44_OPT_1_DESC)
-Colored text for temperature, weather, and tectonic hazards 
-when viewing planetary scans based on severity.
+An alternative UI inspired by Clay's "SC2 Redo" concept art
 
 #(CAT_45_OPTS)
-Disabled
-Enabled
-
-#(CAT_45_OPT_0_DESC)
-An alternative UI inspired by Clay's "SC2 Redo" concept art
-
-#(CAT_45_OPT_1_DESC)
-An alternative UI inspired by Clay's "SC2 Redo" concept art
-
-#(CAT_46_OPTS)
 Disabled
 No Spoilers
 Spoilers
 
-#(CAT_46_OPT_0_DESC)
+#(CAT_45_OPT_0_DESC)
 Music that plays when you are in a star system
 within an alien race's Sphere of Influence
 
-#(CAT_46_OPT_1_DESC)
+#(CAT_45_OPT_1_DESC)
 Music that plays when you are in a star system
 within an alien race's Sphere of Influence but
 only after you discover the alien race
 
-#(CAT_46_OPT_2_DESC)
+#(CAT_45_OPT_2_DESC)
 Music that plays when you are in a star system
 within an alien race's Sphere of Influence regardless
 if you've ever met them or not
+
+#(CAT_46_OPTS)
+Disabled
+Enabled
+
+#(CAT_46_OPT_0_DESC)
+A complete set of remixes made by Volasaurus.
+Overrides the PC, 3DO, or Precursors soundtrack
+&!UQM will reload when changed.
+
+#(CAT_46_OPT_1_DESC)
+A complete set of remixes made by Volasaurus.
+Overrides the PC, 3DO, or Precursors soundtrack
+&!UQM will reload when changed.
 
 #(CAT_47_OPTS)
 Disabled
 Enabled
 
 #(CAT_47_OPT_0_DESC)
-A complete set of remixes made by Volasaurus.
-Overrides the PC, 3DO, or Precursors soundtrack
-&!UQM will reload when changed.
+Displays the entire FUEL value as a decimal.
 
 #(CAT_47_OPT_1_DESC)
-A complete set of remixes made by Volasaurus.
-Overrides the PC, 3DO, or Precursors soundtrack
-&!UQM will reload when changed.
+Displays the entire FUEL value as a decimal.
 
 #(CAT_48_OPTS)
 Disabled
 Enabled
 
 #(CAT_48_OPT_0_DESC)
-Displays the entire FUEL value as a decimal.
-
-#(CAT_48_OPT_1_DESC)
-Displays the entire FUEL value as a decimal.
-
-#(CAT_49_OPTS)
-Disabled
-Enabled
-
-#(CAT_49_OPT_0_DESC)
 Normal control
 
 Android only.
 
-#(CAT_49_OPT_1_DESC)
+#(CAT_48_OPT_1_DESC)
 Directional joystick enabled
 
 Android only.
 
-#(CAT_50_OPTS)
+#(CAT_49_OPTS)
 Stepped
 Nearest
 Bilinear
 Trilinear
 
-#(CAT_50_OPT_0_DESC)
+#(CAT_49_OPT_0_DESC)
 Cut between three zoom levels in combat.
 
 Resembles PC combat | Android Only
 
-#(CAT_50_OPT_1_DESC)
+#(CAT_49_OPT_1_DESC)
 Continuously scale the combat view using Nearest scaler.
 
 Resembles 3DO combat | Android Only
 
-#(CAT_50_OPT_2_DESC)
+#(CAT_49_OPT_2_DESC)
 Continuously scale the combat view using Bilinear scaler.
 
 Resembles 3DO combat | Android Only
 
-#(CAT_50_OPT_3_DESC)
+#(CAT_49_OPT_3_DESC)
 Continuously scale the combat view using Trilinear scaler.
 
 Resembles 3DO combat | Android Only
 
-#(CAT_51_OPTS)
+#(CAT_50_OPTS)
 PC Cargo Size
 3DO Cargo Size
 
-#(CAT_51_OPT_0_DESC)
+#(CAT_50_OPT_0_DESC)
 Max amount of minerals the Lander can pick up
 as per the PC version: 64 units before upgrade
 
-#(CAT_51_OPT_1_DESC)
+#(CAT_50_OPT_1_DESC)
 Max amount of minerals the Lander can pick up
 as per the 3DO version: 50 units before upgrade
 
-#(CAT_52_OPTS)
+#(CAT_51_OPTS)
 DOS
 3DO
 
-#(CAT_52_OPT_0_DESC)
+#(CAT_51_OPT_0_DESC)
 Screen transitions will be instantaneous.
 Fades will use a Subtractive/Additive blend.
 &!Fade style is always Alpha blend in SDL1 builds
 
-#(CAT_52_OPT_1_DESC)
+#(CAT_51_OPT_1_DESC)
 Screen transitions will crossfade.
 Fades will use an Alpha blend.
 &!Fade style is always Alpha blend in SDL1 builds
 
-#(CAT_53_OPTS)
+#(CAT_52_OPTS)
 Original
 Easy
 Hard
 Choose At Start
 
-#(CAT_53_OPT_0_DESC)
+#(CAT_52_OPT_0_DESC)
 Vanilla difficulty as it was originally intended.
 
-#(CAT_53_OPT_1_DESC)
+#(CAT_52_OPT_1_DESC)
 Various changes to make UQM gameplay easier.
 
-#(CAT_53_OPT_2_DESC)
+#(CAT_52_OPT_2_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A multitude of changes to make gameplay much
 harder for the veteran UQM player.
 
-#(CAT_53_OPT_3_DESC)
+#(CAT_52_OPT_3_DESC)
 Choose the difficulty you want when you start
 a new game from the Main Menu.
 
-#(CAT_54_OPTS)
+#(CAT_53_OPTS)
 Disabled
 Enabled
 
-#(CAT_54_OPT_0_DESC)
+#(CAT_53_OPT_0_DESC)
 Extended Lore that expands upon the game's events.
 Based upon Extended Mod made by 0xDEC0DE.
 &!See the readme for a full list of additions.
 
-#(CAT_54_OPT_1_DESC)
+#(CAT_53_OPT_1_DESC)
 Extended Lore that expands upon the game's events.
 Based upon Extended Mod made by 0xDEC0DE.
 &!See the readme for a full list of additions.
 
-#(CAT_55_OPTS)
+#(CAT_54_OPTS)
 Disabled
 Easy
 Normal
 
-#(CAT_55_OPT_0_DESC)
+#(CAT_54_OPT_0_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A forced `No Starbase' mode for expert players 
 who want the most extreme of challenges.
 
-#(CAT_55_OPT_1_DESC)
+#(CAT_54_OPT_1_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 A forced `No Starbase' mode for expert players 
 with a few conveniences to help out.
 
-#(CAT_55_OPT_2_DESC)
+#(CAT_54_OPT_2_DESC)
 &!FOR VETERANS ONLY! NOT FOR BEGINNERS!
 Basic and brutal `No Starbase' mode for expert players 
 with no extra conveniences to help out.
+
+#(CAT_55_OPTS)
+Disabled
+Enabled
+
+#(CAT_55_OPT_0_DESC)
+A set of cinematic slides for various game over sequences.
+
+#(CAT_55_OPT_1_DESC)
+A set of cinematic slides for various game over sequences.
 
 #(CAT_56_OPTS)
 Disabled
 Enabled
 
 #(CAT_56_OPT_0_DESC)
-A set of cinematic slides for various game over sequences.
+NPC ship icons will face the direction they're
+traveling while in Interplanetary view.
+Also the mysterious Probes you may encounter will `tumble'
 
 #(CAT_56_OPT_1_DESC)
-A set of cinematic slides for various game over sequences.
+NPC ship icons will face the direction they're
+traveling while in Interplanetary view.
+Also the mysterious Probes you may encounter will `tumble'
 
 #(CAT_57_OPTS)
 Disabled
 Enabled
 
 #(CAT_57_OPT_0_DESC)
-NPC ship icons will face the direction they're
-traveling while in Interplanetary view.
-Also the mysterious Probes you may encounter will `tumble'
+Enables an alternative font for the 
+*untranslatable* portion of The Orz speech
 
 #(CAT_57_OPT_1_DESC)
-NPC ship icons will face the direction they're
-traveling while in Interplanetary view.
-Also the mysterious Probes you may encounter will `tumble'
+Enables an alternative font for the 
+*untranslatable* portion of The Orz speech
 
 #(CAT_58_OPTS)
-Disabled
-Enabled
-
-#(CAT_58_OPT_0_DESC)
-Enables an alternative font for the 
-*untranslatable* portion of The Orz speech
-
-#(CAT_58_OPT_1_DESC)
-Enables an alternative font for the 
-*untranslatable* portion of The Orz speech
-
-#(CAT_59_OPTS)
 Keyboard
 Xbox
 PlayStation 4
 
-#(CAT_59_OPT_0_DESC)
+#(CAT_58_OPT_0_DESC)
 Show keyboard controls in the menu and UI.
 
 &!Remember to change the Bottom Player control layout accordingly.
 
-#(CAT_59_OPT_1_DESC)
+#(CAT_58_OPT_1_DESC)
 Show Xbox controls in the menu and UI.
 
 &!Remember to change the Bottom Player control layout accordingly.
 
-#(CAT_59_OPT_2_DESC)
+#(CAT_58_OPT_2_DESC)
 Show PlayStation 4 controls in the menu and UI.
 
 &!Remember to change the Bottom Player control layout accordingly.
 
-#(CAT_60_OPTS)
+#(CAT_59_OPTS)
 Disabled
 Enabled
 
-#(CAT_60_OPT_0_DESC)
+#(CAT_59_OPT_0_DESC)
 Smart Auto-Pilot will find the quickest way out of the current star
 system and will already be facing the direction of the set
 coordinates when it enters HyperSpace.
 
-#(CAT_60_OPT_1_DESC)
+#(CAT_59_OPT_1_DESC)
 Smart Auto-Pilot will find the quickest way out of the current star
 system and will already be facing the direction of the set
 coordinates when it enters HyperSpace.
 
-#(CAT_61_OPTS)
+#(CAT_60_OPTS)
 Shaded
 Plain
 
-#(CAT_61_OPT_0_DESC)
+#(CAT_60_OPT_0_DESC)
 Planets will be shaded with the color of the
 current scan, as per the original PC version.
 
-#(CAT_61_OPT_1_DESC)
+#(CAT_60_OPT_1_DESC)
 Planets will not be shaded with the color of the
 current scan, as per the 3DO version.
 
-#(CAT_62_OPTS)
+#(CAT_61_OPTS)
 PC
 3DO
 
-#(CAT_62_OPT_0_DESC)
+#(CAT_61_OPT_0_DESC)
 Planets in interplanetary will resemble the 
 DOS planet coloring and shading
 &!(Only applicable if Textured Planets is disabled)
 
-#(CAT_62_OPT_1_DESC)
+#(CAT_61_OPT_1_DESC)
 Planets in interplanetary will resemble the 
 3DO planet coloring and shading
 &!(Only applicable if Textured Planets is disabled)
 
-#(CAT_63_OPTS)
+#(CAT_62_OPTS)
 PC
 3DO
 UQM
 HD-mod
 
-#(CAT_63_OPT_0_DESC)
+#(CAT_62_OPT_0_DESC)
 Generated star background in interplanetary
 will resemble the DOS style arrangement
 
-#(CAT_63_OPT_1_DESC)
+#(CAT_62_OPT_1_DESC)
 Generated star background in interplanetary
 will resemble the 3DO style arrangement
 
-#(CAT_63_OPT_2_DESC)
+#(CAT_62_OPT_2_DESC)
 Generated star background in interplanetary
 will resemble the default UQM style arrangement
 
-#(CAT_63_OPT_3_DESC)
+#(CAT_62_OPT_3_DESC)
 Generated star background in interplanetary
 will resemble the default HD-mod style arrangement
 
-#(CAT_64_OPTS)
+#(CAT_63_OPTS)
 PC
 3DO
 
-#(CAT_64_OPT_0_DESC)
+#(CAT_63_OPT_0_DESC)
 Scan is static and objects pop-up in random order
 resembling the PC version.
 
-#(CAT_64_OPT_1_DESC)
+#(CAT_63_OPT_1_DESC)
 Scan sweeps down the map revealing objects in order
 resembling the 3DO version.
 
-#(CAT_65_OPTS)
+#(CAT_64_OPTS)
 Disabled
 Enabled
 
-#(CAT_65_OPT_0_DESC)
+#(CAT_64_OPT_0_DESC)
 Oscilloscope display shows either the current alien speech or music
 Depending on if Speech is enabled or not.
 
-#(CAT_65_OPT_1_DESC)
+#(CAT_64_OPT_1_DESC)
 Oscilloscope display switches over to music when alien stops talking.
 When Speech is enabled.
 
-#(CAT_66_OPTS)
+#(CAT_65_OPTS)
 PC
 3DO
 
-#(CAT_66_OPT_0_DESC)
+#(CAT_65_OPT_0_DESC)
 Oscilloscope display resembles the PC version
 
-#(CAT_66_OPT_1_DESC)
+#(CAT_65_OPT_1_DESC)
 Oscilloscope display resembles the 3DO version
 
-#(CAT_67_OPTS)
+#(CAT_66_OPTS)
 Static
 Animated
 
-#(CAT_67_OPT_0_DESC)
+#(CAT_66_OPT_0_DESC)
 HD HyperSpace stars, gravity wells, QuasiSpace portals
 and Solar System Suns faithfully resemble their Vanilla counterparts
 but are not animated.
 
-#(CAT_67_OPT_1_DESC)
+#(CAT_66_OPT_1_DESC)
 HD HyperSpace stars, gravity wells, QuasiSpace portals
 and Solar System Suns are animated.
 
-#(CAT_68_OPTS)
+#(CAT_67_OPTS)
 PC
 3DO
 
-#(CAT_68_OPT_0_DESC)
+#(CAT_67_OPT_0_DESC)
 Lander view will show at the bottom-right portion of the screen
 with lander details to the left of the planet map.
 Mimicking the PC version.
 
-#(CAT_68_OPT_1_DESC)
+#(CAT_67_OPT_1_DESC)
 Lander view will show in the area above the planet map
 with lander details at the bottom-right of the screen.
 Mimicking the 3DO version.
 
-#(CAT_69_OPTS)
+#(CAT_68_OPTS)
 3DO
 UQM
 
-#(CAT_69_OPT_0_DESC)
+#(CAT_68_OPT_0_DESC)
 Planet textures, mineral, and energy placements on the scan screen
 will resemble the 3DO version.
 &!This option is superceded by Custom Seed
 
-#(CAT_69_OPT_1_DESC)
+#(CAT_68_OPT_1_DESC)
 Planet textures, mineral, and energy placements on the scan screen
 will resemble the UQM version.
 &!This option is superceded by Custom Seed
 
-#(CAT_70_OPTS)
+#(CAT_69_OPTS)
 Green Engine
 Red Engine
 
-#(CAT_70_OPT_0_DESC)
+#(CAT_69_OPT_0_DESC)
 The Flagship's engine will be green as per the PC version.
 
-#(CAT_70_OPT_1_DESC)
+#(CAT_69_OPT_1_DESC)
 The Flagship's engine will be red as per the 3DO version.
 
-#(CAT_71_OPTS)
+#(CAT_70_OPTS)
+Disabled
+Enabled
+
+#(CAT_70_OPT_0_DESC)
+You will not encounter any alien races in HyperSpace.
+
+#(CAT_70_OPT_1_DESC)
+You will not encounter any alien races in HyperSpace.
+
+#(CAT_70_OPTS)
 Disabled
 Enabled
 
 #(CAT_71_OPT_0_DESC)
-You will not encounter any alien races in HyperSpace.
+Kohr-Ah Death March starts 100 years from 2155.
+Does not work after the Death March has started.
+Use Kohr-Stahp instead for the scenario.
 
 #(CAT_71_OPT_1_DESC)
-You will not encounter any alien races in HyperSpace.
+Kohr-Ah Death March starts 100 years from 2155.
+Does not work after the Death March has started.
+Use Kohr-Stahp instead for the scenario.
 
 #(CAT_72_OPTS)
 Disabled
 Enabled
 
 #(CAT_72_OPT_0_DESC)
-Kohr-Ah Death March starts 100 years from 2155.
-Does not work after the Death March has started.
-Use Kohr-Stahp instead for the scenario.
+No planets or asteroids in Super Melee.
+
+&!Local play only.
 
 #(CAT_72_OPT_1_DESC)
-Kohr-Ah Death March starts 100 years from 2155.
-Does not work after the Death March has started.
-Use Kohr-Stahp instead for the scenario.
+No planets or asteroids in Super Melee.
+
+&!Local play only.
 
 #(CAT_73_OPTS)
 Disabled
 Enabled
 
 #(CAT_73_OPT_0_DESC)
-No planets or asteroids in Super Melee.
-
-&!Local play only.
+Visited stars will be dimmed on the StarMap
+and their names will be inside parenthesis
+when you hover over them with the StarMap cursor.
 
 #(CAT_73_OPT_1_DESC)
-No planets or asteroids in Super Melee.
-
-&!Local play only.
+Visited stars will be dimmed on the StarMap
+and their names will be inside parenthesis
+when you hover over them with the StarMap cursor.
 
 #(CAT_74_OPTS)
 Disabled
 Enabled
 
 #(CAT_74_OPT_0_DESC)
-Visited stars will be dimmed on the StarMap
-and their names will be inside parenthesis
-when you hover over them with the StarMap cursor.
-
-#(CAT_74_OPT_1_DESC)
-Visited stars will be dimmed on the StarMap
-and their names will be inside parenthesis
-when you hover over them with the StarMap cursor.
-
-#(CAT_75_OPTS)
-Disabled
-Enabled
-
-#(CAT_75_OPT_0_DESC)
 Star System view will have orbit dots and stars
 to proper 4x scale of the original.
 Mimicking the original look, but in HD.
 
-#(CAT_75_OPT_1_DESC)
+#(CAT_74_OPT_1_DESC)
 Star System view will have unscaled orbit dots
 and stars, mimicking the look of Team 6014's
 HD-mod Beta released in 2012.
 
-#(CAT_76_OPTS)
+#(CAT_75_OPTS)
 PC
 3DO
 UQM
 
-#(CAT_76_OPT_0_DESC)
+#(CAT_75_OPT_0_DESC)
 Scan Sphere resembles the DOS style
 
-#(CAT_76_OPT_1_DESC)
+#(CAT_75_OPT_1_DESC)
 Scan Sphere resembles the 3DO style
 
-#(CAT_76_OPT_2_DESC)
+#(CAT_75_OPT_2_DESC)
 Scan Sphere resembles the UQM style
+
+#(CAT_76_OPTS)
+Disabled
+Enabled
+
+#(CAT_76_OPT_0_DESC)
+Enables the ability to affect select alien race's Sphere of Influence
+by destroying their ships in battle.
+&!WARNING: Affected SOI persists in saved games even when disabled
+
+#(CAT_76_OPT_1_DESC)
+Enables the ability to affect select alien race's Sphere of Influence
+by destroying their ships in battle.
+&!WARNING: Affected SOI persists in saved games even when disabled
 
 #(CAT_77_OPTS)
 Disabled
 Enabled
 
 #(CAT_77_OPT_0_DESC)
-Enables the ability to affect select alien race's Sphere of Influence
-by destroying their ships in battle.
-&!WARNING: Affected SOI persists in saved games even when disabled
+Advanced Auto-Pilot finds the cheapest route through HyperSpace or 
+QuasiSpace and pilots the ship for you on that route.
 
 #(CAT_77_OPT_1_DESC)
-Enables the ability to affect select alien race's Sphere of Influence
-by destroying their ships in battle.
-&!WARNING: Affected SOI persists in saved games even when disabled
+Advanced Auto-Pilot finds the cheapest route through HyperSpace or 
+QuasiSpace and pilots the ship for you on that route.
 
 #(CAT_78_OPTS)
 Disabled
 Enabled
 
 #(CAT_78_OPT_0_DESC)
-Advanced Auto-Pilot finds the cheapest route through HyperSpace or 
-QuasiSpace and pilots the ship for you on that route.
+Show Star Control 1-styled short ship descriptions at the bottom of
+the main Super-Melee menu while picking a ship for your fleet.
 
 #(CAT_78_OPT_1_DESC)
-Advanced Auto-Pilot finds the cheapest route through HyperSpace or 
-QuasiSpace and pilots the ship for you on that route.
+Show Star Control 1-styled short ship descriptions at the bottom of
+the main Super-Melee menu while picking a ship for your fleet.
 
 #(CAT_79_OPTS)
-Disabled
-Enabled
-
-#(CAT_79_OPT_0_DESC)
-Show Star Control 1-styled short ship descriptions at the bottom of
-the main Super-Melee menu while picking a ship for your fleet.
-
-#(CAT_79_OPT_1_DESC)
-Show Star Control 1-styled short ship descriptions at the bottom of
-the main Super-Melee menu while picking a ship for your fleet.
-
-#(CAT_80_OPTS)
 Disabled
 5 Minutes
 Indefinite
 
-#(CAT_80_OPT_0_DESC)
+#(CAT_79_OPT_0_DESC)
 Music Resume is disabled
 
-#(CAT_80_OPT_1_DESC)
+#(CAT_79_OPT_1_DESC)
 Resumes the music in UQM from where it last left off.
 But with a 5 minute timer that resets individual tracks back to their
 beginning if not heard within the alotted time.
 
-#(CAT_80_OPT_1_DESC)
+#(CAT_79_OPT_1_DESC)
 Resumes the music in UQM from where it last left off.
 But with no timer that resets music back to beginning after 
 a period of time.
 
-#(CAT_81_OPTS)
+#(CAT_80_OPTS)
 DOS
 3DO
 UQM
 
-#(CAT_81_OPT_0_DESC)
+#(CAT_80_OPT_0_DESC)
 Changes the UI scaling to present a faithful DOS look and feel.
 Fits in a 16:10 aspect ratio.
 &!Disables many features that are incompatible while enabled
 
-#(CAT_81_OPT_1_DESC)
+#(CAT_80_OPT_1_DESC)
 Enables border padding on all sides of the window for an ultra
 faithful 3DO presentation. Fits in a 4:3 aspect ratio.
 &!Disables many features that are incompatible while enabled
 
-#(CAT_81_OPT_2_DESC)
+#(CAT_80_OPT_2_DESC)
 The default UQM presentation.
 Fits in a 4:3 aspect ratio.
 
-#(CAT_82_OPTS)
+#(CAT_81_OPTS)
 Prime
 Planets
 MRQ
 Starseed
 
-#(CAT_82_OPT_0_DESC)
+#(CAT_81_OPT_0_DESC)
 Original game, as written by the glorious founders. (Default)
 
-#(CAT_82_OPT_1_DESC)
+#(CAT_81_OPT_1_DESC)
 Seed the generation of planetary resources and solar systems.
 
-#(CAT_82_OPT_2_DESC)
+#(CAT_81_OPT_2_DESC)
 Seed the locations of Melnorme Traders,
 Rainbow Worlds, and Quasispace Portals,
 and the generation of planetary resources and solar systems.
 
-#(CAT_82_OPT_3_DESC)
+#(CAT_81_OPT_3_DESC)
 Seed the locations of all plot events into the starmap
 including homeworlds, fleet locations, dialog, and artifacts
 as well as planetary resources and Quasispace.
 
-#(CAT_83_OPTS)
+#(CAT_82_OPTS)
 Default
 Custom
 
-#(CAT_83_OPT_0_DESC)
+#(CAT_82_OPT_0_DESC)
 Default colors for alien spheres of influence. (Default)
 
-#(CAT_83_OPT_1_DESC)
+#(CAT_82_OPT_1_DESC)
 Custom distinct colors for alien spheres of influence.
+
+#(CAT_83_OPTS)
+Disabled
+Enabled
+
+#(CAT_83_OPT_0_DESC)
+Scatter a percentage of the elements in the lander's
+cargo hold onto the planet's surface when the lander explodes
+
+#(CAT_83_OPT_1_DESC)
+Scatter a percentage of the elements in the lander's
+cargo hold onto the planet's surface when the lander explodes
 
 #(CAT_84_OPTS)
 Disabled
 Enabled
 
 #(CAT_84_OPT_0_DESC)
-Scatter a percentage of the elements in the lander's
-cargo hold onto the planet's surface when the lander explodes
+Show Lander upgrade graphics when exploring a planet.
 
 #(CAT_84_OPT_1_DESC)
-Scatter a percentage of the elements in the lander's
-cargo hold onto the planet's surface when the lander explodes
+Show Lander upgrade graphics when exploring a planet.
 
 #(CAT_85_OPTS)
 Disabled
 Enabled
 
 #(CAT_85_OPT_0_DESC)
-Show Lander upgrade graphics when exploring a planet.
+Limits the amount of ships in your fleet based on melee values.
+Max points equals 60 (Easy 90, Hard 30) plus additional points
+equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
 
 #(CAT_85_OPT_1_DESC)
-Show Lander upgrade graphics when exploring a planet.
+Limits the amount of ships in your fleet based on melee values.
+Max points equals 60 (Easy 90, Hard 30) plus additional points
+equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
 
 #(CAT_86_OPTS)
-Disabled
-Enabled
+Do Nothing
+Remove Device
+Add Device
 
 #(CAT_86_OPT_0_DESC)
-Limits the amount of ships in your fleet based on melee values.
-Max points equals 60 (Easy 90, Hard 30) plus additional points
-equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
 
 #(CAT_86_OPT_1_DESC)
-Limits the amount of ships in your fleet based on melee values.
-Max points equals 60 (Easy 90, Hard 30) plus additional points
-equal to 2x each allied race's ship value (Easy 3x, Hard 1x).
+
+#(CAT_86_OPT_2_DESC)
 
 #(CAT_87_OPTS)
 Do Nothing
@@ -1746,8 +1738,8 @@ Add Device
 
 #(CAT_111_OPTS)
 Do Nothing
-Remove Device
-Add Device
+Remove Upgrade
+Add Upgrade
 
 #(CAT_111_OPT_0_DESC)
 
@@ -1888,26 +1880,25 @@ Add Upgrade
 #(CAT_123_OPT_2_DESC)
 
 #(CAT_124_OPTS)
-Do Nothing
-Remove Upgrade
-Add Upgrade
+Disabled
+Enabled
 
 #(CAT_124_OPT_0_DESC)
+Alien races fly their normal ships.
 
 #(CAT_124_OPT_1_DESC)
-
-#(CAT_124_OPT_2_DESC)
+Aliens are assigned ships from three classes of ships
+based on the custom seed.
 
 #(CAT_125_OPTS)
 Disabled
 Enabled
 
 #(CAT_125_OPT_0_DESC)
-Alien races fly their normal ships.
 
 #(CAT_125_OPT_1_DESC)
-Aliens are assigned ships from three classes of ships
-based on the custom seed.
+Ships can be stored at starbase and retrieved later, and gift ships
+are sent directly to starbase when they can't join the flagship.
 
 #(CAT_126_OPTS)
 Disabled
@@ -1916,27 +1907,17 @@ Enabled
 #(CAT_126_OPT_0_DESC)
 
 #(CAT_126_OPT_1_DESC)
-Ships can be stored at starbase and retrieved later, and gift ships
-are sent directly to starbase when they can't join the flagship.
+Captain names are displayed above ships in the shipyard.
 
 #(CAT_127_OPTS)
 Disabled
 Enabled
 
 #(CAT_127_OPT_0_DESC)
-
-#(CAT_127_OPT_1_DESC)
-Captain names are displayed above ships in the shipyard.
-
-#(CAT_128_OPTS)
-Disabled
-Enabled
-
-#(CAT_128_OPT_0_DESC)
 SIS display window is replaced by side menu window
 during shipyard purchases only on DOS platform (default).
 
-#(CAT_128_OPT_1_DESC)
+#(CAT_127_OPT_1_DESC)
 SIS display window is replaced by DOS-style side menu window
 during shipyard purchases on all platforms.
 
@@ -1946,6 +1927,7 @@ SFX Volume
 Speech Volume
 Gamma Correction
 Nebulae Brightness
+Time Dilation
 
 #(SLIDER_0_DESC)
 Sets the music volume.
@@ -1963,6 +1945,11 @@ May not work on all hardware.
 #(SLIDER_4_DESC)
 Sets the nebulae brightness when nebulae are enabled.
 Default value is: 16
+
+#(SLIDER_5_DESC)
+Sets the rate at which time passes.
+Default value is: 100%
+
 
 #(BUTTONS)
 Quit Setup
