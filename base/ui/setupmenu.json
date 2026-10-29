@@ -2,6 +2,138 @@
   "version": 1,
   "menus": [
     {
+      "id": "audio",
+      "subtitle": "Sound Options",
+      "background": 2,
+      "items": [
+        {
+          "slider": "audio.musicVolume",
+          "label": "Music Volume",
+          "min": 0,
+          "max": 100,
+          "step": 5,
+          "scale": 100,
+          "tooltip": [
+            "Sets the music volume."
+          ]
+        },
+        {
+          "slider": "audio.sfxVolume",
+          "label": "SFX Volume",
+          "min": 0,
+          "max": 100,
+          "step": 5,
+          "scale": 100,
+          "tooltip": [
+            "Sets the sound effects volume."
+          ]
+        },
+        {
+          "slider": "audio.speechVolume",
+          "label": "Speech Volume",
+          "min": 0,
+          "max": 100,
+          "step": 5,
+          "scale": 100,
+          "tooltip": [
+            "Sets the speech volume."
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "choice": "audio.positionalSfx",
+          "label": "Positional Audio",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Sound effects are center-channel.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Uses positional SFX if possible.",
+                "Currently only supported on OpenAL.",
+                "&!UQM will reload when changed."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.driver",
+          "label": "Sound Driver",
+          "options": [
+            {
+              "value": "NoSound",
+              "label": "None",
+              "tooltip": [
+                "Play silently.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "MixSDL",
+              "label": "MixSDL",
+              "tooltip": [
+                "Use the default audio mixer.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "OpenAL",
+              "label": "OpenAL",
+              "tooltip": [
+                "Use the Creative Labs OpenAL driver.",
+                "&!UQM will reload when changed."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.quality",
+          "label": "Sound Quality",
+          "options": [
+            {
+              "value": "Low",
+              "label": "Low",
+              "tooltip": [
+                "Low audio quality.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "Medium",
+              "label": "Medium",
+              "tooltip": [
+                "Medium audio quality.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "High",
+              "label": "High",
+              "tooltip": [
+                "Highest audio quality.",
+                "&!UQM will reload when changed."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "cheats",
       "subtitle": "Cheat Options",
       "background": 4,
