@@ -2,6 +2,670 @@
   "version": 1,
   "menus": [
     {
+      "id": "music",
+      "subtitle": "Music Options",
+      "background": 8,
+      "items": [
+        {
+          "choice": "audio.music3do",
+          "label": "3DO Remixes",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Uses the music from the Original PC version.",
+                "Can still be overriden by addon packs.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Overrides PC soundtrack with 3DO music.",
+                "Can be further overridden by addon packs.",
+                "&!UQM will reload when changed."
+              ],
+              "requiresAddon": [
+                "3domusic"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.musicRemix",
+          "label": "Precursor's Remixes",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Do not load the Precursors Remix Pack.",
+                "",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Overrides PC or 3DO soundtrack with the",
+                "modern soundtrack written by The Precursors.",
+                "&!UQM will reload when changed."
+              ],
+              "requiresAddon": [
+                "remix"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.musicVolasaurus",
+          "label": "Volasaurus' Remixes",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "A complete set of remixes made by Volasaurus.",
+                "Overrides the PC, 3DO, or Precursors soundtrack",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "A complete set of remixes made by Volasaurus.",
+                "Overrides the PC, 3DO, or Precursors soundtrack",
+                "&!UQM will reload when changed."
+              ],
+              "requiresAddon": [
+                "volasaurus-remix-pack"
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "choice": "audio.spaceMusic",
+          "label": "Interplanetary Alien Ambience",
+          "options": [
+            {
+              "value": "None",
+              "label": "Disabled",
+              "tooltip": [
+                "Music that plays when you are in a star system",
+                "within an alien race's Sphere of Influence"
+              ]
+            },
+            {
+              "value": "RaceAfterDiscovery",
+              "label": "No Spoilers",
+              "tooltip": [
+                "Music that plays when you are in a star system",
+                "within an alien race's Sphere of Influence but",
+                "only after you discover the alien race"
+              ],
+              "requiresAddon": [
+                "volasaurus-remix-pack",
+                "SpaceMusic"
+              ]
+            },
+            {
+              "value": "RaceBeforeDiscovery",
+              "label": "Spoilers",
+              "tooltip": [
+                "Music that plays when you are in a star system",
+                "within an alien race's Sphere of Influence regardless",
+                "if you've ever met them or not"
+              ],
+              "requiresAddon": [
+                "volasaurus-remix-pack",
+                "SpaceMusic"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.mainMenuMusic",
+          "label": "Menu Music",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Plays music in the Main Menu, Setup Menu, and the",
+                "Super Melee menu."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Plays music in the Main Menu, Setup Menu, and the",
+                "Super Melee menu."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.musicResume",
+          "label": "Music Resume",
+          "options": [
+            {
+              "value": "0",
+              "label": "Disabled",
+              "tooltip": [
+                "Music Resume is disabled"
+              ]
+            },
+            {
+              "value": "1",
+              "label": "5 Minutes",
+              "tooltip": [
+                "Resumes the music in UQM from where it last left off.",
+                "But with a 5 minute timer that resets individual tracks back to their",
+                "beginning if not heard within the alotted time."
+              ]
+            },
+            {
+              "value": "2",
+              "label": "Indefinite",
+              "tooltip": [
+                "Resumes the music in UQM from where it last left off.",
+                "But with no timer that resets music back to beginning after ",
+                "a period of time."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
+      "id": "visual",
+      "subtitle": "Visual Options",
+      "background": 9,
+      "items": [
+        {
+          "heading": [
+            "&_User Interface Options"
+          ]
+        },
+        {
+          "choice": "interface.dateFormat",
+          "label": "Date Format",
+          "options": [
+            {
+              "value": "MMM_dd_yyyy",
+              "label": "Original (MMM DD·YYYY)",
+              "tooltip": [
+                "Shows the date as follows: ",
+                "",
+                "FEB 17·2155"
+              ]
+            },
+            {
+              "value": "MM_dd_yyyy",
+              "label": "MM·DD·YYYY",
+              "tooltip": [
+                "Shows the date as follows: ",
+                "",
+                "02·17·2155"
+              ]
+            },
+            {
+              "value": "dd_MMM_yyyy",
+              "label": "DD MMM·YYYY",
+              "tooltip": [
+                "Shows the date as follows: ",
+                "",
+                "17 FEB·2155"
+              ]
+            },
+            {
+              "value": "dd_MM_yyyy",
+              "label": "DD·MM·YYYY",
+              "tooltip": [
+                "Shows the date as follows: ",
+                "",
+                "17·02·2155"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "graphics.customBorder",
+          "label": "Custom Border",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "An alternative UI inspired by Clay's \"SC2 Redo\" concept art"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "An alternative UI inspired by Clay's \"SC2 Redo\" concept art"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.wholeFuel",
+          "label": "Show Whole Fuel Value",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Displays the entire FUEL value as a decimal."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Displays the entire FUEL value as a decimal."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.fuelRange",
+          "label": "Fuel Range Indicators",
+          "options": [
+            {
+              "value": "Normal",
+              "label": "No Extra Indicators",
+              "tooltip": [
+                "Just the single basic fuel range indicator."
+              ]
+            },
+            {
+              "value": "FuelAtDestination",
+              "label": "Fuel Range at Destination",
+              "tooltip": [
+                "Shows an extra fuel circle that depicts the remaining amount",
+                "of fuel you'll have at your destination",
+                "(Indicated by a dotted light gray circle)"
+              ]
+            },
+            {
+              "value": "FuelToSol",
+              "label": "Fuel Range to Sol",
+              "tooltip": [
+                "Shows an extra fuel ellipse that depicts the point of",
+                "no return for traveling back to Sol.",
+                "(Indicated by a filled in, lighter grey ellipse)"
+              ]
+            },
+            {
+              "value": "All",
+              "label": "All Range Indicators Enabled",
+              "tooltip": [
+                "Shows both the fuel range at the intended destination",
+                "and the point of no return ellipse for Sol"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.sphereColors",
+          "label": "Sphere Colors",
+          "options": [
+            {
+              "value": "Default",
+              "label": "Default",
+              "tooltip": [
+                "Default colors for alien spheres of influence. (Default)"
+              ]
+            },
+            {
+              "value": "Starseed",
+              "label": "Custom",
+              "tooltip": [
+                "Custom distinct colors for alien spheres of influence."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.hyperStars",
+          "label": "HD Animations",
+          "options": [
+            {
+              "value": "false",
+              "label": "Static",
+              "tooltip": [
+                "HD HyperSpace stars, gravity wells, QuasiSpace portals",
+                "and Solar System Suns faithfully resemble their Vanilla counterparts",
+                "but are not animated."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Animated",
+              "tooltip": [
+                "HD HyperSpace stars, gravity wells, QuasiSpace portals",
+                "and Solar System Suns are animated."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.captainNames",
+          "label": "Shipyard Captain Names",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": []
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Captain names are displayed above ships in the shipyard."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.gameOver",
+          "label": "Game Over Cutscenes",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "A set of cinematic slides for various game over sequences."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "A set of cinematic slides for various game over sequences."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "&_Conversation Screen Options"
+          ]
+        },
+        {
+          "choice": "visuals.orzCompFont",
+          "label": "Alternate Orz Font",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Enables an alternative font for the ",
+                "*untranslatable* portion of The Orz speech"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Enables an alternative font for the ",
+                "*untranslatable* portion of The Orz speech"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.nonStopOscilloscope",
+          "label": "Non-Stop Oscilloscope",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Oscilloscope display shows either the current alien speech or music",
+                "Depending on if Speech is enabled or not."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Oscilloscope display switches over to music when alien stops talking.",
+                "When Speech is enabled."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "&_Star System View Options"
+          ]
+        },
+        {
+          "choice": "visuals.nebulae",
+          "label": "Show Nebulae",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "When enabled this option shows nebulous clouds",
+                "in the background of star systems."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "When enabled this option shows nebulous clouds",
+                "in the background of star systems."
+              ]
+            }
+          ]
+        },
+        {
+          "slider": "visuals.nebulaeVolume",
+          "label": "Nebulae Brightness",
+          "min": 0,
+          "max": 50,
+          "step": 1,
+          "tooltip": [
+            "Sets the nebulae brightness when nebulae are enabled.",
+            "Default value is: 16"
+          ]
+        },
+        {
+          "choice": "visuals.orbitingPlanets",
+          "label": "Orbiting Planets",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "When enabled the planets and moons will move about",
+                "their respective orbits over time."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "When enabled the planets and moons will move about",
+                "their respective orbits over time."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.texturedPlanets",
+          "label": "Textured Planets",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "When enabled planets will be shown fully textured"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Display beautiful textured planets in star systems."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.unscaledStarSystem",
+          "label": "Unscaled View (HD)",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Star System view will have orbit dots and stars",
+                "to proper 4x scale of the original.",
+                "Mimicking the original look, but in HD."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Star System view will have unscaled orbit dots",
+                "and stars, mimicking the look of Team 6014's",
+                "HD-mod Beta released in 2012."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.shipDirectionIP",
+          "label": "NPC Ship Orientation",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "NPC ship icons will face the direction they're",
+                "traveling while in Interplanetary view.",
+                "Also the mysterious Probes you may encounter will `tumble'"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "NPC ship icons will face the direction they're",
+                "traveling while in Interplanetary view.",
+                "Also the mysterious Probes you may encounter will `tumble'"
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "&_Orbit Screen Options"
+          ]
+        },
+        {
+          "choice": "visuals.hazardColors",
+          "label": "Hazard Colors",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Colored text for temperature, weather, and tectonic hazards ",
+                "when viewing planetary scans based on severity."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Colored text for temperature, weather, and tectonic hazards ",
+                "when viewing planetary scans based on severity."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.planetTexture",
+          "label": "Planet Map Textures",
+          "options": [
+            {
+              "value": "false",
+              "label": "3DO",
+              "tooltip": [
+                "Planet textures, mineral, and energy placements on the scan screen",
+                "will resemble the 3DO version.",
+                "&!This option is superceded by Custom Seed"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "UQM",
+              "tooltip": [
+                "Planet textures, mineral, and energy placements on the scan screen",
+                "will resemble the UQM version.",
+                "&!This option is superceded by Custom Seed"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.showUpgrades",
+          "label": "Show Lander Upgrades",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Show Lander upgrade graphics when exploring a planet."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Show Lander upgrade graphics when exploring a planet."
+              ]
+            }
+          ]
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "qol",
       "subtitle": "Quality of Life Options",
       "background": 10,
