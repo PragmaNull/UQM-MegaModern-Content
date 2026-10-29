@@ -1000,7 +1000,44 @@
           ]
         },
         {
-          "legacy": "coarseScan"
+          "choice": "visuals.coarseScanStyle",
+          "label": "Stats Display",
+          "options": [
+            {
+              "value": "Text",
+              "label": "Text",
+              "tooltip": [
+                "Displays planet scan information as text,",
+                "as per the original PC version."
+              ]
+            },
+            {
+              "value": "Pictograms",
+              "label": "Pictograms",
+              "tooltip": [
+                "Displays planet scan information as pictograms,",
+                "as per the 3DO version."
+              ]
+            },
+            {
+              "value": "P6014Text",
+              "label": "P6014 Text",
+              "tooltip": [
+                "Displays planet scan information as text,",
+                "as per the PC version, but uses colours from Project 6014.",
+                "Easier to read."
+              ]
+            },
+            {
+              "value": "P6014Pictograms",
+              "label": "P6014 Pictograms",
+              "tooltip": [
+                "Displays planet scan information as pictograms,",
+                "as per the 3DO version, but uses colours from Project 6014.",
+                "Easier to read."
+              ]
+            }
+          ]
         },
         {
           "choice": "visuals.shieldStyle",
