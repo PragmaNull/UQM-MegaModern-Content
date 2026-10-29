@@ -2,6 +2,88 @@
   "version": 1,
   "menus": [
     {
+      "id": "main",
+      "subtitle": "",
+      "background": 0,
+      "items": [
+        {
+          "menu": "graphics",
+          "label": "Graphics",
+          "tooltip": [
+            "Configure display options for UQM.",
+            "Graphics drivers, resolution, and scalers."
+          ]
+        },
+        {
+          "menu": "engine",
+          "label": "PC / 3DO",
+          "tooltip": [
+            "Configure the behavior of UQM",
+            "to more closely match the PC or 3DO behavior."
+          ]
+        },
+        {
+          "menu": "visual",
+          "label": "Visuals",
+          "tooltip": [
+            "Configure the look and feel of the MegaMod."
+          ]
+        },
+        {
+          "menu": "audio",
+          "label": "Sound",
+          "tooltip": [
+            "Configure sound and audio options for UQM."
+          ]
+        },
+        {
+          "menu": "music",
+          "label": "Music",
+          "tooltip": [
+            "Configure music options for UQM."
+          ]
+        },
+        {
+          "menu": "controls",
+          "label": "Controls",
+          "tooltip": [
+            "Set up keyboard and joystick controls.",
+            "",
+            "Currently partially implemented."
+          ]
+        },
+        {
+          "menu": "qol",
+          "label": "Quality of Life",
+          "tooltip": [
+            "Configure the Quality of Life additions in MegaMod."
+          ]
+        },
+        {
+          "menu": "advanced",
+          "label": "Advanced",
+          "tooltip": [
+            "Options that can't be categorized anywhere else.",
+            "These options can affect the look, feel, and gameplay"
+          ]
+        },
+        {
+          "menu": "cheats",
+          "label": "Cheats",
+          "tooltip": [
+            "Some cheats are not meant for new players, please review the",
+            "descriptions to determine if they are appropriate for you."
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "exit": true
+        }
+      ]
+    },
+    {
       "id": "controls",
       "subtitle": "Control Options",
       "background": 5,
@@ -163,7 +245,11 @@
           ]
         },
         {
-          "legacy": "editKeysMenu"
+          "menu": "editkeys",
+          "label": "Edit Controls",
+          "tooltip": [
+            "Edit key control sets."
+          ]
         },
         {
           "spacer": true
@@ -311,10 +397,18 @@
       "background": 4,
       "items": [
         {
-          "legacy": "devicesMenu"
+          "menu": "devices",
+          "label": "Devices",
+          "tooltip": [
+            "Add and/or Remove devices from a New or Loaded game."
+          ]
         },
         {
-          "legacy": "upgradesMenu"
+          "menu": "upgrades",
+          "label": "Upgrades",
+          "tooltip": [
+            "Add and/or Remove upgrades from a New or Loaded game."
+          ]
         },
         {
           "choice": "cheats.kohrAhStop",
