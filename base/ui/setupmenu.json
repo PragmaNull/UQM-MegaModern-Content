@@ -642,7 +642,42 @@
           "spacer": true
         },
         {
-          "legacy": "seedType"
+          "choice": "seed.type",
+          "label": "Starmap Seeding",
+          "options": [
+            {
+              "value": "None",
+              "label": "Prime",
+              "tooltip": [
+                "Original game, as written by the glorious founders. (Default)"
+              ]
+            },
+            {
+              "value": "Planet",
+              "label": "Planets",
+              "tooltip": [
+                "Seed the generation of planetary resources and solar systems."
+              ]
+            },
+            {
+              "value": "MRQ",
+              "label": "MRQ",
+              "tooltip": [
+                "Seed the locations of Melnorme Traders,",
+                "Rainbow Worlds, and Quasispace Portals,",
+                "and the generation of planetary resources and solar systems."
+              ]
+            },
+            {
+              "value": "Prime",
+              "label": "Starseed",
+              "tooltip": [
+                "Seed the locations of all plot events into the starmap",
+                "including homeworlds, fleet locations, dialog, and artifacts",
+                "as well as planetary resources and Quasispace."
+              ]
+            }
+          ]
         },
         {
           "choice": "seed.ships",
@@ -666,7 +701,13 @@
           ]
         },
         {
-          "legacy": "customSeed"
+          "text": "seed.value",
+          "label": "Custom Seed",
+          "tooltip": [
+            "Change the seed for random planet generation.",
+            "Only works for New Games.",
+            "Default value is: 16807"
+          ]
         },
         {
           "spacer": true
