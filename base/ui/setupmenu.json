@@ -2,6 +2,191 @@
   "version": 1,
   "menus": [
     {
+      "id": "advanced",
+      "subtitle": "Advanced Options",
+      "background": 6,
+      "items": [
+        {
+          "choice": "gameplay.difficulty",
+          "label": "Difficulty",
+          "options": [
+            {
+              "value": "Normal",
+              "label": "Original",
+              "tooltip": [
+                "Vanilla difficulty as it was originally intended."
+              ]
+            },
+            {
+              "value": "Easy",
+              "label": "Easy",
+              "tooltip": [
+                "Various changes to make UQM gameplay easier."
+              ]
+            },
+            {
+              "value": "Hard",
+              "label": "Hard",
+              "tooltip": [
+                "&!FOR VETERANS ONLY! NOT FOR BEGINNERS!",
+                "A multitude of changes to make gameplay much",
+                "harder for the veteran UQM player."
+              ]
+            },
+            {
+              "value": "ChooseYourOwn",
+              "label": "Choose At Start",
+              "tooltip": [
+                "Choose the difficulty you want when you start",
+                "a new game from the Main Menu."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.extended",
+          "label": "Extended Lore",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Extended Lore that expands upon the game's events.",
+                "Based upon Extended Mod made by 0xDEC0DE.",
+                "&!See the readme for a full list of additions."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Extended Lore that expands upon the game's events.",
+                "Based upon Extended Mod made by 0xDEC0DE.",
+                "&!See the readme for a full list of additions."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.nomad",
+          "label": "Nomad Mode",
+          "options": [
+            {
+              "value": "Off",
+              "label": "Disabled",
+              "tooltip": [
+                "&!FOR VETERANS ONLY! NOT FOR BEGINNERS!",
+                "A forced `No Starbase' mode for expert players ",
+                "who want the most extreme of challenges."
+              ]
+            },
+            {
+              "value": "Easy",
+              "label": "Easy",
+              "tooltip": [
+                "&!FOR VETERANS ONLY! NOT FOR BEGINNERS!",
+                "A forced `No Starbase' mode for expert players ",
+                "with a few conveniences to help out."
+              ]
+            },
+            {
+              "value": "Normal",
+              "label": "Normal",
+              "tooltip": [
+                "&!FOR VETERANS ONLY! NOT FOR BEGINNERS!",
+                "Basic and brutal `No Starbase' mode for expert players ",
+                "with no extra conveniences to help out."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.slaughterMode",
+          "label": "Slaughter Mode",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Enables the ability to affect select alien race's Sphere of Influence",
+                "by destroying their ships in battle.",
+                "&!WARNING: Affected SOI persists in saved games even when disabled"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Enables the ability to affect select alien race's Sphere of Influence",
+                "by destroying their ships in battle.",
+                "&!WARNING: Affected SOI persists in saved games even when disabled"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.fleetPointSystem",
+          "label": "Fleet Point System",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Limits the amount of ships in your fleet based on melee values.",
+                "Max points equals 60 (Easy 90, Hard 30) plus additional points",
+                "equal to 2x each allied race's ship value (Easy 3x, Hard 1x)."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Limits the amount of ships in your fleet based on melee values.",
+                "Max points equals 60 (Easy 90, Hard 30) plus additional points",
+                "equal to 2x each allied race's ship value (Easy 3x, Hard 1x)."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "legacy": "seedType"
+        },
+        {
+          "choice": "seed.ships",
+          "label": "Ship Seeding",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Alien races fly their normal ships."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Aliens are assigned ships from three classes of ships",
+                "based on the custom seed."
+              ]
+            }
+          ]
+        },
+        {
+          "legacy": "customSeed"
+        },
+        {
+          "spacer": true
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "engine",
       "subtitle": "PC/3DO Options",
       "background": 3,
