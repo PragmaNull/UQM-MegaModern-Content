@@ -1268,7 +1268,7 @@
           "label": "Platform UI",
           "options": [
             {
-              "value": "0",
+              "value": "DOS",
               "label": "DOS",
               "tooltip": [
                 "Changes the UI scaling to present a faithful DOS look and feel.",
@@ -1280,7 +1280,7 @@
               ]
             },
             {
-              "value": "1",
+              "value": "Console3DO",
               "label": "3DO",
               "tooltip": [
                 "Enables border padding on all sides of the window for an ultra",
@@ -1292,7 +1292,7 @@
               ]
             },
             {
-              "value": "2",
+              "value": "UQM",
               "label": "UQM",
               "tooltip": [
                 "The default UQM presentation.",
