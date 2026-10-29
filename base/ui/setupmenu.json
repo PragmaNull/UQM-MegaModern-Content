@@ -2,6 +2,74 @@
   "version": 1,
   "menus": [
     {
+      "id": "controls",
+      "subtitle": "Control Options",
+      "background": 5,
+      "items": [
+        {
+          "choice": "interface.controllerType",
+          "label": "Control Display",
+          "options": [
+            {
+              "value": "KeyboardMouse",
+              "label": "Keyboard",
+              "tooltip": [
+                "Show keyboard controls in the menu and UI.",
+                "",
+                "&!Remember to change the Bottom Player control layout accordingly."
+              ]
+            },
+            {
+              "value": "XBox",
+              "label": "Xbox",
+              "tooltip": [
+                "Show Xbox controls in the menu and UI.",
+                "",
+                "&!Remember to change the Bottom Player control layout accordingly."
+              ]
+            },
+            {
+              "value": "Playstation",
+              "label": "PlayStation 4",
+              "tooltip": [
+                "Show PlayStation 4 controls in the menu and UI.",
+                "",
+                "&!Remember to change the Bottom Player control layout accordingly."
+              ]
+            }
+          ]
+        },
+        {
+          "legacy": "player1Template"
+        },
+        {
+          "legacy": "player2Template"
+        },
+        {
+          "legacy": "directionalJoystick",
+          "optional": true
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "To view or edit key controls,",
+            "select the option below:"
+          ]
+        },
+        {
+          "legacy": "editKeysMenu"
+        },
+        {
+          "spacer": true
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "audio",
       "subtitle": "Sound Options",
       "background": 2,
