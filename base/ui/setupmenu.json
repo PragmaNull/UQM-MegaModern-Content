@@ -40,10 +40,114 @@
           ]
         },
         {
-          "legacy": "player1Template"
+          "choice": "controls.player1Template",
+          "label": "Bottom Player",
+          "labels": "controlTemplates",
+          "options": [
+            {
+              "value": "0",
+              "label": "Template 1",
+              "tooltip": [
+                "Controls the bottom player in Super",
+                "Melee, and the entire Full Game."
+              ]
+            },
+            {
+              "value": "1",
+              "label": "Template 2",
+              "tooltip": [
+                "Controls the bottom player in Super",
+                "Melee, and the entire Full Game."
+              ]
+            },
+            {
+              "value": "2",
+              "label": "Template 3",
+              "tooltip": [
+                "Controls the bottom player in Super",
+                "Melee, and the entire Full Game."
+              ]
+            },
+            {
+              "value": "3",
+              "label": "Template 4",
+              "tooltip": [
+                "Controls the bottom player in Super",
+                "Melee, and the entire Full Game."
+              ]
+            },
+            {
+              "value": "4",
+              "label": "Template 5",
+              "tooltip": [
+                "Controls the bottom player in Super",
+                "Melee, and the entire Full Game."
+              ]
+            },
+            {
+              "value": "5",
+              "label": "Template 6",
+              "tooltip": [
+                "Controls the bottom player in Super",
+                "Melee, and the entire Full Game."
+              ]
+            }
+          ]
         },
         {
-          "legacy": "player2Template"
+          "choice": "controls.player2Template",
+          "label": "Top Player",
+          "labels": "controlTemplates",
+          "options": [
+            {
+              "value": "0",
+              "label": "Template 1",
+              "tooltip": [
+                "Controls the top player",
+                "in Super Melee."
+              ]
+            },
+            {
+              "value": "1",
+              "label": "Template 2",
+              "tooltip": [
+                "Controls the top player",
+                "in Super Melee."
+              ]
+            },
+            {
+              "value": "2",
+              "label": "Template 3",
+              "tooltip": [
+                "Controls the top player",
+                "in Super Melee."
+              ]
+            },
+            {
+              "value": "3",
+              "label": "Template 4",
+              "tooltip": [
+                "Controls the top player",
+                "in Super Melee."
+              ]
+            },
+            {
+              "value": "4",
+              "label": "Template 5",
+              "tooltip": [
+                "Controls the top player",
+                "in Super Melee."
+              ]
+            },
+            {
+              "value": "5",
+              "label": "Template 6",
+              "tooltip": [
+                "Controls the top player",
+                "in Super Melee."
+              ]
+            }
+          ]
         },
         {
           "legacy": "directionalJoystick",
