@@ -1023,6 +1023,26 @@
           ]
         },
         {
+          "choice": "cheats.passiveEnemy",
+          "label": "Passive Enemy",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Computer-controlled enemy ships fight as usual."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Computer-controlled enemy ships do nothing in combat."
+              ]
+            }
+          ]
+        },
+        {
           "back": true
         }
       ]
