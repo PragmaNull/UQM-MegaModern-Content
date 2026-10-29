@@ -2,6 +2,296 @@
   "version": 1,
   "menus": [
     {
+      "id": "cheats",
+      "subtitle": "Cheat Options",
+      "background": 4,
+      "items": [
+        {
+          "legacy": "devicesMenu"
+        },
+        {
+          "legacy": "upgradesMenu"
+        },
+        {
+          "choice": "cheats.kohrAhStop",
+          "label": "Kohr-Stahp",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Stops the Kohr-Ah in their tracks, literally.",
+                "When enabled the Kohr-Ah SOI does not move.",
+                "Even when the time limit is reached."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Stops the Kohr-Ah in their tracks, literally.",
+                "When enabled the Kohr-Ah SOI does not move.",
+                "Even when the time limit is reached."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.deCleansing",
+          "label": "Kohr-Ah DeCleansing",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Kohr-Ah Death March starts 100 years from 2155.",
+                "Does not work after the Death March has started.",
+                "Use Kohr-Stahp instead for the scenario."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Kohr-Ah Death March starts 100 years from 2155.",
+                "Does not work after the Death March has started.",
+                "Use Kohr-Stahp instead for the scenario."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.godModes",
+          "label": "God Modes",
+          "options": [
+            {
+              "value": "None",
+              "label": "Disabled",
+              "tooltip": [
+                "No version of god mode is applied and you can come to harm"
+              ]
+            },
+            {
+              "value": "InfiniteBattery",
+              "label": "Infinite Energy",
+              "tooltip": [
+                "The player-piloted ship in Melee refills its energy when the",
+                "Weapon and/or Special buttons are pressed.",
+                "&!(Only functional against AI opponents and during the Story)"
+              ]
+            },
+            {
+              "value": "NoDamage",
+              "label": "Infinite Health",
+              "tooltip": [
+                "The player-piloted ship and lander can not come to any harm.",
+                "",
+                "&!(Only functional against AI opponents and during the Story)"
+              ]
+            },
+            {
+              "value": "All",
+              "label": "Full God Mode",
+              "tooltip": [
+                "Combination of Infinite Health and Infinite Energy giving you",
+                "full God Mode in and out of Melee.",
+                "&!(Only functional against AI opponents and during the Story)"
+              ]
+            }
+          ]
+        },
+        {
+          "slider": "cheats.timeDilation",
+          "label": "Time Dilation",
+          "min": 10,
+          "max": 1000,
+          "step": 10,
+          "percent": true,
+          "tooltip": [
+            "Sets the rate at which time passes.",
+            "Default value is: 100%"
+          ]
+        },
+        {
+          "choice": "cheats.bubbleWarp",
+          "label": "Bubble Warp",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Instantaneously warp to any spot on the Starmap.",
+                "Fuel will still be consumed as usual."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Instantaneously warp to any spot on the Starmap.",
+                "Fuel will still be consumed as usual."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.headStart",
+          "label": "Head Start",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Start with Fwiffo in your fleet, a single radioactive",
+                "in your Storage Bay, and the Moon Base already explored.",
+                "Allowing the StarBase to be unlocked quicker than usual."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Start with Fwiffo in your fleet, a single radioactive",
+                "in your Storage Bay, and the Moon Base already explored.",
+                "Allowing the StarBase to be unlocked quicker than usual."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.unlockShips",
+          "label": "Unlock Ships",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Unlock ships all ships not normally available to you in the story."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Unlock ships all ships not normally available to you in the story."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.infiniteRU",
+          "label": "Infinite R.U.",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Gives you virtually infinite R.U. in the story mode.",
+                "",
+                "Does not persist through game saves."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Gives you virtually infinite R.U. in the story mode.",
+                "",
+                "Does not persist through game saves."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.infiniteFuel",
+          "label": "Infinite Fuel",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Gives you virtually infinite fuel in the story mode."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Gives you virtually infinite fuel in the story mode."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.infiniteCredits",
+          "label": "Infinite Credits",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Gives you virtually infinite Melnorme Credits."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Gives you virtually infinite Melnorme Credits."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.noHQEncounters",
+          "label": "No HyperSpace Encounters",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "You will not encounter any alien races in HyperSpace."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "You will not encounter any alien races in HyperSpace."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "cheats.meleeObstacles",
+          "label": "No Melee Obstacles",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "No planets or asteroids in Super Melee.",
+                "",
+                "&!Local play only."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "No planets or asteroids in Super Melee.",
+                "",
+                "&!Local play only."
+              ]
+            }
+          ]
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "advanced",
       "subtitle": "Advanced Options",
       "background": 6,
