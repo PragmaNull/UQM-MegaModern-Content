@@ -2,6 +2,456 @@
   "version": 1,
   "menus": [
     {
+      "id": "engine",
+      "subtitle": "PC/3DO Options",
+      "background": 3,
+      "items": [
+        {
+          "heading": [
+            "&_User Interface Options"
+          ]
+        },
+        {
+          "legacy": "windowType"
+        },
+        {
+          "spacer": true
+        },
+        {
+          "choice": "interface.menuStyle",
+          "label": "Menu Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Text",
+              "tooltip": [
+                "In-game menus resemble the Original PC version."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Pictographic",
+              "tooltip": [
+                "In-game menus resemble the 3DO version."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.dosMenus",
+          "label": "DOS Side Menu",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "SIS display window is replaced by side menu window",
+                "during shipyard purchases only on DOS platform (default)."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "SIS display window is replaced by DOS-style side menu window",
+                "during shipyard purchases on all platforms."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.fontStyle",
+          "label": "Font Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Gradients",
+              "tooltip": [
+                "Certain menu texts and dialogs use gradients,",
+                "as per the original PC version.",
+                "Looks nicer."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Flat",
+              "tooltip": [
+                "All text and menus use a `flat' colour scheme as well as",
+                "the larger 3DO font, as per the 3DO version.",
+                "Easier to read."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.introStyle",
+          "label": "Cutscenes",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Slides",
+              "tooltip": [
+                "Prefer slides to movies if both are present.",
+                "Forces the PC intro."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Movie",
+              "tooltip": [
+                "Prefer movies to slides.",
+                "Will use 3DO content if present."
+              ]
+            }
+          ]
+        },
+        {
+          "legacy": "meleeZoom"
+        },
+        {
+          "choice": "visuals.flagshipColor",
+          "label": "Flagship Engine Color",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Green Engine",
+              "tooltip": [
+                "The Flagship's engine will be green as per the PC version."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Red Engine",
+              "tooltip": [
+                "The Flagship's engine will be red as per the 3DO version."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.screenTransition",
+          "label": "Screen Transitions",
+          "options": [
+            {
+              "value": "PC",
+              "label": "DOS",
+              "tooltip": [
+                "Screen transitions will be instantaneous.",
+                "Fades will use a Subtractive/Additive blend.",
+                "&!Fade style is always Alpha blend in SDL1 builds"
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "3DO",
+              "tooltip": [
+                "Screen transitions will crossfade.",
+                "Fades will use an Alpha blend.",
+                "&!Fade style is always Alpha blend in SDL1 builds"
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "&_Conversation Screen Options"
+          ]
+        },
+        {
+          "choice": "visuals.smoothScroll",
+          "label": "Scroll Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Per-Page",
+              "tooltip": [
+                "When fast-forwarding or rewinding conversations",
+                "in-game, advance one screen of subtitles at a time.",
+                "This mimics the original PC version."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Smooth",
+              "tooltip": [
+                "When fast-forwarding or rewinding conversations",
+                "in-game, advance at a linear rate.",
+                "This mimics the 3DO version."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "audio.speech",
+          "label": "Speech",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Do not load the 3DO Speech Pack.",
+                "Uses script closer to PC version."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Use 3DO speech. The script is closer to 3DO",
+                "version where there are differences."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.subtitles",
+          "label": "Subtitles",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Do not subtitle alien speech."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Show subtitles for alien speech."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.scopeStyle",
+          "label": "Oscilloscope Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "PC",
+              "tooltip": [
+                "Oscilloscope display resembles the PC version"
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "3DO",
+              "tooltip": [
+                "Oscilloscope display resembles the 3DO version"
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "&_Star System View Options"
+          ]
+        },
+        {
+          "choice": "visuals.planetStyle",
+          "label": "Planet Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "PC",
+              "tooltip": [
+                "Planets in interplanetary will resemble the ",
+                "DOS planet coloring and shading",
+                "&!(Only applicable if Textured Planets is disabled)"
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "3DO",
+              "tooltip": [
+                "Planets in interplanetary will resemble the ",
+                "3DO planet coloring and shading",
+                "&!(Only applicable if Textured Planets is disabled)"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.starBackground",
+          "label": "Star Background",
+          "options": [
+            {
+              "value": "0",
+              "label": "PC",
+              "tooltip": [
+                "Generated star background in interplanetary",
+                "will resemble the DOS style arrangement"
+              ]
+            },
+            {
+              "value": "1",
+              "label": "3DO",
+              "tooltip": [
+                "Generated star background in interplanetary",
+                "will resemble the 3DO style arrangement"
+              ]
+            },
+            {
+              "value": "2",
+              "label": "UQM",
+              "tooltip": [
+                "Generated star background in interplanetary",
+                "will resemble the default UQM style arrangement"
+              ]
+            },
+            {
+              "value": "3",
+              "label": "HD-mod",
+              "tooltip": [
+                "Generated star background in interplanetary",
+                "will resemble the default HD-mod style arrangement"
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "heading": [
+            "&_Orbit Screen Options"
+          ]
+        },
+        {
+          "legacy": "coarseScan"
+        },
+        {
+          "choice": "visuals.shieldStyle",
+          "label": "Slave Shields",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Static",
+              "tooltip": [
+                "Slave shields maintain a static glow.",
+                "This mimics the PC version.",
+                "&!Only affects the UQM Sphere Style"
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Pulsating",
+              "tooltip": [
+                "Slave shields pulsate.",
+                "This mimics the 3DO verion.",
+                "&!Only affects the UQM Sphere Style"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.scanStyle",
+          "label": "Scanning Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "PC",
+              "tooltip": [
+                "Scan is static and objects pop-up in random order",
+                "resembling the PC version."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "3DO",
+              "tooltip": [
+                "Scan sweeps down the map revealing objects in order",
+                "resembling the 3DO version."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.sphereType",
+          "label": "Sphere Style",
+          "options": [
+            {
+              "value": "0",
+              "label": "PC",
+              "tooltip": [
+                "Scan Sphere resembles the DOS style"
+              ]
+            },
+            {
+              "value": "1",
+              "label": "3DO",
+              "tooltip": [
+                "Scan Sphere resembles the 3DO style"
+              ]
+            },
+            {
+              "value": "2",
+              "label": "UQM",
+              "tooltip": [
+                "Scan Sphere resembles the UQM style"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.tintPlanetSphere",
+          "label": "Sphere Scan Overlay",
+          "options": [
+            {
+              "value": "PC",
+              "label": "Shaded",
+              "tooltip": [
+                "Planets will be shaded with the color of the",
+                "current scan, as per the original PC version."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "Plain",
+              "tooltip": [
+                "Planets will not be shaded with the color of the",
+                "current scan, as per the 3DO version."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.landerStyle",
+          "label": "Lander View Style",
+          "options": [
+            {
+              "value": "PC",
+              "label": "PC",
+              "tooltip": [
+                "Lander view will show at the bottom-right portion of the screen",
+                "with lander details to the left of the planet map.",
+                "Mimicking the PC version."
+              ]
+            },
+            {
+              "value": "3DO",
+              "label": "3DO",
+              "tooltip": [
+                "Lander view will show in the area above the planet map",
+                "with lander details at the bottom-right of the screen.",
+                "Mimicking the 3DO version."
+              ]
+            }
+          ]
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "music",
       "subtitle": "Music Options",
       "background": 8,
