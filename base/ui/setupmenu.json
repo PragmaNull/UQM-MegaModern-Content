@@ -2,6 +2,273 @@
   "version": 1,
   "menus": [
     {
+      "id": "graphics",
+      "subtitle": "Graphics Options",
+      "background": 1,
+      "items": [
+        {
+          "choice": "graphics.resolutionFactor",
+          "label": "Graphics",
+          "options": [
+            {
+              "value": "0",
+              "label": "Original",
+              "tooltip": [
+                "Lo-res 320x240 resolution.",
+                "Available with SDL framebuffer or OpenGL.",
+                "&!UQM will reload when changed."
+              ]
+            },
+            {
+              "value": "2",
+              "label": "HD",
+              "tooltip": [
+                "Hi-res 1280x960 resolution.",
+                "Requires `Hires' package installed.",
+                "&!UQM will reload when changed."
+              ],
+              "requiresAddon": [
+                "mm-hd"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "graphics.loresBlowupScale",
+          "label": "Resolution",
+          "options": [
+            {
+              "value": "0",
+              "label": "Default",
+              "tooltip": [
+                "Default resolution for Vanilla and HD graphics.",
+                "320x240 resolution for Vanilla",
+                "1280x960 resolution for HD"
+              ]
+            },
+            {
+              "value": "1",
+              "label": "640x480",
+              "tooltip": [
+                "Scale graphics to 640x480 resolution."
+              ]
+            },
+            {
+              "value": "2",
+              "label": "960x720",
+              "tooltip": [
+                "Scale graphics to 960x720 resolution."
+              ]
+            },
+            {
+              "value": "3",
+              "label": "1280x960",
+              "tooltip": [
+                "Scale graphics to 1280x960 resolution.",
+                "Native resolution for HD."
+              ]
+            },
+            {
+              "value": "4",
+              "label": "1600x1200",
+              "tooltip": [
+                "Scale graphics to 1600x1200 resolution."
+              ]
+            },
+            {
+              "value": "5",
+              "label": "1920x1440",
+              "tooltip": [
+                "Scale graphics to 1920x1440 resolution."
+              ]
+            },
+            {
+              "value": "6",
+              "label": "Custom",
+              "tooltip": [
+                "Using a custom resolution."
+              ]
+            }
+          ]
+        },
+        {
+          "text": "graphics.resolution",
+          "label": "Custom Resolution",
+          "tooltip": [
+            "Set the resolution to a custom value."
+          ]
+        },
+        {
+          "legacy": "renderer",
+          "optional": true
+        },
+        {
+          "choice": "graphics.keepAspectRatio",
+          "label": "Aspect Ratio",
+          "options": [
+            {
+              "value": "false",
+              "label": "Any",
+              "tooltip": [
+                "Allow any aspect ratio. The game may be",
+                "stretched in windows that are not 4:3.",
+                "&!Currently only meaningful in OpenGL mode."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Force 4:3",
+              "tooltip": [
+                "Display the game with 4:3 aspect even when",
+                "the window is not.",
+                "&!Currently only meaningful in OpenGL mode."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "graphics.windowMode",
+          "label": "Display Mode",
+          "options": [
+            {
+              "value": "Windowed",
+              "label": "Windowed",
+              "tooltip": [
+                "Display everything in a window.",
+                "(if windowing is available)"
+              ]
+            },
+            {
+              "value": "Fullscreen",
+              "label": "Exclusive Fullscreen",
+              "tooltip": [
+                "Game occupies the entire screen.",
+                "Changes display resolution to fit game resolution",
+                "(if available)"
+              ]
+            },
+            {
+              "value": "WindowedFullscreen",
+              "label": "Borderless Fullscreen",
+              "tooltip": [
+                "Game occupies the entire screen.",
+                "Changes game resolution to fit display resolution",
+                "&!Not Available in SDL1 builds"
+              ]
+            }
+          ]
+        },
+        {
+          "legacy": "gamma"
+        },
+        {
+          "choice": "graphics.scaler",
+          "label": "Scaler",
+          "options": [
+            {
+              "value": "None",
+              "label": "None",
+              "tooltip": [
+                "No scaling.",
+                "Simulates the original 320x240 display.",
+                "Fastest, though least attractive, option."
+              ]
+            },
+            {
+              "value": "Bilinear",
+              "label": "Bilinear",
+              "tooltip": [
+                "Bilinear average scaling.",
+                "A simple, fast blending technique.",
+                "Hardware-accelerated in OpenGL mode."
+              ]
+            },
+            {
+              "value": "BiAdapt",
+              "label": "Biadapt",
+              "tooltip": [
+                "Adaptive bilinear scaling.",
+                "A slower, less blurry blending technique."
+              ]
+            },
+            {
+              "value": "BiAdaptAdv",
+              "label": "Biadv",
+              "tooltip": [
+                "Advanced bilinear scaling.",
+                "Hand-weighted blend that produces smoother curves.",
+                "The most expensive scaler."
+              ]
+            },
+            {
+              "value": "Triscan",
+              "label": "Triscan",
+              "tooltip": [
+                "An interpolating scaler.",
+                "Produces sharp edges, but at a higher resolution.",
+                "Based on the Scale2x algorithm."
+              ]
+            },
+            {
+              "value": "HQ",
+              "label": "HQ",
+              "tooltip": [
+                "A high quality, very expensive interpolating scaler.",
+                "Produces sharp edges, but at a higher resolution.",
+                "Based on the HQ2X algorithm."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "graphics.scanlines",
+          "label": "Scanlines",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Do not attempt to simulate an interlaced display."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Simulate an interlaced display."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "graphics.showFps",
+          "label": "Show FPS",
+          "options": [
+            {
+              "value": "false",
+              "label": "No",
+              "tooltip": [
+                "Do not show FPS in the console window."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Yes",
+              "tooltip": [
+                "Show FPS in the console window."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "back": true
+        }
+      ]
+    },
+    {
       "id": "main",
       "subtitle": "",
       "background": 0,
@@ -926,7 +1193,42 @@
           ]
         },
         {
-          "legacy": "windowType"
+          "choice": "graphics.windowStyle",
+          "label": "Platform UI",
+          "options": [
+            {
+              "value": "0",
+              "label": "DOS",
+              "tooltip": [
+                "Changes the UI scaling to present a faithful DOS look and feel.",
+                "Fits in a 16:10 aspect ratio.",
+                "&!Disables many features that are incompatible while enabled"
+              ],
+              "requiresAddon": [
+                "dos-mode"
+              ]
+            },
+            {
+              "value": "1",
+              "label": "3DO",
+              "tooltip": [
+                "Enables border padding on all sides of the window for an ultra",
+                "faithful 3DO presentation. Fits in a 4:3 aspect ratio.",
+                "&!Disables many features that are incompatible while enabled"
+              ],
+              "requiresAddon": [
+                "3do-mode"
+              ]
+            },
+            {
+              "value": "2",
+              "label": "UQM",
+              "tooltip": [
+                "The default UQM presentation.",
+                "Fits in a 4:3 aspect ratio."
+              ]
+            }
+          ]
         },
         {
           "spacer": true
