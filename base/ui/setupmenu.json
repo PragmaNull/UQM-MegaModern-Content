@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "menus": [
+    {
+      "id": "qol",
+      "subtitle": "Quality of Life Options",
+      "background": 10,
+      "items": [
+        {
+          "choice": "interface.skipIntro",
+          "label": "Skip Intro",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Skips the logo, splash screen, and intro cutscene."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Skips the logo, splash screen, and intro cutscene."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.partialPickup",
+          "label": "Partial Pickup",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Minerals that are bigger than the remaining limit of ",
+                "your Lander hold will be partially picked up.",
+                "Biological data will not be picked up if larger than the hold."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Minerals that are bigger than the remaining limit of ",
+                "your Lander hold will be partially picked up.",
+                "Biological data will not be picked up if larger than the hold."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.scatterElements",
+          "label": "Scatter Elements",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Scatter a percentage of the elements in the lander's",
+                "cargo hold onto the planet's surface when the lander explodes"
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Scatter a percentage of the elements in the lander's",
+                "cargo hold onto the planet's surface when the lander explodes"
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.submenu",
+          "label": "In-Game Help Menus",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Displays mineral values while scanning/traversing planets",
+                "and displays StarMap keys/buttons while on the StarMap."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Displays mineral values while scanning/traversing planets",
+                "and displays StarMap keys/buttons while on the StarMap."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "autopilot.smart",
+          "label": "Smart Auto-Pilot",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Smart Auto-Pilot will find the quickest way out of the current star",
+                "system and will already be facing the direction of the set",
+                "coordinates when it enters HyperSpace."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Smart Auto-Pilot will find the quickest way out of the current star",
+                "system and will already be facing the direction of the set",
+                "coordinates when it enters HyperSpace."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "autopilot.advanced",
+          "label": "Advanced Auto-Pilot",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Advanced Auto-Pilot finds the cheapest route through HyperSpace or ",
+                "QuasiSpace and pilots the ship for you on that route."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Advanced Auto-Pilot finds the cheapest route through HyperSpace or ",
+                "QuasiSpace and pilots the ship for you on that route."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "visuals.showVisitedStars",
+          "label": "Show Visited Stars",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Visited stars will be dimmed on the StarMap",
+                "and their names will be inside parenthesis",
+                "when you hover over them with the StarMap cursor."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Visited stars will be dimmed on the StarMap",
+                "and their names will be inside parenthesis",
+                "when you hover over them with the StarMap cursor."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "interface.meleeToolTips",
+          "label": "Super-Melee Ship Descriptions",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Show Star Control 1-styled short ship descriptions at the bottom of",
+                "the main Super-Melee menu while picking a ship for your fleet."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Show Star Control 1-styled short ship descriptions at the bottom of",
+                "the main Super-Melee menu while picking a ship for your fleet."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "gameplay.shipStore",
+          "label": "Ship Storage Queue",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": []
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Ships can be stored at starbase and retrieved later, and gift ships",
+                "are sent directly to starbase when they can't join the flagship."
+              ]
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "back": true
+        }
+      ]
+    }
+  ]
+}

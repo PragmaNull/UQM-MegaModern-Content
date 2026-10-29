@@ -1069,6 +1069,7 @@ text.motherark = STRTAB:base/lander/energy/motherark.txt
 text.precursorbase = STRTAB:base/lander/energy/precursorbase.txt
 text.ruins = STRTAB:base/lander/energy/ruins.txt
 text.setupmenu = STRTAB:base/ui/setupmenu.txt
+ui.setupmenu = STRING:base/ui/setupmenu.json
 text.shofixtibase = STRTAB:base/lander/energy/shofixtibase.txt
 text.spathimonument = STRTAB:base/lander/energy/spathimonument.txt
 text.sphere = STRTAB:base/lander/energy/sphere.txt
