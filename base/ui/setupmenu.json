@@ -781,7 +781,26 @@
           ]
         },
         {
-          "legacy": "meleeZoom"
+          "choice": "graphics.meleeScale",
+          "label": "Melee Zoom",
+          "options": [
+            {
+              "value": "Step",
+              "label": "Stepped",
+              "tooltip": [
+                "Cut between three zoom levels in combat.",
+                "Resembles PC combat."
+              ]
+            },
+            {
+              "value": "Smooth",
+              "label": "Smooth",
+              "tooltip": [
+                "Continuously scale the combat view.",
+                "Resembles 3DO combat."
+              ]
+            }
+          ]
         },
         {
           "choice": "visuals.flagshipColor",
