@@ -1,5 +1,25 @@
 {
   "version": 1,
+  "title": "The Ur-Quan Masters MegaMod Setup",
+  "back": {
+    "label": "Return to Setup",
+    "tooltip": [
+      "Return to the Setup menu."
+    ]
+  },
+  "exit": {
+    "label": "Quit Setup",
+    "tooltip": [
+      "Save changes and return to main menu."
+    ]
+  },
+  "messages": {
+    "pressToEdit": [
+      "Please press the key, button,",
+      "or joystick direction you wish",
+      "to assign to this action."
+    ]
+  },
   "menus": [
     {
       "id": "graphics",
@@ -99,8 +119,31 @@
           ]
         },
         {
-          "legacy": "renderer",
-          "optional": true
+          "choice": "graphics.alwaysOpenGL",
+          "label": "Renderer",
+          "options": [
+            {
+              "value": "false",
+              "label": "SDL Framebuffer",
+              "tooltip": [
+                "Uses SDL Framebuffer mode if possible,",
+                "and OpenGL otherwise.  Framebuffer mode",
+                "is available for 320x240 and 640x480."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "OpenGL",
+              "tooltip": [
+                "Always use OpenGL.",
+                "OpenGL can produce any resolution and is",
+                "usually hardware-accelerated."
+              ]
+            }
+          ],
+          "requiresAddon": [
+            "opengl-renderer"
+          ]
         },
         {
           "choice": "graphics.keepAspectRatio",
@@ -159,7 +202,12 @@
           ]
         },
         {
-          "legacy": "gamma"
+          "legacy": "gamma",
+          "label": "Gamma Correction",
+          "tooltip": [
+            "Sets the gamma correction.",
+            "May not work on all hardware."
+          ]
         },
         {
           "choice": "graphics.scaler",
@@ -499,8 +547,31 @@
           ]
         },
         {
-          "legacy": "directionalJoystick",
-          "optional": true
+          "choice": "interface.directionalJoystick",
+          "label": "Directional Joystick",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Normal control",
+                "",
+                "Android only."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Directional joystick enabled",
+                "",
+                "Android only."
+              ]
+            }
+          ],
+          "requiresAddon": [
+            "directional-joystick"
+          ]
         },
         {
           "spacer": true
@@ -2596,6 +2667,711 @@
         },
         {
           "back": true
+        }
+      ]
+    },
+    {
+      "id": "editkeys",
+      "subtitle": "Edit Controls",
+      "background": 7,
+      "items": [
+        {
+          "state": "controls.editTemplate",
+          "label": "Control Set",
+          "labels": "controlTemplates",
+          "options": [
+            {
+              "label": "Template 1",
+              "tooltip": [
+                "Select the control template to edit."
+              ]
+            },
+            {
+              "label": "Template 2",
+              "tooltip": [
+                "Select the control template to edit."
+              ]
+            },
+            {
+              "label": "Template 3",
+              "tooltip": [
+                "Select the control template to edit."
+              ]
+            },
+            {
+              "label": "Template 4",
+              "tooltip": [
+                "Select the control template to edit."
+              ]
+            },
+            {
+              "label": "Template 5",
+              "tooltip": [
+                "Select the control template to edit."
+              ]
+            },
+            {
+              "label": "Template 6",
+              "tooltip": [
+                "Select the control template to edit."
+              ]
+            }
+          ]
+        },
+        {
+          "legacy": "layoutName",
+          "label": "Current Layout Name",
+          "tooltip": [
+            "Change the name of this control scheme."
+          ]
+        },
+        {
+          "heading": [
+            "Press Return to edit, or Delete to remove"
+          ]
+        },
+        {
+          "legacy": "control.up",
+          "label": "Up"
+        },
+        {
+          "legacy": "control.down",
+          "label": "Down"
+        },
+        {
+          "legacy": "control.left",
+          "label": "Left"
+        },
+        {
+          "legacy": "control.right",
+          "label": "Right"
+        },
+        {
+          "legacy": "control.weapon",
+          "label": "Weapon"
+        },
+        {
+          "legacy": "control.special",
+          "label": "Special"
+        },
+        {
+          "legacy": "control.escape",
+          "label": "Escape"
+        },
+        {
+          "legacy": "control.thrust",
+          "label": "Thrust"
+        },
+        {
+          "menu": "controls",
+          "label": "Back to Controls",
+          "tooltip": [
+            "Return to control set selection screen."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devices",
+      "subtitle": "Device Options",
+      "background": 11,
+      "items": [
+        {
+          "state": "device.0",
+          "label": "Portal Spawner",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.1",
+          "label": "Talking Pet",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.2",
+          "label": "Utwig Bomb",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.3",
+          "label": "Sun Device",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.4",
+          "label": "Rosy Sphere",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.5",
+          "label": "Aqua Helix",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.6",
+          "label": "Clear Spindle",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.7",
+          "label": "Ultron (Broken)",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.8",
+          "label": "Ultron (Semi-Broken)",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.9",
+          "label": "Ultron (Semi-Fixed)",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.10",
+          "label": "Ultron (Fixed)",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.11",
+          "label": "Shofixti Maidens",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.12",
+          "label": "Umgah Hyperwave Broadcaster",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.13",
+          "label": "Burvixese Hyperwave 'Caster",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.14",
+          "label": "Taalo Protector",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.15",
+          "label": "Egg Casing 1",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.16",
+          "label": "Egg Casing 2",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.17",
+          "label": "Egg Casing 3",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.18",
+          "label": "Syreen Shuttle",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.19",
+          "label": "VUX Beast",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.20",
+          "label": "Slylandro Self-Destruct Code",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.21",
+          "label": "Ur-Quan Warp Pod",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.22",
+          "label": "Wimbli's Trident",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.23",
+          "label": "Glowing Rod",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "state": "device.24",
+          "label": "Lunar Base",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Device"
+            },
+            {
+              "label": "Add Device"
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "menu": "cheats",
+          "label": "Return to Cheats",
+          "tooltip": [
+            "Return to the Cheat options menu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upgrades",
+      "subtitle": "Upgrade Options",
+      "background": 12,
+      "items": [
+        {
+          "state": "upgrade.0",
+          "label": "Lander Speed",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.1",
+          "label": "Lander Cargo",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.2",
+          "label": "Lander Rapid Fire",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.3",
+          "label": "Lander Bio Shield",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.4",
+          "label": "Lander Quake Shield",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.5",
+          "label": "Lander Lightning Shield",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.6",
+          "label": "Lander Heat Shield",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.7",
+          "label": "Point Defense Module",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.8",
+          "label": "Fusion Blaster Module",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.9",
+          "label": "Hi-Eff Fuel Module",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.10",
+          "label": "Tracking Module",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.11",
+          "label": "Hellbore Cannon Module",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "state": "upgrade.12",
+          "label": "Shiva Furnace Module",
+          "options": [
+            {
+              "label": "Do Nothing"
+            },
+            {
+              "label": "Remove Upgrade"
+            },
+            {
+              "label": "Add Upgrade"
+            }
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "menu": "cheats",
+          "label": "Return to Cheats",
+          "tooltip": [
+            "Return to the Cheat options menu."
+          ]
         }
       ]
     }
