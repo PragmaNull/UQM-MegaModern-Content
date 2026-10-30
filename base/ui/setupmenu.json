@@ -296,14 +296,37 @@
               "value": "false",
               "label": "No",
               "tooltip": [
-                "Do not show FPS in the console window."
+                "Do not show the frame rates."
               ]
             },
             {
               "value": "true",
               "label": "Yes",
               "tooltip": [
-                "Show FPS in the console window."
+                "Show the CPU and GPU frame rates",
+                "in the top left corner."
+              ]
+            }
+          ]
+        },
+        {
+          "choice": "graphics.gpuScaling",
+          "label": "GPU Scaling",
+          "options": [
+            {
+              "value": "true",
+              "label": "On",
+              "tooltip": [
+                "Run the scalers and gamma correction on",
+                "the GPU when it is available. Needs a restart."
+              ]
+            },
+            {
+              "value": "false",
+              "label": "Off",
+              "tooltip": [
+                "Run the scalers on the CPU. Gamma",
+                "correction is not available. Needs a restart."
               ]
             }
           ]
