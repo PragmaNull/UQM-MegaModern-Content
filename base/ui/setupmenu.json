@@ -119,33 +119,6 @@
           ]
         },
         {
-          "choice": "graphics.alwaysOpenGL",
-          "label": "Renderer",
-          "options": [
-            {
-              "value": "false",
-              "label": "SDL Framebuffer",
-              "tooltip": [
-                "Uses SDL Framebuffer mode if possible,",
-                "and OpenGL otherwise.  Framebuffer mode",
-                "is available for 320x240 and 640x480."
-              ]
-            },
-            {
-              "value": "true",
-              "label": "OpenGL",
-              "tooltip": [
-                "Always use OpenGL.",
-                "OpenGL can produce any resolution and is",
-                "usually hardware-accelerated."
-              ]
-            }
-          ],
-          "requiresAddon": [
-            "opengl-renderer"
-          ]
-        },
-        {
           "choice": "graphics.keepAspectRatio",
           "label": "Aspect Ratio",
           "options": [
