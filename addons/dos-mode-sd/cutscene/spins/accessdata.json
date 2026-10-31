@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "strings": [
-    {"id": "Clear entire screen first; set size...", "text": ["DIMS 320 200"]},
-    {"id": "Load font to use later", "text": ["FONT1X 0 base/fonts/micro.thin.fon"]},
-    {"id": "Load font to use later", "text": ["FONT4X 0 addons/mm-hd/fonts/micro.thin.fon"]},
-    {"id": "Set color", "text": ["TC 55FF55"]},
-    {"id": "Set color", "text": ["TBC FFFFFF"]},
-    {"id": "Load movie", "text": ["ANI1X addons/dos-mode-sd/cutscene/spins/accessdata.ani.json"]},
-    {"id": "Load movie", "text": ["ANI4X addons/dos-mode-hd/cutscene/spins/accessdata.ani.json"]},
-    {"id": "Set font to use", "text": ["FONT 0"]},
-    {"id": "Draw first frame", "text": ["DRAW 0"]},
-    {"id": "Fade-in a slide; param1=fade time", "text": ["FTC 500"]},
-    {"id": "Text for spin", "text": ["TEXTSPIN 68 53 Accessing Starship Databank..."]},
-    {"id": "Wait", "text": ["WAIT 1600"]}
+  "commands": [
+    {"comment": "Clear entire screen first; set size...", "op": "dims", "width": 320, "height": 200},
+    {"comment": "Load font to use later", "op": "font", "resolution": "sd", "index": 0, "file": "base/fonts/micro.thin.fon"},
+    {"comment": "Load font to use later", "op": "font", "resolution": "hd", "index": 0, "file": "addons/mm-hd/fonts/micro.thin.fon"},
+    {"comment": "Set color", "op": "textColor", "color": [85, 255, 85]},
+    {"comment": "Set color", "op": "textBackColor", "color": [255, 255, 255]},
+    {"comment": "Load movie", "op": "ani", "resolution": "sd", "file": "addons/dos-mode-sd/cutscene/spins/accessdata.ani.json"},
+    {"comment": "Load movie", "op": "ani", "resolution": "hd", "file": "addons/dos-mode-hd/cutscene/spins/accessdata.ani.json"},
+    {"comment": "Set font to use", "op": "font", "index": 0},
+    {"comment": "Draw first frame", "op": "draw", "frame": 0},
+    {"comment": "Fade-in a slide; param1=fade time", "op": "fadeToColor", "ms": 500},
+    {"comment": "Text for spin", "op": "textSpin", "x": 68, "y": 53, "text": " Accessing Starship Databank..."},
+    {"comment": "Wait", "op": "wait", "ms": 1600}
   ]
 }

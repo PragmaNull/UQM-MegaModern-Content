@@ -198,11 +198,11 @@
       "data": "addons/volasaurus-remix-pack/comm/androsynth.ogg"
     },
     "slides.intro": {
-      "type": "STRTAB",
+      "type": "STRING",
       "data": "addons/volasaurus-remix-pack/cutscene/intro/intro.json"
     },
     "slides.ending": {
-      "type": "STRTAB",
+      "type": "STRING",
       "data": "addons/volasaurus-remix-pack/cutscene/ending/ending.json"
     },
     "ship.androsynth.ditty": {

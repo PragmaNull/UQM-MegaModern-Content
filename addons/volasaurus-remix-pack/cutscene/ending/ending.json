@@ -1,15 +1,11 @@
 {
   "version": 1,
-  "strings": [
-    {"id": "=========== This is the PC ending script =========================", "text": [""]},
-    {"id": "**** This script is a wrapper for 3 sequences ****", "text": [""]},
-    {"id": "Clear entire screen first; set size...", "text": ["DIMS 320 240"]},
-    {"id": "... and clear", "text": ["CLS"]},
-    {"id": "Set sequence dimensions; param1=width; param2=height", "text": ["DIMS 320 200"]},
-    {"id": "Everything is drawn within the clipping rect defined by DIMS, from 0, 0", "text": [""]},
-    {"id": "Sequence 1 -- position the bomb", "text": ["CALL addons/volasaurus-remix-pack/cutscene/ending/victory1.json"]},
-    {"id": "Sequence 2 -- blow it up!", "text": ["CALL addons/volasaurus-remix-pack/cutscene/ending/victory2.json"]},
-    {"id": "Sequence 3 -- final slide show", "text": ["CALL addons/volasaurus-remix-pack/cutscene/ending/final.json"]},
-    {"id": "***************************** The End ********************************", "text": [""]}
+  "commands": [
+    {"comment": "Clear entire screen first; set size...", "op": "dims", "width": 320, "height": 240},
+    {"comment": "... and clear", "op": "clearScreen"},
+    {"comment": "Set sequence dimensions; param1=width; param2=height", "op": "dims", "width": 320, "height": 200},
+    {"comment": "Sequence 1 -- position the bomb", "op": "call", "file": "addons/volasaurus-remix-pack/cutscene/ending/victory1.json"},
+    {"comment": "Sequence 2 -- blow it up!", "op": "call", "file": "addons/volasaurus-remix-pack/cutscene/ending/victory2.json"},
+    {"comment": "Sequence 3 -- final slide show", "op": "call", "file": "addons/volasaurus-remix-pack/cutscene/ending/final.json"}
   ]
 }

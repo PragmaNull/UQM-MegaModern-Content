@@ -50,7 +50,7 @@
       "data": "addons/dos-mode-sd/ui/shipyard.ani.json"
     },
     "slides.accessdata": {
-      "type": "STRTAB",
+      "type": "STRING",
       "data": "addons/dos-mode-sd/cutscene/spins/accessdata.json"
     },
     "ship.samatra.graphics.captain": {

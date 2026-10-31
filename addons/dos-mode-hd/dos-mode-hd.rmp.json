@@ -54,7 +54,7 @@
       "data": "addons/dos-mode-hd/ui/title.ani.json"
     },
     "slides.accessdata": {
-      "type": "STRTAB",
+      "type": "STRING",
       "data": "addons/dos-mode-hd/cutscene/spins/accessdata.json"
     },
     "ship.samatra.graphics.captain": {
