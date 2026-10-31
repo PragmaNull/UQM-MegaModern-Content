@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [9, 12]},
+  "frames": [
+    {"image": "ywing-big-000.png", "hotspot": [8, 12]},
+    {"image": "ywing-big-001.png"},
+    {"image": "ywing-big-002.png", "hotspot": [12, 11]},
+    {"image": "ywing-big-003.png", "hotspot": [13, 9]},
+    {"image": "ywing-big-004.png", "hotspot": [12, 7]},
+    {"image": "ywing-big-005.png", "hotspot": [13, 9]},
+    {"image": "ywing-big-006.png", "hotspot": [12, 11]},
+    {"image": "ywing-big-007.png"},
+    {"image": "ywing-big-008.png", "hotspot": [8, 12]},
+    {"image": "ywing-big-009.png"},
+    {"image": "ywing-big-010.png", "hotspot": [12, 11]},
+    {"image": "ywing-big-011.png", "hotspot": [13, 9]},
+    {"image": "ywing-big-012.png", "hotspot": [13, 7]},
+    {"image": "ywing-big-013.png", "hotspot": [13, 9]},
+    {"image": "ywing-big-014.png", "hotspot": [12, 11]},
+    {"image": "ywing-big-015.png"}
+  ]
+}

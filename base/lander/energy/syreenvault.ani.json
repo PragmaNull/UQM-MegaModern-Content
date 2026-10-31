@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 100, "hotspot": [16, 16]},
+  "frames": [
+    {"image": "syreenvault-000.png"},
+    {"image": "syreenvault-001.png"},
+    {"image": "syreenvault-002.png"},
+    {"image": "syreenvault-003.png"}
+  ]
+}

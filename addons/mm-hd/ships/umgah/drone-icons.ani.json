@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-21, -18]},
+  "frames": [
+    {"image": "drone-icons-000.png"},
+    {"image": "drone-icons-001.png", "hotspot": [54, 56]}
+  ]
+}

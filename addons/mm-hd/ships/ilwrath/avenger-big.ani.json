@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [76, 87]},
+  "frames": [
+    {"image": "avenger-big-000.png"},
+    {"image": "avenger-big-001.png", "hotspot": [62, 81]},
+    {"image": "avenger-big-002.png", "hotspot": [48, 71]},
+    {"image": "avenger-big-003.png", "hotspot": [42, 79]},
+    {"image": "avenger-big-004.png", "hotspot": [36, 76]},
+    {"image": "avenger-big-005.png", "hotspot": [42, 62]},
+    {"image": "avenger-big-006.png", "hotspot": [48, 48]},
+    {"image": "avenger-big-007.png", "hotspot": [62, 41]},
+    {"image": "avenger-big-008.png", "hotspot": [76, 36]},
+    {"image": "avenger-big-009.png", "hotspot": [79, 41]},
+    {"image": "avenger-big-010.png", "hotspot": [72, 48]},
+    {"image": "avenger-big-011.png", "hotspot": [82, 62]},
+    {"image": "avenger-big-012.png", "hotspot": [88, 76]},
+    {"image": "avenger-big-013.png", "hotspot": [82, 79]},
+    {"image": "avenger-big-014.png", "hotspot": [72, 71]},
+    {"image": "avenger-big-015.png", "hotspot": [79, 81]}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [12, 12]},
+  "frames": [
+    {"image": "xform-meleeicons-000.png", "hotspot": [64, 64]},
+    {"image": "xform-meleeicons-001.png", "hotspot": [0, 0]},
+    {"image": "ywing-sml-000.png"},
+    {"image": "ywing-sml-001.png"},
+    {"image": "ywing-sml-002.png"},
+    {"image": "ywing-sml-003.png"},
+    {"image": "ywing-sml-004.png"},
+    {"image": "ywing-sml-005.png"},
+    {"image": "ywing-sml-006.png"},
+    {"image": "ywing-sml-007.png"},
+    {"image": "ywing-sml-008.png"},
+    {"image": "ywing-sml-009.png"},
+    {"image": "ywing-sml-010.png"},
+    {"image": "ywing-sml-011.png"},
+    {"image": "ywing-sml-012.png"},
+    {"image": "ywing-sml-013.png"},
+    {"image": "ywing-sml-014.png"},
+    {"image": "ywing-sml-015.png"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 56, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "truespacesun-000.png"},
+    {"image": "truespacesun-001.png", "hotspot": [4, 3]},
+    {"image": "truespacesun-002.png", "hotspot": [8, 7]},
+    {"image": "truespacesun-003.png", "hotspot": [16, 15]},
+    {"image": "truespacesun-004.png", "hotspot": [26, 24]}
+  ]
+}

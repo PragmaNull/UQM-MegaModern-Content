@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1},
+  "frames": [
+    {"image": "intruder-cap-000.png"},
+    {"image": "intruder-cap-001.png"},
+    {"image": "intruder-cap-002.png"},
+    {"image": "intruder-cap-002.png"},
+    {"image": "intruder-cap-002.png"},
+    {"image": "intruder-cap-001.png"},
+    {"image": "intruder-cap-003.png", "hotspot": [-124, 0]},
+    {"image": "intruder-cap-003.png", "hotspot": [-124, 0]},
+    {"image": "intruder-cap-004.png", "hotspot": [-124, 0]},
+    {"image": "intruder-cap-005.png", "hotspot": [-90, -65]},
+    {"image": "intruder-cap-005.png", "hotspot": [-90, -65]},
+    {"image": "intruder-cap-006.png", "hotspot": [-90, -65]},
+    {"image": "intruder-cap-007.png", "hotspot": [-57, 0]},
+    {"image": "intruder-cap-007.png", "hotspot": [-57, 0]},
+    {"image": "intruder-cap-008.png", "hotspot": [-57, 0]}
+  ]
+}

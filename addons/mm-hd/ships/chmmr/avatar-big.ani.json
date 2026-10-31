@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [62, 72]},
+  "frames": [
+    {"image": "avatar-big-000.png"},
+    {"image": "avatar-big-001.png", "hotspot": [76, 71]},
+    {"image": "avatar-big-002.png", "hotspot": [80, 60]},
+    {"image": "avatar-big-003.png", "hotspot": [78, 54]},
+    {"image": "avatar-big-004.png", "hotspot": [79, 62]},
+    {"image": "avatar-big-005.png", "hotspot": [77, 76]},
+    {"image": "avatar-big-006.png", "hotspot": [80, 79]},
+    {"image": "avatar-big-007.png", "hotspot": [76, 76]},
+    {"image": "avatar-big-008.png", "hotspot": [63, 79]},
+    {"image": "avatar-big-009.png", "hotspot": [54, 78]},
+    {"image": "avatar-big-010.png", "hotspot": [59, 81]},
+    {"image": "avatar-big-011.png", "hotspot": [71, 76]},
+    {"image": "avatar-big-012.png", "hotspot": [72, 62]},
+    {"image": "avatar-big-013.png", "hotspot": [71, 54]},
+    {"image": "avatar-big-014.png", "hotspot": [60, 59]},
+    {"image": "avatar-big-015.png", "hotspot": [54, 71]}
+  ]
+}

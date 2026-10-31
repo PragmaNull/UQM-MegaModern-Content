@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 68},
+  "frames": [
+    {"image": "fs_skeleton-000.png"},
+    {"image": "fs_skeleton-red.png"}
+  ]
+}

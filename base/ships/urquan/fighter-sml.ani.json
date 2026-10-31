@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "fighter-sml-000.png", "hotspot": [0, 1]},
+    {"image": "fighter-sml-001.png", "hotspot": [0, 1]},
+    {"image": "fighter-sml-002.png", "transparency": 0},
+    {"image": "fighter-sml-003.png", "transparency": 0, "hotspot": [1, 0]},
+    {"image": "fighter-sml-004.png", "hotspot": [1, 0]},
+    {"image": "fighter-sml-005.png", "hotspot": [1, 0]},
+    {"image": "fighter-sml-006.png", "transparency": 0},
+    {"image": "fighter-sml-007.png", "transparency": 0},
+    {"image": "fighter-sml-008.png", "hotspot": [0, 1]},
+    {"image": "fighter-sml-009.png"},
+    {"image": "fighter-sml-010.png", "transparency": 0},
+    {"image": "fighter-sml-011.png", "transparency": 0},
+    {"image": "fighter-sml-012.png", "hotspot": [1, 0]},
+    {"image": "fighter-sml-013.png", "hotspot": [1, 0]},
+    {"image": "fighter-sml-014.png", "transparency": 0},
+    {"image": "fighter-sml-015.png", "transparency": 0}
+  ]
+}

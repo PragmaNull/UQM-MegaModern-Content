@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [25, 25]},
+  "frames": [
+    {"image": "intruder-med-000.png"},
+    {"image": "intruder-med-001.png"},
+    {"image": "intruder-med-002.png"},
+    {"image": "intruder-med-003.png"},
+    {"image": "intruder-med-004.png"},
+    {"image": "intruder-med-005.png"},
+    {"image": "intruder-med-006.png"},
+    {"image": "intruder-med-007.png"},
+    {"image": "intruder-med-008.png"},
+    {"image": "intruder-med-009.png"},
+    {"image": "intruder-med-010.png"},
+    {"image": "intruder-med-011.png"},
+    {"image": "intruder-med-012.png"},
+    {"image": "intruder-med-013.png"},
+    {"image": "intruder-med-014.png"},
+    {"image": "intruder-med-015.png"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 3]},
+  "frames": [
+    {"image": "satellite-med-000.png"},
+    {"image": "satellite-med-001.png"},
+    {"image": "satellite-med-002.png", "hotspot": [3, 3]},
+    {"image": "satellite-med-003.png", "hotspot": [2, 3]},
+    {"image": "satellite-med-004.png", "hotspot": [1, 3]},
+    {"image": "satellite-med-005.png", "hotspot": [2, 3]},
+    {"image": "satellite-med-006.png", "hotspot": [3, 3]},
+    {"image": "satellite-med-007.png"}
+  ]
+}

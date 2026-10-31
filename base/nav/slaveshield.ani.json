@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [11, 10]},
+  "frames": [
+    {"image": "slaveshield-000.png"},
+    {"image": "slaveshield-001.png"},
+    {"image": "slaveshield-002.png"},
+    {"image": "slaveshield-003.png"},
+    {"image": "slaveshield-004.png"},
+    {"image": "slaveshield-005.png"},
+    {"image": "slaveshield-006.png"},
+    {"image": "slaveshield-007.png"},
+    {"image": "slaveshield-008.png"},
+    {"image": "slaveshield-009.png"},
+    {"image": "slaveshield-010.png"},
+    {"image": "slaveshield-011.png"},
+    {"image": "slaveshield-012.png"},
+    {"image": "slaveshield-013.png"},
+    {"image": "slaveshield-014.png"},
+    {"image": "slaveshield-015.png"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [9, 9]},
+  "frames": [
+    {"image": "guardian-sml-000.png", "hotspot": [8, 11]},
+    {"image": "guardian-sml-001.png"},
+    {"image": "guardian-sml-002.png"},
+    {"image": "guardian-sml-003.png", "hotspot": [10, 8]},
+    {"image": "guardian-sml-004.png", "hotspot": [10, 8]},
+    {"image": "guardian-sml-005.png", "hotspot": [11, 9]},
+    {"image": "guardian-sml-006.png", "hotspot": [10, 9]},
+    {"image": "guardian-sml-007.png", "hotspot": [10, 10]},
+    {"image": "guardian-sml-008.png", "hotspot": [8, 10]},
+    {"image": "guardian-sml-009.png", "hotspot": [9, 10]},
+    {"image": "guardian-sml-010.png", "hotspot": [12, 9]},
+    {"image": "guardian-sml-011.png", "hotspot": [13, 9]},
+    {"image": "guardian-sml-012.png", "hotspot": [12, 8]},
+    {"image": "guardian-sml-013.png"},
+    {"image": "guardian-sml-014.png", "hotspot": [9, 12]},
+    {"image": "guardian-sml-015.png", "hotspot": [8, 12]}
+  ]
+}

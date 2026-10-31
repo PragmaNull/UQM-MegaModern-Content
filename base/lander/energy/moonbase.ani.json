@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 96, "hotspot": [21, 23]},
+  "frames": [
+    {"image": "moonbase-000.png"},
+    {"image": "moonbase-001.png", "hotspot": [21, 20]},
+    {"image": "moonbase-002.png", "hotspot": [21, 21]},
+    {"image": "moonbase-003.png", "hotspot": [21, 22]}
+  ]
+}

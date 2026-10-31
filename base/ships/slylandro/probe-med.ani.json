@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [12, 5]},
+  "frames": [
+    {"image": "probe-med-000.png", "hotspot": [6, 10]},
+    {"image": "probe-med-001.png", "hotspot": [6, 10]},
+    {"image": "probe-med-002.png", "hotspot": [8, 9]},
+    {"image": "probe-med-003.png", "hotspot": [9, 9]},
+    {"image": "probe-med-004.png", "hotspot": [10, 8]},
+    {"image": "probe-med-005.png", "hotspot": [11, 7]},
+    {"image": "probe-med-006.png", "hotspot": [11, 6]},
+    {"image": "probe-med-007.png"},
+    {"image": "probe-med-008.png"},
+    {"image": "probe-med-009.png"},
+    {"image": "probe-med-010.png", "hotspot": [11, 6]},
+    {"image": "probe-med-011.png", "hotspot": [11, 7]},
+    {"image": "probe-med-012.png", "hotspot": [10, 8]},
+    {"image": "probe-med-013.png", "hotspot": [9, 9]},
+    {"image": "probe-med-014.png", "hotspot": [8, 9]},
+    {"image": "probe-med-015.png", "hotspot": [7, 10]}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 2, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "generator-sml-000.png"},
+    {"image": "generator-sml-001.png"},
+    {"image": "generator-sml-002.png"},
+    {"image": "generator-sml-003.png"},
+    {"image": "generator-sml-004.png"},
+    {"image": "generator-sml-005.png"},
+    {"image": "generator-sml-006.png"},
+    {"image": "generator-sml-007.png"},
+    {"image": "generator-sml-008.png"},
+    {"image": "generator-sml-009.png"},
+    {"image": "generator-sml-010.png"},
+    {"image": "generator-sml-011.png"},
+    {"image": "generator-sml-012.png"},
+    {"image": "generator-sml-013.png"},
+    {"image": "generator-sml-014.png"},
+    {"image": "generator-sml-015.png"},
+    {"image": "generator-sml-016.png"},
+    {"image": "generator-sml-017.png", "hotspot": [6, 6]},
+    {"image": "generator-sml-018.png", "hotspot": [5, 5]},
+    {"image": "generator-sml-019.png", "hotspot": [6, 6]},
+    {"image": "generator-sml-020.png", "hotspot": [6, 6]},
+    {"image": "generator-sml-021.png", "hotspot": [7, 7]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-28, -124]},
+  "frames": [
+    {"image": "spathi.png"}
+  ]
+}

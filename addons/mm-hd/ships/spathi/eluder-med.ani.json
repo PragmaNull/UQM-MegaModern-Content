@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [33, 33]},
+  "frames": [
+    {"image": "eluder-med-000.png"},
+    {"image": "eluder-med-001.png"},
+    {"image": "eluder-med-002.png"},
+    {"image": "eluder-med-003.png"},
+    {"image": "eluder-med-004.png"},
+    {"image": "eluder-med-005.png"},
+    {"image": "eluder-med-006.png"},
+    {"image": "eluder-med-007.png"},
+    {"image": "eluder-med-008.png"},
+    {"image": "eluder-med-009.png"},
+    {"image": "eluder-med-010.png"},
+    {"image": "eluder-med-011.png"},
+    {"image": "eluder-med-012.png"},
+    {"image": "eluder-med-013.png"},
+    {"image": "eluder-med-014.png"},
+    {"image": "eluder-med-015.png"}
+  ]
+}

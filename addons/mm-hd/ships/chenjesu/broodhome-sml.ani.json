@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [18, 18]},
+  "frames": [
+    {"image": "broodhome-sml-000.png"},
+    {"image": "broodhome-sml-001.png"},
+    {"image": "broodhome-sml-002.png"},
+    {"image": "broodhome-sml-003.png"},
+    {"image": "broodhome-sml-004.png"},
+    {"image": "broodhome-sml-005.png"},
+    {"image": "broodhome-sml-006.png"},
+    {"image": "broodhome-sml-007.png"},
+    {"image": "broodhome-sml-008.png"},
+    {"image": "broodhome-sml-009.png"},
+    {"image": "broodhome-sml-010.png"},
+    {"image": "broodhome-sml-011.png"},
+    {"image": "broodhome-sml-012.png"},
+    {"image": "broodhome-sml-013.png"},
+    {"image": "broodhome-sml-014.png"},
+    {"image": "broodhome-sml-015.png"}
+  ]
+}

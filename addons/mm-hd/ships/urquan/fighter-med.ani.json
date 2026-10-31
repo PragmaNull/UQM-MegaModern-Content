@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [4, 4]},
+  "frames": [
+    {"image": "fighter-med-000.png", "hotspot": [3, 4]},
+    {"image": "fighter-med-001.png"},
+    {"image": "fighter-med-002.png"},
+    {"image": "fighter-med-003.png"},
+    {"image": "fighter-med-004.png", "hotspot": [4, 3]},
+    {"image": "fighter-med-005.png"},
+    {"image": "fighter-med-006.png"},
+    {"image": "fighter-med-007.png"},
+    {"image": "fighter-med-008.png", "hotspot": [3, 4]},
+    {"image": "fighter-med-009.png"},
+    {"image": "fighter-med-010.png"},
+    {"image": "fighter-med-011.png"},
+    {"image": "fighter-med-012.png", "hotspot": [4, 3]},
+    {"image": "fighter-med-013.png"},
+    {"image": "fighter-med-014.png"},
+    {"image": "fighter-med-015.png"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 97, "hotspot": [60, 50]},
+  "frames": [
+    {"image": "ruins-000.png"},
+    {"image": "ruins-001.png"},
+    {"image": "ruins-002.png"},
+    {"image": "ruins-003.png"}
+  ]
+}

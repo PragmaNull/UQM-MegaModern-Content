@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-4, -12]},
+  "frames": [
+    {"image": "fury-icons-000.png"},
+    {"image": "fury-icons-001.png", "hotspot": [70, 44]}
+  ]
+}

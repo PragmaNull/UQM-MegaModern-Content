@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [75, 60]},
+  "frames": [
+    {"image": "stele-000.png"},
+    {"image": "stele-001.png"},
+    {"image": "stele-002.png"},
+    {"image": "stele-003.png"},
+    {"image": "stele-004.png"},
+    {"image": "stele-005.png"},
+    {"image": "stele-004.png"},
+    {"image": "stele-003.png"},
+    {"image": "stele-002.png"},
+    {"image": "stele-001.png"}
+  ]
+}

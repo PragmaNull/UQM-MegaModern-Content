@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 6]},
+  "frames": [
+    {"image": "fury-med-000.png", "hotspot": [6, 5]},
+    {"image": "fury-med-001.png", "hotspot": [7, 5]},
+    {"image": "fury-med-002.png", "hotspot": [7, 6]},
+    {"image": "fury-med-003.png"},
+    {"image": "fury-med-004.png", "hotspot": [4, 7]},
+    {"image": "fury-med-005.png", "hotspot": [5, 7]},
+    {"image": "fury-med-006.png", "hotspot": [7, 7]},
+    {"image": "fury-med-007.png", "hotspot": [7, 5]},
+    {"image": "fury-med-008.png", "hotspot": [6, 4]},
+    {"image": "fury-med-009.png", "hotspot": [5, 5]},
+    {"image": "fury-med-010.png", "hotspot": [4, 7]},
+    {"image": "fury-med-011.png", "hotspot": [4, 8]},
+    {"image": "fury-med-012.png", "hotspot": [5, 7]},
+    {"image": "fury-med-013.png"},
+    {"image": "fury-med-014.png"},
+    {"image": "fury-med-015.png", "hotspot": [5, 5]}
+  ]
+}

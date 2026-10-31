@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "dagger-sml-000.png", "hotspot": [0, 1]},
+    {"image": "dagger-sml-001.png"},
+    {"image": "dagger-sml-002.png"},
+    {"image": "dagger-sml-003.png", "hotspot": [1, 0]},
+    {"image": "dagger-sml-004.png", "hotspot": [1, 0]},
+    {"image": "dagger-sml-005.png"},
+    {"image": "dagger-sml-006.png"},
+    {"image": "dagger-sml-007.png"},
+    {"image": "dagger-sml-008.png", "hotspot": [0, 1]},
+    {"image": "dagger-sml-009.png", "hotspot": [0, 1]},
+    {"image": "dagger-sml-010.png"},
+    {"image": "dagger-sml-011.png"},
+    {"image": "dagger-sml-012.png", "hotspot": [1, 0]},
+    {"image": "dagger-sml-013.png", "hotspot": [1, 0]},
+    {"image": "dagger-sml-014.png"},
+    {"image": "dagger-sml-015.png"}
+  ]
+}

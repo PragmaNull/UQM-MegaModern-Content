@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [11, 11]},
+  "frames": [
+    {"image": "blade-meleeicons-000.png", "hotspot": [27, 60]},
+    {"image": "blade-meleeicons-001.png"},
+    {"image": "blade-sml-000.png", "hotspot": [7, 15]},
+    {"image": "blade-sml-001.png", "hotspot": [9, 14]},
+    {"image": "blade-sml-002.png"},
+    {"image": "blade-sml-003.png", "hotspot": [14, 8]},
+    {"image": "blade-sml-004.png", "hotspot": [15, 7]},
+    {"image": "blade-sml-005.png", "hotspot": [14, 8]},
+    {"image": "blade-sml-006.png"},
+    {"image": "blade-sml-007.png", "hotspot": [8, 14]},
+    {"image": "blade-sml-008.png", "hotspot": [7, 15]},
+    {"image": "blade-sml-009.png", "hotspot": [8, 14]},
+    {"image": "blade-sml-010.png"},
+    {"image": "blade-sml-011.png", "hotspot": [14, 8]},
+    {"image": "blade-sml-012.png", "hotspot": [15, 7]},
+    {"image": "blade-sml-013.png", "hotspot": [14, 9]},
+    {"image": "blade-sml-014.png"},
+    {"image": "blade-sml-015.png", "hotspot": [8, 14]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [46, 46]},
+  "frames": [
+    {"image": "probe-med-000.png"},
+    {"image": "probe-med-001.png"},
+    {"image": "probe-med-002.png"},
+    {"image": "probe-med-003.png"},
+    {"image": "probe-med-004.png"},
+    {"image": "probe-med-005.png"},
+    {"image": "probe-med-006.png"},
+    {"image": "probe-med-007.png"},
+    {"image": "probe-med-008.png"},
+    {"image": "probe-med-009.png"},
+    {"image": "probe-med-010.png"},
+    {"image": "probe-med-011.png"},
+    {"image": "probe-med-012.png"},
+    {"image": "probe-med-013.png"},
+    {"image": "probe-med-014.png"},
+    {"image": "probe-med-015.png"}
+  ]
+}

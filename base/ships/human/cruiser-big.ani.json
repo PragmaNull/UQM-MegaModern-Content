@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [16, 15]},
+  "frames": [
+    {"image": "cruiser-big-000.png", "hotspot": [7, 19]},
+    {"image": "cruiser-big-001.png", "hotspot": [12, 19]},
+    {"image": "cruiser-big-002.png"},
+    {"image": "cruiser-big-003.png", "hotspot": [21, 12]},
+    {"image": "cruiser-big-004.png", "hotspot": [20, 6]},
+    {"image": "cruiser-big-005.png", "hotspot": [20, 13]},
+    {"image": "cruiser-big-006.png"},
+    {"image": "cruiser-big-007.png", "hotspot": [13, 17]},
+    {"image": "cruiser-big-008.png", "hotspot": [7, 17]},
+    {"image": "cruiser-big-009.png", "hotspot": [13, 17]},
+    {"image": "cruiser-big-010.png", "hotspot": [17, 15]},
+    {"image": "cruiser-big-011.png", "hotspot": [20, 13]},
+    {"image": "cruiser-big-012.png", "hotspot": [23, 6]},
+    {"image": "cruiser-big-013.png", "hotspot": [19, 11]},
+    {"image": "cruiser-big-014.png", "hotspot": [17, 16]},
+    {"image": "cruiser-big-015.png", "hotspot": [13, 19]}
+  ]
+}

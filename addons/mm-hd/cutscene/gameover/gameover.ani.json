@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "gameover-000.png"},
+    {"image": "gameover-001.png"},
+    {"image": "gameover-002.png"}
+  ]
+}

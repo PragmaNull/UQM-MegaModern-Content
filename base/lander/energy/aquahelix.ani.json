@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 90, "hotspot": [16, 17]},
+  "frames": [
+    {"image": "aquahelix-000.png"},
+    {"image": "aquahelix-001.png"},
+    {"image": "aquahelix-002.png"},
+    {"image": "aquahelix-003.png"}
+  ]
+}

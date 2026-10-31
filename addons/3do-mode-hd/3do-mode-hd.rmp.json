@@ -3,43 +3,43 @@
   "resources": {
     "comm.kohrah.graphics": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/comm/kohrah/kohrah.ani"
+      "data": "addons/3do-mode-hd/comm/kohrah/kohrah.ani.json"
     },
     "comm.urquan.graphics": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/comm/urquan/urquan.ani"
+      "data": "addons/3do-mode-hd/comm/urquan/urquan.ani.json"
     },
     "graphics.border": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/ui/custom-border/custom-border.ani"
+      "data": "addons/3do-mode-hd/ui/custom-border/custom-border.ani.json"
     },
     "graphics.hdborder": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/ui/default-border/default-border.ani"
+      "data": "addons/3do-mode-hd/ui/default-border/default-border.ani.json"
     },
     "graphics.landerlaunch": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/lander/launch.ani"
+      "data": "addons/3do-mode-hd/lander/launch.ani.json"
     },
     "graphics.landerreturn": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/lander/return.ani"
+      "data": "addons/3do-mode-hd/lander/return.ani.json"
     },
     "graphics.meleemenu": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/ui/meleemenu/meleemenu.ani"
+      "data": "addons/3do-mode-hd/ui/meleemenu/meleemenu.ani.json"
     },
     "graphics.playmenu": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/ui/playmenu/playmenu.ani"
+      "data": "addons/3do-mode-hd/ui/playmenu/playmenu.ani.json"
     },
     "graphics.shipyard": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/ui/shipyard/shipyard.ani"
+      "data": "addons/3do-mode-hd/ui/shipyard/shipyard.ani.json"
     },
     "ship.samatra.graphics.captain": {
       "type": "GFXRES",
-      "data": "addons/3do-mode-hd/ships/samatra/samatra-cap.ani"
+      "data": "addons/3do-mode-hd/ships/samatra/samatra-cap.ani.json"
     }
   }
 }

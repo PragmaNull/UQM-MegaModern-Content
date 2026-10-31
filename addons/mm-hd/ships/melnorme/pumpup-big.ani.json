@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [22, 22]},
+  "frames": [
+    {"image": "pumpup-big-000.png"},
+    {"image": "pumpup-big-001.png", "hotspot": [18, 18]},
+    {"image": "pumpup-big-002.png", "hotspot": [14, 14]},
+    {"image": "pumpup-big-003.png", "hotspot": [14, 14]},
+    {"image": "pumpup-big-004.png", "hotspot": [18, 18]},
+    {"image": "pumpup-big-005.png", "hotspot": [26, 26]},
+    {"image": "pumpup-big-006.png"},
+    {"image": "pumpup-big-007.png", "hotspot": [18, 18]},
+    {"image": "pumpup-big-008.png", "hotspot": [18, 18]},
+    {"image": "pumpup-big-009.png"},
+    {"image": "pumpup-big-010.png", "hotspot": [34, 34]},
+    {"image": "pumpup-big-011.png", "hotspot": [30, 30]},
+    {"image": "pumpup-big-012.png"},
+    {"image": "pumpup-big-013.png"},
+    {"image": "pumpup-big-014.png", "hotspot": [30, 30]},
+    {"image": "pumpup-big-015.png", "hotspot": [50, 50]},
+    {"image": "pumpup-big-016.png", "hotspot": [42, 42]},
+    {"image": "pumpup-big-017.png", "hotspot": [34, 34]},
+    {"image": "pumpup-big-018.png", "hotspot": [30, 30]},
+    {"image": "pumpup-big-019.png", "hotspot": [42, 42]},
+    {"image": "pumpup-big-020.png", "hotspot": [6, 6]},
+    {"image": "pumpup-big-021.png", "hotspot": [10, 10]},
+    {"image": "pumpup-big-022.png", "hotspot": [18, 18]},
+    {"image": "pumpup-big-023.png", "hotspot": [26, 26]},
+    {"image": "pumpup-big-024.png", "hotspot": [34, 34]},
+    {"image": "pumpup-big-025.png", "hotspot": [42, 42]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [7, 7]},
+  "frames": [
+    {"image": "shield-000.png", "hotspot": [7, 9]},
+    {"image": "shield-001.png", "hotspot": [7, 8]},
+    {"image": "shield-002.png"},
+    {"image": "shield-003.png", "hotspot": [7, 6]},
+    {"image": "shield-004.png", "hotspot": [6, 7]},
+    {"image": "shield-005.png"},
+    {"image": "shield-006.png"},
+    {"image": "shield-007.png"},
+    {"image": "shield-008.png", "hotspot": [7, 6]},
+    {"image": "shield-009.png", "hotspot": [6, 7]},
+    {"image": "shield-010.png"},
+    {"image": "shield-011.png", "hotspot": [8, 7]},
+    {"image": "shield-012.png", "hotspot": [9, 7]},
+    {"image": "shield-013.png", "hotspot": [8, 6]},
+    {"image": "shield-014.png"},
+    {"image": "shield-015.png", "hotspot": [6, 8]}
+  ]
+}

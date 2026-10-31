@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "plutomask-000.png"},
+    {"image": "plutomask-001.png"}
+  ]
+}

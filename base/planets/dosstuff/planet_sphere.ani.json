@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 255, "colormap": 44, "hotspot": [37, 33]},
+  "frames": [
+    {"image": "sphere_0.png"},
+    {"image": "sphere_0.png"},
+    {"image": "sphere_1.png"},
+    {"image": "sphere_1.png"},
+    {"image": "sphere_2.png"},
+    {"image": "sphere_2.png"},
+    {"image": "sphere_3.png"},
+    {"image": "sphere_3.png"},
+    {"image": "sphere_4.png"},
+    {"image": "sphere_4.png"},
+    {"image": "sphere_5.png"},
+    {"image": "sphere_5.png"},
+    {"image": "sphere_6.png"},
+    {"image": "sphere_6.png"},
+    {"image": "sphere_7.png"},
+    {"image": "sphere_7.png"}
+  ]
+}

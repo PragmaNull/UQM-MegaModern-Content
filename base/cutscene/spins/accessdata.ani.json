@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-7, -51]},
+  "frames": [
+    {"image": "accessdata-000.png", "hotspot": [0, 0]},
+    {"image": "accessdata-001.png", "hotspot": [-152, -114]},
+    {"image": "accessdata-002.png", "hotspot": [-84, -99]},
+    {"image": "accessdata-003.png", "hotspot": [-7, -99]},
+    {"image": "accessdata-004.png"},
+    {"image": "accessdata-005.png"},
+    {"image": "accessdata-006.png"},
+    {"image": "accessdata-007.png"}
+  ]
+}

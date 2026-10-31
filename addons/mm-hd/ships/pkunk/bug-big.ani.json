@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [10, 10]},
+  "frames": [
+    {"image": "bug-big-000.png"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [-1, 51]},
+  "frames": [
+    {"image": "lightning-000.png"},
+    {"image": "lightning-001.png", "hotspot": [0, 51]},
+    {"image": "lightning-002.png"},
+    {"image": "lightning-003.png", "hotspot": [-2, 51]},
+    {"image": "lightning-004.png"},
+    {"image": "lightning-005.png", "hotspot": [0, 51]},
+    {"image": "lightning-006.png"},
+    {"image": "lightning-007.png"},
+    {"image": "lightning-008.png", "hotspot": [-2, 51]},
+    {"image": "lightning-009.png"},
+    {"image": "lightning-010.png", "hotspot": [0, 0]},
+    {"image": "lightning-011.png", "hotspot": [1, 1]},
+    {"image": "lightning-012.png", "hotspot": [2, 3]},
+    {"image": "lightning-013.png", "hotspot": [4, 4]},
+    {"image": "lightning-014.png", "hotspot": [5, 4]},
+    {"image": "lightning-015.png", "hotspot": [6, 3]},
+    {"image": "lightning-016.png", "hotspot": [7, 1]}
+  ]
+}

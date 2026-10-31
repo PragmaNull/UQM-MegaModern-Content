@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [8, 6]},
+  "frames": [
+    {"image": "warp-big-000.png"},
+    {"image": "warp-big-001.png", "hotspot": [3, 3]}
+  ]
+}

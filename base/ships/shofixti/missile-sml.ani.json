@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1},
+  "frames": [
+    {"image": "missile-sml-000.png"},
+    {"image": "missile-sml-001.png"},
+    {"image": "missile-sml-002.png"},
+    {"image": "missile-sml-003.png"},
+    {"image": "missile-sml-004.png"},
+    {"image": "missile-sml-005.png"},
+    {"image": "missile-sml-006.png"},
+    {"image": "missile-sml-007.png"},
+    {"image": "missile-sml-008.png"},
+    {"image": "missile-sml-009.png"},
+    {"image": "missile-sml-010.png"},
+    {"image": "missile-sml-011.png"},
+    {"image": "missile-sml-012.png"},
+    {"image": "missile-sml-013.png"},
+    {"image": "missile-sml-014.png"},
+    {"image": "missile-sml-015.png"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 4]},
+  "frames": [
+    {"image": "spark-sml-000.png", "hotspot": [2, 2]},
+    {"image": "spark-sml-001.png", "transparency": "none", "hotspot": [0, 0]},
+    {"image": "spark-sml-002.png", "hotspot": [1, 2]},
+    {"image": "spark-sml-003.png", "hotspot": [2, 3]},
+    {"image": "spark-sml-004.png", "hotspot": [3, 3]},
+    {"image": "spark-sml-005.png", "hotspot": [4, 4]},
+    {"image": "spark-sml-006.png", "hotspot": [5, 5]},
+    {"image": "spark-sml-007.png", "hotspot": [5, 5]},
+    {"image": "spark-sml-008.png"},
+    {"image": "spark-sml-009.png"},
+    {"image": "spark-sml-010.png"}
+  ]
+}

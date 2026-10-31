@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-2, -8]},
+  "frames": [
+    {"image": "avenger-icons-000.png"},
+    {"image": "avenger-icons-001.png", "hotspot": [68, 60]}
+  ]
+}

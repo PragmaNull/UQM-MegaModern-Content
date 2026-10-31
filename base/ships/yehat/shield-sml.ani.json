@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 24, "hotspot": [4, 3]},
+  "frames": [
+    {"image": "shield-sml-000.png"},
+    {"image": "shield-sml-001.png", "hotspot": [4, 4]},
+    {"image": "shield-sml-002.png", "hotspot": [4, 4]},
+    {"image": "shield-sml-003.png", "hotspot": [3, 4]},
+    {"image": "shield-sml-004.png", "hotspot": [3, 4]},
+    {"image": "shield-sml-005.png"},
+    {"image": "shield-sml-006.png"},
+    {"image": "shield-sml-007.png"},
+    {"image": "shield-sml-008.png"},
+    {"image": "shield-sml-009.png"},
+    {"image": "shield-sml-010.png"},
+    {"image": "shield-sml-011.png", "hotspot": [4, 4]},
+    {"image": "shield-sml-012.png", "hotspot": [4, 4]},
+    {"image": "shield-sml-013.png", "hotspot": [4, 4]},
+    {"image": "shield-sml-014.png", "hotspot": [4, 4]},
+    {"image": "shield-sml-015.png", "hotspot": [4, 4]}
+  ]
+}

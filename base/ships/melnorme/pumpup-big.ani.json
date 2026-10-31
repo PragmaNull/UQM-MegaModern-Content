@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 5]},
+  "frames": [
+    {"image": "pumpup-big-000.png"},
+    {"image": "pumpup-big-001.png", "hotspot": [4, 4]},
+    {"image": "pumpup-big-002.png", "hotspot": [3, 3]},
+    {"image": "pumpup-big-003.png", "hotspot": [3, 3]},
+    {"image": "pumpup-big-004.png", "hotspot": [4, 4]},
+    {"image": "pumpup-big-005.png", "hotspot": [6, 6]},
+    {"image": "pumpup-big-006.png"},
+    {"image": "pumpup-big-007.png", "hotspot": [4, 4]},
+    {"image": "pumpup-big-008.png", "hotspot": [4, 4]},
+    {"image": "pumpup-big-009.png"},
+    {"image": "pumpup-big-010.png", "hotspot": [8, 8]},
+    {"image": "pumpup-big-011.png", "hotspot": [7, 7]},
+    {"image": "pumpup-big-012.png"},
+    {"image": "pumpup-big-013.png"},
+    {"image": "pumpup-big-014.png", "hotspot": [7, 7]},
+    {"image": "pumpup-big-015.png", "hotspot": [12, 12]},
+    {"image": "pumpup-big-016.png", "hotspot": [10, 10]},
+    {"image": "pumpup-big-017.png", "hotspot": [8, 8]},
+    {"image": "pumpup-big-018.png", "hotspot": [7, 7]},
+    {"image": "pumpup-big-019.png", "hotspot": [10, 10]},
+    {"image": "pumpup-big-020.png", "transparency": "none", "hotspot": [1, 1]},
+    {"image": "pumpup-big-021.png", "hotspot": [2, 2]},
+    {"image": "pumpup-big-022.png", "hotspot": [4, 4]},
+    {"image": "pumpup-big-023.png", "hotspot": [6, 6]},
+    {"image": "pumpup-big-024.png", "hotspot": [8, 8]},
+    {"image": "pumpup-big-025.png", "hotspot": [10, 10]}
+  ]
+}

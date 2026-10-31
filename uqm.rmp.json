@@ -45,7 +45,7 @@
     },
     "comm.arilou.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/arilou/arilou.ani"
+      "data": "base/comm/arilou/arilou.ani.json"
     },
     "comm.arilou.music": {
       "type": "MUSICRES",
@@ -71,7 +71,7 @@
     },
     "comm.chmmr.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/chmmr/chmmr.ani"
+      "data": "base/comm/chmmr/chmmr.ani.json"
     },
     "comm.chmmr.music": {
       "type": "MUSICRES",
@@ -97,11 +97,11 @@
     },
     "comm.commander.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/commander/commander.ani"
+      "data": "base/comm/commander/commander.ani.json"
     },
     "comm.commander.red.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/commander/commander-red.ani"
+      "data": "base/comm/commander/commander-red.ani.json"
     },
     "comm.commander.music": {
       "type": "MUSICRES",
@@ -127,7 +127,7 @@
     },
     "comm.druuge.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/druuge/druuge.ani"
+      "data": "base/comm/druuge/druuge.ani.json"
     },
     "comm.druuge.music": {
       "type": "MUSICRES",
@@ -153,7 +153,7 @@
     },
     "comm.ilwrath.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/ilwrath/ilwrath.ani"
+      "data": "base/comm/ilwrath/ilwrath.ani.json"
     },
     "comm.ilwrath.music": {
       "type": "MUSICRES",
@@ -179,7 +179,7 @@
     },
     "comm.kohrah.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/kohrah/kohrah.ani"
+      "data": "base/comm/kohrah/kohrah.ani.json"
     },
     "comm.kohrah.music": {
       "type": "MUSICRES",
@@ -205,7 +205,7 @@
     },
     "comm.melnorme.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/melnorme/melnorme.ani"
+      "data": "base/comm/melnorme/melnorme.ani.json"
     },
     "comm.melnorme.music": {
       "type": "MUSICRES",
@@ -231,7 +231,7 @@
     },
     "comm.mycon.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/mycon/mycon.ani"
+      "data": "base/comm/mycon/mycon.ani.json"
     },
     "comm.mycon.music": {
       "type": "MUSICRES",
@@ -257,7 +257,7 @@
     },
     "comm.orz.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/orz/orz.ani"
+      "data": "base/comm/orz/orz.ani.json"
     },
     "comm.orz.music": {
       "type": "MUSICRES",
@@ -283,7 +283,7 @@
     },
     "comm.pkunk.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/pkunk/pkunk.ani"
+      "data": "base/comm/pkunk/pkunk.ani.json"
     },
     "comm.pkunk.music": {
       "type": "MUSICRES",
@@ -309,7 +309,7 @@
     },
     "comm.probe.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/probe/probe.ani"
+      "data": "base/comm/probe/probe.ani.json"
     },
     "comm.probe.music": {
       "type": "MUSICRES",
@@ -343,7 +343,7 @@
     },
     "comm.safeones.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/safeones/safeones.ani"
+      "data": "base/comm/safeones/safeones.ani.json"
     },
     "comm.shofixti.colortable": {
       "type": "BINTAB",
@@ -361,11 +361,11 @@
     },
     "comm.shofixti.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/shofixti/shofixti.ani"
+      "data": "base/comm/shofixti/shofixti.ani.json"
     },
     "comm.shofixti.alt.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/shofixti/shofixti-alt.ani"
+      "data": "base/comm/shofixti/shofixti-alt.ani.json"
     },
     "comm.shofixti.music": {
       "type": "MUSICRES",
@@ -391,7 +391,7 @@
     },
     "comm.slylandro.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/slylandro/slylandro.ani"
+      "data": "base/comm/slylandro/slylandro.ani.json"
     },
     "comm.slylandro.music": {
       "type": "MUSICRES",
@@ -417,7 +417,7 @@
     },
     "comm.spathi.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/spathi/spathi.ani"
+      "data": "base/comm/spathi/spathi.ani.json"
     },
     "comm.spathi.music": {
       "type": "MUSICRES",
@@ -453,7 +453,7 @@
     },
     "comm.supox.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/supox/supox.ani"
+      "data": "base/comm/supox/supox.ani.json"
     },
     "comm.supox.music": {
       "type": "MUSICRES",
@@ -479,7 +479,7 @@
     },
     "comm.syreen.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/syreen/syreen.ani"
+      "data": "base/comm/syreen/syreen.ani.json"
     },
     "comm.syreen.music": {
       "type": "MUSICRES",
@@ -505,7 +505,7 @@
     },
     "comm.talkingpet.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/talkingpet/talkingpet.ani"
+      "data": "base/comm/talkingpet/talkingpet.ani.json"
     },
     "comm.talkingpet.music": {
       "type": "MUSICRES",
@@ -531,7 +531,7 @@
     },
     "comm.thraddash.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/thraddash/thraddash.ani"
+      "data": "base/comm/thraddash/thraddash.ani.json"
     },
     "comm.thraddash.music": {
       "type": "MUSICRES",
@@ -557,7 +557,7 @@
     },
     "comm.umgah.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/umgah/umgah.ani"
+      "data": "base/comm/umgah/umgah.ani.json"
     },
     "comm.umgah.music": {
       "type": "MUSICRES",
@@ -587,7 +587,7 @@
     },
     "comm.urquan.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/urquan/urquan.ani"
+      "data": "base/comm/urquan/urquan.ani.json"
     },
     "comm.urquan.music": {
       "type": "MUSICRES",
@@ -613,7 +613,7 @@
     },
     "comm.utwig.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/utwig/utwig.ani"
+      "data": "base/comm/utwig/utwig.ani.json"
     },
     "comm.utwig.music": {
       "type": "MUSICRES",
@@ -639,11 +639,11 @@
     },
     "comm.vux.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/vux/vux.ani"
+      "data": "base/comm/vux/vux.ani.json"
     },
     "comm.vux.zex.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/vux/zex.ani"
+      "data": "base/comm/vux/zex.ani.json"
     },
     "comm.vux.music": {
       "type": "MUSICRES",
@@ -669,7 +669,7 @@
     },
     "comm.yehat.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/yehat/yehat.ani"
+      "data": "base/comm/yehat/yehat.ani.json"
     },
     "comm.yehat.music": {
       "type": "MUSICRES",
@@ -701,7 +701,7 @@
     },
     "comm.zoqfotpik.graphics": {
       "type": "GFXRES",
-      "data": "base/comm/zoqfotpik/zoqfotpik.ani"
+      "data": "base/comm/zoqfotpik/zoqfotpik.ani.json"
     },
     "comm.zoqfotpik.music": {
       "type": "MUSICRES",
@@ -717,7 +717,7 @@
     },
     "credits.background": {
       "type": "GFXRES",
-      "data": "base/cutscene/credits/credback.ani"
+      "data": "base/cutscene/credits/credback.ani.json"
     },
     "credits.credits": {
       "type": "STRTAB",
@@ -805,435 +805,435 @@
     },
     "graphics.activity": {
       "type": "GFXRES",
-      "data": "base/ui/activity.ani"
+      "data": "base/ui/activity.ani.json"
     },
     "graphics.ambient": {
       "type": "GFXRES",
-      "data": "base/nav/ambient.ani"
+      "data": "base/nav/ambient.ani.json"
     },
     "graphics.aquahelix": {
       "type": "GFXRES",
-      "data": "base/lander/energy/aquahelix.ani"
+      "data": "base/lander/energy/aquahelix.ani.json"
     },
     "graphics.asteroid.large": {
       "type": "GFXRES",
-      "data": "base/battle/asteroid-big.ani"
+      "data": "base/battle/asteroid-big.ani.json"
     },
     "graphics.asteroid.medium": {
       "type": "GFXRES",
-      "data": "base/battle/asteroid-med.ani"
+      "data": "base/battle/asteroid-med.ani.json"
     },
     "graphics.asteroid.small": {
       "type": "GFXRES",
-      "data": "base/battle/asteroid-sml.ani"
+      "data": "base/battle/asteroid-sml.ani.json"
     },
     "graphics.blast.large": {
       "type": "GFXRES",
-      "data": "base/battle/blast-big.ani"
+      "data": "base/battle/blast-big.ani.json"
     },
     "graphics.blast.medium": {
       "type": "GFXRES",
-      "data": "base/battle/blast-med.ani"
+      "data": "base/battle/blast-med.ani.json"
     },
     "graphics.blast.small": {
       "type": "GFXRES",
-      "data": "base/battle/blast-sml.ani"
+      "data": "base/battle/blast-sml.ani.json"
     },
     "graphics.blueprints": {
       "type": "GFXRES",
-      "data": "base/ui/blueprints.ani"
+      "data": "base/ui/blueprints.ani.json"
     },
     "graphics.boom.large": {
       "type": "GFXRES",
-      "data": "base/battle/boom-big.ani"
+      "data": "base/battle/boom-big.ani.json"
     },
     "graphics.boom.medium": {
       "type": "GFXRES",
-      "data": "base/battle/boom-med.ani"
+      "data": "base/battle/boom-med.ani.json"
     },
     "graphics.boom.small": {
       "type": "GFXRES",
-      "data": "base/battle/boom-sml.ani"
+      "data": "base/battle/boom-sml.ani.json"
     },
     "graphics.border": {
       "type": "GFXRES",
-      "data": "base/ui/border/border.ani"
+      "data": "base/ui/border/border.ani.json"
     },
     "graphics.cust.bevel": {
       "type": "GFXRES",
-      "data": "base/ui/border/bevel/bevel.ani"
+      "data": "base/ui/border/bevel/bevel.ani.json"
     },
     "graphics.burvixcaster": {
       "type": "GFXRES",
-      "data": "base/lander/energy/burvixcaster.ani"
+      "data": "base/lander/energy/burvixcaster.ani.json"
     },
     "graphics.dossphere": {
       "type": "GFXRES",
-      "data": "base/planets/dosstuff/planet_sphere.ani"
+      "data": "base/planets/dosstuff/planet_sphere.ani.json"
     },
     "graphics.dos.shield": {
       "type": "GFXRES",
-      "data": "base/planets/dosstuff/shield.ani"
+      "data": "base/planets/dosstuff/shield.ani.json"
     },
     "graphics.3do.shield": {
       "type": "GFXRES",
-      "data": "base/planets/3dostuff/shield.ani"
+      "data": "base/planets/3dostuff/shield.ani.json"
     },
     "graphics.earthmask": {
       "type": "GFXRES",
-      "data": "base/planets/earthmask.ani"
+      "data": "base/planets/earthmask.ani.json"
     },
     "graphics.3do.shade": {
       "type": "GFXRES",
-      "data": "base/planets/3dostuff/shades.ani"
+      "data": "base/planets/3dostuff/shades.ani.json"
     },
     "graphics.eggcase": {
       "type": "GFXRES",
-      "data": "base/lander/energy/eggcase.ani"
+      "data": "base/lander/energy/eggcase.ani.json"
     },
     "graphics.excavationsite": {
       "type": "GFXRES",
-      "data": "base/lander/energy/excavationsite.ani"
+      "data": "base/lander/energy/excavationsite.ani.json"
     },
     "graphics.flagship": {
       "type": "GFXRES",
-      "data": "base/nav/flagship.ani"
+      "data": "base/nav/flagship.ani.json"
     },
     "graphics.flagshipskeleton": {
       "type": "GFXRES",
-      "data": "base/cutscene/ending/fs_skeleton.ani"
+      "data": "base/cutscene/ending/fs_skeleton.ani.json"
     },
     "graphics.flagshipstatus": {
       "type": "GFXRES",
-      "data": "base/ui/flagshipstatus.ani"
+      "data": "base/ui/flagshipstatus.ani.json"
     },
     "graphics.flagship.red": {
       "type": "GFXRES",
-      "data": "base/nav/flagship-red/flagship.ani"
+      "data": "base/nav/flagship-red/flagship.ani.json"
     },
     "graphics.flagshipskeleton.red": {
       "type": "GFXRES",
-      "data": "base/cutscene/ending/fs_skeleton-red.ani"
+      "data": "base/cutscene/ending/fs_skeleton-red.ani.json"
     },
     "graphics.fontgradient": {
       "type": "GFXRES",
-      "data": "base/fonts/fontgradient.ani"
+      "data": "base/fonts/fontgradient.ani.json"
     },
     "graphics.fwiffo": {
       "type": "GFXRES",
-      "data": "base/lander/energy/fwiffo.ani"
+      "data": "base/lander/energy/fwiffo.ani.json"
     },
     "graphics.hyperstars": {
       "type": "GFXRES",
-      "data": "base/nav/hyperstars.ani"
+      "data": "base/nav/hyperstars.ani.json"
     },
     "graphics.lander": {
       "type": "GFXRES",
-      "data": "base/lander/lander.ani"
+      "data": "base/lander/lander.ani.json"
     },
     "graphics.lander.mods": {
       "type": "GFXRES",
-      "data": "base/lander/mods/mods.ani"
+      "data": "base/lander/mods/mods.ani.json"
     },
     "graphics.lander.pc": {
       "type": "GFXRES",
-      "data": "base/lander/lander-pc.ani"
+      "data": "base/lander/lander-pc.ani.json"
     },
     "graphics.landerfonteffect": {
       "type": "GFXRES",
-      "data": "base/lander/fonteffect.ani"
+      "data": "base/lander/fonteffect.ani.json"
     },
     "graphics.landerlaunch": {
       "type": "GFXRES",
-      "data": "base/lander/launch.ani"
+      "data": "base/lander/launch.ani.json"
     },
     "graphics.landerreturn": {
       "type": "GFXRES",
-      "data": "base/lander/return.ani"
+      "data": "base/lander/return.ani.json"
     },
     "graphics.landershield": {
       "type": "GFXRES",
-      "data": "base/lander/shield.ani"
+      "data": "base/lander/shield.ani.json"
     },
     "graphics.lavaspot": {
       "type": "GFXRES",
-      "data": "base/lander/hazard/lavaspot.ani"
+      "data": "base/lander/hazard/lavaspot.ani.json"
     },
     "graphics.life.0": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifea.ani"
+      "data": "base/lander/bio/lifea.ani.json"
     },
     "graphics.life.1": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifeb.ani"
+      "data": "base/lander/bio/lifeb.ani.json"
     },
     "graphics.life.2": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifec.ani"
+      "data": "base/lander/bio/lifec.ani.json"
     },
     "graphics.life.3": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifed.ani"
+      "data": "base/lander/bio/lifed.ani.json"
     },
     "graphics.life.4": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifee.ani"
+      "data": "base/lander/bio/lifee.ani.json"
     },
     "graphics.life.5": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifef.ani"
+      "data": "base/lander/bio/lifef.ani.json"
     },
     "graphics.life.6": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifeg.ani"
+      "data": "base/lander/bio/lifeg.ani.json"
     },
     "graphics.life.7": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifeh.ani"
+      "data": "base/lander/bio/lifeh.ani.json"
     },
     "graphics.life.8": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifei.ani"
+      "data": "base/lander/bio/lifei.ani.json"
     },
     "graphics.life.9": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifej.ani"
+      "data": "base/lander/bio/lifej.ani.json"
     },
     "graphics.life.10": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifek.ani"
+      "data": "base/lander/bio/lifek.ani.json"
     },
     "graphics.life.11": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifel.ani"
+      "data": "base/lander/bio/lifel.ani.json"
     },
     "graphics.life.12": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifem.ani"
+      "data": "base/lander/bio/lifem.ani.json"
     },
     "graphics.life.13": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifen.ani"
+      "data": "base/lander/bio/lifen.ani.json"
     },
     "graphics.life.14": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifeo.ani"
+      "data": "base/lander/bio/lifeo.ani.json"
     },
     "graphics.life.15": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifep.ani"
+      "data": "base/lander/bio/lifep.ani.json"
     },
     "graphics.life.16": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifeq.ani"
+      "data": "base/lander/bio/lifeq.ani.json"
     },
     "graphics.life.17": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifer.ani"
+      "data": "base/lander/bio/lifer.ani.json"
     },
     "graphics.life.18": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifes.ani"
+      "data": "base/lander/bio/lifes.ani.json"
     },
     "graphics.life.19": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifet.ani"
+      "data": "base/lander/bio/lifet.ani.json"
     },
     "graphics.life.20": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifew.ani"
+      "data": "base/lander/bio/lifew.ani.json"
     },
     "graphics.life.21": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifex.ani"
+      "data": "base/lander/bio/lifex.ani.json"
     },
     "graphics.life.22": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifey.ani"
+      "data": "base/lander/bio/lifey.ani.json"
     },
     "graphics.life.23": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifeu.ani"
+      "data": "base/lander/bio/lifeu.ani.json"
     },
     "graphics.life.24": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifev.ani"
+      "data": "base/lander/bio/lifev.ani.json"
     },
     "graphics.life.25": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifez.ani"
+      "data": "base/lander/bio/lifez.ani.json"
     },
     "graphics.lifecan": {
       "type": "GFXRES",
-      "data": "base/lander/bio/lifecan.ani"
+      "data": "base/lander/bio/lifecan.ani.json"
     },
     "graphics.lightning": {
       "type": "GFXRES",
-      "data": "base/lander/hazard/lightning.ani"
+      "data": "base/lander/hazard/lightning.ani.json"
     },
     "graphics.maidens": {
       "type": "GFXRES",
-      "data": "base/lander/energy/maidens.ani"
+      "data": "base/lander/energy/maidens.ani.json"
     },
     "graphics.meleemenu": {
       "type": "GFXRES",
-      "data": "base/ui/meleemenu.ani"
+      "data": "base/ui/meleemenu.ani.json"
     },
     "graphics.meleepickship": {
       "type": "GFXRES",
-      "data": "base/ui/meleepickship.ani"
+      "data": "base/ui/meleepickship.ani.json"
     },
     "graphics.miscdata": {
       "type": "GFXRES",
-      "data": "base/ui/miscdata.ani"
+      "data": "base/ui/miscdata.ani.json"
     },
     "graphics.modulesmenu": {
       "type": "GFXRES",
-      "data": "base/ui/modulesmenu.ani"
+      "data": "base/ui/modulesmenu.ani.json"
     },
     "graphics.moonbase": {
       "type": "GFXRES",
-      "data": "base/lander/energy/moonbase.ani"
+      "data": "base/lander/energy/moonbase.ani.json"
     },
     "graphics.motherark": {
       "type": "GFXRES",
-      "data": "base/lander/energy/motherark.ani"
+      "data": "base/lander/energy/motherark.ani.json"
     },
     "graphics.newgame": {
       "type": "GFXRES",
-      "data": "base/ui/newgame.ani"
+      "data": "base/ui/newgame.ani.json"
     },
     "graphics.orbitbackground": {
       "type": "GFXRES",
-      "data": "base/nav/orbitbackground.ani"
+      "data": "base/nav/orbitbackground.ani.json"
     },
     "graphics.orbitenter": {
       "type": "GFXRES",
-      "data": "base/nav/orbitenter.ani"
+      "data": "base/nav/orbitenter.ani.json"
     },
     "graphics.outfit": {
       "type": "GFXRES",
-      "data": "base/ui/outfit.ani"
+      "data": "base/ui/outfit.ani.json"
     },
     "graphics.outfitmodules": {
       "type": "GFXRES",
-      "data": "base/ui/outfitmodules.ani"
+      "data": "base/ui/outfitmodules.ani.json"
     },
     "graphics.pickship": {
       "type": "GFXRES",
-      "data": "base/ui/pickship.ani"
+      "data": "base/ui/pickship.ani.json"
     },
     "graphics.planets": {
       "type": "GFXRES",
-      "data": "base/nav/planets.ani"
+      "data": "base/nav/planets.ani.json"
     },
     "graphics.planets.slaveshield": {
       "type": "GFXRES",
-      "data": "base/nav/slaveshield.ani"
+      "data": "base/nav/slaveshield.ani.json"
     },
     "graphics.dos.planets": {
       "type": "GFXRES",
-      "data": "base/nav/dos-planets/planets.ani"
+      "data": "base/nav/dos-planets/planets.ani.json"
     },
     "graphics.playmenu": {
       "type": "GFXRES",
-      "data": "base/ui/playmenu.ani"
+      "data": "base/ui/playmenu.ani.json"
     },
     "graphics.quake": {
       "type": "GFXRES",
-      "data": "base/lander/hazard/quake.ani"
+      "data": "base/lander/hazard/quake.ani.json"
     },
     "graphics.quasispace": {
       "type": "GFXRES",
-      "data": "base/nav/quasispace.ani"
+      "data": "base/nav/quasispace.ani.json"
     },
     "graphics.ruins": {
       "type": "GFXRES",
-      "data": "base/lander/energy/ruins.ani"
+      "data": "base/lander/energy/ruins.ani.json"
     },
     "graphics.segue": {
       "type": "GFXRES",
-      "data": "base/ui/segue.ani"
+      "data": "base/ui/segue.ani.json"
     },
     "graphics.setupmenu": {
       "type": "GFXRES",
-      "data": "base/ui/setupmenu.ani"
+      "data": "base/ui/setupmenu.ani.json"
     },
     "graphics.setupmenuarrows": {
       "type": "GFXRES",
-      "data": "base/ui/setupmenuarrows.ani"
+      "data": "base/ui/setupmenuarrows.ani.json"
     },
     "graphics.shipyard": {
       "type": "GFXRES",
-      "data": "base/ui/shipyard.ani"
+      "data": "base/ui/shipyard.ani.json"
     },
     "graphics.spathimonument": {
       "type": "GFXRES",
-      "data": "base/lander/energy/spathimonument.ani"
+      "data": "base/lander/energy/spathimonument.ani.json"
     },
     "graphics.starbase": {
       "type": "GFXRES",
-      "data": "base/ui/starbase.ani"
+      "data": "base/ui/starbase.ani.json"
     },
     "graphics.stars": {
       "type": "GFXRES",
-      "data": "base/battle/stars.ani"
+      "data": "base/battle/stars.ani.json"
     },
     "graphics.scenery": {
       "type": "GFXRES",
-      "data": "base/battle/scenery.ani"
+      "data": "base/battle/scenery.ani.json"
     },
     "graphics.status": {
       "type": "GFXRES",
-      "data": "base/ui/status.ani"
+      "data": "base/ui/status.ani.json"
     },
     "graphics.stele": {
       "type": "GFXRES",
-      "data": "base/lander/energy/stele.ani"
+      "data": "base/lander/energy/stele.ani.json"
     },
     "graphics.submenu": {
       "type": "GFXRES",
-      "data": "base/ui/submenu/submenu.ani"
+      "data": "base/ui/submenu/submenu.ani.json"
     },
     "graphics.sundevice": {
       "type": "GFXRES",
-      "data": "base/lander/energy/sundevice.ani"
+      "data": "base/lander/energy/sundevice.ani.json"
     },
     "graphics.syreenvault": {
       "type": "GFXRES",
-      "data": "base/lander/energy/syreenvault.ani"
+      "data": "base/lander/energy/syreenvault.ani.json"
     },
     "graphics.taalodevice": {
       "type": "GFXRES",
-      "data": "base/lander/energy/taalodevice.ani"
+      "data": "base/lander/energy/taalodevice.ani.json"
     },
     "graphics.title": {
       "type": "GFXRES",
-      "data": "base/ui/title.ani"
+      "data": "base/ui/title.ani.json"
     },
     "graphics.truespacesun": {
       "type": "GFXRES",
-      "data": "base/nav/truespacesun.ani"
+      "data": "base/nav/truespacesun.ani.json"
     },
     "graphics.truespacesun.anim": {
       "type": "GFXRES",
-      "data": "base/nav/truespacesunrgb.ani"
+      "data": "base/nav/truespacesunrgb.ani.json"
     },
     "graphics.umgahcaster": {
       "type": "GFXRES",
-      "data": "base/lander/energy/umgahcaster.ani"
+      "data": "base/lander/energy/umgahcaster.ani.json"
     },
     "graphics.urquanwreck": {
       "type": "GFXRES",
-      "data": "base/lander/energy/urquanwreck.ani"
+      "data": "base/lander/energy/urquanwreck.ani.json"
     },
     "graphics.utwigbomb": {
       "type": "GFXRES",
-      "data": "base/lander/energy/utwigbomb.ani"
+      "data": "base/lander/energy/utwigbomb.ani.json"
     },
     "graphics.visitedstars": {
       "type": "GFXRES",
-      "data": "base/ui/visited-stars/visited.ani"
+      "data": "base/ui/visited-stars/visited.ani.json"
     },
     "music.battle": {
       "type": "MUSICRES",
@@ -1313,15 +1313,15 @@
     },
     "planet.acid.large": {
       "type": "GFXRES",
-      "data": "base/planets/acid-big.ani"
+      "data": "base/planets/acid-big.ani.json"
     },
     "planet.acid.medium": {
       "type": "GFXRES",
-      "data": "base/planets/acid-med.ani"
+      "data": "base/planets/acid-med.ani.json"
     },
     "planet.acid.small": {
       "type": "GFXRES",
-      "data": "base/planets/acid-sml.ani"
+      "data": "base/planets/acid-sml.ani.json"
     },
     "planet.acid.translatetable": {
       "type": "BINTAB",
@@ -1333,15 +1333,15 @@
     },
     "planet.alkali.large": {
       "type": "GFXRES",
-      "data": "base/planets/alkali-big.ani"
+      "data": "base/planets/alkali-big.ani.json"
     },
     "planet.alkali.medium": {
       "type": "GFXRES",
-      "data": "base/planets/alkali-med.ani"
+      "data": "base/planets/alkali-med.ani.json"
     },
     "planet.alkali.small": {
       "type": "GFXRES",
-      "data": "base/planets/alkali-sml.ani"
+      "data": "base/planets/alkali-sml.ani.json"
     },
     "planet.alkali.translatetable": {
       "type": "BINTAB",
@@ -1353,15 +1353,15 @@
     },
     "planet.auric.large": {
       "type": "GFXRES",
-      "data": "base/planets/auric-big.ani"
+      "data": "base/planets/auric-big.ani.json"
     },
     "planet.auric.medium": {
       "type": "GFXRES",
-      "data": "base/planets/auric-med.ani"
+      "data": "base/planets/auric-med.ani.json"
     },
     "planet.auric.small": {
       "type": "GFXRES",
-      "data": "base/planets/auric-sml.ani"
+      "data": "base/planets/auric-sml.ani.json"
     },
     "planet.auric.translatetable": {
       "type": "BINTAB",
@@ -1373,15 +1373,15 @@
     },
     "planet.azure.large": {
       "type": "GFXRES",
-      "data": "base/planets/azure-big.ani"
+      "data": "base/planets/azure-big.ani.json"
     },
     "planet.azure.medium": {
       "type": "GFXRES",
-      "data": "base/planets/azure-med.ani"
+      "data": "base/planets/azure-med.ani.json"
     },
     "planet.azure.small": {
       "type": "GFXRES",
-      "data": "base/planets/azure-sml.ani"
+      "data": "base/planets/azure-sml.ani.json"
     },
     "planet.azure.translatetable": {
       "type": "BINTAB",
@@ -1393,15 +1393,15 @@
     },
     "planet.bluegas.large": {
       "type": "GFXRES",
-      "data": "base/planets/bluegas-big.ani"
+      "data": "base/planets/bluegas-big.ani.json"
     },
     "planet.bluegas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/bluegas-med.ani"
+      "data": "base/planets/bluegas-med.ani.json"
     },
     "planet.bluegas.small": {
       "type": "GFXRES",
-      "data": "base/planets/bluegas-sml.ani"
+      "data": "base/planets/bluegas-sml.ani.json"
     },
     "planet.bluegas.translatetable": {
       "type": "BINTAB",
@@ -1413,15 +1413,15 @@
     },
     "planet.carbide.large": {
       "type": "GFXRES",
-      "data": "base/planets/carbide-big.ani"
+      "data": "base/planets/carbide-big.ani.json"
     },
     "planet.carbide.medium": {
       "type": "GFXRES",
-      "data": "base/planets/carbide-med.ani"
+      "data": "base/planets/carbide-med.ani.json"
     },
     "planet.carbide.small": {
       "type": "GFXRES",
-      "data": "base/planets/carbide-sml.ani"
+      "data": "base/planets/carbide-sml.ani.json"
     },
     "planet.carbide.translatetable": {
       "type": "BINTAB",
@@ -1433,15 +1433,15 @@
     },
     "planet.chlorine.large": {
       "type": "GFXRES",
-      "data": "base/planets/chlorine-big.ani"
+      "data": "base/planets/chlorine-big.ani.json"
     },
     "planet.chlorine.medium": {
       "type": "GFXRES",
-      "data": "base/planets/chlorine-med.ani"
+      "data": "base/planets/chlorine-med.ani.json"
     },
     "planet.chlorine.small": {
       "type": "GFXRES",
-      "data": "base/planets/chlorine-sml.ani"
+      "data": "base/planets/chlorine-sml.ani.json"
     },
     "planet.chlorine.translatetable": {
       "type": "BINTAB",
@@ -1453,15 +1453,15 @@
     },
     "planet.chondrite.large": {
       "type": "GFXRES",
-      "data": "base/planets/chondrite-big.ani"
+      "data": "base/planets/chondrite-big.ani.json"
     },
     "planet.chondrite.medium": {
       "type": "GFXRES",
-      "data": "base/planets/chondrite-med.ani"
+      "data": "base/planets/chondrite-med.ani.json"
     },
     "planet.chondrite.small": {
       "type": "GFXRES",
-      "data": "base/planets/chondrite-sml.ani"
+      "data": "base/planets/chondrite-sml.ani.json"
     },
     "planet.chondrite.translatetable": {
       "type": "BINTAB",
@@ -1473,15 +1473,15 @@
     },
     "planet.cimmerian.large": {
       "type": "GFXRES",
-      "data": "base/planets/cimmerian-big.ani"
+      "data": "base/planets/cimmerian-big.ani.json"
     },
     "planet.cimmerian.medium": {
       "type": "GFXRES",
-      "data": "base/planets/cimmerian-med.ani"
+      "data": "base/planets/cimmerian-med.ani.json"
     },
     "planet.cimmerian.small": {
       "type": "GFXRES",
-      "data": "base/planets/cimmerian-sml.ani"
+      "data": "base/planets/cimmerian-sml.ani.json"
     },
     "planet.cimmerian.translatetable": {
       "type": "BINTAB",
@@ -1493,15 +1493,15 @@
     },
     "planet.copper.large": {
       "type": "GFXRES",
-      "data": "base/planets/copper-big.ani"
+      "data": "base/planets/copper-big.ani.json"
     },
     "planet.copper.medium": {
       "type": "GFXRES",
-      "data": "base/planets/copper-med.ani"
+      "data": "base/planets/copper-med.ani.json"
     },
     "planet.copper.small": {
       "type": "GFXRES",
-      "data": "base/planets/copper-sml.ani"
+      "data": "base/planets/copper-sml.ani.json"
     },
     "planet.copper.translatetable": {
       "type": "BINTAB",
@@ -1513,15 +1513,15 @@
     },
     "planet.crimson.large": {
       "type": "GFXRES",
-      "data": "base/planets/crimson-big.ani"
+      "data": "base/planets/crimson-big.ani.json"
     },
     "planet.crimson.medium": {
       "type": "GFXRES",
-      "data": "base/planets/crimson-med.ani"
+      "data": "base/planets/crimson-med.ani.json"
     },
     "planet.crimson.small": {
       "type": "GFXRES",
-      "data": "base/planets/crimson-sml.ani"
+      "data": "base/planets/crimson-sml.ani.json"
     },
     "planet.crimson.translatetable": {
       "type": "BINTAB",
@@ -1533,15 +1533,15 @@
     },
     "planet.cyangas.large": {
       "type": "GFXRES",
-      "data": "base/planets/cyangas-big.ani"
+      "data": "base/planets/cyangas-big.ani.json"
     },
     "planet.cyangas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/cyangas-med.ani"
+      "data": "base/planets/cyangas-med.ani.json"
     },
     "planet.cyangas.small": {
       "type": "GFXRES",
-      "data": "base/planets/cyangas-sml.ani"
+      "data": "base/planets/cyangas-sml.ani.json"
     },
     "planet.cyangas.translatetable": {
       "type": "BINTAB",
@@ -1553,15 +1553,15 @@
     },
     "planet.cyanic.large": {
       "type": "GFXRES",
-      "data": "base/planets/cyanic-big.ani"
+      "data": "base/planets/cyanic-big.ani.json"
     },
     "planet.cyanic.medium": {
       "type": "GFXRES",
-      "data": "base/planets/cyanic-med.ani"
+      "data": "base/planets/cyanic-med.ani.json"
     },
     "planet.cyanic.small": {
       "type": "GFXRES",
-      "data": "base/planets/cyanic-sml.ani"
+      "data": "base/planets/cyanic-sml.ani.json"
     },
     "planet.cyanic.translatetable": {
       "type": "BINTAB",
@@ -1573,15 +1573,15 @@
     },
     "planet.dust.large": {
       "type": "GFXRES",
-      "data": "base/planets/dust-big.ani"
+      "data": "base/planets/dust-big.ani.json"
     },
     "planet.dust.medium": {
       "type": "GFXRES",
-      "data": "base/planets/dust-med.ani"
+      "data": "base/planets/dust-med.ani.json"
     },
     "planet.dust.small": {
       "type": "GFXRES",
-      "data": "base/planets/dust-sml.ani"
+      "data": "base/planets/dust-sml.ani.json"
     },
     "planet.dust.translatetable": {
       "type": "BINTAB",
@@ -1593,15 +1593,15 @@
     },
     "planet.emerald.large": {
       "type": "GFXRES",
-      "data": "base/planets/emerald-big.ani"
+      "data": "base/planets/emerald-big.ani.json"
     },
     "planet.emerald.medium": {
       "type": "GFXRES",
-      "data": "base/planets/emerald-med.ani"
+      "data": "base/planets/emerald-med.ani.json"
     },
     "planet.emerald.small": {
       "type": "GFXRES",
-      "data": "base/planets/emerald-sml.ani"
+      "data": "base/planets/emerald-sml.ani.json"
     },
     "planet.emerald.translatetable": {
       "type": "BINTAB",
@@ -1613,15 +1613,15 @@
     },
     "planet.fluorescent.large": {
       "type": "GFXRES",
-      "data": "base/planets/fluorescent-big.ani"
+      "data": "base/planets/fluorescent-big.ani.json"
     },
     "planet.fluorescent.medium": {
       "type": "GFXRES",
-      "data": "base/planets/fluorescent-med.ani"
+      "data": "base/planets/fluorescent-med.ani.json"
     },
     "planet.fluorescent.small": {
       "type": "GFXRES",
-      "data": "base/planets/fluorescent-sml.ani"
+      "data": "base/planets/fluorescent-sml.ani.json"
     },
     "planet.fluorescent.translatetable": {
       "type": "BINTAB",
@@ -1633,15 +1633,15 @@
     },
     "planet.green.large": {
       "type": "GFXRES",
-      "data": "base/planets/green-big.ani"
+      "data": "base/planets/green-big.ani.json"
     },
     "planet.green.medium": {
       "type": "GFXRES",
-      "data": "base/planets/green-med.ani"
+      "data": "base/planets/green-med.ani.json"
     },
     "planet.green.small": {
       "type": "GFXRES",
-      "data": "base/planets/green-sml.ani"
+      "data": "base/planets/green-sml.ani.json"
     },
     "planet.green.translatetable": {
       "type": "BINTAB",
@@ -1653,15 +1653,15 @@
     },
     "planet.greengas.large": {
       "type": "GFXRES",
-      "data": "base/planets/greengas-big.ani"
+      "data": "base/planets/greengas-big.ani.json"
     },
     "planet.greengas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/greengas-med.ani"
+      "data": "base/planets/greengas-med.ani.json"
     },
     "planet.greengas.small": {
       "type": "GFXRES",
-      "data": "base/planets/greengas-sml.ani"
+      "data": "base/planets/greengas-sml.ani.json"
     },
     "planet.greengas.translatetable": {
       "type": "BINTAB",
@@ -1673,15 +1673,15 @@
     },
     "planet.greygas.large": {
       "type": "GFXRES",
-      "data": "base/planets/greygas-big.ani"
+      "data": "base/planets/greygas-big.ani.json"
     },
     "planet.greygas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/greygas-med.ani"
+      "data": "base/planets/greygas-med.ani.json"
     },
     "planet.greygas.small": {
       "type": "GFXRES",
-      "data": "base/planets/greygas-sml.ani"
+      "data": "base/planets/greygas-sml.ani.json"
     },
     "planet.greygas.translatetable": {
       "type": "BINTAB",
@@ -1693,15 +1693,15 @@
     },
     "planet.halide.large": {
       "type": "GFXRES",
-      "data": "base/planets/halide-big.ani"
+      "data": "base/planets/halide-big.ani.json"
     },
     "planet.halide.medium": {
       "type": "GFXRES",
-      "data": "base/planets/halide-med.ani"
+      "data": "base/planets/halide-med.ani.json"
     },
     "planet.halide.small": {
       "type": "GFXRES",
-      "data": "base/planets/halide-sml.ani"
+      "data": "base/planets/halide-sml.ani.json"
     },
     "planet.halide.translatetable": {
       "type": "BINTAB",
@@ -1713,15 +1713,15 @@
     },
     "planet.hydrocarbon.large": {
       "type": "GFXRES",
-      "data": "base/planets/hydrocarbon-big.ani"
+      "data": "base/planets/hydrocarbon-big.ani.json"
     },
     "planet.hydrocarbon.medium": {
       "type": "GFXRES",
-      "data": "base/planets/hydrocarbon-med.ani"
+      "data": "base/planets/hydrocarbon-med.ani.json"
     },
     "planet.hydrocarbon.small": {
       "type": "GFXRES",
-      "data": "base/planets/hydrocarbon-sml.ani"
+      "data": "base/planets/hydrocarbon-sml.ani.json"
     },
     "planet.hydrocarbon.translatetable": {
       "type": "BINTAB",
@@ -1733,15 +1733,15 @@
     },
     "planet.infrared.large": {
       "type": "GFXRES",
-      "data": "base/planets/infrared-big.ani"
+      "data": "base/planets/infrared-big.ani.json"
     },
     "planet.infrared.medium": {
       "type": "GFXRES",
-      "data": "base/planets/infrared-med.ani"
+      "data": "base/planets/infrared-med.ani.json"
     },
     "planet.infrared.small": {
       "type": "GFXRES",
-      "data": "base/planets/infrared-sml.ani"
+      "data": "base/planets/infrared-sml.ani.json"
     },
     "planet.infrared.translatetable": {
       "type": "BINTAB",
@@ -1753,15 +1753,15 @@
     },
     "planet.iodine.large": {
       "type": "GFXRES",
-      "data": "base/planets/iodine-big.ani"
+      "data": "base/planets/iodine-big.ani.json"
     },
     "planet.iodine.medium": {
       "type": "GFXRES",
-      "data": "base/planets/iodine-med.ani"
+      "data": "base/planets/iodine-med.ani.json"
     },
     "planet.iodine.small": {
       "type": "GFXRES",
-      "data": "base/planets/iodine-sml.ani"
+      "data": "base/planets/iodine-sml.ani.json"
     },
     "planet.iodine.translatetable": {
       "type": "BINTAB",
@@ -1773,15 +1773,15 @@
     },
     "planet.lanthanide.large": {
       "type": "GFXRES",
-      "data": "base/planets/lanthanide-big.ani"
+      "data": "base/planets/lanthanide-big.ani.json"
     },
     "planet.lanthanide.medium": {
       "type": "GFXRES",
-      "data": "base/planets/lanthanide-med.ani"
+      "data": "base/planets/lanthanide-med.ani.json"
     },
     "planet.lanthanide.small": {
       "type": "GFXRES",
-      "data": "base/planets/lanthanide-sml.ani"
+      "data": "base/planets/lanthanide-sml.ani.json"
     },
     "planet.lanthanide.translatetable": {
       "type": "BINTAB",
@@ -1793,15 +1793,15 @@
     },
     "planet.magma.large": {
       "type": "GFXRES",
-      "data": "base/planets/magma-big.ani"
+      "data": "base/planets/magma-big.ani.json"
     },
     "planet.magma.medium": {
       "type": "GFXRES",
-      "data": "base/planets/magma-med.ani"
+      "data": "base/planets/magma-med.ani.json"
     },
     "planet.magma.small": {
       "type": "GFXRES",
-      "data": "base/planets/magma-sml.ani"
+      "data": "base/planets/magma-sml.ani.json"
     },
     "planet.magma.translatetable": {
       "type": "BINTAB",
@@ -1813,15 +1813,15 @@
     },
     "planet.magnetic.large": {
       "type": "GFXRES",
-      "data": "base/planets/magnetic-big.ani"
+      "data": "base/planets/magnetic-big.ani.json"
     },
     "planet.magnetic.medium": {
       "type": "GFXRES",
-      "data": "base/planets/magnetic-med.ani"
+      "data": "base/planets/magnetic-med.ani.json"
     },
     "planet.magnetic.small": {
       "type": "GFXRES",
-      "data": "base/planets/magnetic-sml.ani"
+      "data": "base/planets/magnetic-sml.ani.json"
     },
     "planet.magnetic.translatetable": {
       "type": "BINTAB",
@@ -1833,15 +1833,15 @@
     },
     "planet.maroon.large": {
       "type": "GFXRES",
-      "data": "base/planets/maroon-big.ani"
+      "data": "base/planets/maroon-big.ani.json"
     },
     "planet.maroon.medium": {
       "type": "GFXRES",
-      "data": "base/planets/maroon-med.ani"
+      "data": "base/planets/maroon-med.ani.json"
     },
     "planet.maroon.small": {
       "type": "GFXRES",
-      "data": "base/planets/maroon-sml.ani"
+      "data": "base/planets/maroon-sml.ani.json"
     },
     "planet.maroon.translatetable": {
       "type": "BINTAB",
@@ -1853,15 +1853,15 @@
     },
     "planet.metal.large": {
       "type": "GFXRES",
-      "data": "base/planets/metal-big.ani"
+      "data": "base/planets/metal-big.ani.json"
     },
     "planet.metal.medium": {
       "type": "GFXRES",
-      "data": "base/planets/metal-med.ani"
+      "data": "base/planets/metal-med.ani.json"
     },
     "planet.metal.small": {
       "type": "GFXRES",
-      "data": "base/planets/metal-sml.ani"
+      "data": "base/planets/metal-sml.ani.json"
     },
     "planet.metal.translatetable": {
       "type": "BINTAB",
@@ -1873,15 +1873,15 @@
     },
     "planet.noble.large": {
       "type": "GFXRES",
-      "data": "base/planets/noble-big.ani"
+      "data": "base/planets/noble-big.ani.json"
     },
     "planet.noble.medium": {
       "type": "GFXRES",
-      "data": "base/planets/noble-med.ani"
+      "data": "base/planets/noble-med.ani.json"
     },
     "planet.noble.small": {
       "type": "GFXRES",
-      "data": "base/planets/noble-sml.ani"
+      "data": "base/planets/noble-sml.ani.json"
     },
     "planet.noble.translatetable": {
       "type": "BINTAB",
@@ -1893,15 +1893,15 @@
     },
     "planet.oolite.large": {
       "type": "GFXRES",
-      "data": "base/planets/oolite-big.ani"
+      "data": "base/planets/oolite-big.ani.json"
     },
     "planet.oolite.medium": {
       "type": "GFXRES",
-      "data": "base/planets/oolite-med.ani"
+      "data": "base/planets/oolite-med.ani.json"
     },
     "planet.oolite.small": {
       "type": "GFXRES",
-      "data": "base/planets/oolite-sml.ani"
+      "data": "base/planets/oolite-sml.ani.json"
     },
     "planet.oolite.translatetable": {
       "type": "BINTAB",
@@ -1913,15 +1913,15 @@
     },
     "planet.opalescent.large": {
       "type": "GFXRES",
-      "data": "base/planets/opalescent-big.ani"
+      "data": "base/planets/opalescent-big.ani.json"
     },
     "planet.opalescent.medium": {
       "type": "GFXRES",
-      "data": "base/planets/opalescent-med.ani"
+      "data": "base/planets/opalescent-med.ani.json"
     },
     "planet.opalescent.small": {
       "type": "GFXRES",
-      "data": "base/planets/opalescent-sml.ani"
+      "data": "base/planets/opalescent-sml.ani.json"
     },
     "planet.opalescent.translatetable": {
       "type": "BINTAB",
@@ -1933,15 +1933,15 @@
     },
     "planet.orangegas.large": {
       "type": "GFXRES",
-      "data": "base/planets/orangegas-big.ani"
+      "data": "base/planets/orangegas-big.ani.json"
     },
     "planet.orangegas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/orangegas-med.ani"
+      "data": "base/planets/orangegas-med.ani.json"
     },
     "planet.orangegas.small": {
       "type": "GFXRES",
-      "data": "base/planets/orangegas-sml.ani"
+      "data": "base/planets/orangegas-sml.ani.json"
     },
     "planet.orangegas.translatetable": {
       "type": "BINTAB",
@@ -1953,15 +1953,15 @@
     },
     "planet.organic.large": {
       "type": "GFXRES",
-      "data": "base/planets/organic-big.ani"
+      "data": "base/planets/organic-big.ani.json"
     },
     "planet.organic.medium": {
       "type": "GFXRES",
-      "data": "base/planets/organic-med.ani"
+      "data": "base/planets/organic-med.ani.json"
     },
     "planet.organic.small": {
       "type": "GFXRES",
-      "data": "base/planets/organic-sml.ani"
+      "data": "base/planets/organic-sml.ani.json"
     },
     "planet.organic.translatetable": {
       "type": "BINTAB",
@@ -1973,15 +1973,15 @@
     },
     "planet.pellucid.large": {
       "type": "GFXRES",
-      "data": "base/planets/pellucid-big.ani"
+      "data": "base/planets/pellucid-big.ani.json"
     },
     "planet.pellucid.medium": {
       "type": "GFXRES",
-      "data": "base/planets/pellucid-med.ani"
+      "data": "base/planets/pellucid-med.ani.json"
     },
     "planet.pellucid.small": {
       "type": "GFXRES",
-      "data": "base/planets/pellucid-sml.ani"
+      "data": "base/planets/pellucid-sml.ani.json"
     },
     "planet.pellucid.translatetable": {
       "type": "BINTAB",
@@ -1993,15 +1993,15 @@
     },
     "planet.plutonic.large": {
       "type": "GFXRES",
-      "data": "base/planets/plutonic-big.ani"
+      "data": "base/planets/plutonic-big.ani.json"
     },
     "planet.plutonic.medium": {
       "type": "GFXRES",
-      "data": "base/planets/plutonic-med.ani"
+      "data": "base/planets/plutonic-med.ani.json"
     },
     "planet.plutonic.small": {
       "type": "GFXRES",
-      "data": "base/planets/plutonic-sml.ani"
+      "data": "base/planets/plutonic-sml.ani.json"
     },
     "planet.plutonic.translatetable": {
       "type": "BINTAB",
@@ -2013,15 +2013,15 @@
     },
     "planet.primordial.large": {
       "type": "GFXRES",
-      "data": "base/planets/primordial-big.ani"
+      "data": "base/planets/primordial-big.ani.json"
     },
     "planet.primordial.medium": {
       "type": "GFXRES",
-      "data": "base/planets/primordial-med.ani"
+      "data": "base/planets/primordial-med.ani.json"
     },
     "planet.primordial.small": {
       "type": "GFXRES",
-      "data": "base/planets/primordial-sml.ani"
+      "data": "base/planets/primordial-sml.ani.json"
     },
     "planet.primordial.translatetable": {
       "type": "BINTAB",
@@ -2033,15 +2033,15 @@
     },
     "planet.purple.large": {
       "type": "GFXRES",
-      "data": "base/planets/purple-big.ani"
+      "data": "base/planets/purple-big.ani.json"
     },
     "planet.purple.medium": {
       "type": "GFXRES",
-      "data": "base/planets/purple-med.ani"
+      "data": "base/planets/purple-med.ani.json"
     },
     "planet.purple.small": {
       "type": "GFXRES",
-      "data": "base/planets/purple-sml.ani"
+      "data": "base/planets/purple-sml.ani.json"
     },
     "planet.purple.translatetable": {
       "type": "BINTAB",
@@ -2053,15 +2053,15 @@
     },
     "planet.purplegas.large": {
       "type": "GFXRES",
-      "data": "base/planets/purplegas-big.ani"
+      "data": "base/planets/purplegas-big.ani.json"
     },
     "planet.purplegas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/purplegas-med.ani"
+      "data": "base/planets/purplegas-med.ani.json"
     },
     "planet.purplegas.small": {
       "type": "GFXRES",
-      "data": "base/planets/purplegas-sml.ani"
+      "data": "base/planets/purplegas-sml.ani.json"
     },
     "planet.purplegas.translatetable": {
       "type": "BINTAB",
@@ -2073,15 +2073,15 @@
     },
     "planet.quasidegenerate.large": {
       "type": "GFXRES",
-      "data": "base/planets/quasidegenerate-big.ani"
+      "data": "base/planets/quasidegenerate-big.ani.json"
     },
     "planet.quasidegenerate.medium": {
       "type": "GFXRES",
-      "data": "base/planets/quasidegenerate-med.ani"
+      "data": "base/planets/quasidegenerate-med.ani.json"
     },
     "planet.quasidegenerate.small": {
       "type": "GFXRES",
-      "data": "base/planets/quasidegenerate-sml.ani"
+      "data": "base/planets/quasidegenerate-sml.ani.json"
     },
     "planet.quasidegenerate.translatetable": {
       "type": "BINTAB",
@@ -2093,15 +2093,15 @@
     },
     "planet.radioactive.large": {
       "type": "GFXRES",
-      "data": "base/planets/radioactive-big.ani"
+      "data": "base/planets/radioactive-big.ani.json"
     },
     "planet.radioactive.medium": {
       "type": "GFXRES",
-      "data": "base/planets/radioactive-med.ani"
+      "data": "base/planets/radioactive-med.ani.json"
     },
     "planet.radioactive.small": {
       "type": "GFXRES",
-      "data": "base/planets/radioactive-sml.ani"
+      "data": "base/planets/radioactive-sml.ani.json"
     },
     "planet.radioactive.translatetable": {
       "type": "BINTAB",
@@ -2113,15 +2113,15 @@
     },
     "planet.rainbow.large": {
       "type": "GFXRES",
-      "data": "base/planets/rainbow-big.ani"
+      "data": "base/planets/rainbow-big.ani.json"
     },
     "planet.rainbow.medium": {
       "type": "GFXRES",
-      "data": "base/planets/rainbow-med.ani"
+      "data": "base/planets/rainbow-med.ani.json"
     },
     "planet.rainbow.small": {
       "type": "GFXRES",
-      "data": "base/planets/rainbow-sml.ani"
+      "data": "base/planets/rainbow-sml.ani.json"
     },
     "planet.rainbow.translatetable": {
       "type": "BINTAB",
@@ -2133,15 +2133,15 @@
     },
     "planet.redgas.large": {
       "type": "GFXRES",
-      "data": "base/planets/redgas-big.ani"
+      "data": "base/planets/redgas-big.ani.json"
     },
     "planet.redgas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/redgas-med.ani"
+      "data": "base/planets/redgas-med.ani.json"
     },
     "planet.redgas.small": {
       "type": "GFXRES",
-      "data": "base/planets/redgas-sml.ani"
+      "data": "base/planets/redgas-sml.ani.json"
     },
     "planet.redgas.translatetable": {
       "type": "BINTAB",
@@ -2153,15 +2153,15 @@
     },
     "planet.redux.large": {
       "type": "GFXRES",
-      "data": "base/planets/redux-big.ani"
+      "data": "base/planets/redux-big.ani.json"
     },
     "planet.redux.medium": {
       "type": "GFXRES",
-      "data": "base/planets/redux-med.ani"
+      "data": "base/planets/redux-med.ani.json"
     },
     "planet.redux.small": {
       "type": "GFXRES",
-      "data": "base/planets/redux-sml.ani"
+      "data": "base/planets/redux-sml.ani.json"
     },
     "planet.redux.translatetable": {
       "type": "BINTAB",
@@ -2173,15 +2173,15 @@
     },
     "planet.ruby.large": {
       "type": "GFXRES",
-      "data": "base/planets/ruby-big.ani"
+      "data": "base/planets/ruby-big.ani.json"
     },
     "planet.ruby.medium": {
       "type": "GFXRES",
-      "data": "base/planets/ruby-med.ani"
+      "data": "base/planets/ruby-med.ani.json"
     },
     "planet.ruby.small": {
       "type": "GFXRES",
-      "data": "base/planets/ruby-sml.ani"
+      "data": "base/planets/ruby-sml.ani.json"
     },
     "planet.ruby.translatetable": {
       "type": "BINTAB",
@@ -2189,7 +2189,7 @@
     },
     "planet.samatra.final": {
       "type": "GFXRES",
-      "data": "base/planets/samatra-final.ani"
+      "data": "base/planets/samatra-final.ani.json"
     },
     "planet.sapphire.colortable": {
       "type": "BINTAB",
@@ -2197,15 +2197,15 @@
     },
     "planet.sapphire.large": {
       "type": "GFXRES",
-      "data": "base/planets/sapphire-big.ani"
+      "data": "base/planets/sapphire-big.ani.json"
     },
     "planet.sapphire.medium": {
       "type": "GFXRES",
-      "data": "base/planets/sapphire-med.ani"
+      "data": "base/planets/sapphire-med.ani.json"
     },
     "planet.sapphire.small": {
       "type": "GFXRES",
-      "data": "base/planets/sapphire-sml.ani"
+      "data": "base/planets/sapphire-sml.ani.json"
     },
     "planet.sapphire.translatetable": {
       "type": "BINTAB",
@@ -2221,15 +2221,15 @@
     },
     "planet.selenic.large": {
       "type": "GFXRES",
-      "data": "base/planets/selenic-big.ani"
+      "data": "base/planets/selenic-big.ani.json"
     },
     "planet.selenic.medium": {
       "type": "GFXRES",
-      "data": "base/planets/selenic-med.ani"
+      "data": "base/planets/selenic-med.ani.json"
     },
     "planet.selenic.small": {
       "type": "GFXRES",
-      "data": "base/planets/selenic-sml.ani"
+      "data": "base/planets/selenic-sml.ani.json"
     },
     "planet.selenic.translatetable": {
       "type": "BINTAB",
@@ -2241,15 +2241,15 @@
     },
     "planet.shattered.large": {
       "type": "GFXRES",
-      "data": "base/planets/shattered-big.ani"
+      "data": "base/planets/shattered-big.ani.json"
     },
     "planet.shattered.medium": {
       "type": "GFXRES",
-      "data": "base/planets/shattered-med.ani"
+      "data": "base/planets/shattered-med.ani.json"
     },
     "planet.shattered.small": {
       "type": "GFXRES",
-      "data": "base/planets/shattered-sml.ani"
+      "data": "base/planets/shattered-sml.ani.json"
     },
     "planet.shattered.translatetable": {
       "type": "BINTAB",
@@ -2261,15 +2261,15 @@
     },
     "planet.slaveshield.large": {
       "type": "GFXRES",
-      "data": "base/planets/slaveshield-big.ani"
+      "data": "base/planets/slaveshield-big.ani.json"
     },
     "planet.slaveshield.medium": {
       "type": "GFXRES",
-      "data": "base/planets/slaveshield-med.ani"
+      "data": "base/planets/slaveshield-med.ani.json"
     },
     "planet.slaveshield.small": {
       "type": "GFXRES",
-      "data": "base/planets/slaveshield-sml.ani"
+      "data": "base/planets/slaveshield-sml.ani.json"
     },
     "planet.superdense.colortable": {
       "type": "BINTAB",
@@ -2277,15 +2277,15 @@
     },
     "planet.superdense.large": {
       "type": "GFXRES",
-      "data": "base/planets/superdense-big.ani"
+      "data": "base/planets/superdense-big.ani.json"
     },
     "planet.superdense.medium": {
       "type": "GFXRES",
-      "data": "base/planets/superdense-med.ani"
+      "data": "base/planets/superdense-med.ani.json"
     },
     "planet.superdense.small": {
       "type": "GFXRES",
-      "data": "base/planets/superdense-sml.ani"
+      "data": "base/planets/superdense-sml.ani.json"
     },
     "planet.superdense.translatetable": {
       "type": "BINTAB",
@@ -2297,15 +2297,15 @@
     },
     "planet.telluric.large": {
       "type": "GFXRES",
-      "data": "base/planets/telluric-big.ani"
+      "data": "base/planets/telluric-big.ani.json"
     },
     "planet.telluric.medium": {
       "type": "GFXRES",
-      "data": "base/planets/telluric-med.ani"
+      "data": "base/planets/telluric-med.ani.json"
     },
     "planet.telluric.small": {
       "type": "GFXRES",
-      "data": "base/planets/telluric-sml.ani"
+      "data": "base/planets/telluric-sml.ani.json"
     },
     "planet.telluric.translatetable": {
       "type": "BINTAB",
@@ -2317,15 +2317,15 @@
     },
     "planet.treasure.large": {
       "type": "GFXRES",
-      "data": "base/planets/treasure-big.ani"
+      "data": "base/planets/treasure-big.ani.json"
     },
     "planet.treasure.medium": {
       "type": "GFXRES",
-      "data": "base/planets/treasure-med.ani"
+      "data": "base/planets/treasure-med.ani.json"
     },
     "planet.treasure.small": {
       "type": "GFXRES",
-      "data": "base/planets/treasure-sml.ani"
+      "data": "base/planets/treasure-sml.ani.json"
     },
     "planet.treasure.translatetable": {
       "type": "BINTAB",
@@ -2337,15 +2337,15 @@
     },
     "planet.ultramarine.large": {
       "type": "GFXRES",
-      "data": "base/planets/ultramarine-big.ani"
+      "data": "base/planets/ultramarine-big.ani.json"
     },
     "planet.ultramarine.medium": {
       "type": "GFXRES",
-      "data": "base/planets/ultramarine-med.ani"
+      "data": "base/planets/ultramarine-med.ani.json"
     },
     "planet.ultramarine.small": {
       "type": "GFXRES",
-      "data": "base/planets/ultramarine-sml.ani"
+      "data": "base/planets/ultramarine-sml.ani.json"
     },
     "planet.ultramarine.translatetable": {
       "type": "BINTAB",
@@ -2357,15 +2357,15 @@
     },
     "planet.ultraviolet.large": {
       "type": "GFXRES",
-      "data": "base/planets/ultraviolet-big.ani"
+      "data": "base/planets/ultraviolet-big.ani.json"
     },
     "planet.ultraviolet.medium": {
       "type": "GFXRES",
-      "data": "base/planets/ultraviolet-med.ani"
+      "data": "base/planets/ultraviolet-med.ani.json"
     },
     "planet.ultraviolet.small": {
       "type": "GFXRES",
-      "data": "base/planets/ultraviolet-sml.ani"
+      "data": "base/planets/ultraviolet-sml.ani.json"
     },
     "planet.ultraviolet.translatetable": {
       "type": "BINTAB",
@@ -2377,15 +2377,15 @@
     },
     "planet.urea.large": {
       "type": "GFXRES",
-      "data": "base/planets/urea-big.ani"
+      "data": "base/planets/urea-big.ani.json"
     },
     "planet.urea.medium": {
       "type": "GFXRES",
-      "data": "base/planets/urea-med.ani"
+      "data": "base/planets/urea-med.ani.json"
     },
     "planet.urea.small": {
       "type": "GFXRES",
-      "data": "base/planets/urea-sml.ani"
+      "data": "base/planets/urea-sml.ani.json"
     },
     "planet.urea.translatetable": {
       "type": "BINTAB",
@@ -2397,15 +2397,15 @@
     },
     "planet.vinylogous.large": {
       "type": "GFXRES",
-      "data": "base/planets/vinylogous-big.ani"
+      "data": "base/planets/vinylogous-big.ani.json"
     },
     "planet.vinylogous.medium": {
       "type": "GFXRES",
-      "data": "base/planets/vinylogous-med.ani"
+      "data": "base/planets/vinylogous-med.ani.json"
     },
     "planet.vinylogous.small": {
       "type": "GFXRES",
-      "data": "base/planets/vinylogous-sml.ani"
+      "data": "base/planets/vinylogous-sml.ani.json"
     },
     "planet.vinylogous.translatetable": {
       "type": "BINTAB",
@@ -2417,15 +2417,15 @@
     },
     "planet.violetgas.large": {
       "type": "GFXRES",
-      "data": "base/planets/violetgas-big.ani"
+      "data": "base/planets/violetgas-big.ani.json"
     },
     "planet.violetgas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/violetgas-med.ani"
+      "data": "base/planets/violetgas-med.ani.json"
     },
     "planet.violetgas.small": {
       "type": "GFXRES",
-      "data": "base/planets/violetgas-sml.ani"
+      "data": "base/planets/violetgas-sml.ani.json"
     },
     "planet.violetgas.translatetable": {
       "type": "BINTAB",
@@ -2437,15 +2437,15 @@
     },
     "planet.water.large": {
       "type": "GFXRES",
-      "data": "base/planets/water-big.ani"
+      "data": "base/planets/water-big.ani.json"
     },
     "planet.water.medium": {
       "type": "GFXRES",
-      "data": "base/planets/water-med.ani"
+      "data": "base/planets/water-med.ani.json"
     },
     "planet.water.small": {
       "type": "GFXRES",
-      "data": "base/planets/water-sml.ani"
+      "data": "base/planets/water-sml.ani.json"
     },
     "planet.water.translatetable": {
       "type": "BINTAB",
@@ -2457,15 +2457,15 @@
     },
     "planet.xenolithic.large": {
       "type": "GFXRES",
-      "data": "base/planets/xenolithic-big.ani"
+      "data": "base/planets/xenolithic-big.ani.json"
     },
     "planet.xenolithic.medium": {
       "type": "GFXRES",
-      "data": "base/planets/xenolithic-med.ani"
+      "data": "base/planets/xenolithic-med.ani.json"
     },
     "planet.xenolithic.small": {
       "type": "GFXRES",
-      "data": "base/planets/xenolithic-sml.ani"
+      "data": "base/planets/xenolithic-sml.ani.json"
     },
     "planet.xenolithic.translatetable": {
       "type": "BINTAB",
@@ -2477,15 +2477,15 @@
     },
     "planet.yellowgas.large": {
       "type": "GFXRES",
-      "data": "base/planets/yellowgas-big.ani"
+      "data": "base/planets/yellowgas-big.ani.json"
     },
     "planet.yellowgas.medium": {
       "type": "GFXRES",
-      "data": "base/planets/yellowgas-med.ani"
+      "data": "base/planets/yellowgas-med.ani.json"
     },
     "planet.yellowgas.small": {
       "type": "GFXRES",
-      "data": "base/planets/yellowgas-sml.ani"
+      "data": "base/planets/yellowgas-sml.ani.json"
     },
     "planet.yellowgas.translatetable": {
       "type": "BINTAB",
@@ -2497,15 +2497,15 @@
     },
     "planet.yttric.large": {
       "type": "GFXRES",
-      "data": "base/planets/yttric-big.ani"
+      "data": "base/planets/yttric-big.ani.json"
     },
     "planet.yttric.medium": {
       "type": "GFXRES",
-      "data": "base/planets/yttric-med.ani"
+      "data": "base/planets/yttric-med.ani.json"
     },
     "planet.yttric.small": {
       "type": "GFXRES",
-      "data": "base/planets/yttric-sml.ani"
+      "data": "base/planets/yttric-sml.ani.json"
     },
     "planet.yttric.translatetable": {
       "type": "BINTAB",
@@ -2525,51 +2525,51 @@
     },
     "ship.androsynth.graphics.blazer.large": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/blazer-big.ani"
+      "data": "base/ships/androsynth/blazer-big.ani.json"
     },
     "ship.androsynth.graphics.blazer.medium": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/blazer-med.ani"
+      "data": "base/ships/androsynth/blazer-med.ani.json"
     },
     "ship.androsynth.graphics.blazer.small": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/blazer-sml.ani"
+      "data": "base/ships/androsynth/blazer-sml.ani.json"
     },
     "ship.androsynth.graphics.bubble.large": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/bubble-big.ani"
+      "data": "base/ships/androsynth/bubble-big.ani.json"
     },
     "ship.androsynth.graphics.bubble.medium": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/bubble-med.ani"
+      "data": "base/ships/androsynth/bubble-med.ani.json"
     },
     "ship.androsynth.graphics.bubble.small": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/bubble-sml.ani"
+      "data": "base/ships/androsynth/bubble-sml.ani.json"
     },
     "ship.androsynth.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/guardian-cap.ani"
+      "data": "base/ships/androsynth/guardian-cap.ani.json"
     },
     "ship.androsynth.graphics.guardian.large": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/guardian-big.ani"
+      "data": "base/ships/androsynth/guardian-big.ani.json"
     },
     "ship.androsynth.graphics.guardian.medium": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/guardian-med.ani"
+      "data": "base/ships/androsynth/guardian-med.ani.json"
     },
     "ship.androsynth.graphics.guardian.small": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/guardian-sml.ani"
+      "data": "base/ships/androsynth/guardian-sml.ani.json"
     },
     "ship.androsynth.icons": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/guardian-icons.ani"
+      "data": "base/ships/androsynth/guardian-icons.ani.json"
     },
     "ship.androsynth.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/androsynth/guardian-meleeicons.ani"
+      "data": "base/ships/androsynth/guardian-meleeicons.ani.json"
     },
     "ship.androsynth.sounds": {
       "type": "SNDRES",
@@ -2589,39 +2589,39 @@
     },
     "ship.arilou.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/skiff-cap.ani"
+      "data": "base/ships/arilou/skiff-cap.ani.json"
     },
     "ship.arilou.graphics.skiff.large": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/skiff-big.ani"
+      "data": "base/ships/arilou/skiff-big.ani.json"
     },
     "ship.arilou.graphics.skiff.medium": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/skiff-med.ani"
+      "data": "base/ships/arilou/skiff-med.ani.json"
     },
     "ship.arilou.graphics.skiff.small": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/skiff-sml.ani"
+      "data": "base/ships/arilou/skiff-sml.ani.json"
     },
     "ship.arilou.graphics.warp.large": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/warp-big.ani"
+      "data": "base/ships/arilou/warp-big.ani.json"
     },
     "ship.arilou.graphics.warp.medium": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/warp-med.ani"
+      "data": "base/ships/arilou/warp-med.ani.json"
     },
     "ship.arilou.graphics.warp.small": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/warp-sml.ani"
+      "data": "base/ships/arilou/warp-sml.ani.json"
     },
     "ship.arilou.icons": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/skiff-icons.ani"
+      "data": "base/ships/arilou/skiff-icons.ani.json"
     },
     "ship.arilou.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/arilou/skiff-meleeicons.ani"
+      "data": "base/ships/arilou/skiff-meleeicons.ani.json"
     },
     "ship.arilou.sounds": {
       "type": "SNDRES",
@@ -2641,51 +2641,51 @@
     },
     "ship.chenjesu.graphics.broodhome.large": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/broodhome-big.ani"
+      "data": "base/ships/chenjesu/broodhome-big.ani.json"
     },
     "ship.chenjesu.graphics.broodhome.medium": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/broodhome-med.ani"
+      "data": "base/ships/chenjesu/broodhome-med.ani.json"
     },
     "ship.chenjesu.graphics.broodhome.small": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/broodhome-sml.ani"
+      "data": "base/ships/chenjesu/broodhome-sml.ani.json"
     },
     "ship.chenjesu.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/broodhome-cap.ani"
+      "data": "base/ships/chenjesu/broodhome-cap.ani.json"
     },
     "ship.chenjesu.graphics.doggy.large": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/doggy-big.ani"
+      "data": "base/ships/chenjesu/doggy-big.ani.json"
     },
     "ship.chenjesu.graphics.doggy.medium": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/doggy-med.ani"
+      "data": "base/ships/chenjesu/doggy-med.ani.json"
     },
     "ship.chenjesu.graphics.doggy.small": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/doggy-sml.ani"
+      "data": "base/ships/chenjesu/doggy-sml.ani.json"
     },
     "ship.chenjesu.graphics.spark.large": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/spark-big.ani"
+      "data": "base/ships/chenjesu/spark-big.ani.json"
     },
     "ship.chenjesu.graphics.spark.medium": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/spark-med.ani"
+      "data": "base/ships/chenjesu/spark-med.ani.json"
     },
     "ship.chenjesu.graphics.spark.small": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/spark-sml.ani"
+      "data": "base/ships/chenjesu/spark-sml.ani.json"
     },
     "ship.chenjesu.icons": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/broodhome-icons.ani"
+      "data": "base/ships/chenjesu/broodhome-icons.ani.json"
     },
     "ship.chenjesu.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/chenjesu/broodhome-meleeicons.ani"
+      "data": "base/ships/chenjesu/broodhome-meleeicons.ani.json"
     },
     "ship.chenjesu.sounds": {
       "type": "SNDRES",
@@ -2705,51 +2705,51 @@
     },
     "ship.chmmr.graphics.avatar.large": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/avatar-big.ani"
+      "data": "base/ships/chmmr/avatar-big.ani.json"
     },
     "ship.chmmr.graphics.avatar.medium": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/avatar-med.ani"
+      "data": "base/ships/chmmr/avatar-med.ani.json"
     },
     "ship.chmmr.graphics.avatar.small": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/avatar-sml.ani"
+      "data": "base/ships/chmmr/avatar-sml.ani.json"
     },
     "ship.chmmr.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/avatar-cap.ani"
+      "data": "base/ships/chmmr/avatar-cap.ani.json"
     },
     "ship.chmmr.graphics.muzzle.large": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/muzzle-big.ani"
+      "data": "base/ships/chmmr/muzzle-big.ani.json"
     },
     "ship.chmmr.graphics.muzzle.medium": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/muzzle-med.ani"
+      "data": "base/ships/chmmr/muzzle-med.ani.json"
     },
     "ship.chmmr.graphics.muzzle.small": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/muzzle-sml.ani"
+      "data": "base/ships/chmmr/muzzle-sml.ani.json"
     },
     "ship.chmmr.graphics.satellite.large": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/satellite-big.ani"
+      "data": "base/ships/chmmr/satellite-big.ani.json"
     },
     "ship.chmmr.graphics.satellite.medium": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/satellite-med.ani"
+      "data": "base/ships/chmmr/satellite-med.ani.json"
     },
     "ship.chmmr.graphics.satellite.small": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/satellite-sml.ani"
+      "data": "base/ships/chmmr/satellite-sml.ani.json"
     },
     "ship.chmmr.icons": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/avatar-icons.ani"
+      "data": "base/ships/chmmr/avatar-icons.ani.json"
     },
     "ship.chmmr.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/chmmr/avatar-meleeicons.ani"
+      "data": "base/ships/chmmr/avatar-meleeicons.ani.json"
     },
     "ship.chmmr.sounds": {
       "type": "SNDRES",
@@ -2765,7 +2765,7 @@
     },
     "ship.drone.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/drone/drone-meleeicons.ani"
+      "data": "base/ships/drone/drone-meleeicons.ani.json"
     },
     "ship.druuge.code": {
       "type": "SHIP",
@@ -2777,39 +2777,39 @@
     },
     "ship.druuge.graphics.cannon.large": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/cannon-big.ani"
+      "data": "base/ships/druuge/cannon-big.ani.json"
     },
     "ship.druuge.graphics.cannon.medium": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/cannon-med.ani"
+      "data": "base/ships/druuge/cannon-med.ani.json"
     },
     "ship.druuge.graphics.cannon.small": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/cannon-sml.ani"
+      "data": "base/ships/druuge/cannon-sml.ani.json"
     },
     "ship.druuge.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/mauler-cap.ani"
+      "data": "base/ships/druuge/mauler-cap.ani.json"
     },
     "ship.druuge.graphics.mauler.large": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/mauler-big.ani"
+      "data": "base/ships/druuge/mauler-big.ani.json"
     },
     "ship.druuge.graphics.mauler.medium": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/mauler-med.ani"
+      "data": "base/ships/druuge/mauler-med.ani.json"
     },
     "ship.druuge.graphics.mauler.small": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/mauler-sml.ani"
+      "data": "base/ships/druuge/mauler-sml.ani.json"
     },
     "ship.druuge.icons": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/mauler-icons.ani"
+      "data": "base/ships/druuge/mauler-icons.ani.json"
     },
     "ship.druuge.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/druuge/mauler-meleeicons.ani"
+      "data": "base/ships/druuge/mauler-meleeicons.ani.json"
     },
     "ship.druuge.sounds": {
       "type": "SNDRES",
@@ -2829,39 +2829,39 @@
     },
     "ship.earthling.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/human/cruiser-cap.ani"
+      "data": "base/ships/human/cruiser-cap.ani.json"
     },
     "ship.earthling.graphics.human.large": {
       "type": "GFXRES",
-      "data": "base/ships/human/cruiser-big.ani"
+      "data": "base/ships/human/cruiser-big.ani.json"
     },
     "ship.earthling.graphics.human.medium": {
       "type": "GFXRES",
-      "data": "base/ships/human/cruiser-med.ani"
+      "data": "base/ships/human/cruiser-med.ani.json"
     },
     "ship.earthling.graphics.human.small": {
       "type": "GFXRES",
-      "data": "base/ships/human/cruiser-sml.ani"
+      "data": "base/ships/human/cruiser-sml.ani.json"
     },
     "ship.earthling.graphics.saturn.large": {
       "type": "GFXRES",
-      "data": "base/ships/human/saturn-big.ani"
+      "data": "base/ships/human/saturn-big.ani.json"
     },
     "ship.earthling.graphics.saturn.medium": {
       "type": "GFXRES",
-      "data": "base/ships/human/saturn-med.ani"
+      "data": "base/ships/human/saturn-med.ani.json"
     },
     "ship.earthling.graphics.saturn.small": {
       "type": "GFXRES",
-      "data": "base/ships/human/saturn-sml.ani"
+      "data": "base/ships/human/saturn-sml.ani.json"
     },
     "ship.earthling.icons": {
       "type": "GFXRES",
-      "data": "base/ships/human/cruiser-icons.ani"
+      "data": "base/ships/human/cruiser-icons.ani.json"
     },
     "ship.earthling.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/human/cruiser-meleeicons.ani"
+      "data": "base/ships/human/cruiser-meleeicons.ani.json"
     },
     "ship.earthling.sounds": {
       "type": "SNDRES",
@@ -2881,55 +2881,55 @@
     },
     "ship.flagship.graphics.blaster.large": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/blaster-big.ani"
+      "data": "base/ships/flagship/blaster-big.ani.json"
     },
     "ship.flagship.graphics.blaster.medium": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/blaster-med.ani"
+      "data": "base/ships/flagship/blaster-med.ani.json"
     },
     "ship.flagship.graphics.blaster.small": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/blaster-sml.ani"
+      "data": "base/ships/flagship/blaster-sml.ani.json"
     },
     "ship.flagship.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/flagship-cap.ani"
+      "data": "base/ships/flagship/flagship-cap.ani.json"
     },
     "ship.flagship.graphics.flagship.large": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/flagship-big.ani"
+      "data": "base/ships/flagship/flagship-big.ani.json"
     },
     "ship.flagship.graphics.flagship.medium": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/flagship-med.ani"
+      "data": "base/ships/flagship/flagship-med.ani.json"
     },
     "ship.flagship.graphics.flagship.small": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/flagship-sml.ani"
+      "data": "base/ships/flagship/flagship-sml.ani.json"
     },
     "ship.flagship.graphics.flagship.red.large": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/red/flagship-big.ani"
+      "data": "base/ships/flagship/red/flagship-big.ani.json"
     },
     "ship.flagship.graphics.flagship.red.medium": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/red/flagship-med.ani"
+      "data": "base/ships/flagship/red/flagship-med.ani.json"
     },
     "ship.flagship.graphics.flagship.red.small": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/red/flagship-sml.ani"
+      "data": "base/ships/flagship/red/flagship-sml.ani.json"
     },
     "ship.flagship.graphics.hyperspace": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/hyperspace.ani"
+      "data": "base/ships/flagship/hyperspace.ani.json"
     },
     "ship.flagship.icons": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/flagship-icons.ani"
+      "data": "base/ships/flagship/flagship-icons.ani.json"
     },
     "ship.flagship.red.icons": {
       "type": "GFXRES",
-      "data": "base/ships/flagship/red/flagship-icons.ani"
+      "data": "base/ships/flagship/red/flagship-icons.ani.json"
     },
     "ship.flagship.sounds": {
       "type": "SNDRES",
@@ -2945,39 +2945,39 @@
     },
     "ship.ilwrath.graphics.avenger.large": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/avenger-big.ani"
+      "data": "base/ships/ilwrath/avenger-big.ani.json"
     },
     "ship.ilwrath.graphics.avenger.medium": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/avenger-med.ani"
+      "data": "base/ships/ilwrath/avenger-med.ani.json"
     },
     "ship.ilwrath.graphics.avenger.small": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/avenger-sml.ani"
+      "data": "base/ships/ilwrath/avenger-sml.ani.json"
     },
     "ship.ilwrath.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/avenger-cap.ani"
+      "data": "base/ships/ilwrath/avenger-cap.ani.json"
     },
     "ship.ilwrath.graphics.fire.large": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/fire-big.ani"
+      "data": "base/ships/ilwrath/fire-big.ani.json"
     },
     "ship.ilwrath.graphics.fire.medium": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/fire-med.ani"
+      "data": "base/ships/ilwrath/fire-med.ani.json"
     },
     "ship.ilwrath.graphics.fire.small": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/fire-sml.ani"
+      "data": "base/ships/ilwrath/fire-sml.ani.json"
     },
     "ship.ilwrath.icons": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/avenger-icons.ani"
+      "data": "base/ships/ilwrath/avenger-icons.ani.json"
     },
     "ship.ilwrath.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/ilwrath/avenger-meleeicons.ani"
+      "data": "base/ships/ilwrath/avenger-meleeicons.ani.json"
     },
     "ship.ilwrath.sounds": {
       "type": "SNDRES",
@@ -2997,51 +2997,51 @@
     },
     "ship.kohrah.graphics.buzzsaw.large": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/buzzsaw-big.ani"
+      "data": "base/ships/kohrah/buzzsaw-big.ani.json"
     },
     "ship.kohrah.graphics.buzzsaw.medium": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/buzzsaw-med.ani"
+      "data": "base/ships/kohrah/buzzsaw-med.ani.json"
     },
     "ship.kohrah.graphics.buzzsaw.small": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/buzzsaw-sml.ani"
+      "data": "base/ships/kohrah/buzzsaw-sml.ani.json"
     },
     "ship.kohrah.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/marauder-cap.ani"
+      "data": "base/ships/kohrah/marauder-cap.ani.json"
     },
     "ship.kohrah.graphics.gas.large": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/gas-big.ani"
+      "data": "base/ships/kohrah/gas-big.ani.json"
     },
     "ship.kohrah.graphics.gas.medium": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/gas-med.ani"
+      "data": "base/ships/kohrah/gas-med.ani.json"
     },
     "ship.kohrah.graphics.gas.small": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/gas-sml.ani"
+      "data": "base/ships/kohrah/gas-sml.ani.json"
     },
     "ship.kohrah.graphics.marauder.large": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/marauder-big.ani"
+      "data": "base/ships/kohrah/marauder-big.ani.json"
     },
     "ship.kohrah.graphics.marauder.medium": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/marauder-med.ani"
+      "data": "base/ships/kohrah/marauder-med.ani.json"
     },
     "ship.kohrah.graphics.marauder.small": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/marauder-sml.ani"
+      "data": "base/ships/kohrah/marauder-sml.ani.json"
     },
     "ship.kohrah.icons": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/marauder-icons.ani"
+      "data": "base/ships/kohrah/marauder-icons.ani.json"
     },
     "ship.kohrah.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/kohrah/marauder-meleeicons.ani"
+      "data": "base/ships/kohrah/marauder-meleeicons.ani.json"
     },
     "ship.kohrah.sounds": {
       "type": "SNDRES",
@@ -3061,51 +3061,51 @@
     },
     "ship.melnorme.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/trader-cap.ani"
+      "data": "base/ships/melnorme/trader-cap.ani.json"
     },
     "ship.melnorme.graphics.confuse.large": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/confuse-big.ani"
+      "data": "base/ships/melnorme/confuse-big.ani.json"
     },
     "ship.melnorme.graphics.confuse.medium": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/confuse-med.ani"
+      "data": "base/ships/melnorme/confuse-med.ani.json"
     },
     "ship.melnorme.graphics.confuse.small": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/confuse-sml.ani"
+      "data": "base/ships/melnorme/confuse-sml.ani.json"
     },
     "ship.melnorme.graphics.pumpup.large": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/pumpup-big.ani"
+      "data": "base/ships/melnorme/pumpup-big.ani.json"
     },
     "ship.melnorme.graphics.pumpup.medium": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/pumpup-med.ani"
+      "data": "base/ships/melnorme/pumpup-med.ani.json"
     },
     "ship.melnorme.graphics.pumpup.small": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/pumpup-sml.ani"
+      "data": "base/ships/melnorme/pumpup-sml.ani.json"
     },
     "ship.melnorme.graphics.trader.large": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/trader-big.ani"
+      "data": "base/ships/melnorme/trader-big.ani.json"
     },
     "ship.melnorme.graphics.trader.medium": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/trader-med.ani"
+      "data": "base/ships/melnorme/trader-med.ani.json"
     },
     "ship.melnorme.graphics.trader.small": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/trader-sml.ani"
+      "data": "base/ships/melnorme/trader-sml.ani.json"
     },
     "ship.melnorme.icons": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/trader-icons.ani"
+      "data": "base/ships/melnorme/trader-icons.ani.json"
     },
     "ship.melnorme.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/melnorme/trader-meleeicons.ani"
+      "data": "base/ships/melnorme/trader-meleeicons.ani.json"
     },
     "ship.melnorme.sounds": {
       "type": "SNDRES",
@@ -3125,55 +3125,55 @@
     },
     "ship.mmrnmhrm.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/xform-cap.ani"
+      "data": "base/ships/mmrnmhrm/xform-cap.ani.json"
     },
     "ship.mmrnmhrm.graphics.torpedo.large": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/torpedo-big.ani"
+      "data": "base/ships/mmrnmhrm/torpedo-big.ani.json"
     },
     "ship.mmrnmhrm.graphics.torpedo.medium": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/torpedo-med.ani"
+      "data": "base/ships/mmrnmhrm/torpedo-med.ani.json"
     },
     "ship.mmrnmhrm.graphics.torpedo.small": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/torpedo-sml.ani"
+      "data": "base/ships/mmrnmhrm/torpedo-sml.ani.json"
     },
     "ship.mmrnmhrm.graphics.xform.large": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/xform-big.ani"
+      "data": "base/ships/mmrnmhrm/xform-big.ani.json"
     },
     "ship.mmrnmhrm.graphics.xform.medium": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/xform-med.ani"
+      "data": "base/ships/mmrnmhrm/xform-med.ani.json"
     },
     "ship.mmrnmhrm.graphics.xform.small": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/xform-sml.ani"
+      "data": "base/ships/mmrnmhrm/xform-sml.ani.json"
     },
     "ship.mmrnmhrm.graphics.ywing.large": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/ywing-big.ani"
+      "data": "base/ships/mmrnmhrm/ywing-big.ani.json"
     },
     "ship.mmrnmhrm.graphics.ywing.medium": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/ywing-med.ani"
+      "data": "base/ships/mmrnmhrm/ywing-med.ani.json"
     },
     "ship.mmrnmhrm.graphics.ywing.small": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/ywing-sml.ani"
+      "data": "base/ships/mmrnmhrm/ywing-sml.ani.json"
     },
     "ship.mmrnmhrm.icons": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/xform-icons.ani"
+      "data": "base/ships/mmrnmhrm/xform-icons.ani.json"
     },
     "ship.mmrnmhrm.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/xform-meleeicons.ani"
+      "data": "base/ships/mmrnmhrm/xform-meleeicons.ani.json"
     },
     "ship.mmrnmhrm.meleeicons.y": {
       "type": "GFXRES",
-      "data": "base/ships/mmrnmhrm/ywing-meleeicons.ani"
+      "data": "base/ships/mmrnmhrm/ywing-meleeicons.ani.json"
     },
     "ship.mmrnmhrm.sounds": {
       "type": "SNDRES",
@@ -3193,39 +3193,39 @@
     },
     "ship.mycon.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/podship-cap.ani"
+      "data": "base/ships/mycon/podship-cap.ani.json"
     },
     "ship.mycon.graphics.plasma.large": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/plasma-big.ani"
+      "data": "base/ships/mycon/plasma-big.ani.json"
     },
     "ship.mycon.graphics.plasma.medium": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/plasma-med.ani"
+      "data": "base/ships/mycon/plasma-med.ani.json"
     },
     "ship.mycon.graphics.plasma.small": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/plasma-sml.ani"
+      "data": "base/ships/mycon/plasma-sml.ani.json"
     },
     "ship.mycon.graphics.podship.large": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/podship-big.ani"
+      "data": "base/ships/mycon/podship-big.ani.json"
     },
     "ship.mycon.graphics.podship.medium": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/podship-med.ani"
+      "data": "base/ships/mycon/podship-med.ani.json"
     },
     "ship.mycon.graphics.podship.small": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/podship-sml.ani"
+      "data": "base/ships/mycon/podship-sml.ani.json"
     },
     "ship.mycon.icons": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/podship-icons.ani"
+      "data": "base/ships/mycon/podship-icons.ani.json"
     },
     "ship.mycon.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/mycon/podship-meleeicons.ani"
+      "data": "base/ships/mycon/podship-meleeicons.ani.json"
     },
     "ship.mycon.sounds": {
       "type": "SNDRES",
@@ -3245,51 +3245,51 @@
     },
     "ship.orz.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/orz/nemesis-cap.ani"
+      "data": "base/ships/orz/nemesis-cap.ani.json"
     },
     "ship.orz.graphics.howitzer.large": {
       "type": "GFXRES",
-      "data": "base/ships/orz/howitzer-big.ani"
+      "data": "base/ships/orz/howitzer-big.ani.json"
     },
     "ship.orz.graphics.howitzer.medium": {
       "type": "GFXRES",
-      "data": "base/ships/orz/howitzer-med.ani"
+      "data": "base/ships/orz/howitzer-med.ani.json"
     },
     "ship.orz.graphics.howitzer.small": {
       "type": "GFXRES",
-      "data": "base/ships/orz/howitzer-sml.ani"
+      "data": "base/ships/orz/howitzer-sml.ani.json"
     },
     "ship.orz.graphics.nemesis.large": {
       "type": "GFXRES",
-      "data": "base/ships/orz/nemesis-big.ani"
+      "data": "base/ships/orz/nemesis-big.ani.json"
     },
     "ship.orz.graphics.nemesis.medium": {
       "type": "GFXRES",
-      "data": "base/ships/orz/nemesis-med.ani"
+      "data": "base/ships/orz/nemesis-med.ani.json"
     },
     "ship.orz.graphics.nemesis.small": {
       "type": "GFXRES",
-      "data": "base/ships/orz/nemesis-sml.ani"
+      "data": "base/ships/orz/nemesis-sml.ani.json"
     },
     "ship.orz.graphics.turret.large": {
       "type": "GFXRES",
-      "data": "base/ships/orz/turret-big.ani"
+      "data": "base/ships/orz/turret-big.ani.json"
     },
     "ship.orz.graphics.turret.medium": {
       "type": "GFXRES",
-      "data": "base/ships/orz/turret-med.ani"
+      "data": "base/ships/orz/turret-med.ani.json"
     },
     "ship.orz.graphics.turret.small": {
       "type": "GFXRES",
-      "data": "base/ships/orz/turret-sml.ani"
+      "data": "base/ships/orz/turret-sml.ani.json"
     },
     "ship.orz.icons": {
       "type": "GFXRES",
-      "data": "base/ships/orz/nemesis-icons.ani"
+      "data": "base/ships/orz/nemesis-icons.ani.json"
     },
     "ship.orz.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/orz/nemesis-meleeicons.ani"
+      "data": "base/ships/orz/nemesis-meleeicons.ani.json"
     },
     "ship.orz.sounds": {
       "type": "SNDRES",
@@ -3309,39 +3309,39 @@
     },
     "ship.pkunk.graphics.bug.large": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/bug-big.ani"
+      "data": "base/ships/pkunk/bug-big.ani.json"
     },
     "ship.pkunk.graphics.bug.medium": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/bug-med.ani"
+      "data": "base/ships/pkunk/bug-med.ani.json"
     },
     "ship.pkunk.graphics.bug.small": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/bug-sml.ani"
+      "data": "base/ships/pkunk/bug-sml.ani.json"
     },
     "ship.pkunk.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/fury-cap.ani"
+      "data": "base/ships/pkunk/fury-cap.ani.json"
     },
     "ship.pkunk.graphics.fury.large": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/fury-big.ani"
+      "data": "base/ships/pkunk/fury-big.ani.json"
     },
     "ship.pkunk.graphics.fury.medium": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/fury-med.ani"
+      "data": "base/ships/pkunk/fury-med.ani.json"
     },
     "ship.pkunk.graphics.fury.small": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/fury-sml.ani"
+      "data": "base/ships/pkunk/fury-sml.ani.json"
     },
     "ship.pkunk.icons": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/fury-icons.ani"
+      "data": "base/ships/pkunk/fury-icons.ani.json"
     },
     "ship.pkunk.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/pkunk/fury-meleeicons.ani"
+      "data": "base/ships/pkunk/fury-meleeicons.ani.json"
     },
     "ship.pkunk.sounds": {
       "type": "SNDRES",
@@ -3357,43 +3357,43 @@
     },
     "ship.samatra.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/samatra-cap.ani"
+      "data": "base/ships/samatra/samatra-cap.ani.json"
     },
     "ship.samatra.graphics.generator.large": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/generator-big.ani"
+      "data": "base/ships/samatra/generator-big.ani.json"
     },
     "ship.samatra.graphics.generator.medium": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/generator-med.ani"
+      "data": "base/ships/samatra/generator-med.ani.json"
     },
     "ship.samatra.graphics.generator.small": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/generator-sml.ani"
+      "data": "base/ships/samatra/generator-sml.ani.json"
     },
     "ship.samatra.graphics.samatra.large": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/samatra-big.ani"
+      "data": "base/ships/samatra/samatra-big.ani.json"
     },
     "ship.samatra.graphics.samatra.medium": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/samatra-med.ani"
+      "data": "base/ships/samatra/samatra-med.ani.json"
     },
     "ship.samatra.graphics.samatra.small": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/samatra-sml.ani"
+      "data": "base/ships/samatra/samatra-sml.ani.json"
     },
     "ship.samatra.graphics.sentinel.large": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/sentinel-big.ani"
+      "data": "base/ships/samatra/sentinel-big.ani.json"
     },
     "ship.samatra.graphics.sentinel.medium": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/sentinel-med.ani"
+      "data": "base/ships/samatra/sentinel-med.ani.json"
     },
     "ship.samatra.graphics.sentinel.small": {
       "type": "GFXRES",
-      "data": "base/ships/samatra/sentinel-sml.ani"
+      "data": "base/ships/samatra/sentinel-sml.ani.json"
     },
     "ship.samatra.sounds": {
       "type": "SNDRES",
@@ -3409,71 +3409,71 @@
     },
     "ship.shofixti.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/scout-cap.ani"
+      "data": "base/ships/shofixti/scout-cap.ani.json"
     },
     "ship.shofixti.graphics.destruct.large": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/destruct-big.ani"
+      "data": "base/ships/shofixti/destruct-big.ani.json"
     },
     "ship.shofixti.graphics.destruct.medium": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/destruct-med.ani"
+      "data": "base/ships/shofixti/destruct-med.ani.json"
     },
     "ship.shofixti.graphics.destruct.small": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/destruct-sml.ani"
+      "data": "base/ships/shofixti/destruct-sml.ani.json"
     },
     "ship.shofixti.graphics.missile.large": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/missile-big.ani"
+      "data": "base/ships/shofixti/missile-big.ani.json"
     },
     "ship.shofixti.graphics.missile.medium": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/missile-med.ani"
+      "data": "base/ships/shofixti/missile-med.ani.json"
     },
     "ship.shofixti.graphics.missile.small": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/missile-sml.ani"
+      "data": "base/ships/shofixti/missile-sml.ani.json"
     },
     "ship.shofixti.graphics.oldcaptain": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/oldscout-cap.ani"
+      "data": "base/ships/shofixti/oldscout-cap.ani.json"
     },
     "ship.shofixti.graphics.oldscout.large": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/oldscout-big.ani"
+      "data": "base/ships/shofixti/oldscout-big.ani.json"
     },
     "ship.shofixti.graphics.oldscout.medium": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/oldscout-med.ani"
+      "data": "base/ships/shofixti/oldscout-med.ani.json"
     },
     "ship.shofixti.graphics.oldscout.small": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/oldscout-sml.ani"
+      "data": "base/ships/shofixti/oldscout-sml.ani.json"
     },
     "ship.shofixti.graphics.scout.large": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/scout-big.ani"
+      "data": "base/ships/shofixti/scout-big.ani.json"
     },
     "ship.shofixti.graphics.scout.medium": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/scout-med.ani"
+      "data": "base/ships/shofixti/scout-med.ani.json"
     },
     "ship.shofixti.graphics.scout.small": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/scout-sml.ani"
+      "data": "base/ships/shofixti/scout-sml.ani.json"
     },
     "ship.shofixti.icons": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/scout-icons.ani"
+      "data": "base/ships/shofixti/scout-icons.ani.json"
     },
     "ship.shofixti.oldicons": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/oldscout-icons.ani"
+      "data": "base/ships/shofixti/oldscout-icons.ani.json"
     },
     "ship.shofixti.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/shofixti/scout-meleeicons.ani"
+      "data": "base/ships/shofixti/scout-meleeicons.ani.json"
     },
     "ship.shofixti.sounds": {
       "type": "SNDRES",
@@ -3493,27 +3493,27 @@
     },
     "ship.slylandro.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/slylandro/probe-cap.ani"
+      "data": "base/ships/slylandro/probe-cap.ani.json"
     },
     "ship.slylandro.graphics.probe.large": {
       "type": "GFXRES",
-      "data": "base/ships/slylandro/probe-big.ani"
+      "data": "base/ships/slylandro/probe-big.ani.json"
     },
     "ship.slylandro.graphics.probe.medium": {
       "type": "GFXRES",
-      "data": "base/ships/slylandro/probe-med.ani"
+      "data": "base/ships/slylandro/probe-med.ani.json"
     },
     "ship.slylandro.graphics.probe.small": {
       "type": "GFXRES",
-      "data": "base/ships/slylandro/probe-sml.ani"
+      "data": "base/ships/slylandro/probe-sml.ani.json"
     },
     "ship.slylandro.icons": {
       "type": "GFXRES",
-      "data": "base/ships/slylandro/probe-icons.ani"
+      "data": "base/ships/slylandro/probe-icons.ani.json"
     },
     "ship.slylandro.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/slylandro/probe-meleeicons.ani"
+      "data": "base/ships/slylandro/probe-meleeicons.ani.json"
     },
     "ship.slylandro.sounds": {
       "type": "SNDRES",
@@ -3533,51 +3533,51 @@
     },
     "ship.spathi.graphics.butt.large": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/butt-big.ani"
+      "data": "base/ships/spathi/butt-big.ani.json"
     },
     "ship.spathi.graphics.butt.medium": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/butt-med.ani"
+      "data": "base/ships/spathi/butt-med.ani.json"
     },
     "ship.spathi.graphics.butt.small": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/butt-sml.ani"
+      "data": "base/ships/spathi/butt-sml.ani.json"
     },
     "ship.spathi.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/eluder-cap.ani"
+      "data": "base/ships/spathi/eluder-cap.ani.json"
     },
     "ship.spathi.graphics.eluder.large": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/eluder-big.ani"
+      "data": "base/ships/spathi/eluder-big.ani.json"
     },
     "ship.spathi.graphics.eluder.medium": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/eluder-med.ani"
+      "data": "base/ships/spathi/eluder-med.ani.json"
     },
     "ship.spathi.graphics.eluder.small": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/eluder-sml.ani"
+      "data": "base/ships/spathi/eluder-sml.ani.json"
     },
     "ship.spathi.graphics.missile.large": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/missile-big.ani"
+      "data": "base/ships/spathi/missile-big.ani.json"
     },
     "ship.spathi.graphics.missile.medium": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/missile-med.ani"
+      "data": "base/ships/spathi/missile-med.ani.json"
     },
     "ship.spathi.graphics.missile.small": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/missile-sml.ani"
+      "data": "base/ships/spathi/missile-sml.ani.json"
     },
     "ship.spathi.icons": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/eluder-icons.ani"
+      "data": "base/ships/spathi/eluder-icons.ani.json"
     },
     "ship.spathi.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/spathi/eluder-meleeicons.ani"
+      "data": "base/ships/spathi/eluder-meleeicons.ani.json"
     },
     "ship.spathi.sounds": {
       "type": "SNDRES",
@@ -3597,39 +3597,39 @@
     },
     "ship.supox.graphics.blade.large": {
       "type": "GFXRES",
-      "data": "base/ships/supox/blade-big.ani"
+      "data": "base/ships/supox/blade-big.ani.json"
     },
     "ship.supox.graphics.blade.medium": {
       "type": "GFXRES",
-      "data": "base/ships/supox/blade-med.ani"
+      "data": "base/ships/supox/blade-med.ani.json"
     },
     "ship.supox.graphics.blade.small": {
       "type": "GFXRES",
-      "data": "base/ships/supox/blade-sml.ani"
+      "data": "base/ships/supox/blade-sml.ani.json"
     },
     "ship.supox.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/supox/blade-cap.ani"
+      "data": "base/ships/supox/blade-cap.ani.json"
     },
     "ship.supox.graphics.glob.large": {
       "type": "GFXRES",
-      "data": "base/ships/supox/glob-big.ani"
+      "data": "base/ships/supox/glob-big.ani.json"
     },
     "ship.supox.graphics.glob.medium": {
       "type": "GFXRES",
-      "data": "base/ships/supox/glob-med.ani"
+      "data": "base/ships/supox/glob-med.ani.json"
     },
     "ship.supox.graphics.glob.small": {
       "type": "GFXRES",
-      "data": "base/ships/supox/glob-sml.ani"
+      "data": "base/ships/supox/glob-sml.ani.json"
     },
     "ship.supox.icons": {
       "type": "GFXRES",
-      "data": "base/ships/supox/blade-icons.ani"
+      "data": "base/ships/supox/blade-icons.ani.json"
     },
     "ship.supox.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/supox/blade-meleeicons.ani"
+      "data": "base/ships/supox/blade-meleeicons.ani.json"
     },
     "ship.supox.sounds": {
       "type": "SNDRES",
@@ -3649,39 +3649,39 @@
     },
     "ship.syreen.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/penetrator-cap.ani"
+      "data": "base/ships/syreen/penetrator-cap.ani.json"
     },
     "ship.syreen.graphics.dagger.large": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/dagger-big.ani"
+      "data": "base/ships/syreen/dagger-big.ani.json"
     },
     "ship.syreen.graphics.dagger.medium": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/dagger-med.ani"
+      "data": "base/ships/syreen/dagger-med.ani.json"
     },
     "ship.syreen.graphics.dagger.small": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/dagger-sml.ani"
+      "data": "base/ships/syreen/dagger-sml.ani.json"
     },
     "ship.syreen.graphics.penetrator.large": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/penetrator-big.ani"
+      "data": "base/ships/syreen/penetrator-big.ani.json"
     },
     "ship.syreen.graphics.penetrator.medium": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/penetrator-med.ani"
+      "data": "base/ships/syreen/penetrator-med.ani.json"
     },
     "ship.syreen.graphics.penetrator.small": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/penetrator-sml.ani"
+      "data": "base/ships/syreen/penetrator-sml.ani.json"
     },
     "ship.syreen.icons": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/penetrator-icons.ani"
+      "data": "base/ships/syreen/penetrator-icons.ani.json"
     },
     "ship.syreen.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/syreen/penetrator-meleeicons.ani"
+      "data": "base/ships/syreen/penetrator-meleeicons.ani.json"
     },
     "ship.syreen.sounds": {
       "type": "SNDRES",
@@ -3701,51 +3701,51 @@
     },
     "ship.thraddash.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/torch-cap.ani"
+      "data": "base/ships/thraddash/torch-cap.ani.json"
     },
     "ship.thraddash.graphics.horn.large": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/horn-big.ani"
+      "data": "base/ships/thraddash/horn-big.ani.json"
     },
     "ship.thraddash.graphics.horn.medium": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/horn-med.ani"
+      "data": "base/ships/thraddash/horn-med.ani.json"
     },
     "ship.thraddash.graphics.horn.small": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/horn-sml.ani"
+      "data": "base/ships/thraddash/horn-sml.ani.json"
     },
     "ship.thraddash.graphics.napalm.large": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/napalm-big.ani"
+      "data": "base/ships/thraddash/napalm-big.ani.json"
     },
     "ship.thraddash.graphics.napalm.medium": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/napalm-med.ani"
+      "data": "base/ships/thraddash/napalm-med.ani.json"
     },
     "ship.thraddash.graphics.napalm.small": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/napalm-sml.ani"
+      "data": "base/ships/thraddash/napalm-sml.ani.json"
     },
     "ship.thraddash.graphics.torch.large": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/torch-big.ani"
+      "data": "base/ships/thraddash/torch-big.ani.json"
     },
     "ship.thraddash.graphics.torch.medium": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/torch-med.ani"
+      "data": "base/ships/thraddash/torch-med.ani.json"
     },
     "ship.thraddash.graphics.torch.small": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/torch-sml.ani"
+      "data": "base/ships/thraddash/torch-sml.ani.json"
     },
     "ship.thraddash.icons": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/torch-icons.ani"
+      "data": "base/ships/thraddash/torch-icons.ani.json"
     },
     "ship.thraddash.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/thraddash/torch-meleeicons.ani"
+      "data": "base/ships/thraddash/torch-meleeicons.ani.json"
     },
     "ship.thraddash.sounds": {
       "type": "SNDRES",
@@ -3765,43 +3765,43 @@
     },
     "ship.umgah.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/drone-cap.ani"
+      "data": "base/ships/umgah/drone-cap.ani.json"
     },
     "ship.umgah.graphics.cone.large": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/cone-big.ani"
+      "data": "base/ships/umgah/cone-big.ani.json"
     },
     "ship.umgah.graphics.cone.medium": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/cone-med.ani"
+      "data": "base/ships/umgah/cone-med.ani.json"
     },
     "ship.umgah.graphics.cone.small": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/cone-sml.ani"
+      "data": "base/ships/umgah/cone-sml.ani.json"
     },
     "ship.umgah.graphics.drone.large": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/drone-big.ani"
+      "data": "base/ships/umgah/drone-big.ani.json"
     },
     "ship.umgah.graphics.drone.medium": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/drone-med.ani"
+      "data": "base/ships/umgah/drone-med.ani.json"
     },
     "ship.umgah.graphics.drone.small": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/drone-sml.ani"
+      "data": "base/ships/umgah/drone-sml.ani.json"
     },
     "ship.umgah.graphics.spritz": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/spritz.ani"
+      "data": "base/ships/umgah/spritz.ani.json"
     },
     "ship.umgah.icons": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/drone-icons.ani"
+      "data": "base/ships/umgah/drone-icons.ani.json"
     },
     "ship.umgah.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/umgah/drone-meleeicons.ani"
+      "data": "base/ships/umgah/drone-meleeicons.ani.json"
     },
     "ship.umgah.sounds": {
       "type": "SNDRES",
@@ -3821,51 +3821,51 @@
     },
     "ship.urquan.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/dreadnought-cap.ani"
+      "data": "base/ships/urquan/dreadnought-cap.ani.json"
     },
     "ship.urquan.graphics.dreadnought.large": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/dreadnought-big.ani"
+      "data": "base/ships/urquan/dreadnought-big.ani.json"
     },
     "ship.urquan.graphics.dreadnought.medium": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/dreadnought-med.ani"
+      "data": "base/ships/urquan/dreadnought-med.ani.json"
     },
     "ship.urquan.graphics.dreadnought.small": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/dreadnought-sml.ani"
+      "data": "base/ships/urquan/dreadnought-sml.ani.json"
     },
     "ship.urquan.graphics.fighter.large": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/fighter-big.ani"
+      "data": "base/ships/urquan/fighter-big.ani.json"
     },
     "ship.urquan.graphics.fighter.medium": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/fighter-med.ani"
+      "data": "base/ships/urquan/fighter-med.ani.json"
     },
     "ship.urquan.graphics.fighter.small": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/fighter-sml.ani"
+      "data": "base/ships/urquan/fighter-sml.ani.json"
     },
     "ship.urquan.graphics.fusion.large": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/fusion-big.ani"
+      "data": "base/ships/urquan/fusion-big.ani.json"
     },
     "ship.urquan.graphics.fusion.medium": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/fusion-med.ani"
+      "data": "base/ships/urquan/fusion-med.ani.json"
     },
     "ship.urquan.graphics.fusion.small": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/fusion-sml.ani"
+      "data": "base/ships/urquan/fusion-sml.ani.json"
     },
     "ship.urquan.icons": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/dreadnought-icons.ani"
+      "data": "base/ships/urquan/dreadnought-icons.ani.json"
     },
     "ship.urquan.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/urquan/dreadnought-meleeicons.ani"
+      "data": "base/ships/urquan/dreadnought-meleeicons.ani.json"
     },
     "ship.urquan.sounds": {
       "type": "SNDRES",
@@ -3885,39 +3885,39 @@
     },
     "ship.utwig.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/jugger-cap.ani"
+      "data": "base/ships/utwig/jugger-cap.ani.json"
     },
     "ship.utwig.graphics.jugger.large": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/jugger-big.ani"
+      "data": "base/ships/utwig/jugger-big.ani.json"
     },
     "ship.utwig.graphics.jugger.medium": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/jugger-med.ani"
+      "data": "base/ships/utwig/jugger-med.ani.json"
     },
     "ship.utwig.graphics.jugger.small": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/jugger-sml.ani"
+      "data": "base/ships/utwig/jugger-sml.ani.json"
     },
     "ship.utwig.graphics.lance.large": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/lance-big.ani"
+      "data": "base/ships/utwig/lance-big.ani.json"
     },
     "ship.utwig.graphics.lance.medium": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/lance-med.ani"
+      "data": "base/ships/utwig/lance-med.ani.json"
     },
     "ship.utwig.graphics.lance.small": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/lance-sml.ani"
+      "data": "base/ships/utwig/lance-sml.ani.json"
     },
     "ship.utwig.icons": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/jugger-icons.ani"
+      "data": "base/ships/utwig/jugger-icons.ani.json"
     },
     "ship.utwig.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/utwig/jugger-meleeicons.ani"
+      "data": "base/ships/utwig/jugger-meleeicons.ani.json"
     },
     "ship.utwig.sounds": {
       "type": "SNDRES",
@@ -3937,43 +3937,43 @@
     },
     "ship.vux.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/vux/intruder-cap.ani"
+      "data": "base/ships/vux/intruder-cap.ani.json"
     },
     "ship.vux.graphics.intruder.large": {
       "type": "GFXRES",
-      "data": "base/ships/vux/intruder-big.ani"
+      "data": "base/ships/vux/intruder-big.ani.json"
     },
     "ship.vux.graphics.intruder.medium": {
       "type": "GFXRES",
-      "data": "base/ships/vux/intruder-med.ani"
+      "data": "base/ships/vux/intruder-med.ani.json"
     },
     "ship.vux.graphics.intruder.small": {
       "type": "GFXRES",
-      "data": "base/ships/vux/intruder-sml.ani"
+      "data": "base/ships/vux/intruder-sml.ani.json"
     },
     "ship.vux.graphics.limpets.large": {
       "type": "GFXRES",
-      "data": "base/ships/vux/limpets-big.ani"
+      "data": "base/ships/vux/limpets-big.ani.json"
     },
     "ship.vux.graphics.limpets.medium": {
       "type": "GFXRES",
-      "data": "base/ships/vux/limpets-med.ani"
+      "data": "base/ships/vux/limpets-med.ani.json"
     },
     "ship.vux.graphics.limpets.small": {
       "type": "GFXRES",
-      "data": "base/ships/vux/limpets-sml.ani"
+      "data": "base/ships/vux/limpets-sml.ani.json"
     },
     "ship.vux.graphics.slime": {
       "type": "GFXRES",
-      "data": "base/ships/vux/slime.ani"
+      "data": "base/ships/vux/slime.ani.json"
     },
     "ship.vux.icons": {
       "type": "GFXRES",
-      "data": "base/ships/vux/intruder-icons.ani"
+      "data": "base/ships/vux/intruder-icons.ani.json"
     },
     "ship.vux.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/vux/intruder-meleeicons.ani"
+      "data": "base/ships/vux/intruder-meleeicons.ani.json"
     },
     "ship.vux.sounds": {
       "type": "SNDRES",
@@ -3993,51 +3993,51 @@
     },
     "ship.yehat.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/terminator-cap.ani"
+      "data": "base/ships/yehat/terminator-cap.ani.json"
     },
     "ship.yehat.graphics.missile.large": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/missile-big.ani"
+      "data": "base/ships/yehat/missile-big.ani.json"
     },
     "ship.yehat.graphics.missile.medium": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/missile-med.ani"
+      "data": "base/ships/yehat/missile-med.ani.json"
     },
     "ship.yehat.graphics.missile.small": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/missile-sml.ani"
+      "data": "base/ships/yehat/missile-sml.ani.json"
     },
     "ship.yehat.graphics.shield.large": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/shield-big.ani"
+      "data": "base/ships/yehat/shield-big.ani.json"
     },
     "ship.yehat.graphics.shield.medium": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/shield-med.ani"
+      "data": "base/ships/yehat/shield-med.ani.json"
     },
     "ship.yehat.graphics.shield.small": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/shield-sml.ani"
+      "data": "base/ships/yehat/shield-sml.ani.json"
     },
     "ship.yehat.graphics.terminator.large": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/terminator-big.ani"
+      "data": "base/ships/yehat/terminator-big.ani.json"
     },
     "ship.yehat.graphics.terminator.medium": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/terminator-med.ani"
+      "data": "base/ships/yehat/terminator-med.ani.json"
     },
     "ship.yehat.graphics.terminator.small": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/terminator-sml.ani"
+      "data": "base/ships/yehat/terminator-sml.ani.json"
     },
     "ship.yehat.icons": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/terminator-icons.ani"
+      "data": "base/ships/yehat/terminator-icons.ani.json"
     },
     "ship.yehat.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/yehat/terminator-meleeicons.ani"
+      "data": "base/ships/yehat/terminator-meleeicons.ani.json"
     },
     "ship.yehat.sounds": {
       "type": "SNDRES",
@@ -4057,51 +4057,51 @@
     },
     "ship.zoqfotpik.graphics.captain": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/stinger-cap.ani"
+      "data": "base/ships/zoqfotpik/stinger-cap.ani.json"
     },
     "ship.zoqfotpik.graphics.proboscis.large": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/proboscis-big.ani"
+      "data": "base/ships/zoqfotpik/proboscis-big.ani.json"
     },
     "ship.zoqfotpik.graphics.proboscis.medium": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/proboscis-med.ani"
+      "data": "base/ships/zoqfotpik/proboscis-med.ani.json"
     },
     "ship.zoqfotpik.graphics.proboscis.small": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/proboscis-sml.ani"
+      "data": "base/ships/zoqfotpik/proboscis-sml.ani.json"
     },
     "ship.zoqfotpik.graphics.spit.large": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/spit-big.ani"
+      "data": "base/ships/zoqfotpik/spit-big.ani.json"
     },
     "ship.zoqfotpik.graphics.spit.medium": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/spit-med.ani"
+      "data": "base/ships/zoqfotpik/spit-med.ani.json"
     },
     "ship.zoqfotpik.graphics.spit.small": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/spit-sml.ani"
+      "data": "base/ships/zoqfotpik/spit-sml.ani.json"
     },
     "ship.zoqfotpik.graphics.stinger.large": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/stinger-big.ani"
+      "data": "base/ships/zoqfotpik/stinger-big.ani.json"
     },
     "ship.zoqfotpik.graphics.stinger.medium": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/stinger-med.ani"
+      "data": "base/ships/zoqfotpik/stinger-med.ani.json"
     },
     "ship.zoqfotpik.graphics.stinger.small": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/stinger-sml.ani"
+      "data": "base/ships/zoqfotpik/stinger-sml.ani.json"
     },
     "ship.zoqfotpik.icons": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/stinger-icons.ani"
+      "data": "base/ships/zoqfotpik/stinger-icons.ani.json"
     },
     "ship.zoqfotpik.meleeicons": {
       "type": "GFXRES",
-      "data": "base/ships/zoqfotpik/stinger-meleeicons.ani"
+      "data": "base/ships/zoqfotpik/stinger-meleeicons.ani.json"
     },
     "ship.zoqfotpik.sounds": {
       "type": "SNDRES",

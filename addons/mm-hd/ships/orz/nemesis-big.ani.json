@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [71, 71]},
+  "frames": [
+    {"image": "nemesis-big-000.png"},
+    {"image": "nemesis-big-001.png"},
+    {"image": "nemesis-big-002.png"},
+    {"image": "nemesis-big-003.png"},
+    {"image": "nemesis-big-004.png"},
+    {"image": "nemesis-big-005.png"},
+    {"image": "nemesis-big-006.png"},
+    {"image": "nemesis-big-007.png"},
+    {"image": "nemesis-big-008.png"},
+    {"image": "nemesis-big-009.png"},
+    {"image": "nemesis-big-010.png"},
+    {"image": "nemesis-big-011.png"},
+    {"image": "nemesis-big-012.png"},
+    {"image": "nemesis-big-013.png"},
+    {"image": "nemesis-big-014.png"},
+    {"image": "nemesis-big-015.png"}
+  ]
+}

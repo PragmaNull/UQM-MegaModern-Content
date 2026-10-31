@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [0, -23]},
+  "frames": [
+    {"image": "scout-cap-000.png", "hotspot": [0, 0]},
+    {"image": "scout-cap-001.png", "transparency": 2, "hotspot": [-2, -10]},
+    {"image": "scout-cap-002.png", "transparency": 2, "hotspot": [-2, -10]},
+    {"image": "scout-cap-003.png", "transparency": 2, "hotspot": [-2, -10]},
+    {"image": "scout-cap-004.png", "transparency": 2, "hotspot": [-2, -10]},
+    {"image": "scout-cap-005.png", "transparency": 2, "hotspot": [-2, -10]},
+    {"image": "scout-cap-006.png", "transparency": 3, "hotspot": [-15, -1]},
+    {"image": "scout-cap-007.png", "transparency": 3, "hotspot": [-15, -1]},
+    {"image": "scout-cap-008.png", "transparency": 3, "hotspot": [-15, -1]},
+    {"image": "scout-cap-009.png", "hotspot": [-41, -11]},
+    {"image": "scout-cap-010.png", "hotspot": [-41, -11]},
+    {"image": "scout-cap-011.png", "hotspot": [-41, -11]},
+    {"image": "scout-cap-012.png"},
+    {"image": "scout-cap-013.png"},
+    {"image": "scout-cap-014.png"},
+    {"image": "scout-cap-015.png"},
+    {"image": "scout-cap-016.png"},
+    {"image": "scout-cap-017.png"},
+    {"image": "scout-cap-018.png", "hotspot": [0, 0]}
+  ]
+}

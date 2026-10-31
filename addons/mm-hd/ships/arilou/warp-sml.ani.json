@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [8, 8]},
+  "frames": [
+    {"image": "warp-sml-000.png"},
+    {"image": "warp-sml-001.png", "hotspot": [4, 4]}
+  ]
+}

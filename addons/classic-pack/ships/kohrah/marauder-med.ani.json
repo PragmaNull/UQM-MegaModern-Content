@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [19, 38]},
+  "frames": [
+    {"image": "marauder-med-000.png"},
+    {"image": "marauder-med-001.png", "hotspot": [29, 40]},
+    {"image": "marauder-med-002.png", "hotspot": [39, 35]},
+    {"image": "marauder-med-003.png", "hotspot": [44, 25]},
+    {"image": "marauder-med-004.png", "hotspot": [41, 17]},
+    {"image": "marauder-med-005.png", "hotspot": [43, 28]},
+    {"image": "marauder-med-006.png", "hotspot": [40, 39]},
+    {"image": "marauder-med-007.png", "hotspot": [30, 43]},
+    {"image": "marauder-med-008.png", "hotspot": [18, 40]},
+    {"image": "marauder-med-009.png", "hotspot": [26, 43]},
+    {"image": "marauder-med-010.png", "hotspot": [36, 39]},
+    {"image": "marauder-med-011.png", "hotspot": [41, 29]},
+    {"image": "marauder-med-012.png", "hotspot": [39, 17]},
+    {"image": "marauder-med-013.png", "hotspot": [41, 25]},
+    {"image": "marauder-med-014.png", "hotspot": [36, 34]},
+    {"image": "marauder-med-015.png", "hotspot": [26, 40]}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 101, "hotspot": [71, 50]},
+  "frames": [
+    {"image": "taalodevice-000.png"},
+    {"image": "taalodevice-001.png"},
+    {"image": "taalodevice-002.png"},
+    {"image": "taalodevice-003.png"}
+  ]
+}

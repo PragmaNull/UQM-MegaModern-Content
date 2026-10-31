@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [-2, -5]},
+  "frames": [
+    {"image": "terminator-icons-000.png"},
+    {"image": "terminator-icons-001.png", "hotspot": [17, 13]}
+  ]
+}

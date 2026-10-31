@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [36, 36]},
+  "frames": [
+    {"image": "fluorescent-sml-000.png"}
+  ]
+}

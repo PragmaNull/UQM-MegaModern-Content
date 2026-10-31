@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 1, "colormap": 1, "hotspot": [-133, 0]},
+  "frames": [
+    {"image": "eluder-cap-000.png", "hotspot": [0, 0]},
+    {"image": "eluder-cap-001.png"},
+    {"image": "eluder-cap-002.png"},
+    {"image": "eluder-cap-002.png"},
+    {"image": "eluder-cap-002.png"},
+    {"image": "eluder-cap-003.png", "transparency": "none"},
+    {"image": "eluder-cap-004.png", "transparency": "none", "hotspot": [-91, 0]},
+    {"image": "eluder-cap-004.png", "transparency": "none", "hotspot": [-91, 0]},
+    {"image": "eluder-cap-005.png", "transparency": "none", "hotspot": [-91, 0]},
+    {"image": "eluder-cap-006.png", "transparency": "none", "hotspot": [-50, -81]},
+    {"image": "eluder-cap-006.png", "transparency": "none", "hotspot": [-50, -81]},
+    {"image": "eluder-cap-007.png", "transparency": "none", "hotspot": [-50, -81]},
+    {"image": "eluder-cap-008.png", "hotspot": [0, 0]},
+    {"image": "eluder-cap-008.png", "hotspot": [0, 0]},
+    {"image": "eluder-cap-009.png", "hotspot": [0, 0]}
+  ]
+}

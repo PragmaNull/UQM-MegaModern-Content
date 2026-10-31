@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-10, -10]},
+  "frames": [
+    {"image": "stinger-icons-000.png"},
+    {"image": "stinger-icons-001.png", "hotspot": [66, 60]}
+  ]
+}

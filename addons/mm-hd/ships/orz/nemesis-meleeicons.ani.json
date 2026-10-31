@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [18, 18]},
+  "frames": [
+    {"image": "nemesis-meleeicons-000.png", "hotspot": [58, 50]},
+    {"image": "nemesis-meleeicons-001.png"},
+    {"image": "nemesis-smlmicon-000.png"},
+    {"image": "nemesis-smlmicon-001.png"},
+    {"image": "nemesis-smlmicon-002.png"},
+    {"image": "nemesis-smlmicon-003.png"},
+    {"image": "nemesis-smlmicon-004.png"},
+    {"image": "nemesis-smlmicon-005.png"},
+    {"image": "nemesis-smlmicon-006.png"},
+    {"image": "nemesis-smlmicon-007.png"},
+    {"image": "nemesis-smlmicon-008.png"},
+    {"image": "nemesis-smlmicon-009.png"},
+    {"image": "nemesis-smlmicon-010.png"},
+    {"image": "nemesis-smlmicon-011.png"},
+    {"image": "nemesis-smlmicon-012.png"},
+    {"image": "nemesis-smlmicon-013.png"},
+    {"image": "nemesis-smlmicon-014.png"},
+    {"image": "nemesis-smlmicon-015.png"}
+  ]
+}

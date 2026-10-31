@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-409, -117]},
+  "frames": [
+    {"image": "melnorme-000.png", "transparency": "none", "colormap": 10, "hotspot": [0, 0]},
+    {"image": "melnorme-001.png", "hotspot": [-315, -265]},
+    {"image": "melnorme-002.png", "hotspot": [-315, -265]},
+    {"image": "melnorme-003.png", "hotspot": [-315, -265]},
+    {"image": "melnorme-004.png", "hotspot": [-315, -265]},
+    {"image": "melnorme-005.png", "hotspot": [-315, -265]},
+    {"image": "melnorme-006.png"},
+    {"image": "melnorme-007.png"},
+    {"image": "melnorme-008.png"},
+    {"image": "melnorme-009.png"},
+    {"image": "melnorme-010.png"},
+    {"image": "melnorme-006.png"},
+    {"image": "melnorme-012.png"},
+    {"image": "melnorme-013.png"},
+    {"image": "melnorme-014.png"},
+    {"image": "melnorme-015.png"},
+    {"image": "melnorme-016.png"},
+    {"image": "melnorme-017.png"},
+    {"image": "melnorme-018.png"},
+    {"image": "melnorme-019.png"},
+    {"image": "melnorme-020.png", "hotspot": [0, 0]},
+    {"image": "melnorme-021.png", "hotspot": [-178, -121]},
+    {"image": "melnorme-020.png", "hotspot": [0, 0]},
+    {"image": "melnorme-022.png", "hotspot": [-604, -119]},
+    {"image": "melnorme-023.png", "hotspot": [0, 0]}
+  ]
+}

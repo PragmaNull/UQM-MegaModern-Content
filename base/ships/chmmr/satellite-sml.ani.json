@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "satellite-sml-000.png"},
+    {"image": "satellite-sml-001.png"},
+    {"image": "satellite-sml-002.png"},
+    {"image": "satellite-sml-003.png", "hotspot": [1, 2]},
+    {"image": "satellite-sml-004.png", "hotspot": [1, 2]},
+    {"image": "satellite-sml-005.png"},
+    {"image": "satellite-sml-006.png"},
+    {"image": "satellite-sml-007.png"}
+  ]
+}

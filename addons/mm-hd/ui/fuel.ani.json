@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [0, -84]},
+  "frames": [
+    {"image": "fuel-000.png"},
+    {"image": "fuel-001.png", "hotspot": [0, -92]}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 2, "colormap": 1, "hotspot": [-20, -21]},
+  "frames": [
+    {"image": "dreadnought-cap-000.png", "transparency": "none", "hotspot": [0, 0]},
+    {"image": "dreadnought-cap-001.png"},
+    {"image": "dreadnought-cap-002.png", "transparency": 3},
+    {"image": "dreadnought-cap-003.png", "transparency": 1},
+    {"image": "dreadnought-cap-004.png", "transparency": 1},
+    {"image": "dreadnought-cap-005.png", "transparency": 1},
+    {"image": "dreadnought-cap-006.png", "hotspot": [0, -15]},
+    {"image": "dreadnought-cap-007.png", "hotspot": [0, -15]},
+    {"image": "dreadnought-cap-008.png", "hotspot": [0, -15]},
+    {"image": "dreadnought-cap-009.png", "hotspot": [-32, -19]},
+    {"image": "dreadnought-cap-010.png", "hotspot": [-32, -19]},
+    {"image": "dreadnought-cap-011.png", "hotspot": [-32, -19]},
+    {"image": "dreadnought-cap-012.png", "transparency": 3, "hotspot": [-3, 0]},
+    {"image": "dreadnought-cap-013.png", "transparency": 3, "hotspot": [-3, 0]},
+    {"image": "dreadnought-cap-014.png", "transparency": 3, "hotspot": [-3, 0]}
+  ]
+}

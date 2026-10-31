@@ -31,10 +31,10 @@ FONT1X 0 base/fonts/slides.fon
 FONT4X 0 addons/mm-hd/fonts/slides.fon
 
 #(Set ANIM to draw animation frames from)
-ANI1X base/cutscene/ending/ending.ani
+ANI1X base/cutscene/ending/ending.ani.json
 
 #(Set ANIM to draw animation frames from)
-ANI4X addons/mm-hd/cutscene/ending/ending.ani
+ANI4X addons/mm-hd/cutscene/ending/ending.ani.json
 
 #(Set text vertical position; can be T=top, B=bottom, M=middle)
 TVA T

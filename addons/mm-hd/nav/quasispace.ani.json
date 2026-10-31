@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [18, 18]},
+  "frames": [
+    {"image": "quasispace-000.png"},
+    {"image": "quasispace-001.png", "hotspot": [26, 26]},
+    {"image": "quasispace-002.png", "hotspot": [42, 38]},
+    {"image": "quasispace-003.png", "hotspot": [64, 54]},
+    {"image": "quasispace-004.png", "hotspot": [78, 74]},
+    {"image": "quasispace-005.png", "hotspot": [154, 154]}
+  ]
+}

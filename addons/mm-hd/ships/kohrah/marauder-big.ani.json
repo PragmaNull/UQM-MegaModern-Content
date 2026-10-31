@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [80, 80]},
+  "frames": [
+    {"image": "marauder-big-000.png"},
+    {"image": "marauder-big-001.png"},
+    {"image": "marauder-big-002.png"},
+    {"image": "marauder-big-003.png"},
+    {"image": "marauder-big-004.png"},
+    {"image": "marauder-big-005.png"},
+    {"image": "marauder-big-006.png"},
+    {"image": "marauder-big-007.png"},
+    {"image": "marauder-big-008.png"},
+    {"image": "marauder-big-009.png"},
+    {"image": "marauder-big-010.png"},
+    {"image": "marauder-big-011.png"},
+    {"image": "marauder-big-012.png"},
+    {"image": "marauder-big-013.png"},
+    {"image": "marauder-big-014.png"},
+    {"image": "marauder-big-015.png"}
+  ]
+}

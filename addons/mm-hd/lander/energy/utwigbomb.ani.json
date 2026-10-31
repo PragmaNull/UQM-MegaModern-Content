@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 104, "hotspot": [105, 64]},
+  "frames": [
+    {"image": "utwigbomb-000.png"},
+    {"image": "utwigbomb-001.png"},
+    {"image": "utwigbomb-002.png"},
+    {"image": "utwigbomb-003.png"},
+    {"image": "utwigbomb-004.png"},
+    {"image": "utwigbomb-005.png"},
+    {"image": "utwigbomb-006.png"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [26, 26]},
+  "frames": [
+    {"image": "flagship-000.png"},
+    {"image": "flagship-001.png"},
+    {"image": "flagship-002.png"},
+    {"image": "flagship-003.png"},
+    {"image": "flagship-004.png"},
+    {"image": "flagship-005.png"},
+    {"image": "flagship-006.png"},
+    {"image": "flagship-007.png"},
+    {"image": "flagship-008.png"},
+    {"image": "flagship-009.png"},
+    {"image": "flagship-010.png"},
+    {"image": "flagship-011.png"},
+    {"image": "flagship-012.png"},
+    {"image": "flagship-013.png"},
+    {"image": "flagship-014.png"},
+    {"image": "flagship-015.png"}
+  ]
+}

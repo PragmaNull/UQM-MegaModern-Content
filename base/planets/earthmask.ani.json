@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "earthmask-000.png"},
+    {"image": "earthmask-001.png"},
+    {"image": "dosstuff/earthmask-256.png", "colormap": 44},
+    {"image": "dosstuff/levelmask-256.png", "colormap": 44}
+  ]
+}

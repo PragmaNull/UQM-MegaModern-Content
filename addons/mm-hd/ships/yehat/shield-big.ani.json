@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [58, 58]},
+  "frames": [
+    {"image": "shield-big-000.png"},
+    {"image": "shield-big-001.png"},
+    {"image": "shield-big-002.png"},
+    {"image": "shield-big-003.png"},
+    {"image": "shield-big-004.png"},
+    {"image": "shield-big-005.png"},
+    {"image": "shield-big-006.png"},
+    {"image": "shield-big-007.png"},
+    {"image": "shield-big-008.png"},
+    {"image": "shield-big-009.png"},
+    {"image": "shield-big-010.png"},
+    {"image": "shield-big-011.png"},
+    {"image": "shield-big-012.png"},
+    {"image": "shield-big-013.png"},
+    {"image": "shield-big-014.png"},
+    {"image": "shield-big-015.png"}
+  ]
+}

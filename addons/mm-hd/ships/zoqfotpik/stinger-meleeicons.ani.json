@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [15, 15]},
+  "frames": [
+    {"image": "stinger-meleeicons-000.png", "hotspot": [48, 48]},
+    {"image": "stinger-meleeicons-001.png"},
+    {"image": "stinger-sml-000.png"},
+    {"image": "stinger-sml-001.png"},
+    {"image": "stinger-sml-002.png"},
+    {"image": "stinger-sml-003.png"},
+    {"image": "stinger-sml-004.png"},
+    {"image": "stinger-sml-005.png"},
+    {"image": "stinger-sml-006.png"},
+    {"image": "stinger-sml-007.png"},
+    {"image": "stinger-sml-008.png"},
+    {"image": "stinger-sml-009.png"},
+    {"image": "stinger-sml-010.png"},
+    {"image": "stinger-sml-011.png"},
+    {"image": "stinger-sml-012.png"},
+    {"image": "stinger-sml-013.png"},
+    {"image": "stinger-sml-014.png"},
+    {"image": "stinger-sml-015.png"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 5]},
+  "frames": [
+    {"image": "guardian-med-000.png"},
+    {"image": "guardian-med-001.png", "hotspot": [5, 4]},
+    {"image": "guardian-med-002.png", "hotspot": [5, 3]},
+    {"image": "guardian-med-003.png", "hotspot": [5, 3]},
+    {"image": "guardian-med-004.png", "hotspot": [5, 4]},
+    {"image": "guardian-med-005.png", "hotspot": [4, 4]},
+    {"image": "guardian-med-006.png", "hotspot": [4, 4]},
+    {"image": "guardian-med-007.png"},
+    {"image": "guardian-med-008.png"},
+    {"image": "guardian-med-009.png", "hotspot": [5, 4]},
+    {"image": "guardian-med-010.png", "hotspot": [5, 3]},
+    {"image": "guardian-med-011.png", "hotspot": [5, 3]},
+    {"image": "guardian-med-012.png", "hotspot": [5, 4]},
+    {"image": "guardian-med-013.png", "hotspot": [4, 4]},
+    {"image": "guardian-med-014.png", "hotspot": [4, 4]},
+    {"image": "guardian-med-015.png"}
+  ]
+}

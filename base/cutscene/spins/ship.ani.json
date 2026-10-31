@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-7, -31]},
+  "frames": [
+    {"image": "androsynth.png"},
+    {"image": "arilou.png"},
+    {"image": "chenjesu.png"},
+    {"image": "chmmr.png"},
+    {"image": "druuge.png"},
+    {"image": "earthling.png"},
+    {"image": "ilwrath.png"},
+    {"image": "kohr-ah.png"},
+    {"image": "melnorme.png"},
+    {"image": "mmrnmhrm.png"},
+    {"image": "mycon.png"},
+    {"image": "orz.png"},
+    {"image": "pkunk.png"},
+    {"image": "shofixti.png"},
+    {"image": "slylandro.png"},
+    {"image": "spathi.png"},
+    {"image": "supox.png"},
+    {"image": "syreen.png"},
+    {"image": "thraddash.png"},
+    {"image": "umgah.png"},
+    {"image": "ur-quan.png"},
+    {"image": "utwig.png"},
+    {"image": "vux.png"},
+    {"image": "yehat.png"},
+    {"image": "zoqfot.png"}
+  ]
+}

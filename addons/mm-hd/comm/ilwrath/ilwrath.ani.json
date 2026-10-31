@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-687, -89]},
+  "frames": [
+    {"image": "ilwrath-000.png", "hotspot": [0, 0]},
+    {"image": "ilwrath-001.png", "hotspot": [-428, -84]},
+    {"image": "ilwrath-002.png", "hotspot": [-428, -84]},
+    {"image": "ilwrath-003.png", "hotspot": [-428, -84]},
+    {"image": "ilwrath-004.png", "hotspot": [-428, -84]},
+    {"image": "ilwrath-005.png", "hotspot": [-428, -84]},
+    {"image": "ilwrath-006.png", "hotspot": [-293, -42]},
+    {"image": "ilwrath-007.png", "hotspot": [-293, -42]},
+    {"image": "ilwrath-008.png", "hotspot": [-293, -42]},
+    {"image": "ilwrath-009.png", "hotspot": [-293, -42]},
+    {"image": "ilwrath-010.png", "hotspot": [-293, -42]},
+    {"image": "ilwrath-011.png", "hotspot": [-223, -348]},
+    {"image": "ilwrath-012.png", "hotspot": [-223, -348]},
+    {"image": "ilwrath-013.png", "hotspot": [-223, -348]},
+    {"image": "ilwrath-014.png", "hotspot": [-223, -348]},
+    {"image": "ilwrath-015.png", "hotspot": [-223, -348]},
+    {"image": "ilwrath-016.png", "hotspot": [-739, -334]},
+    {"image": "ilwrath-017.png", "hotspot": [-739, -334]},
+    {"image": "ilwrath-018.png", "hotspot": [-739, -334]},
+    {"image": "ilwrath-019.png", "hotspot": [-739, -334]},
+    {"image": "ilwrath-020.png", "hotspot": [-739, -334]},
+    {"image": "ilwrath-021.png"},
+    {"image": "ilwrath-022.png"},
+    {"image": "ilwrath-023.png"},
+    {"image": "ilwrath-022.png"},
+    {"image": "ilwrath-021.png"},
+    {"image": "ilwrath-024.png"}
+  ]
+}

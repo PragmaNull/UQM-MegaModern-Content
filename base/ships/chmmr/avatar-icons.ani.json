@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1},
+  "frames": [
+    {"image": "avatar-icons-000.png"},
+    {"image": "avatar-icons-001.png", "hotspot": [20, 16]}
+  ]
+}

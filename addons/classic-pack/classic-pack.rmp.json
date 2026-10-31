@@ -87,7 +87,7 @@
     },
     "comm.melnorme.graphics": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/comm/melnorme/melnorme.ani"
+      "data": "addons/classic-pack/comm/melnorme/melnorme.ani.json"
     },
     "comm.melnorme.colortable": {
       "type": "BINTAB",
@@ -95,47 +95,47 @@
     },
     "graphics.shipyard": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ui/shipyard/shipyard.ani"
+      "data": "addons/classic-pack/ui/shipyard/shipyard.ani.json"
     },
     "graphics.activity": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ui/activity.ani"
+      "data": "addons/classic-pack/ui/activity.ani.json"
     },
     "graphics.meleemenu": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ui/melee_menu/meleemenu.ani"
+      "data": "addons/classic-pack/ui/melee_menu/meleemenu.ani.json"
     },
     "graphics.orbitbackground": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/nav/orbit_background/orbitbackground.ani"
+      "data": "addons/classic-pack/nav/orbit_background/orbitbackground.ani.json"
     },
     "graphics.orbitenter": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/nav/orbitenter.ani"
+      "data": "addons/classic-pack/nav/orbitenter.ani.json"
     },
     "graphics.outfitmodules": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ui/outfit_modules/outfitmodules.ani"
+      "data": "addons/classic-pack/ui/outfit_modules/outfitmodules.ani.json"
     },
     "graphics.pickship": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ui/pickship.ani"
+      "data": "addons/classic-pack/ui/pickship.ani.json"
     },
     "graphics.playmenu": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ui/play_menu/playmenu.ani"
+      "data": "addons/classic-pack/ui/play_menu/playmenu.ani.json"
     },
     "graphics.boom.large": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/battle/boom-big.ani"
+      "data": "addons/classic-pack/battle/boom-big.ani.json"
     },
     "graphics.boom.medium": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/battle/boom-med.ani"
+      "data": "addons/classic-pack/battle/boom-med.ani.json"
     },
     "graphics.boom.small": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/battle/boom-sml.ani"
+      "data": "addons/classic-pack/battle/boom-sml.ani.json"
     },
     "nebula.resource": {
       "type": "STRTAB",
@@ -143,23 +143,23 @@
     },
     "ship.kohrah.graphics.marauder.large": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ships/kohrah/marauder-big.ani"
+      "data": "addons/classic-pack/ships/kohrah/marauder-big.ani.json"
     },
     "ship.kohrah.graphics.marauder.medium": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ships/kohrah/marauder-med.ani"
+      "data": "addons/classic-pack/ships/kohrah/marauder-med.ani.json"
     },
     "ship.kohrah.graphics.marauder.small": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ships/kohrah/marauder-sml.ani"
+      "data": "addons/classic-pack/ships/kohrah/marauder-sml.ani.json"
     },
     "ship.kohrah.icons": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ships/kohrah/marauder-icons.ani"
+      "data": "addons/classic-pack/ships/kohrah/marauder-icons.ani.json"
     },
     "ship.kohrah.meleeicons": {
       "type": "GFXRES",
-      "data": "addons/classic-pack/ships/kohrah/marauder-meleeicons.ani"
+      "data": "addons/classic-pack/ships/kohrah/marauder-meleeicons.ani.json"
     },
     "text.starcon": {
       "type": "STRTAB",

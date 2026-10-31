@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [3, 3]},
+  "frames": [
+    {"image": "bug-sml-000.png"}
+  ]
+}

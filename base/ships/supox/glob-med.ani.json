@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1},
+  "frames": [
+    {"image": "glob-med-000.png", "transparency": "none"},
+    {"image": "glob-med-001.png", "hotspot": [2, 0]},
+    {"image": "glob-med-002.png", "hotspot": [3, 0]},
+    {"image": "glob-med-003.png", "hotspot": [4, 0]},
+    {"image": "glob-med-004.png", "transparency": "none", "hotspot": [4, 0]},
+    {"image": "glob-med-005.png", "hotspot": [4, 2]},
+    {"image": "glob-med-006.png", "hotspot": [3, 3]},
+    {"image": "glob-med-007.png", "hotspot": [2, 4]},
+    {"image": "glob-med-008.png", "transparency": "none", "hotspot": [0, 4]},
+    {"image": "glob-med-009.png", "hotspot": [0, 4]},
+    {"image": "glob-med-010.png", "hotspot": [0, 3]},
+    {"image": "glob-med-011.png", "hotspot": [0, 2]},
+    {"image": "glob-med-012.png", "transparency": "none"},
+    {"image": "glob-med-013.png"},
+    {"image": "glob-med-014.png"},
+    {"image": "glob-med-015.png"},
+    {"image": "glob-med-016.png", "transparency": "none", "hotspot": [1, 1]},
+    {"image": "glob-med-017.png", "hotspot": [2, 3]},
+    {"image": "glob-med-018.png", "hotspot": [3, 4]},
+    {"image": "glob-med-019.png", "hotspot": [4, 5]},
+    {"image": "glob-med-020.png", "hotspot": [5, 6]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [34, 32]},
+  "frames": [
+    {"image": "trader-med-000.png", "hotspot": [34, 33]},
+    {"image": "trader-med-001.png"},
+    {"image": "trader-med-002.png", "hotspot": [33, 32]},
+    {"image": "trader-med-003.png"},
+    {"image": "trader-med-004.png", "hotspot": [35, 33]},
+    {"image": "trader-med-005.png", "hotspot": [36, 33]},
+    {"image": "trader-med-006.png", "hotspot": [35, 34]},
+    {"image": "trader-med-007.png", "hotspot": [35, 34]},
+    {"image": "trader-med-008.png", "hotspot": [32, 35]},
+    {"image": "trader-med-009.png", "hotspot": [31, 34]},
+    {"image": "trader-med-010.png", "hotspot": [32, 34]},
+    {"image": "trader-med-011.png", "hotspot": [33, 35]},
+    {"image": "trader-med-012.png", "hotspot": [33, 34]},
+    {"image": "trader-med-013.png", "hotspot": [33, 33]},
+    {"image": "trader-med-014.png", "hotspot": [33, 33]},
+    {"image": "trader-med-015.png", "hotspot": [33, 32]}
+  ]
+}

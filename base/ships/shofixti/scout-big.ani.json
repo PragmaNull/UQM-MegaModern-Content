@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [6, 4]},
+  "frames": [
+    {"image": "scout-big-000.png", "hotspot": [4, 9]},
+    {"image": "scout-big-001.png", "hotspot": [3, 9]},
+    {"image": "scout-big-002.png", "hotspot": [4, 6]},
+    {"image": "scout-big-003.png", "hotspot": [5, 3]},
+    {"image": "scout-big-004.png"},
+    {"image": "scout-big-005.png", "hotspot": [5, 4]},
+    {"image": "scout-big-006.png", "hotspot": [4, 4]},
+    {"image": "scout-big-007.png", "hotspot": [4, 4]},
+    {"image": "scout-big-008.png", "hotspot": [4, 5]},
+    {"image": "scout-big-009.png", "hotspot": [3, 4]},
+    {"image": "scout-big-010.png"},
+    {"image": "scout-big-011.png", "hotspot": [7, 4]},
+    {"image": "scout-big-012.png", "hotspot": [9, 4]},
+    {"image": "scout-big-013.png", "hotspot": [7, 3]},
+    {"image": "scout-big-014.png", "hotspot": [6, 6]},
+    {"image": "scout-big-015.png", "hotspot": [3, 7]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [150, 150]},
+  "frames": [
+    {"image": "sapphire-big-000.png"}
+  ]
+}

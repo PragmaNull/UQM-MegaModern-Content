@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [0, -17]},
+  "frames": [
+    {"image": "avenger-cap-000.png", "transparency": 7, "hotspot": [0, 0]},
+    {"image": "avenger-cap-001.png"},
+    {"image": "avenger-cap-002.png"},
+    {"image": "avenger-cap-003.png"},
+    {"image": "avenger-cap-004.png"},
+    {"image": "avenger-cap-005.png"},
+    {"image": "avenger-cap-006.png", "hotspot": [-4, 0]},
+    {"image": "avenger-cap-007.png", "hotspot": [-4, 0]},
+    {"image": "avenger-cap-008.png", "hotspot": [-4, 0]},
+    {"image": "avenger-cap-009.png", "hotspot": [-21, -17]},
+    {"image": "avenger-cap-010.png", "hotspot": [-21, -17]},
+    {"image": "avenger-cap-011.png", "hotspot": [-21, -17]},
+    {"image": "avenger-cap-012.png", "hotspot": [-31, -17]},
+    {"image": "avenger-cap-013.png", "hotspot": [-31, -17]},
+    {"image": "avenger-cap-014.png", "hotspot": [-31, -17]}
+  ]
+}

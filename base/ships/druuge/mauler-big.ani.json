@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [8, 10]},
+  "frames": [
+    {"image": "mauler-big-000.png", "hotspot": [5, 22]},
+    {"image": "mauler-big-001.png", "hotspot": [8, 20]},
+    {"image": "mauler-big-002.png", "hotspot": [9, 18]},
+    {"image": "mauler-big-003.png", "hotspot": [10, 13]},
+    {"image": "mauler-big-004.png", "hotspot": [10, 5]},
+    {"image": "mauler-big-005.png", "hotspot": [10, 8]},
+    {"image": "mauler-big-006.png", "hotspot": [9, 9]},
+    {"image": "mauler-big-007.png"},
+    {"image": "mauler-big-008.png"},
+    {"image": "mauler-big-009.png", "hotspot": [12, 10]},
+    {"image": "mauler-big-010.png", "hotspot": [18, 9]},
+    {"image": "mauler-big-011.png", "hotspot": [22, 8]},
+    {"image": "mauler-big-012.png", "hotspot": [25, 8]},
+    {"image": "mauler-big-013.png", "hotspot": [22, 13]},
+    {"image": "mauler-big-014.png", "hotspot": [18, 18]},
+    {"image": "mauler-big-015.png", "hotspot": [12, 20]}
+  ]
+}

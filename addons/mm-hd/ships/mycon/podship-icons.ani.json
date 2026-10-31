@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-7, -6]},
+  "frames": [
+    {"image": "podship-icons-000.png"},
+    {"image": "podship-icons-001.png", "hotspot": [73, 68]}
+  ]
+}

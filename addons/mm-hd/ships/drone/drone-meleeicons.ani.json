@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [14, 14]},
+  "frames": [
+    {"image": "drone-meleeicons-000.png"}
+  ]
+}

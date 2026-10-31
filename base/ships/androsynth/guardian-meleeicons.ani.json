@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 3]},
+  "frames": [
+    {"image": "guardian-meleeicons-000.png", "hotspot": [8, 10]},
+    {"image": "guardian-meleeicons-001.png", "hotspot": [3, 4]},
+    {"image": "guardian-sml-000.png"},
+    {"image": "guardian-sml-001.png", "hotspot": [3, 3]},
+    {"image": "guardian-sml-002.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-003.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-004.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-005.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-006.png"},
+    {"image": "guardian-sml-007.png"},
+    {"image": "guardian-sml-008.png"},
+    {"image": "guardian-sml-009.png"},
+    {"image": "guardian-sml-010.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-011.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-012.png", "hotspot": [3, 2]},
+    {"image": "guardian-sml-013.png"},
+    {"image": "guardian-sml-014.png"},
+    {"image": "guardian-sml-015.png"}
+  ]
+}

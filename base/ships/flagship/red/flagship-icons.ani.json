@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 55, "hotspot": [18, 20]},
+  "frames": [
+    {"image": "flagship-icons-000.png"}
+  ]
+}

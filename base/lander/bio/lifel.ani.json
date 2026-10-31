@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [3, -5]},
+  "frames": [
+    {"image": "lifel-000.png"},
+    {"image": "lifel-001.png", "hotspot": [1, 0]},
+    {"image": "lifel-002.png", "hotspot": [5, 7]},
+    {"image": "lifel-003.png", "hotspot": [7, 2]}
+  ]
+}

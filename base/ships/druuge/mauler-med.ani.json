@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 4]},
+  "frames": [
+    {"image": "mauler-med-000.png", "hotspot": [3, 11]},
+    {"image": "mauler-med-001.png", "hotspot": [4, 10]},
+    {"image": "mauler-med-002.png", "hotspot": [5, 8]},
+    {"image": "mauler-med-003.png", "hotspot": [5, 6]},
+    {"image": "mauler-med-004.png", "hotspot": [5, 2]},
+    {"image": "mauler-med-005.png"},
+    {"image": "mauler-med-006.png"},
+    {"image": "mauler-med-007.png", "hotspot": [4, 5]},
+    {"image": "mauler-med-008.png", "hotspot": [4, 5]},
+    {"image": "mauler-med-009.png", "hotspot": [6, 5]},
+    {"image": "mauler-med-010.png", "hotspot": [9, 4]},
+    {"image": "mauler-med-011.png", "hotspot": [11, 4]},
+    {"image": "mauler-med-012.png", "hotspot": [13, 4]},
+    {"image": "mauler-med-013.png", "hotspot": [11, 6]},
+    {"image": "mauler-med-014.png", "hotspot": [9, 8]},
+    {"image": "mauler-med-015.png", "hotspot": [6, 10]}
+  ]
+}

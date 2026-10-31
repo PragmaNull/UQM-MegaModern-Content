@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 91, "hotspot": [128, 128]},
+  "frames": [
+    {"image": "motherark-000.png"},
+    {"image": "motherark-001.png"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [2, 2]},
+  "frames": [
+    {"image": "spit-med-000.png"},
+    {"image": "spit-med-001.png"},
+    {"image": "spit-med-002.png"},
+    {"image": "spit-med-003.png"},
+    {"image": "spit-med-004.png"},
+    {"image": "spit-med-005.png"},
+    {"image": "spit-med-006.png"},
+    {"image": "spit-med-007.png"},
+    {"image": "spit-med-008.png"},
+    {"image": "spit-med-009.png"},
+    {"image": "spit-med-010.png"},
+    {"image": "spit-med-011.png"},
+    {"image": "spit-med-012.png"},
+    {"image": "spit-hitbox.png"}
+  ]
+}

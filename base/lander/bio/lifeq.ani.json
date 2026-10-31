@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [6, 5]},
+  "frames": [
+    {"image": "lifeq-000.png"},
+    {"image": "lifeq-001.png", "hotspot": [5, 8]},
+    {"image": "lifeq-002.png", "hotspot": [4, 5]},
+    {"image": "lifeq-003.png", "hotspot": [4, 2]}
+  ]
+}

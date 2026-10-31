@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1},
+  "frames": [
+    {"image": "samatra-big-000.png", "hotspot": [592, 296]},
+    {"image": "samatra-big-001.png", "hotspot": [24, 24]},
+    {"image": "samatra-big-002.png", "hotspot": [20, 20]},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-003.png"},
+    {"image": "samatra-big-004.png", "transparency": 0, "colormap": null, "hotspot": [232, -248]},
+    {"image": "samatra-big-004.png", "transparency": 0, "colormap": null, "hotspot": [232, -248]},
+    {"image": "samatra-big-004.png", "transparency": 0, "colormap": null, "hotspot": [232, -248]},
+    {"image": "samatra-big-004.png", "transparency": 0, "colormap": null, "hotspot": [232, -248]}
+  ]
+}

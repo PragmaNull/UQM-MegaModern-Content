@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 2, "hotspot": [44, 22]},
+  "frames": [
+    {"image": "scenery-000.png"},
+    {"image": "scenery-001.png", "hotspot": [22, 11]},
+    {"image": "scenery-002.png", "hotspot": [11, 6]}
+  ]
+}

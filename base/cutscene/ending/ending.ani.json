@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "ending-001.png"},
+    {"image": "ending-002.png"},
+    {"image": "ending-003.png"},
+    {"image": "ending-004.png"},
+    {"image": "ending-005.png"},
+    {"image": "ending-006.png"}
+  ]
+}

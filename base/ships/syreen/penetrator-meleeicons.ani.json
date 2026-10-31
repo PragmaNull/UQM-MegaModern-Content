@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "penetrator-meleeicons-000.png", "transparency": 1, "hotspot": [8, 15]},
+    {"image": "penetrator-meleeicons-001.png"},
+    {"image": "penetrator-sml-000.png", "hotspot": [2, 5]},
+    {"image": "penetrator-sml-001.png"},
+    {"image": "penetrator-sml-002.png"},
+    {"image": "penetrator-sml-003.png", "hotspot": [5, 3]},
+    {"image": "penetrator-sml-004.png", "hotspot": [4, 2]},
+    {"image": "penetrator-sml-005.png", "hotspot": [5, 4]},
+    {"image": "penetrator-sml-006.png"},
+    {"image": "penetrator-sml-007.png"},
+    {"image": "penetrator-sml-008.png", "hotspot": [2, 4]},
+    {"image": "penetrator-sml-009.png", "hotspot": [3, 4]},
+    {"image": "penetrator-sml-010.png"},
+    {"image": "penetrator-sml-011.png", "hotspot": [5, 4]},
+    {"image": "penetrator-sml-012.png", "hotspot": [7, 2]},
+    {"image": "penetrator-sml-013.png", "hotspot": [5, 2]},
+    {"image": "penetrator-sml-014.png"},
+    {"image": "penetrator-sml-015.png", "hotspot": [2, 4]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "title.png"},
+    {"image": "title-red.png"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "hotspot": [16, 16]},
+  "frames": [
+    {"image": "generator-big-000.png"},
+    {"image": "generator-big-001.png"},
+    {"image": "generator-big-002.png"},
+    {"image": "generator-big-003.png"},
+    {"image": "generator-big-004.png"},
+    {"image": "generator-big-005.png"},
+    {"image": "generator-big-006.png"},
+    {"image": "generator-big-007.png"},
+    {"image": "generator-big-008.png"},
+    {"image": "generator-big-009.png"},
+    {"image": "generator-big-010.png"},
+    {"image": "generator-big-011.png"},
+    {"image": "generator-big-012.png"},
+    {"image": "generator-big-013.png"},
+    {"image": "generator-big-014.png"},
+    {"image": "generator-big-015.png"},
+    {"image": "generator-big-016.png"},
+    {"image": "generator-big-017.png"},
+    {"image": "generator-big-018.png"},
+    {"image": "generator-big-019.png"},
+    {"image": "generator-big-020.png"},
+    {"image": "generator-big-021.png"}
+  ]
+}

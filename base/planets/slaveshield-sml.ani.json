@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 125, "hotspot": [10, 10]},
+  "frames": [
+    {"image": "slaveshield-sml-000.png"}
+  ]
+}

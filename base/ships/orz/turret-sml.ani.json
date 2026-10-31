@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "turret-sml-000.png", "hotspot": [1, 3]},
+    {"image": "turret-sml-001.png", "hotspot": [1, 3]},
+    {"image": "turret-sml-002.png", "hotspot": [1, 2]},
+    {"image": "turret-sml-003.png"},
+    {"image": "turret-sml-004.png"},
+    {"image": "turret-sml-005.png"},
+    {"image": "turret-sml-006.png"},
+    {"image": "turret-sml-007.png"},
+    {"image": "turret-sml-008.png"},
+    {"image": "turret-sml-009.png"},
+    {"image": "turret-sml-010.png", "hotspot": [2, 1]},
+    {"image": "turret-sml-011.png", "hotspot": [3, 1]},
+    {"image": "turret-sml-012.png", "hotspot": [3, 1]},
+    {"image": "turret-sml-013.png", "hotspot": [3, 1]},
+    {"image": "turret-sml-014.png", "hotspot": [2, 2]},
+    {"image": "turret-sml-015.png", "hotspot": [1, 3]},
+    {"image": "turret-sml-016.png"},
+    {"image": "turret-sml-017.png"},
+    {"image": "turret-sml-018.png", "hotspot": [2, 2]},
+    {"image": "turret-sml-019.png", "hotspot": [2, 2]},
+    {"image": "turret-sml-020.png", "transparency": "none", "hotspot": [0, 0]},
+    {"image": "turret-sml-021.png", "transparency": "none", "hotspot": [0, 0]}
+  ]
+}

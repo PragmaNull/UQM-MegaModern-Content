@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [7, 7]},
+  "frames": [
+    {"image": "confuse-sml-000.png", "hotspot": [5, 5]},
+    {"image": "confuse-sml-001.png", "hotspot": [6, 6]},
+    {"image": "confuse-sml-002.png"},
+    {"image": "confuse-sml-003.png"},
+    {"image": "confuse-sml-004.png"},
+    {"image": "confuse-sml-005.png"},
+    {"image": "confuse-sml-006.png"},
+    {"image": "confuse-sml-007.png"},
+    {"image": "confuse-sml-008.png", "hotspot": [16, 14]},
+    {"image": "confuse-sml-009.png", "hotspot": [11, 16]},
+    {"image": "confuse-sml-010.png", "hotspot": [11, 16]},
+    {"image": "confuse-sml-011.png", "hotspot": [13, 16]},
+    {"image": "confuse-sml-012.png", "hotspot": [13, 16]},
+    {"image": "confuse-sml-013.png", "hotspot": [16, 15]},
+    {"image": "confuse-sml-014.png", "hotspot": [16, 14]},
+    {"image": "confuse-sml-015.png", "hotspot": [16, 14]}
+  ]
+}

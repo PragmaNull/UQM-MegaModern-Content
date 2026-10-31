@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [4, 6]},
+  "frames": [
+    {"image": "howitzer-med-000.png", "hotspot": [3, 7]},
+    {"image": "howitzer-med-001.png"},
+    {"image": "howitzer-med-002.png", "hotspot": [5, 5]},
+    {"image": "howitzer-med-003.png", "hotspot": [6, 4]},
+    {"image": "howitzer-med-004.png", "hotspot": [7, 3]},
+    {"image": "howitzer-med-005.png", "hotspot": [6, 4]},
+    {"image": "howitzer-med-006.png", "hotspot": [5, 5]},
+    {"image": "howitzer-med-007.png"},
+    {"image": "howitzer-med-008.png", "hotspot": [3, 7]},
+    {"image": "howitzer-med-009.png"},
+    {"image": "howitzer-med-010.png", "hotspot": [5, 5]},
+    {"image": "howitzer-med-011.png", "hotspot": [6, 4]},
+    {"image": "howitzer-med-012.png", "hotspot": [7, 3]},
+    {"image": "howitzer-med-013.png", "hotspot": [6, 4]},
+    {"image": "howitzer-med-014.png", "hotspot": [5, 5]},
+    {"image": "howitzer-med-015.png"},
+    {"image": "howitzer-med-016.png", "hotspot": [23, 21]},
+    {"image": "howitzer-med-017.png", "hotspot": [25, 25]},
+    {"image": "howitzer-med-018.png", "hotspot": [33, 31]},
+    {"image": "howitzer-med-019.png", "hotspot": [45, 43]},
+    {"image": "howitzer-med-020.png", "hotspot": [53, 51]},
+    {"image": "howitzer-med-021.png", "hotspot": [57, 55]}
+  ]
+}

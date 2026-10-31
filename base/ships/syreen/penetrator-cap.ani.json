@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 1, "colormap": 1, "hotspot": [-36, -9]},
+  "frames": [
+    {"image": "penetrator-cap-000.png", "transparency": "none", "hotspot": [0, 0]},
+    {"image": "penetrator-cap-001.png"},
+    {"image": "penetrator-cap-002.png"},
+    {"image": "penetrator-cap-003.png"},
+    {"image": "penetrator-cap-004.png"},
+    {"image": "penetrator-cap-005.png"},
+    {"image": "penetrator-cap-006.png", "hotspot": [-22, 0]},
+    {"image": "penetrator-cap-007.png", "hotspot": [-22, 0]},
+    {"image": "penetrator-cap-008.png", "hotspot": [-22, 0]},
+    {"image": "penetrator-cap-009.png", "transparency": "none", "hotspot": [-4, -8]},
+    {"image": "penetrator-cap-010.png", "transparency": "none", "hotspot": [-4, -8]},
+    {"image": "penetrator-cap-011.png", "transparency": "none", "hotspot": [-4, -8]},
+    {"image": "penetrator-cap-012.png", "hotspot": [-29, 0]},
+    {"image": "penetrator-cap-013.png", "hotspot": [-29, 0]},
+    {"image": "penetrator-cap-014.png", "hotspot": [-29, 0]}
+  ]
+}

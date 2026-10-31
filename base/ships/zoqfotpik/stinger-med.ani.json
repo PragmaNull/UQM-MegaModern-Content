@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [6, 6]},
+  "frames": [
+    {"image": "stinger-med-000.png", "hotspot": [5, 5]},
+    {"image": "stinger-med-001.png"},
+    {"image": "stinger-med-002.png"},
+    {"image": "stinger-med-003.png"},
+    {"image": "stinger-med-004.png", "hotspot": [6, 5]},
+    {"image": "stinger-med-005.png", "hotspot": [6, 5]},
+    {"image": "stinger-med-006.png"},
+    {"image": "stinger-med-007.png"},
+    {"image": "stinger-med-008.png", "hotspot": [5, 6]},
+    {"image": "stinger-med-009.png"},
+    {"image": "stinger-med-010.png"},
+    {"image": "stinger-med-011.png", "hotspot": [6, 5]},
+    {"image": "stinger-med-012.png", "hotspot": [5, 5]},
+    {"image": "stinger-med-013.png"},
+    {"image": "stinger-med-014.png"},
+    {"image": "stinger-med-015.png"}
+  ]
+}

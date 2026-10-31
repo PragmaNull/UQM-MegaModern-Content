@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [8, 7]},
+  "frames": [
+    {"image": "napalm-med-000.png"},
+    {"image": "napalm-med-001.png", "hotspot": [9, 9]},
+    {"image": "napalm-med-002.png", "hotspot": [10, 10]},
+    {"image": "napalm-med-003.png", "hotspot": [11, 11]},
+    {"image": "napalm-med-004.png", "hotspot": [13, 12]},
+    {"image": "napalm-med-005.png", "hotspot": [14, 13]},
+    {"image": "napalm-med-006.png", "hotspot": [18, 17]},
+    {"image": "napalm-med-007.png", "hotspot": [20, 19]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [9, 7]},
+  "frames": [
+    {"image": "skiff-big-000.png"},
+    {"image": "skiff-big-001.png"},
+    {"image": "skiff-big-002.png"},
+    {"image": "skiff-big-003.png"},
+    {"image": "skiff-big-004.png", "hotspot": [11, 7]},
+    {"image": "skiff-big-005.png"},
+    {"image": "skiff-big-006.png"},
+    {"image": "skiff-big-007.png"},
+    {"image": "skiff-big-008.png", "hotspot": [9, 8]},
+    {"image": "skiff-big-009.png"},
+    {"image": "skiff-big-010.png"},
+    {"image": "skiff-big-011.png"},
+    {"image": "skiff-big-012.png"},
+    {"image": "skiff-big-013.png"},
+    {"image": "skiff-big-014.png"},
+    {"image": "skiff-big-015.png"}
+  ]
+}

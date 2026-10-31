@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [8, 8]},
+  "frames": [
+    {"image": "bubble-med-000.png", "hotspot": [6, 6]},
+    {"image": "bubble-med-001.png"},
+    {"image": "bubble-med-002.png"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 2, "hotspot": [5, 4]},
+  "frames": [
+    {"image": "samatra-sml-000.png", "hotspot": [40, 17]},
+    {"image": "samatra-sml-001.png"},
+    {"image": "samatra-sml-002.png"},
+    {"image": "samatra-sml-003.png"},
+    {"image": "samatra-sml-004.png"},
+    {"image": "samatra-sml-005.png"},
+    {"image": "samatra-sml-006.png"},
+    {"image": "samatra-sml-007.png"},
+    {"image": "samatra-sml-008.png"},
+    {"image": "samatra-sml-009.png"},
+    {"image": "samatra-sml-010.png"},
+    {"image": "samatra-sml-011.png", "transparency": "none", "hotspot": [15, -17]},
+    {"image": "samatra-sml-012.png", "transparency": "none", "hotspot": [15, -17]},
+    {"image": "samatra-sml-013.png", "transparency": "none", "hotspot": [15, -17]},
+    {"image": "samatra-sml-014.png", "transparency": "none", "hotspot": [15, -17]}
+  ]
+}

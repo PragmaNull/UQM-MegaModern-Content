@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [-4, -3]},
+  "frames": [
+    {"image": "guardian-icons-000.png"},
+    {"image": "guardian-icons-001.png", "hotspot": [20, 20]}
+  ]
+}

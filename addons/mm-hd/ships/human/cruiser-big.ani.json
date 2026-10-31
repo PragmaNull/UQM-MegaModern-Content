@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 0, "hotspot": [72, 72]},
+  "frames": [
+    {"image": "cruiser-big-000.png"},
+    {"image": "cruiser-big-001.png"},
+    {"image": "cruiser-big-002.png"},
+    {"image": "cruiser-big-003.png"},
+    {"image": "cruiser-big-004.png"},
+    {"image": "cruiser-big-005.png"},
+    {"image": "cruiser-big-006.png"},
+    {"image": "cruiser-big-007.png"},
+    {"image": "cruiser-big-008.png"},
+    {"image": "cruiser-big-009.png"},
+    {"image": "cruiser-big-010.png"},
+    {"image": "cruiser-big-011.png"},
+    {"image": "cruiser-big-012.png"},
+    {"image": "cruiser-big-013.png"},
+    {"image": "cruiser-big-014.png"},
+    {"image": "cruiser-big-015.png"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [64, 64]},
+  "frames": [
+    {"image": "probe-meleeicons-000.png"},
+    {"image": "probe-meleeicons-001.png", "colormap": null, "hotspot": [23, 23]}
+  ]
+}

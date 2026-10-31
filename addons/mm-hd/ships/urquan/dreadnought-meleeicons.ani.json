@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 0, "hotspot": [17, 17]},
+  "frames": [
+    {"image": "dreadnought-meleeicons-000.png", "hotspot": [41, 64]},
+    {"image": "dreadnought-meleeicons-001.png"},
+    {"image": "dreadnought-sml-000.png"},
+    {"image": "dreadnought-sml-001.png"},
+    {"image": "dreadnought-sml-002.png"},
+    {"image": "dreadnought-sml-003.png"},
+    {"image": "dreadnought-sml-004.png"},
+    {"image": "dreadnought-sml-005.png"},
+    {"image": "dreadnought-sml-006.png"},
+    {"image": "dreadnought-sml-007.png"},
+    {"image": "dreadnought-sml-008.png"},
+    {"image": "dreadnought-sml-009.png"},
+    {"image": "dreadnought-sml-010.png"},
+    {"image": "dreadnought-sml-011.png"},
+    {"image": "dreadnought-sml-012.png"},
+    {"image": "dreadnought-sml-013.png"},
+    {"image": "dreadnought-sml-014.png"},
+    {"image": "dreadnought-sml-015.png"}
+  ]
+}

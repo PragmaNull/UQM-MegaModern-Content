@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [-1, -1]},
+  "frames": [
+    {"image": "proboscis-sml-000.png", "transparency": "none", "hotspot": [0, 4]},
+    {"image": "proboscis-sml-001.png", "hotspot": [-1, 3]},
+    {"image": "proboscis-sml-002.png", "hotspot": [-1, 3]},
+    {"image": "proboscis-sml-003.png", "hotspot": [-1, 2]},
+    {"image": "proboscis-sml-004.png", "transparency": "none", "hotspot": [-2, 0]},
+    {"image": "proboscis-sml-005.png"},
+    {"image": "proboscis-sml-006.png"},
+    {"image": "proboscis-sml-007.png"},
+    {"image": "proboscis-sml-008.png", "transparency": "none", "hotspot": [0, -2]},
+    {"image": "proboscis-sml-009.png", "hotspot": [2, -1]},
+    {"image": "proboscis-sml-010.png", "hotspot": [3, -1]},
+    {"image": "proboscis-sml-011.png", "hotspot": [3, -1]},
+    {"image": "proboscis-sml-012.png", "transparency": "none", "hotspot": [5, 0]},
+    {"image": "proboscis-sml-013.png", "hotspot": [3, 2]},
+    {"image": "proboscis-sml-014.png", "hotspot": [3, 3]},
+    {"image": "proboscis-sml-015.png", "hotspot": [2, 3]}
+  ]
+}

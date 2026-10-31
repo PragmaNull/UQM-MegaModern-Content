@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [15, 30]},
+  "frames": [
+    {"image": "fusion-big-000.png", "hotspot": [10, 32]},
+    {"image": "fusion-big-001.png"},
+    {"image": "fusion-big-002.png", "hotspot": [24, 24]},
+    {"image": "fusion-big-003.png", "hotspot": [30, 15]},
+    {"image": "fusion-big-004.png", "hotspot": [32, 10]},
+    {"image": "fusion-big-005.png", "hotspot": [30, 15]},
+    {"image": "fusion-big-006.png", "hotspot": [24, 24]},
+    {"image": "fusion-big-007.png"},
+    {"image": "fusion-big-008.png", "hotspot": [10, 32]},
+    {"image": "fusion-big-009.png"},
+    {"image": "fusion-big-010.png", "hotspot": [24, 24]},
+    {"image": "fusion-big-011.png", "hotspot": [30, 15]},
+    {"image": "fusion-big-012.png", "hotspot": [32, 10]},
+    {"image": "fusion-big-013.png", "hotspot": [30, 15]},
+    {"image": "fusion-big-014.png", "hotspot": [24, 24]},
+    {"image": "fusion-big-015.png"},
+    {"image": "fusion-big-016.png", "hotspot": [46, 48]},
+    {"image": "fusion-big-017.png", "hotspot": [50, 52]},
+    {"image": "fusion-big-018.png", "hotspot": [68, 64]},
+    {"image": "fusion-big-019.png", "hotspot": [74, 66]},
+    {"image": "fusion-big-020.png", "hotspot": [74, 72]},
+    {"image": "fusion-big-021.png", "hotspot": [78, 78]},
+    {"image": "fusion-big-022.png", "hotspot": [78, 78]},
+    {"image": "fusion-big-023.png", "hotspot": [80, 80]}
+  ]
+}

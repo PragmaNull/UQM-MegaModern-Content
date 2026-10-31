@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 5]},
+  "frames": [
+    {"image": "saturn-med-000.png", "hotspot": [1, 6]},
+    {"image": "saturn-med-001.png", "hotspot": [3, 6]},
+    {"image": "saturn-med-002.png"},
+    {"image": "saturn-med-003.png", "hotspot": [6, 4]},
+    {"image": "saturn-med-004.png", "hotspot": [7, 1]},
+    {"image": "saturn-med-005.png", "hotspot": [6, 3]},
+    {"image": "saturn-med-006.png"},
+    {"image": "saturn-med-007.png", "hotspot": [3, 6]},
+    {"image": "saturn-med-008.png", "hotspot": [1, 6]},
+    {"image": "saturn-med-009.png", "hotspot": [3, 6]},
+    {"image": "saturn-med-010.png"},
+    {"image": "saturn-med-011.png", "hotspot": [6, 3]},
+    {"image": "saturn-med-012.png", "hotspot": [7, 1]},
+    {"image": "saturn-med-013.png", "hotspot": [6, 3]},
+    {"image": "saturn-med-014.png"},
+    {"image": "saturn-med-015.png", "hotspot": [3, 6]},
+    {"image": "saturn-med-016.png", "hotspot": [4, 4]},
+    {"image": "saturn-med-017.png", "hotspot": [4, 4]},
+    {"image": "saturn-med-018.png"},
+    {"image": "saturn-med-019.png"},
+    {"image": "saturn-med-020.png", "hotspot": [6, 5]},
+    {"image": "saturn-med-021.png", "hotspot": [7, 6]},
+    {"image": "saturn-med-022.png", "hotspot": [8, 6]},
+    {"image": "saturn-med-023.png", "hotspot": [8, 7]},
+    {"image": "saturn-med-024.png", "hotspot": [9, 7]}
+  ]
+}

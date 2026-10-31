@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "iomask-000.png"},
+    {"image": "iomask-001.png"}
+  ]
+}

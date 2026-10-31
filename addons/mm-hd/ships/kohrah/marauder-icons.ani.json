@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "marauder-icons-000.png"},
+    {"image": "marauder-icons-001.png", "hotspot": [45, 76]}
+  ]
+}

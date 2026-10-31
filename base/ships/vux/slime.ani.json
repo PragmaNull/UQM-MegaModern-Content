@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 1]},
+  "frames": [
+    {"image": "slime-000.png", "transparency": "none", "hotspot": [1, 1]},
+    {"image": "slime-001.png"},
+    {"image": "slime-002.png"},
+    {"image": "slime-003.png"},
+    {"image": "slime-004.png", "hotspot": [2, 2]},
+    {"image": "slime-005.png", "hotspot": [2, 2]}
+  ]
+}

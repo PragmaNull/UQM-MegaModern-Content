@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1},
+  "frames": [
+    {"image": "xform-cap-000.png"},
+    {"image": "xform-cap-001.png", "hotspot": [-4, -53]},
+    {"image": "xform-cap-002.png", "hotspot": [-4, -53]},
+    {"image": "xform-cap-002.png", "hotspot": [-4, -53]},
+    {"image": "xform-cap-002.png", "hotspot": [-4, -53]},
+    {"image": "xform-cap-003.png", "hotspot": [-153, -53]},
+    {"image": "xform-cap-004.png", "hotspot": [-80, -68]},
+    {"image": "xform-cap-004.png", "hotspot": [-80, -68]},
+    {"image": "xform-cap-005.png", "hotspot": [-80, -68]},
+    {"image": "xform-cap-006.png", "hotspot": [-60, 0]},
+    {"image": "xform-cap-006.png", "hotspot": [-60, 0]},
+    {"image": "xform-cap-007.png", "hotspot": [-60, 0]},
+    {"image": "xform-cap-008.png"},
+    {"image": "xform-cap-008.png"},
+    {"image": "xform-cap-009.png"}
+  ]
+}

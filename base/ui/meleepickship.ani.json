@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0},
+  "frames": [
+    {"image": "meleepickship-000.png"},
+    {"image": "meleepickship-000.png"}
+  ]
+}

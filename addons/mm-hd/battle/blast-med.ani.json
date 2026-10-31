@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [11, 13]},
+  "frames": [
+    {"image": "blast-med-000.png"},
+    {"image": "blast-med-001.png", "hotspot": [9, 13]},
+    {"image": "blast-med-002.png", "hotspot": [2, 11]},
+    {"image": "blast-med-003.png", "hotspot": [9, 9]},
+    {"image": "blast-med-004.png", "hotspot": [11, 2]},
+    {"image": "blast-med-005.png", "hotspot": [13, 8]},
+    {"image": "blast-med-006.png", "hotspot": [14, 11]},
+    {"image": "blast-med-007.png", "hotspot": [14, 13]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "skiff-sml-000.png"},
+    {"image": "skiff-sml-001.png"},
+    {"image": "skiff-sml-002.png"},
+    {"image": "skiff-sml-003.png"},
+    {"image": "skiff-sml-004.png"},
+    {"image": "skiff-sml-005.png"},
+    {"image": "skiff-sml-006.png"},
+    {"image": "skiff-sml-007.png"},
+    {"image": "skiff-sml-008.png"},
+    {"image": "skiff-sml-009.png"},
+    {"image": "skiff-sml-010.png"},
+    {"image": "skiff-sml-011.png"},
+    {"image": "skiff-sml-012.png"},
+    {"image": "skiff-sml-013.png"},
+    {"image": "skiff-sml-014.png"},
+    {"image": "skiff-sml-015.png"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 3]},
+  "frames": [
+    {"image": "howitzer-big-000.png"},
+    {"image": "howitzer-big-001.png"},
+    {"image": "howitzer-big-002.png", "hotspot": [2, 2]},
+    {"image": "howitzer-big-003.png", "hotspot": [3, 1]},
+    {"image": "howitzer-big-004.png", "hotspot": [3, 1]},
+    {"image": "howitzer-big-005.png", "hotspot": [3, 1]},
+    {"image": "howitzer-big-006.png", "hotspot": [2, 2]},
+    {"image": "howitzer-big-007.png"},
+    {"image": "howitzer-big-008.png"},
+    {"image": "howitzer-big-009.png"},
+    {"image": "howitzer-big-010.png", "hotspot": [2, 2]},
+    {"image": "howitzer-big-011.png", "hotspot": [3, 1]},
+    {"image": "howitzer-big-012.png", "hotspot": [3, 1]},
+    {"image": "howitzer-big-013.png", "hotspot": [3, 1]},
+    {"image": "howitzer-big-014.png", "hotspot": [2, 2]},
+    {"image": "howitzer-big-015.png"},
+    {"image": "howitzer-big-016.png", "hotspot": [11, 10]},
+    {"image": "howitzer-big-017.png", "hotspot": [12, 12]},
+    {"image": "howitzer-big-018.png", "hotspot": [16, 15]},
+    {"image": "howitzer-big-019.png", "hotspot": [22, 21]},
+    {"image": "howitzer-big-020.png", "hotspot": [26, 25]},
+    {"image": "howitzer-big-021.png", "hotspot": [28, 27]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "marauder-cap-000.png"},
+    {"image": "marauder-cap-001.png", "hotspot": [0, -32]},
+    {"image": "marauder-cap-002.png", "hotspot": [0, -32]},
+    {"image": "marauder-cap-002.png", "hotspot": [0, -32]},
+    {"image": "marauder-cap-002.png", "hotspot": [0, -32]},
+    {"image": "marauder-cap-003.png", "hotspot": [-162, -39]},
+    {"image": "marauder-cap-004.png", "hotspot": [-83, -34]},
+    {"image": "marauder-cap-004.png", "hotspot": [-83, -34]},
+    {"image": "marauder-cap-005.png", "hotspot": [-83, -34]},
+    {"image": "marauder-cap-006.png", "hotspot": [-89, -86]},
+    {"image": "marauder-cap-006.png", "hotspot": [-89, -86]},
+    {"image": "marauder-cap-007.png", "hotspot": [-89, -86]},
+    {"image": "marauder-cap-008.png"},
+    {"image": "marauder-cap-008.png"},
+    {"image": "marauder-cap-009.png"}
+  ]
+}

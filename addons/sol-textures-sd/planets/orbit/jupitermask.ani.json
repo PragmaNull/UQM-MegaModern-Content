@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "jupitermask-000.png"},
+    {"image": "jupitermask-001.png"}
+  ]
+}

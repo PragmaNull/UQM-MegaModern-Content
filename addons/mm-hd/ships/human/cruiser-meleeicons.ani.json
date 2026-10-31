@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 0, "hotspot": [18, 18]},
+  "frames": [
+    {"image": "cruiser-meleeicons-000.png", "hotspot": [18, 64]},
+    {"image": "cruiser-meleeicons-001.png"},
+    {"image": "cruiser-sml-000.png"},
+    {"image": "cruiser-sml-001.png"},
+    {"image": "cruiser-sml-002.png"},
+    {"image": "cruiser-sml-003.png"},
+    {"image": "cruiser-sml-004.png"},
+    {"image": "cruiser-sml-005.png"},
+    {"image": "cruiser-sml-006.png"},
+    {"image": "cruiser-sml-007.png"},
+    {"image": "cruiser-sml-008.png"},
+    {"image": "cruiser-sml-009.png"},
+    {"image": "cruiser-sml-010.png"},
+    {"image": "cruiser-sml-011.png"},
+    {"image": "cruiser-sml-012.png"},
+    {"image": "cruiser-sml-013.png"},
+    {"image": "cruiser-sml-014.png"},
+    {"image": "cruiser-sml-015.png"}
+  ]
+}

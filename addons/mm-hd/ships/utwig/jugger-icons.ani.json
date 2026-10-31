@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-2, -6]},
+  "frames": [
+    {"image": "jugger-icons-000.png"},
+    {"image": "jugger-icons-001.png", "hotspot": [74, 59]}
+  ]
+}

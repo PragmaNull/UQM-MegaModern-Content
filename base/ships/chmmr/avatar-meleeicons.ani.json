@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "avatar-meleeicons-000.png", "hotspot": [16, 15]},
+    {"image": "avatar-meleeicons-001.png"},
+    {"image": "avatar-sml-000.png", "hotspot": [4, 5]},
+    {"image": "avatar-sml-001.png", "hotspot": [5, 5]},
+    {"image": "avatar-sml-002.png"},
+    {"image": "avatar-sml-003.png", "hotspot": [4, 3]},
+    {"image": "avatar-sml-004.png"},
+    {"image": "avatar-sml-005.png", "hotspot": [4, 5]},
+    {"image": "avatar-sml-006.png"},
+    {"image": "avatar-sml-007.png", "hotspot": [5, 4]},
+    {"image": "avatar-sml-008.png"},
+    {"image": "avatar-sml-009.png", "hotspot": [3, 4]},
+    {"image": "avatar-sml-010.png"},
+    {"image": "avatar-sml-011.png", "hotspot": [5, 5]},
+    {"image": "avatar-sml-012.png", "hotspot": [5, 4]},
+    {"image": "avatar-sml-013.png", "hotspot": [5, 3]},
+    {"image": "avatar-sml-014.png"},
+    {"image": "avatar-sml-015.png", "hotspot": [3, 5]}
+  ]
+}

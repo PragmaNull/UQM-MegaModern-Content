@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 1, "colormap": 28, "hotspot": [-2, 16]},
+  "frames": [
+    {"image": "blueprints-000.png", "hotspot": [-12, 7]},
+    {"image": "blueprints-001.png", "hotspot": [7, -5]},
+    {"image": "blueprints-002.png"},
+    {"image": "blueprints-003.png"},
+    {"image": "blueprints-004.png"},
+    {"image": "blueprints-005.png"},
+    {"image": "blueprints-006.png"},
+    {"image": "blueprints-007.png"},
+    {"image": "blueprints-008.png"},
+    {"image": "blueprints-009.png"},
+    {"image": "blueprints-010.png"},
+    {"image": "blueprints-011.png"},
+    {"image": "blueprints-012.png"},
+    {"image": "blueprints-013.png"},
+    {"image": "blueprints-014.png"},
+    {"image": "blueprints-015.png"},
+    {"image": "blueprints-016.png"},
+    {"image": "blueprints-017.png"},
+    {"image": "blueprints-018.png"},
+    {"image": "blueprints-019.png", "hotspot": [-12, 7]},
+    {"image": "blueprints-020.png", "hotspot": [7, -5]},
+    {"image": "blueprints-021.png"},
+    {"image": "blueprints-022.png", "hotspot": [-1, -16]}
+  ]
+}

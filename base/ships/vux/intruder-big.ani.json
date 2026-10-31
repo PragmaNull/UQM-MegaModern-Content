@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [10, 8]},
+  "frames": [
+    {"image": "intruder-big-000.png", "hotspot": [7, 11]},
+    {"image": "intruder-big-001.png", "hotspot": [8, 11]},
+    {"image": "intruder-big-002.png"},
+    {"image": "intruder-big-003.png", "hotspot": [11, 5]},
+    {"image": "intruder-big-004.png", "hotspot": [7, 6]},
+    {"image": "intruder-big-005.png"},
+    {"image": "intruder-big-006.png", "hotspot": [11, 8]},
+    {"image": "intruder-big-007.png", "hotspot": [8, 7]},
+    {"image": "intruder-big-008.png", "hotspot": [7, 6]},
+    {"image": "intruder-big-009.png", "hotspot": [7, 7]},
+    {"image": "intruder-big-010.png"},
+    {"image": "intruder-big-011.png", "hotspot": [12, 7]},
+    {"image": "intruder-big-012.png", "hotspot": [13, 6]},
+    {"image": "intruder-big-013.png", "hotspot": [11, 5]},
+    {"image": "intruder-big-014.png", "hotspot": [8, 9]},
+    {"image": "intruder-big-015.png", "hotspot": [6, 11]}
+  ]
+}

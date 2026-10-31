@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-2, -7]},
+  "frames": [
+    {"image": "nemesis-icons-000.png"},
+    {"image": "nemesis-icons-001.png", "hotspot": [67, 50]}
+  ]
+}

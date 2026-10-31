@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "cruiser-icons-000.png"},
+    {"image": "cruiser-icons-001.png", "hotspot": [30, 76]}
+  ]
+}

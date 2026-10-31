@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "orbitenter-000.png"},
+    {"image": "orbitenter-001.png"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [-1, -3]},
+  "frames": [
+    {"image": "intruder-cap-000.png", "hotspot": [0, 0]},
+    {"image": "intruder-cap-001.png", "transparency": 2},
+    {"image": "intruder-cap-002.png", "transparency": 1},
+    {"image": "intruder-cap-003.png", "transparency": 2},
+    {"image": "intruder-cap-004.png", "transparency": 1},
+    {"image": "intruder-cap-005.png", "transparency": 2},
+    {"image": "intruder-cap-006.png", "hotspot": [-39, -9]},
+    {"image": "intruder-cap-007.png", "hotspot": [-39, -9]},
+    {"image": "intruder-cap-008.png", "hotspot": [-39, -9]},
+    {"image": "intruder-cap-009.png", "hotspot": [-25, -14]},
+    {"image": "intruder-cap-010.png", "hotspot": [-25, -14]},
+    {"image": "intruder-cap-011.png", "hotspot": [-25, -14]},
+    {"image": "intruder-cap-012.png", "hotspot": [-15, -2]},
+    {"image": "intruder-cap-013.png", "hotspot": [-15, -2]},
+    {"image": "intruder-cap-014.png", "hotspot": [-15, -2]}
+  ]
+}

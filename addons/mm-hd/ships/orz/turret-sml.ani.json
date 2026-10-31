@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [16, 16]},
+  "frames": [
+    {"image": "turret-sml-000.png"},
+    {"image": "turret-sml-001.png"},
+    {"image": "turret-sml-002.png"},
+    {"image": "turret-sml-003.png"},
+    {"image": "turret-sml-004.png"},
+    {"image": "turret-sml-005.png"},
+    {"image": "turret-sml-006.png"},
+    {"image": "turret-sml-007.png"},
+    {"image": "turret-sml-008.png"},
+    {"image": "turret-sml-009.png"},
+    {"image": "turret-sml-010.png"},
+    {"image": "turret-sml-011.png"},
+    {"image": "turret-sml-012.png"},
+    {"image": "turret-sml-013.png"},
+    {"image": "turret-sml-014.png"},
+    {"image": "turret-sml-015.png"},
+    {"image": "turret-sml-016.png", "hotspot": [2, 2]},
+    {"image": "turret-sml-017.png", "hotspot": [3, 3]},
+    {"image": "turret-sml-018.png", "hotspot": [4, 4]},
+    {"image": "turret-sml-019.png", "hotspot": [5, 5]},
+    {"image": "turret-sml-020.png", "hotspot": [1, 1]},
+    {"image": "turret-sml-021.png", "hotspot": [1, 1]}
+  ]
+}

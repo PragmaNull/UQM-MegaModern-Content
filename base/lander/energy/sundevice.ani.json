@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 99, "hotspot": [7, 8]},
+  "frames": [
+    {"image": "sundevice-000.png"},
+    {"image": "sundevice-001.png", "hotspot": [9, 10]},
+    {"image": "sundevice-002.png", "hotspot": [9, 12]},
+    {"image": "sundevice-003.png", "hotspot": [8, 10]}
+  ]
+}

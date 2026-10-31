@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [3, 29]},
+  "frames": [
+    {"image": "proboscis-med-000.png"},
+    {"image": "proboscis-med-001.png", "hotspot": [-1, 28]},
+    {"image": "proboscis-med-002.png", "hotspot": [-4, 20]},
+    {"image": "proboscis-med-003.png", "hotspot": [-4, 11]},
+    {"image": "proboscis-med-004.png", "hotspot": [-8, 3]},
+    {"image": "proboscis-med-005.png", "hotspot": [-5, 0]},
+    {"image": "proboscis-med-006.png", "hotspot": [-4, -4]},
+    {"image": "proboscis-med-007.png", "hotspot": [-1, -4]},
+    {"image": "proboscis-med-008.png", "hotspot": [2, -8]},
+    {"image": "proboscis-med-009.png", "hotspot": [11, -5]},
+    {"image": "proboscis-med-010.png", "hotspot": [19, -5]},
+    {"image": "proboscis-med-011.png", "hotspot": [28, -2]},
+    {"image": "proboscis-med-012.png", "hotspot": [29, 2]},
+    {"image": "proboscis-med-013.png", "hotspot": [29, 11]},
+    {"image": "proboscis-med-014.png", "hotspot": [20, 20]},
+    {"image": "proboscis-med-015.png", "hotspot": [12, 28]}
+  ]
+}

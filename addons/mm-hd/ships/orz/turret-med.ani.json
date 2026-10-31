@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [31, 31]},
+  "frames": [
+    {"image": "turret-med-000.png"},
+    {"image": "turret-med-001.png"},
+    {"image": "turret-med-002.png"},
+    {"image": "turret-med-003.png"},
+    {"image": "turret-med-004.png"},
+    {"image": "turret-med-005.png"},
+    {"image": "turret-med-006.png"},
+    {"image": "turret-med-007.png"},
+    {"image": "turret-med-008.png"},
+    {"image": "turret-med-009.png"},
+    {"image": "turret-med-010.png"},
+    {"image": "turret-med-011.png"},
+    {"image": "turret-med-012.png"},
+    {"image": "turret-med-013.png"},
+    {"image": "turret-med-014.png"},
+    {"image": "turret-med-015.png"},
+    {"image": "turret-med-016.png", "hotspot": [5, 5]},
+    {"image": "turret-med-017.png", "hotspot": [7, 7]},
+    {"image": "turret-med-018.png", "hotspot": [9, 9]},
+    {"image": "turret-med-019.png", "hotspot": [11, 11]},
+    {"image": "turret-med-020.png", "hotspot": [3, 2]},
+    {"image": "turret-med-021.png", "hotspot": [3, 2]}
+  ]
+}

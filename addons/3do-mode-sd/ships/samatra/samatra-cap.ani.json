@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 2},
+  "frames": [
+    {"image": "samatra-cap-000.png"}
+  ]
+}

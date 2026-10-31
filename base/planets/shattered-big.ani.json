@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "hotspot": [38, 33]},
+  "frames": [
+    {"image": "shattered-big-000.png"}
+  ]
+}

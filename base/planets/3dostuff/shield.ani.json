@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [39, 39]},
+  "frames": [
+    {"image": "shield-000.png"}
+  ]
+}

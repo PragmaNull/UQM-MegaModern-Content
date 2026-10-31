@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [25, 15]},
+  "frames": [
+    {"image": "motherark-000.png"},
+    {"image": "motherark-001.png"}
+  ]
+}

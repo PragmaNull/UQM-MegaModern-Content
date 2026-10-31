@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [2, 2]},
+  "frames": [
+    {"image": "truespacesunrgb-000.png"},
+    {"image": "truespacesunrgb-001.png", "hotspot": [4, 3]},
+    {"image": "truespacesunrgb-002.png", "hotspot": [8, 7]},
+    {"image": "truespacesunrgb-003.png", "hotspot": [16, 15]},
+    {"image": "truespacesunrgb-004.png", "hotspot": [26, 24]},
+    {"image": "truespacesunrgb-005.png", "transparency": 0, "colormap": 56},
+    {"image": "truespacesunrgb-006.png", "transparency": 0, "colormap": 56, "hotspot": [4, 3]},
+    {"image": "truespacesunrgb-007.png", "transparency": 0, "colormap": 56, "hotspot": [8, 7]},
+    {"image": "truespacesunrgb-008.png", "transparency": 0, "colormap": 56, "hotspot": [16, 15]},
+    {"image": "truespacesunrgb-009.png", "transparency": 0, "colormap": 56, "hotspot": [26, 24]}
+  ]
+}

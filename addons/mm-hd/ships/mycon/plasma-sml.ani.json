@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [27, 23]},
+  "frames": [
+    {"image": "plasma-sml-000.png", "hotspot": [7, 6]},
+    {"image": "plasma-sml-001.png", "hotspot": [8, 8]},
+    {"image": "plasma-sml-002.png", "hotspot": [11, 10]},
+    {"image": "plasma-sml-003.png", "hotspot": [13, 11]},
+    {"image": "plasma-sml-004.png", "hotspot": [15, 14]},
+    {"image": "plasma-sml-005.png", "hotspot": [19, 16]},
+    {"image": "plasma-sml-006.png", "hotspot": [23, 19]},
+    {"image": "plasma-sml-007.png"},
+    {"image": "plasma-sml-008.png"},
+    {"image": "plasma-sml-009.png"},
+    {"image": "plasma-sml-010.png", "hotspot": [24, 20]},
+    {"image": "plasma-sml-011.png", "hotspot": [1, -1]},
+    {"image": "plasma-sml-012.png", "hotspot": [4, 7]},
+    {"image": "plasma-sml-013.png", "hotspot": [4, 7]},
+    {"image": "plasma-sml-014.png", "hotspot": [9, 8]},
+    {"image": "plasma-sml-015.png", "hotspot": [9, 8]},
+    {"image": "plasma-sml-016.png", "hotspot": [10, 8]},
+    {"image": "plasma-sml-017.png", "hotspot": [10, 8]},
+    {"image": "plasma-sml-018.png", "hotspot": [10, 9]}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [110, 94]},
+  "frames": [
+    {"image": "plasma-big-000.png", "hotspot": [28, 26]},
+    {"image": "plasma-big-001.png", "hotspot": [32, 32]},
+    {"image": "plasma-big-002.png", "hotspot": [44, 38]},
+    {"image": "plasma-big-003.png", "hotspot": [52, 44]},
+    {"image": "plasma-big-004.png", "hotspot": [62, 58]},
+    {"image": "plasma-big-005.png", "hotspot": [76, 66]},
+    {"image": "plasma-big-006.png", "hotspot": [92, 76]},
+    {"image": "plasma-big-007.png"},
+    {"image": "plasma-big-008.png"},
+    {"image": "plasma-big-009.png"},
+    {"image": "plasma-big-010.png", "hotspot": [98, 82]},
+    {"image": "plasma-big-011.png", "hotspot": [4, -4]},
+    {"image": "plasma-big-012.png", "hotspot": [16, 28]},
+    {"image": "plasma-big-013.png", "hotspot": [16, 28]},
+    {"image": "plasma-big-014.png", "hotspot": [36, 32]},
+    {"image": "plasma-big-015.png", "hotspot": [36, 32]},
+    {"image": "plasma-big-016.png", "hotspot": [40, 32]},
+    {"image": "plasma-big-017.png", "hotspot": [40, 32]},
+    {"image": "plasma-big-018.png", "hotspot": [40, 36]}
+  ]
+}

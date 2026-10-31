@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [38, 25]},
+  "frames": [
+    {"image": "terminator-meleeicons-000.png"},
+    {"image": "terminator-meleeicons-001.png", "hotspot": [9, 9]},
+    {"image": "terminator-sml-000.png", "hotspot": [9, 7]},
+    {"image": "terminator-sml-001.png", "hotspot": [8, 9]},
+    {"image": "terminator-sml-002.png", "hotspot": [6, 11]},
+    {"image": "terminator-sml-003.png", "hotspot": [5, 11]},
+    {"image": "terminator-sml-004.png", "hotspot": [5, 9]},
+    {"image": "terminator-sml-005.png", "hotspot": [5, 8]},
+    {"image": "terminator-sml-006.png", "hotspot": [6, 6]},
+    {"image": "terminator-sml-007.png", "hotspot": [8, 5]},
+    {"image": "terminator-sml-008.png", "hotspot": [9, 5]},
+    {"image": "terminator-sml-009.png", "hotspot": [11, 5]},
+    {"image": "terminator-sml-010.png", "hotspot": [10, 7]},
+    {"image": "terminator-sml-011.png", "hotspot": [9, 8]},
+    {"image": "terminator-sml-012.png", "hotspot": [6, 9]},
+    {"image": "terminator-sml-013.png", "hotspot": [9, 11]},
+    {"image": "terminator-sml-014.png", "hotspot": [11, 11]},
+    {"image": "terminator-sml-015.png", "hotspot": [11, 9]}
+  ]
+}

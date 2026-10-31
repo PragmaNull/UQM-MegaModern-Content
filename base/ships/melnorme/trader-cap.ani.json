@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1},
+  "frames": [
+    {"image": "trader-cap-000.png", "transparency": "none"},
+    {"image": "trader-cap-001.png", "hotspot": [-5, -17]},
+    {"image": "trader-cap-002.png", "hotspot": [-5, -17]},
+    {"image": "trader-cap-003.png", "hotspot": [-5, -17]},
+    {"image": "trader-cap-004.png", "hotspot": [-31, -22]},
+    {"image": "trader-cap-005.png", "hotspot": [-31, -22]},
+    {"image": "trader-cap-006.png", "hotspot": [-38, -9]},
+    {"image": "trader-cap-007.png", "hotspot": [-38, -9]},
+    {"image": "trader-cap-008.png", "hotspot": [-38, -9]},
+    {"image": "trader-cap-009.png", "transparency": 1},
+    {"image": "trader-cap-010.png", "transparency": 1},
+    {"image": "trader-cap-011.png", "transparency": 1},
+    {"image": "trader-cap-012.png", "hotspot": [-9, -9]},
+    {"image": "trader-cap-013.png", "hotspot": [-9, -9]},
+    {"image": "trader-cap-014.png", "hotspot": [-9, -9]}
+  ]
+}

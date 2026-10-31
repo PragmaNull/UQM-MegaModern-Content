@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [-5, 0]},
+  "frames": [
+    {"image": "blade-icons-000.png"},
+    {"image": "blade-icons-001.png", "hotspot": [12, 20]}
+  ]
+}

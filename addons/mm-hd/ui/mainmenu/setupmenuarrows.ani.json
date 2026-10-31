@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "activity-006.png"},
+    {"image": "activity-007.png", "hotspot": [0, 56]},
+    {"image": "arrowleft.png", "hotspot": [0, 28]},
+    {"image": "arrowright.png", "hotspot": [16, 28]}
+  ]
+}

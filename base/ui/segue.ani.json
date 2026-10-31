@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0},
+  "frames": [
+    {"image": "segue-000.png"}
+  ]
+}

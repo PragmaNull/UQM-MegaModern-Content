@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0},
+  "frames": [
+    {"image": "activity-006.png"},
+    {"image": "activity-007.png", "hotspot": [0, 14]},
+    {"image": "arrowleft.png", "transparency": "png", "colormap": null, "hotspot": [0, 7]},
+    {"image": "arrowright.png", "transparency": "png", "colormap": null, "hotspot": [4, 7]}
+  ]
+}

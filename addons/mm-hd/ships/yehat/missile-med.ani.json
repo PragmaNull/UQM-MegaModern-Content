@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [4, 4]},
+  "frames": [
+    {"image": "missile-med-000.png"},
+    {"image": "missile-med-001.png", "hotspot": [3, 4]},
+    {"image": "missile-med-002.png"},
+    {"image": "missile-med-003.png", "hotspot": [5, 4]},
+    {"image": "missile-med-004.png"},
+    {"image": "missile-med-005.png", "hotspot": [4, 3]},
+    {"image": "missile-med-006.png", "hotspot": [3, 3]},
+    {"image": "missile-med-007.png", "hotspot": [3, 4]},
+    {"image": "missile-med-008.png", "hotspot": [3, 4]},
+    {"image": "missile-med-009.png"},
+    {"image": "missile-med-010.png"},
+    {"image": "missile-med-011.png"},
+    {"image": "missile-med-012.png"},
+    {"image": "missile-med-013.png", "hotspot": [3, 5]},
+    {"image": "missile-med-014.png", "hotspot": [3, 3]},
+    {"image": "missile-med-015.png"}
+  ]
+}

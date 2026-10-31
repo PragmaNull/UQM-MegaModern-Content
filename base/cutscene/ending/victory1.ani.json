@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "victory1-000.png"},
+    {"image": "victory1-001.png", "transparency": 0, "hotspot": [23, 19]}
+  ]
+}

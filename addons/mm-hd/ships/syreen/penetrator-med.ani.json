@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [40, 40]},
+  "frames": [
+    {"image": "penetrator-med-000.png"},
+    {"image": "penetrator-med-001.png"},
+    {"image": "penetrator-med-002.png"},
+    {"image": "penetrator-med-003.png"},
+    {"image": "penetrator-med-004.png"},
+    {"image": "penetrator-med-005.png"},
+    {"image": "penetrator-med-006.png"},
+    {"image": "penetrator-med-007.png"},
+    {"image": "penetrator-med-008.png"},
+    {"image": "penetrator-med-009.png"},
+    {"image": "penetrator-med-010.png"},
+    {"image": "penetrator-med-011.png"},
+    {"image": "penetrator-med-012.png"},
+    {"image": "penetrator-med-013.png"},
+    {"image": "penetrator-med-014.png"},
+    {"image": "penetrator-med-015.png"}
+  ]
+}

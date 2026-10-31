@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "blaster-big-000.png", "hotspot": [2, 2]},
+    {"image": "blaster-big-001.png", "hotspot": [4, 4]},
+    {"image": "blaster-big-002.png", "hotspot": [5, 5]},
+    {"image": "blaster-big-003.png", "hotspot": [6, 6]},
+    {"image": "blaster-big-004.png", "transparency": "none"},
+    {"image": "blaster-big-005.png", "transparency": "none"},
+    {"image": "blaster-big-006.png", "transparency": "none"},
+    {"image": "blaster-big-007.png", "transparency": "none"},
+    {"image": "blaster-big-008.png", "transparency": "none"},
+    {"image": "blaster-big-009.png", "hotspot": [3, 2]},
+    {"image": "blaster-big-010.png", "hotspot": [5, 5]},
+    {"image": "blaster-big-011.png", "hotspot": [8, 8]},
+    {"image": "blaster-big-012.png", "hotspot": [10, 10]},
+    {"image": "blaster-big-013.png", "hotspot": [12, 12]},
+    {"image": "blaster-big-014.png", "hotspot": [12, 12]},
+    {"image": "blaster-big-015.png", "hotspot": [12, 12]},
+    {"image": "blaster-big-016.png", "hotspot": [5, 5]},
+    {"image": "blaster-big-017.png", "hotspot": [4, 4]},
+    {"image": "blaster-big-018.png", "hotspot": [3, 3]},
+    {"image": "blaster-big-019.png", "hotspot": [4, 4]},
+    {"image": "blaster-big-020.png", "hotspot": [12, 12]},
+    {"image": "blaster-big-021.png", "hotspot": [20, 16]},
+    {"image": "blaster-big-022.png", "hotspot": [19, 16]},
+    {"image": "blaster-big-023.png", "hotspot": [21, 16]},
+    {"image": "blaster-big-024.png", "hotspot": [21, 16]},
+    {"image": "blaster-big-025.png", "hotspot": [21, 16]},
+    {"image": "blaster-big-026.png", "hotspot": [23, 18]}
+  ]
+}

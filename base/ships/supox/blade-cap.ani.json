@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1},
+  "frames": [
+    {"image": "blade-cap-000.png", "transparency": "none"},
+    {"image": "blade-cap-001.png", "hotspot": [0, -21]},
+    {"image": "blade-cap-002.png", "hotspot": [0, -21]},
+    {"image": "blade-cap-003.png", "hotspot": [0, -15]},
+    {"image": "blade-cap-004.png", "hotspot": [-35, -15]},
+    {"image": "blade-cap-005.png", "hotspot": [-35, -15]},
+    {"image": "blade-cap-006.png", "transparency": "none"},
+    {"image": "blade-cap-007.png", "transparency": "none"},
+    {"image": "blade-cap-008.png", "transparency": "none"},
+    {"image": "blade-cap-009.png", "hotspot": [-21, -7]},
+    {"image": "blade-cap-010.png", "transparency": 1, "hotspot": [-21, -7]},
+    {"image": "blade-cap-011.png", "hotspot": [-21, -7]},
+    {"image": "blade-cap-012.png", "hotspot": [-33, 0]},
+    {"image": "blade-cap-013.png", "hotspot": [-33, 0]},
+    {"image": "blade-cap-014.png", "hotspot": [-33, 0]}
+  ]
+}

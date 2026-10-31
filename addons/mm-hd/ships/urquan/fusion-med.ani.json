@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [7, 15]},
+  "frames": [
+    {"image": "fusion-med-000.png", "hotspot": [5, 16]},
+    {"image": "fusion-med-001.png"},
+    {"image": "fusion-med-002.png", "hotspot": [12, 12]},
+    {"image": "fusion-med-003.png", "hotspot": [15, 7]},
+    {"image": "fusion-med-004.png", "hotspot": [16, 5]},
+    {"image": "fusion-med-005.png", "hotspot": [15, 7]},
+    {"image": "fusion-med-006.png", "hotspot": [12, 12]},
+    {"image": "fusion-med-007.png"},
+    {"image": "fusion-med-008.png", "hotspot": [5, 16]},
+    {"image": "fusion-med-009.png"},
+    {"image": "fusion-med-010.png", "hotspot": [12, 12]},
+    {"image": "fusion-med-011.png", "hotspot": [15, 7]},
+    {"image": "fusion-med-012.png", "hotspot": [16, 5]},
+    {"image": "fusion-med-013.png", "hotspot": [15, 7]},
+    {"image": "fusion-med-014.png", "hotspot": [12, 12]},
+    {"image": "fusion-med-015.png"},
+    {"image": "fusion-med-016.png", "hotspot": [23, 24]},
+    {"image": "fusion-med-017.png", "hotspot": [25, 26]},
+    {"image": "fusion-med-018.png", "hotspot": [34, 32]},
+    {"image": "fusion-med-019.png", "hotspot": [37, 33]},
+    {"image": "fusion-med-020.png", "hotspot": [37, 36]},
+    {"image": "fusion-med-021.png", "hotspot": [39, 39]},
+    {"image": "fusion-med-022.png", "hotspot": [39, 39]},
+    {"image": "fusion-med-023.png", "hotspot": [40, 40]}
+  ]
+}

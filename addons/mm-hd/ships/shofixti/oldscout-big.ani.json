@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [33, 33]},
+  "frames": [
+    {"image": "oldscout-big-000.png"},
+    {"image": "oldscout-big-001.png"},
+    {"image": "oldscout-big-002.png"},
+    {"image": "oldscout-big-003.png"},
+    {"image": "oldscout-big-004.png"},
+    {"image": "oldscout-big-005.png"},
+    {"image": "oldscout-big-006.png"},
+    {"image": "oldscout-big-007.png"},
+    {"image": "oldscout-big-008.png"},
+    {"image": "oldscout-big-009.png"},
+    {"image": "oldscout-big-010.png"},
+    {"image": "oldscout-big-011.png"},
+    {"image": "oldscout-big-012.png"},
+    {"image": "oldscout-big-013.png"},
+    {"image": "oldscout-big-014.png"},
+    {"image": "oldscout-big-015.png"}
+  ]
+}

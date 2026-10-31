@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [7, 8]},
+  "frames": [
+    {"image": "guardian-big-000.png", "hotspot": [8, 14]},
+    {"image": "guardian-big-001.png", "hotspot": [7, 11]},
+    {"image": "guardian-big-002.png"},
+    {"image": "guardian-big-003.png"},
+    {"image": "guardian-big-004.png", "hotspot": [7, 7]},
+    {"image": "guardian-big-005.png"},
+    {"image": "guardian-big-006.png", "hotspot": [6, 7]},
+    {"image": "guardian-big-007.png", "hotspot": [7, 6]},
+    {"image": "guardian-big-008.png", "hotspot": [8, 6]},
+    {"image": "guardian-big-009.png", "hotspot": [12, 6]},
+    {"image": "guardian-big-010.png", "hotspot": [14, 6]},
+    {"image": "guardian-big-011.png", "hotspot": [16, 7]},
+    {"image": "guardian-big-012.png", "hotspot": [16, 7]},
+    {"image": "guardian-big-013.png", "hotspot": [12, 11]},
+    {"image": "guardian-big-014.png", "hotspot": [10, 13]},
+    {"image": "guardian-big-015.png", "hotspot": [9, 15]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [17, 14]},
+  "frames": [
+    {"image": "eluder-big-000.png", "hotspot": [14, 11]},
+    {"image": "eluder-big-001.png"},
+    {"image": "eluder-big-002.png"},
+    {"image": "eluder-big-003.png", "hotspot": [14, 13]},
+    {"image": "eluder-big-004.png", "hotspot": [12, 12]},
+    {"image": "eluder-big-005.png", "hotspot": [13, 14]},
+    {"image": "eluder-big-006.png", "hotspot": [14, 14]},
+    {"image": "eluder-big-007.png", "hotspot": [14, 13]},
+    {"image": "eluder-big-008.png", "hotspot": [12, 11]},
+    {"image": "eluder-big-009.png", "hotspot": [16, 11]},
+    {"image": "eluder-big-010.png", "hotspot": [17, 13]},
+    {"image": "eluder-big-011.png", "hotspot": [16, 13]},
+    {"image": "eluder-big-012.png", "hotspot": [13, 11]},
+    {"image": "eluder-big-013.png", "hotspot": [16, 15]},
+    {"image": "eluder-big-014.png", "hotspot": [16, 16]},
+    {"image": "eluder-big-015.png", "hotspot": [16, 15]}
+  ]
+}

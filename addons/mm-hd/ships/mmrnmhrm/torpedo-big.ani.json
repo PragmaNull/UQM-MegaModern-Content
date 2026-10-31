@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [8, 15]},
+  "frames": [
+    {"image": "torpedo-big-000.png", "hotspot": [6, 16]},
+    {"image": "torpedo-big-001.png"},
+    {"image": "torpedo-big-002.png", "hotspot": [12, 12]},
+    {"image": "torpedo-big-003.png", "hotspot": [15, 8]},
+    {"image": "torpedo-big-004.png", "hotspot": [16, 6]},
+    {"image": "torpedo-big-005.png", "hotspot": [15, 8]},
+    {"image": "torpedo-big-006.png", "hotspot": [12, 12]},
+    {"image": "torpedo-big-007.png"},
+    {"image": "torpedo-big-008.png", "hotspot": [6, 16]},
+    {"image": "torpedo-big-009.png"},
+    {"image": "torpedo-big-010.png", "hotspot": [12, 12]},
+    {"image": "torpedo-big-011.png", "hotspot": [15, 8]},
+    {"image": "torpedo-big-012.png", "hotspot": [16, 6]},
+    {"image": "torpedo-big-013.png", "hotspot": [15, 8]},
+    {"image": "torpedo-big-014.png", "hotspot": [12, 12]},
+    {"image": "torpedo-big-015.png"}
+  ]
+}

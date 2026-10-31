@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [16, 14]},
+  "frames": [
+    {"image": "fire-big-000.png"},
+    {"image": "fire-big-001.png", "hotspot": [18, 18]},
+    {"image": "fire-big-002.png", "hotspot": [20, 20]},
+    {"image": "fire-big-003.png", "hotspot": [22, 22]},
+    {"image": "fire-big-004.png", "hotspot": [26, 24]},
+    {"image": "fire-big-005.png", "hotspot": [28, 26]},
+    {"image": "fire-big-006.png", "hotspot": [36, 34]},
+    {"image": "fire-big-007.png", "hotspot": [40, 38]}
+  ]
+}

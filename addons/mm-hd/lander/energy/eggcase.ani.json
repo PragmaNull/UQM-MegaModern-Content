@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 92, "hotspot": [86, 31]},
+  "frames": [
+    {"image": "eggcase-000.png"},
+    {"image": "eggcase-001.png"},
+    {"image": "eggcase-002.png"},
+    {"image": "eggcase-003.png"}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [36, 34]},
+  "frames": [
+    {"image": "spark-med-000.png", "hotspot": [12, 12]},
+    {"image": "spark-med-001.png", "hotspot": [4, 4]},
+    {"image": "spark-med-002.png", "hotspot": [22, 20]},
+    {"image": "spark-med-003.png", "hotspot": [28, 26]},
+    {"image": "spark-med-004.png", "hotspot": [30, 28]},
+    {"image": "spark-med-005.png", "hotspot": [35, 33]},
+    {"image": "spark-med-006.png"},
+    {"image": "spark-med-007.png"},
+    {"image": "spark-med-008.png"},
+    {"image": "spark-med-009.png"},
+    {"image": "spark-med-010.png"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 0, "hotspot": [28, 28]},
+  "frames": [
+    {"image": "lifey-000.png"},
+    {"image": "lifey-001.png"},
+    {"image": "lifey-002.png"},
+    {"image": "lifey-003.png"}
+  ]
+}

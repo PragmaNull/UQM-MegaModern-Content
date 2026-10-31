@@ -43,10 +43,10 @@ FONT4X 1 addons/mm-hd/fonts/slides.fon
 FONT 0
 
 #(Set ANIM to draw slides from)
-ANI1X base/cutscene/intro/title.ani
+ANI1X base/cutscene/intro/title.ani.json
 
 #(Set ANIM to draw slides from)
-ANI4X addons/mm-hd/cutscene/intro/title.ani
+ANI4X addons/mm-hd/cutscene/intro/title.ani.json
 
 #(Set text fade in/out color; 0xRRGGBB)
 TFC 000000
@@ -114,10 +114,10 @@ FTB 3000
 FONT 1
 
 #(Set ANIM to draw slides from)
-ANI base/cutscene/intro/intro.ani
+ANI base/cutscene/intro/intro.ani.json
 
 #(Set ANIM to draw slides from)
-ANI4X addons/mm-hd/cutscene/intro/intro.ani
+ANI4X addons/mm-hd/cutscene/intro/intro.ani.json
 
 #(Set text vertical position; can be T=top, B=bottom, M=middle)
 TVA T

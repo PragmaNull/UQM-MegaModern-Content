@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 96, "hotspot": [93, 69]},
+  "frames": [
+    {"image": "moonbase-005.png"},
+    {"image": "moonbase-006.png"},
+    {"image": "moonbase-000.png"},
+    {"image": "moonbase-001.png"},
+    {"image": "moonbase-002.png"},
+    {"image": "moonbase-003.png"},
+    {"image": "moonbase-002.png"},
+    {"image": "moonbase-001.png"},
+    {"image": "moonbase-000.png"},
+    {"image": "moonbase-006.png"}
+  ]
+}

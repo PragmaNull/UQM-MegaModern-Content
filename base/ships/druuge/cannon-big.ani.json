@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 5]},
+  "frames": [
+    {"image": "cannon-big-000.png", "hotspot": [1, 5]},
+    {"image": "cannon-big-001.png"},
+    {"image": "cannon-big-002.png", "hotspot": [2, 4]},
+    {"image": "cannon-big-003.png", "hotspot": [3, 2]},
+    {"image": "cannon-big-004.png", "hotspot": [3, 1]},
+    {"image": "cannon-big-005.png", "hotspot": [3, 2]},
+    {"image": "cannon-big-006.png", "hotspot": [2, 2]},
+    {"image": "cannon-big-007.png", "hotspot": [2, 3]},
+    {"image": "cannon-big-008.png", "hotspot": [1, 3]},
+    {"image": "cannon-big-009.png", "hotspot": [2, 3]},
+    {"image": "cannon-big-010.png", "hotspot": [4, 2]},
+    {"image": "cannon-big-011.png", "hotspot": [5, 2]},
+    {"image": "cannon-big-012.png", "hotspot": [5, 1]},
+    {"image": "cannon-big-013.png", "hotspot": [5, 2]},
+    {"image": "cannon-big-014.png", "hotspot": [4, 4]},
+    {"image": "cannon-big-015.png"},
+    {"image": "cannon-big-016.png", "hotspot": [2, 2]},
+    {"image": "cannon-big-017.png", "hotspot": [3, 3]},
+    {"image": "cannon-big-018.png", "hotspot": [4, 4]},
+    {"image": "cannon-big-019.png", "hotspot": [5, 5]},
+    {"image": "cannon-big-020.png", "hotspot": [5, 5]},
+    {"image": "cannon-big-021.png", "hotspot": [6, 6]},
+    {"image": "cannon-big-022.png", "hotspot": [7, 7]},
+    {"image": "cannon-big-023.png", "hotspot": [8, 8]}
+  ]
+}

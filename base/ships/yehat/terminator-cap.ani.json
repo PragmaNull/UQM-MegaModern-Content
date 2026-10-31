@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [-2, -8]},
+  "frames": [
+    {"image": "terminator-cap-000.png", "hotspot": [0, 0]},
+    {"image": "terminator-cap-001.png", "transparency": 0},
+    {"image": "terminator-cap-002.png", "transparency": 0},
+    {"image": "terminator-cap-003.png", "transparency": 0},
+    {"image": "terminator-cap-004.png", "transparency": 0},
+    {"image": "terminator-cap-005.png", "transparency": 0},
+    {"image": "terminator-cap-006.png", "hotspot": [0, 0]},
+    {"image": "terminator-cap-007.png", "hotspot": [0, 0]},
+    {"image": "terminator-cap-008.png", "hotspot": [0, 0]},
+    {"image": "terminator-cap-009.png", "hotspot": [-43, 0]},
+    {"image": "terminator-cap-010.png", "hotspot": [-43, 0]},
+    {"image": "terminator-cap-011.png", "hotspot": [-43, 0]},
+    {"image": "terminator-cap-012.png", "hotspot": [-24, 0]},
+    {"image": "terminator-cap-013.png", "hotspot": [-24, 0]},
+    {"image": "terminator-cap-014.png", "hotspot": [-24, 0]}
+  ]
+}

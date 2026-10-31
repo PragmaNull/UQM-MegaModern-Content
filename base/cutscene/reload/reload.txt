@@ -12,10 +12,10 @@ DIMS 320 200
 FTB 0
 
 #(Load movie)
-ANI1X base/cutscene/reload/reload.ani
+ANI1X base/cutscene/reload/reload.ani.json
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/reload/reload.ani
+ANI4X addons/mm-hd/cutscene/reload/reload.ani.json
 
 #(Draw slide; param1=ANI index)
 DRAW 0

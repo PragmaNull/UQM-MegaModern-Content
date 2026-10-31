@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 5]},
+  "frames": [
+    {"image": "blast-big-000.png"},
+    {"image": "blast-big-001.png", "hotspot": [3, 5]},
+    {"image": "blast-big-002.png", "hotspot": [1, 5]},
+    {"image": "blast-big-003.png", "hotspot": [3, 3]},
+    {"image": "blast-big-004.png", "hotspot": [5, 1]},
+    {"image": "blast-big-005.png", "hotspot": [6, 3]},
+    {"image": "blast-big-006.png"},
+    {"image": "blast-big-007.png", "hotspot": [6, 5]}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [-15, -21]},
+  "frames": [
+    {"image": "skiff-cap-000.png", "hotspot": [0, 0]},
+    {"image": "skiff-cap-001.png"},
+    {"image": "skiff-cap-002.png"},
+    {"image": "skiff-cap-003.png"},
+    {"image": "skiff-cap-004.png"},
+    {"image": "skiff-cap-005.png"},
+    {"image": "skiff-cap-006.png", "hotspot": [-28, -10]},
+    {"image": "skiff-cap-007.png", "hotspot": [-28, -10]},
+    {"image": "skiff-cap-008.png", "hotspot": [-28, -10]},
+    {"image": "skiff-cap-009.png", "hotspot": [-8, -10]},
+    {"image": "skiff-cap-010.png", "hotspot": [-8, -10]},
+    {"image": "skiff-cap-011.png", "hotspot": [-8, -10]},
+    {"image": "skiff-cap-012.png", "hotspot": [-16, -1]},
+    {"image": "skiff-cap-013.png", "hotspot": [-16, -1]},
+    {"image": "skiff-cap-014.png", "hotspot": [-16, -1]}
+  ]
+}

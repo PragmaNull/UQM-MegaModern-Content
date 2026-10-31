@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 5, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "gas-med-000.png"},
+    {"image": "gas-med-001.png"},
+    {"image": "gas-med-002.png"},
+    {"image": "gas-med-003.png"},
+    {"image": "gas-med-004.png", "hotspot": [3, 2]},
+    {"image": "gas-med-005.png", "hotspot": [3, 3]},
+    {"image": "gas-med-006.png", "hotspot": [4, 4]},
+    {"image": "gas-med-007.png", "hotspot": [5, 4]}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [14, 14]},
+  "frames": [
+    {"image": "fury-sml-000.png"},
+    {"image": "fury-sml-001.png"},
+    {"image": "fury-sml-002.png"},
+    {"image": "fury-sml-003.png"},
+    {"image": "fury-sml-004.png"},
+    {"image": "fury-sml-005.png"},
+    {"image": "fury-sml-006.png"},
+    {"image": "fury-sml-007.png"},
+    {"image": "fury-sml-008.png"},
+    {"image": "fury-sml-009.png"},
+    {"image": "fury-sml-010.png"},
+    {"image": "fury-sml-011.png"},
+    {"image": "fury-sml-012.png"},
+    {"image": "fury-sml-013.png"},
+    {"image": "fury-sml-014.png"},
+    {"image": "fury-sml-015.png"}
+  ]
+}

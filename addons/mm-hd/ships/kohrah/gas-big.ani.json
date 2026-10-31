@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [16, 14]},
+  "frames": [
+    {"image": "gas-big-000.png"},
+    {"image": "gas-big-001.png", "hotspot": [18, 18]},
+    {"image": "gas-big-002.png", "hotspot": [20, 20]},
+    {"image": "gas-big-003.png", "hotspot": [22, 22]},
+    {"image": "gas-big-004.png", "hotspot": [26, 24]},
+    {"image": "gas-big-005.png", "hotspot": [28, 26]},
+    {"image": "gas-big-006.png", "hotspot": [36, 34]},
+    {"image": "gas-big-007.png", "hotspot": [40, 38]}
+  ]
+}

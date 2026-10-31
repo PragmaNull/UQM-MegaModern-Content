@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 1, "colormap": 28},
+  "frames": [
+    {"image": "blueprints-000.png"},
+    {"image": "blueprints-001.png"},
+    {"image": "blueprints-002.png", "hotspot": [0, 3]},
+    {"image": "blueprints-003.png"},
+    {"image": "blueprints-004.png", "hotspot": [0, -4]},
+    {"image": "blueprints-005.png", "hotspot": [0, 1]},
+    {"image": "blueprints-006.png"},
+    {"image": "blueprints-007.png", "hotspot": [0, 4]},
+    {"image": "blueprints-008.png"},
+    {"image": "blueprints-009.png", "hotspot": [0, 1]},
+    {"image": "blueprints-010.png", "hotspot": [0, 4]},
+    {"image": "blueprints-011.png", "hotspot": [0, 2]},
+    {"image": "blueprints-012.png", "hotspot": [0, 4]},
+    {"image": "blueprints-013.png", "hotspot": [0, -1]},
+    {"image": "blueprints-014.png", "hotspot": [0, -2]},
+    {"image": "blueprints-015.png", "hotspot": [0, -3]},
+    {"image": "blueprints-016.png"},
+    {"image": "blueprints-017.png", "hotspot": [0, 4]},
+    {"image": "blueprints-018.png", "hotspot": [0, 3]},
+    {"image": "blueprints-019.png"},
+    {"image": "blueprints-020.png", "hotspot": [-6, -11]},
+    {"image": "blueprints-021.png"},
+    {"image": "blueprints-022.png", "hotspot": [-2, -7]}
+  ]
+}

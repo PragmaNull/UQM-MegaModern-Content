@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 104, "hotspot": [35, 45]},
+  "frames": [
+    {"image": "spathimonument-000.png"}
+  ]
+}

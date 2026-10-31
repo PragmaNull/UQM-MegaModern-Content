@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 3]},
+  "frames": [
+    {"image": "skiff-meleeicons-000.png", "hotspot": [9, 6]},
+    {"image": "skiff-meleeicons-001.png", "hotspot": [3, 4]},
+    {"image": "skiff-med-000.png"},
+    {"image": "skiff-med-001.png"},
+    {"image": "skiff-med-002.png"},
+    {"image": "skiff-med-003.png"},
+    {"image": "skiff-med-004.png", "hotspot": [5, 3]},
+    {"image": "skiff-med-005.png"},
+    {"image": "skiff-med-006.png"},
+    {"image": "skiff-med-007.png"},
+    {"image": "skiff-med-008.png"},
+    {"image": "skiff-med-009.png"},
+    {"image": "skiff-med-010.png"},
+    {"image": "skiff-med-011.png"},
+    {"image": "skiff-med-012.png"},
+    {"image": "skiff-med-013.png"},
+    {"image": "skiff-med-014.png"},
+    {"image": "skiff-med-015.png"}
+  ]
+}

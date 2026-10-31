@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [14, 10]},
+  "frames": [
+    {"image": "satellite-med-000.png"},
+    {"image": "satellite-med-001.png"},
+    {"image": "satellite-med-002.png"},
+    {"image": "satellite-med-003.png"},
+    {"image": "satellite-med-004.png"},
+    {"image": "satellite-med-005.png"},
+    {"image": "satellite-med-006.png"},
+    {"image": "satellite-med-007.png"}
+  ]
+}

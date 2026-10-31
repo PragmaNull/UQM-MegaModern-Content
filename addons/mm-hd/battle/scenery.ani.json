@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [174, 88]},
+  "frames": [
+    {"image": "scenery-000.png"},
+    {"image": "scenery-001.png", "hotspot": [86, 44]},
+    {"image": "scenery-002.png", "hotspot": [44, 22]}
+  ]
+}

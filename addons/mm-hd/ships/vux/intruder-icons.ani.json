@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-14, -12]},
+  "frames": [
+    {"image": "intruder-icons-000.png"},
+    {"image": "intruder-icons-001.png", "hotspot": [68, 77]}
+  ]
+}

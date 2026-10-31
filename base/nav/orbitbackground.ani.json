@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 57},
+  "frames": [
+    {"image": "orbitbackground-000.png"},
+    {"image": "orbitbackground-001.png"},
+    {"image": "orbitbackground-002.png"},
+    {"image": "orbitbackground-003.png"},
+    {"image": "orbitbackground-004.png"},
+    {"image": "orbitbackground-005.png"},
+    {"image": "orbitbackground-006.png", "hotspot": [1, 1]},
+    {"image": "orbitbackground-007.png", "hotspot": [2, 2]},
+    {"image": "orbitbackground-008.png", "hotspot": [1, 1]},
+    {"image": "orbitbackground-009.png", "hotspot": [4, 4]},
+    {"image": "orbitbackground-010.png", "hotspot": [5, 5]},
+    {"image": "orbitbackground-011.png", "hotspot": [5, 5]},
+    {"image": "orbitbackground-012.png", "hotspot": [5, 5]},
+    {"image": "orbitbackground-013.png", "hotspot": [5, 5]},
+    {"image": "orbitbackground-014.png", "hotspot": [5, 5]},
+    {"image": "orbitbackground-015.png", "hotspot": [5, 5]},
+    {"image": "orbitbackground-016.png", "hotspot": [7, 8]},
+    {"image": "orbitbackground-017.png", "hotspot": [11, 10]},
+    {"image": "orbitbackground-018.png"},
+    {"image": "orbitbackground-019.png", "hotspot": [9, 6]},
+    {"image": "orbitbackground-020.png"},
+    {"image": "orbitbackground-021.png"},
+    {"image": "orbitbackground-022.png", "hotspot": [7, 8]},
+    {"image": "orbitbackground-023.png", "transparency": "png", "colormap": null, "hotspot": [9, 9]},
+    {"image": "orbitbackground-024.png", "transparency": "png", "colormap": null}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 1, "colormap": 1, "hotspot": [-18, 0]},
+  "frames": [
+    {"image": "broodhome-cap-000.png", "transparency": "none", "hotspot": [0, 0]},
+    {"image": "broodhome-cap-001.png"},
+    {"image": "broodhome-cap-002.png"},
+    {"image": "broodhome-cap-003.png", "transparency": "none"},
+    {"image": "broodhome-cap-004.png"},
+    {"image": "broodhome-cap-005.png"},
+    {"image": "broodhome-cap-006.png", "hotspot": [-19, -13]},
+    {"image": "broodhome-cap-007.png", "hotspot": [-15, -3]},
+    {"image": "broodhome-cap-008.png", "hotspot": [-15, -3]},
+    {"image": "broodhome-cap-009.png", "hotspot": [-20, -18]},
+    {"image": "broodhome-cap-010.png", "hotspot": [-20, -13]},
+    {"image": "broodhome-cap-011.png", "hotspot": [-20, -13]},
+    {"image": "broodhome-cap-012.png", "transparency": "none", "hotspot": [0, -3]},
+    {"image": "broodhome-cap-013.png", "transparency": "none", "hotspot": [0, -3]},
+    {"image": "broodhome-cap-014.png", "transparency": "none", "hotspot": [0, -3]}
+  ]
+}

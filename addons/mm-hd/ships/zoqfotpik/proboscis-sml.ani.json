@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [1, 14]},
+  "frames": [
+    {"image": "proboscis-sml-000.png"},
+    {"image": "proboscis-sml-001.png", "hotspot": [-1, 14]},
+    {"image": "proboscis-sml-002.png", "hotspot": [-3, 10]},
+    {"image": "proboscis-sml-003.png", "hotspot": [-2, 5]},
+    {"image": "proboscis-sml-004.png", "hotspot": [-4, 1]},
+    {"image": "proboscis-sml-005.png", "hotspot": [-2, -1]},
+    {"image": "proboscis-sml-006.png", "hotspot": [-2, -2]},
+    {"image": "proboscis-sml-007.png", "hotspot": [-1, -2]},
+    {"image": "proboscis-sml-008.png", "hotspot": [1, -4]},
+    {"image": "proboscis-sml-009.png", "hotspot": [5, -2]},
+    {"image": "proboscis-sml-010.png", "hotspot": [9, -2]},
+    {"image": "proboscis-sml-011.png", "hotspot": [14, -1]},
+    {"image": "proboscis-sml-012.png", "hotspot": [14, 1]},
+    {"image": "proboscis-sml-013.png", "hotspot": [14, 5]},
+    {"image": "proboscis-sml-014.png", "hotspot": [10, 10]},
+    {"image": "proboscis-sml-015.png", "hotspot": [6, 14]}
+  ]
+}

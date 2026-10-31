@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "limpets-big-000.png"},
+    {"image": "limpets-big-001.png", "transparency": "none"},
+    {"image": "limpets-big-002.png"},
+    {"image": "limpets-big-003.png", "transparency": "none", "hotspot": [0, 0]}
+  ]
+}

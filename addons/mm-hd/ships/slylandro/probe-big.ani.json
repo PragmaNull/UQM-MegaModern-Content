@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [93, 93]},
+  "frames": [
+    {"image": "probe-big-000.png"},
+    {"image": "probe-big-001.png"},
+    {"image": "probe-big-002.png"},
+    {"image": "probe-big-003.png"},
+    {"image": "probe-big-004.png"},
+    {"image": "probe-big-005.png"},
+    {"image": "probe-big-006.png"},
+    {"image": "probe-big-007.png"},
+    {"image": "probe-big-008.png"},
+    {"image": "probe-big-009.png"},
+    {"image": "probe-big-010.png"},
+    {"image": "probe-big-011.png"},
+    {"image": "probe-big-012.png"},
+    {"image": "probe-big-013.png"},
+    {"image": "probe-big-014.png"},
+    {"image": "probe-big-015.png"}
+  ]
+}

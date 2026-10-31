@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1},
+  "frames": [
+    {"image": "limpets-sml-000.png"},
+    {"image": "limpets-sml-001.png"},
+    {"image": "limpets-sml-002.png"},
+    {"image": "limpets-sml-003.png"}
+  ]
+}

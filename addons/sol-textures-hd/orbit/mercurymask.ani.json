@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "mercurymask-000.png"},
+    {"image": "mercurymask-001.png"}
+  ]
+}

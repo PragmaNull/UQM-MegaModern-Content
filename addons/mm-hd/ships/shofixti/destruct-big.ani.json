@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [32, 32]},
+  "frames": [
+    {"image": "destruct-big-000.png"},
+    {"image": "destruct-big-001.png", "hotspot": [92, 92]},
+    {"image": "destruct-big-002.png", "hotspot": [160, 160]},
+    {"image": "destruct-big-003.png", "hotspot": [200, 200]},
+    {"image": "destruct-big-004.png", "hotspot": [232, 232]},
+    {"image": "destruct-big-005.png", "hotspot": [246, 246]},
+    {"image": "destruct-big-006.png", "hotspot": [258, 258]},
+    {"image": "destruct-big-007.png", "hotspot": [264, 264]}
+  ]
+}

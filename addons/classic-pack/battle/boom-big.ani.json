@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [7, 6]},
+  "frames": [
+    {"image": "boom-big-000.png"},
+    {"image": "boom-big-001.png", "hotspot": [17, 17]},
+    {"image": "boom-big-002.png", "hotspot": [36, 36]},
+    {"image": "boom-big-003.png", "hotspot": [41, 41]},
+    {"image": "boom-big-004.png", "hotspot": [46, 46]},
+    {"image": "boom-big-005.png", "hotspot": [50, 50]},
+    {"image": "boom-big-006.png", "hotspot": [60, 60]},
+    {"image": "boom-big-007.png", "hotspot": [65, 65]},
+    {"image": "boom-big-008.png", "hotspot": [69, 69]}
+  ]
+}

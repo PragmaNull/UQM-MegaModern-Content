@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 58, "hotspot": [-108, -396]},
+  "frames": [
+    {"image": "flagshipstatus-000.png", "hotspot": [-4, -4]},
+    {"image": "flagshipstatus-001.png", "hotspot": [4, 4]},
+    {"image": "flagshipstatus-002.png", "hotspot": [-76, -388]},
+    {"image": "flagshipstatus-003.png", "hotspot": [-167, -388]},
+    {"image": "flagshipstatus-004.png", "hotspot": [-83, -354]},
+    {"image": "flagshipstatus-005.png", "hotspot": [-155, -354]},
+    {"image": "flagshipstatus-006.png"},
+    {"image": "flagshipstatus-007.png"},
+    {"image": "flagshipstatus-008.png"},
+    {"image": "flagshipstatus-009.png"},
+    {"image": "flagshipstatus-010.png"},
+    {"image": "flagshipstatus-011.png"},
+    {"image": "flagshipstatus-012.png"},
+    {"image": "flagshipstatus-013.png"},
+    {"image": "flagshipstatus-014.png"},
+    {"image": "flagshipstatus-015.png"},
+    {"image": "flagshipstatus-016.png"},
+    {"image": "flagshipstatus-017.png"},
+    {"image": "flagshipstatus-018.png"},
+    {"image": "flagshipstatus-019.png"},
+    {"image": "flagshipstatus-020.png"},
+    {"image": "flagshipstatus-021.png"},
+    {"image": "flagshipstatus-022.png"},
+    {"image": "flagshipstatus-red.png", "hotspot": [-111, -420]}
+  ]
+}

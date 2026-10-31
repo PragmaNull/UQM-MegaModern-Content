@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-7, -31]},
+  "frames": [
+    {"image": "androsynth.png"}
+  ]
+}

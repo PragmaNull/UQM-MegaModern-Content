@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [21, 21]},
+  "frames": [
+    {"image": "avenger-meleeicons-000.png", "hotspot": [64, 53]},
+    {"image": "avenger-meleeicons-001.png", "hotspot": [14, 14]},
+    {"image": "avenger-sml-000.png"},
+    {"image": "avenger-sml-001.png"},
+    {"image": "avenger-sml-002.png"},
+    {"image": "avenger-sml-003.png"},
+    {"image": "avenger-sml-004.png"},
+    {"image": "avenger-sml-005.png"},
+    {"image": "avenger-sml-006.png"},
+    {"image": "avenger-sml-007.png"},
+    {"image": "avenger-sml-008.png"},
+    {"image": "avenger-sml-009.png"},
+    {"image": "avenger-sml-010.png"},
+    {"image": "avenger-sml-011.png"},
+    {"image": "avenger-sml-012.png"},
+    {"image": "avenger-sml-013.png"},
+    {"image": "avenger-sml-014.png"},
+    {"image": "avenger-sml-015.png"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "bubble-sml-000.png", "transparency": "none"},
+    {"image": "bubble-sml-001.png"},
+    {"image": "bubble-sml-002.png"}
+  ]
+}

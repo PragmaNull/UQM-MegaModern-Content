@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [75, 75]},
+  "frames": [
+    {"image": "purplegas-med-000.png"}
+  ]
+}

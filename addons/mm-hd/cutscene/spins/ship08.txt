@@ -15,10 +15,10 @@ TC 55FF55
 TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/melnorme.ani
+ANI1X base/cutscene/spins/melnorme.ani.json
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/melnorme.ani
+ANI4X addons/mm-hd/cutscene/spins/melnorme.ani.json
 
 #(Take up entire screen)
 DIMS 320 200

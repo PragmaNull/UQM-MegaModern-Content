@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [56, 55]},
+  "frames": [
+    {"image": "torch-big-000.png", "hotspot": [55, 57]},
+    {"image": "torch-big-001.png", "hotspot": [55, 57]},
+    {"image": "torch-big-002.png", "hotspot": [55, 56]},
+    {"image": "torch-big-003.png", "hotspot": [55, 56]},
+    {"image": "torch-big-004.png", "hotspot": [55, 56]},
+    {"image": "torch-big-005.png"},
+    {"image": "torch-big-006.png"},
+    {"image": "torch-big-007.png"},
+    {"image": "torch-big-008.png"},
+    {"image": "torch-big-009.png", "hotspot": [57, 55]},
+    {"image": "torch-big-010.png", "hotspot": [57, 55]},
+    {"image": "torch-big-011.png", "hotspot": [57, 55]},
+    {"image": "torch-big-012.png", "hotspot": [57, 55]},
+    {"image": "torch-big-013.png", "hotspot": [57, 56]},
+    {"image": "torch-big-014.png", "hotspot": [57, 57]},
+    {"image": "torch-big-015.png", "hotspot": [56, 57]}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "setupmenu-000.png"},
+    {"image": "setupmenu-001.png"},
+    {"image": "setupmenu-002.png"},
+    {"image": "setupmenu-003.png"},
+    {"image": "setupmenu-004.png"},
+    {"image": "setupmenu-005.png"},
+    {"image": "setupmenu-006.png"},
+    {"image": "setupmenu-007.png"},
+    {"image": "setupmenu-008.png"},
+    {"image": "setupmenu-009.png"}
+  ]
+}

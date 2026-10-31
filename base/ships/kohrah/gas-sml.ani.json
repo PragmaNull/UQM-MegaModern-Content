@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 5, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "gas-sml-000.png"},
+    {"image": "gas-sml-001.png"},
+    {"image": "gas-sml-002.png"},
+    {"image": "gas-sml-003.png"},
+    {"image": "gas-sml-004.png"},
+    {"image": "gas-sml-005.png", "hotspot": [2, 1]},
+    {"image": "gas-sml-006.png", "hotspot": [2, 2]},
+    {"image": "gas-sml-007.png", "hotspot": [2, 2]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 0, "hotspot": [38, 38]},
+  "frames": [
+    {"image": "quake-000.png"},
+    {"image": "quake-001.png"},
+    {"image": "quake-002.png"},
+    {"image": "quake-003.png"},
+    {"image": "quake-004.png"},
+    {"image": "quake-005.png"},
+    {"image": "quake-006.png"},
+    {"image": "quake-007.png"},
+    {"image": "quake-008.png"},
+    {"image": "quake-009.png"},
+    {"image": "quake-010.png"},
+    {"image": "quake-011.png"},
+    {"image": "quake-012.png"},
+    {"image": "quake-013.png"},
+    {"image": "quake-014.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"},
+    {"image": "quake-015.png"}
+  ]
+}

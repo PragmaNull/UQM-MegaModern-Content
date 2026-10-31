@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 68},
+  "frames": [
+    {"image": "outfit-000.png"},
+    {"image": "outfit-red.png"}
+  ]
+}

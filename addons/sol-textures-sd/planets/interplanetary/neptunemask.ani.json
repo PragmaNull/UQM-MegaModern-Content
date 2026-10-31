@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "neptunemask-000.png"}
+  ]
+}

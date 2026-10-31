@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "europamask-000.png"},
+    {"image": "europamask-001.png"}
+  ]
+}

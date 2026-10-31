@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "fonteffect-000.png"},
+    {"image": "fonteffect-001.png"}
+  ]
+}

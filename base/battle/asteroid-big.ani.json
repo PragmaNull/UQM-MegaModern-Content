@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [11, 11]},
+  "frames": [
+    {"image": "asteroid-big-000.png"},
+    {"image": "asteroid-big-001.png"},
+    {"image": "asteroid-big-002.png"},
+    {"image": "asteroid-big-003.png"},
+    {"image": "asteroid-big-004.png"},
+    {"image": "asteroid-big-005.png"},
+    {"image": "asteroid-big-006.png"},
+    {"image": "asteroid-big-007.png"},
+    {"image": "asteroid-big-008.png"},
+    {"image": "asteroid-big-009.png"},
+    {"image": "asteroid-big-010.png"},
+    {"image": "asteroid-big-011.png"},
+    {"image": "asteroid-big-012.png"},
+    {"image": "asteroid-big-013.png"},
+    {"image": "asteroid-big-014.png"},
+    {"image": "asteroid-big-015.png"},
+    {"image": "asteroid-big-016.png", "hotspot": [8, 9]},
+    {"image": "asteroid-big-017.png", "hotspot": [10, 12]},
+    {"image": "asteroid-big-018.png", "hotspot": [11, 13]},
+    {"image": "asteroid-big-019.png", "hotspot": [14, 14]},
+    {"image": "asteroid-big-020.png", "hotspot": [15, 15]}
+  ]
+}

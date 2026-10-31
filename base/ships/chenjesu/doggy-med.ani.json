@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "doggy-med-000.png"},
+    {"image": "doggy-med-001.png"},
+    {"image": "doggy-med-002.png"},
+    {"image": "doggy-med-003.png"},
+    {"image": "doggy-med-004.png"},
+    {"image": "doggy-med-005.png"},
+    {"image": "doggy-med-006.png"}
+  ]
+}

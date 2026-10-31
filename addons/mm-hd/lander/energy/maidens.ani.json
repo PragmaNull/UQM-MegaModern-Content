@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 95, "hotspot": [40, 35]},
+  "frames": [
+    {"image": "maidens-000.png"},
+    {"image": "maidens-001.png"},
+    {"image": "maidens-002.png"},
+    {"image": "maidens-003.png"}
+  ]
+}

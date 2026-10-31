@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [5, 8]},
+  "frames": [
+    {"image": "cannon-med-000.png", "hotspot": [4, 9]},
+    {"image": "cannon-med-001.png"},
+    {"image": "cannon-med-002.png", "hotspot": [7, 7]},
+    {"image": "cannon-med-003.png", "hotspot": [8, 5]},
+    {"image": "cannon-med-004.png", "hotspot": [9, 4]},
+    {"image": "cannon-med-005.png", "hotspot": [8, 5]},
+    {"image": "cannon-med-006.png", "hotspot": [7, 7]},
+    {"image": "cannon-med-007.png"},
+    {"image": "cannon-med-008.png", "hotspot": [4, 9]},
+    {"image": "cannon-med-009.png"},
+    {"image": "cannon-med-010.png", "hotspot": [7, 7]},
+    {"image": "cannon-med-011.png", "hotspot": [8, 5]},
+    {"image": "cannon-med-012.png", "hotspot": [9, 4]},
+    {"image": "cannon-med-013.png", "hotspot": [8, 5]},
+    {"image": "cannon-med-014.png", "hotspot": [7, 7]},
+    {"image": "cannon-med-015.png"},
+    {"image": "cannon-med-016.png", "hotspot": [6, 6]},
+    {"image": "cannon-med-017.png", "hotspot": [8, 8]},
+    {"image": "cannon-med-018.png", "hotspot": [10, 10]},
+    {"image": "cannon-med-019.png", "hotspot": [12, 12]},
+    {"image": "cannon-med-020.png", "hotspot": [12, 12]},
+    {"image": "cannon-med-021.png", "hotspot": [14, 14]},
+    {"image": "cannon-med-022.png", "hotspot": [17, 17]},
+    {"image": "cannon-med-023.png", "hotspot": [18, 18]}
+  ]
+}

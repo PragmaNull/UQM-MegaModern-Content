@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "hotspot": [19, 17]},
+  "frames": [
+    {"image": "iodine-med-000.png"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 2, "colormap": 1},
+  "frames": [
+    {"image": "podship-cap-000.png", "transparency": "none"},
+    {"image": "podship-cap-001.png", "hotspot": [-30, -20]},
+    {"image": "podship-cap-002.png", "hotspot": [-30, -20]},
+    {"image": "podship-cap-003.png", "hotspot": [-2, -20]},
+    {"image": "podship-cap-004.png", "hotspot": [-2, -20]},
+    {"image": "podship-cap-005.png", "hotspot": [-5, -20]},
+    {"image": "podship-cap-006.png", "hotspot": [-15, -2]},
+    {"image": "podship-cap-007.png", "hotspot": [-15, -2]},
+    {"image": "podship-cap-008.png", "hotspot": [-15, -3]},
+    {"image": "podship-cap-009.png", "transparency": 0},
+    {"image": "podship-cap-010.png", "transparency": 0},
+    {"image": "podship-cap-011.png", "transparency": 0},
+    {"image": "podship-cap-012.png", "hotspot": [-13, -3]},
+    {"image": "podship-cap-013.png", "transparency": 1, "hotspot": [-7, 0]},
+    {"image": "podship-cap-014.png", "transparency": 1, "hotspot": [-7, 0]}
+  ]
+}

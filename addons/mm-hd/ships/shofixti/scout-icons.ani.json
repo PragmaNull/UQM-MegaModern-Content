@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-22, -16]},
+  "frames": [
+    {"image": "scout-icons-000.png"},
+    {"image": "scout-icons-001.png", "hotspot": [61, 84]}
+  ]
+}

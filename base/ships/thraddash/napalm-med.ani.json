@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "napalm-med-000.png"},
+    {"image": "napalm-med-001.png"},
+    {"image": "napalm-med-002.png"},
+    {"image": "napalm-med-003.png"},
+    {"image": "napalm-med-004.png", "hotspot": [3, 2]},
+    {"image": "napalm-med-005.png", "hotspot": [3, 3]},
+    {"image": "napalm-med-006.png", "hotspot": [4, 4]},
+    {"image": "napalm-med-007.png", "hotspot": [5, 4]}
+  ]
+}

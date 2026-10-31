@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "stars-000.png"},
+    {"image": "stars-001.png", "hotspot": [5, 5]},
+    {"image": "stars-002.png", "hotspot": [0, 0]}
+  ]
+}

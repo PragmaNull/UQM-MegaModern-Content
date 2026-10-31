@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "callistomask-000.png"},
+    {"image": "callistomask-001.png"}
+  ]
+}

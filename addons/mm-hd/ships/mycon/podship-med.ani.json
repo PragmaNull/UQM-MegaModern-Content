@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [29, 29]},
+  "frames": [
+    {"image": "podship-med-000.png"},
+    {"image": "podship-med-001.png"},
+    {"image": "podship-med-002.png"},
+    {"image": "podship-med-003.png"},
+    {"image": "podship-med-004.png"},
+    {"image": "podship-med-005.png"},
+    {"image": "podship-med-006.png"},
+    {"image": "podship-med-007.png"},
+    {"image": "podship-med-008.png"},
+    {"image": "podship-med-009.png"},
+    {"image": "podship-med-010.png"},
+    {"image": "podship-med-011.png"},
+    {"image": "podship-med-012.png"},
+    {"image": "podship-med-013.png"},
+    {"image": "podship-med-014.png"},
+    {"image": "podship-med-015.png"}
+  ]
+}

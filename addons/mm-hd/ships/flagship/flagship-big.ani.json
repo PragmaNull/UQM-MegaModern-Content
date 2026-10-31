@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 55, "hotspot": [94, 94]},
+  "frames": [
+    {"image": "flagship-big-000.png"},
+    {"image": "flagship-big-001.png"},
+    {"image": "flagship-big-002.png"},
+    {"image": "flagship-big-003.png"},
+    {"image": "flagship-big-004.png"},
+    {"image": "flagship-big-005.png"},
+    {"image": "flagship-big-006.png"},
+    {"image": "flagship-big-007.png"},
+    {"image": "flagship-big-008.png"},
+    {"image": "flagship-big-009.png"},
+    {"image": "flagship-big-010.png"},
+    {"image": "flagship-big-011.png"},
+    {"image": "flagship-big-012.png"},
+    {"image": "flagship-big-013.png"},
+    {"image": "flagship-big-014.png"},
+    {"image": "flagship-big-015.png"}
+  ]
+}

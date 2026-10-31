@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [108, 88]},
+  "frames": [
+    {"image": "excavationsite-000.png"},
+    {"image": "excavationsite-001.png"},
+    {"image": "excavationsite-002.png"},
+    {"image": "excavationsite-003.png"},
+    {"image": "excavationsite-004.png"},
+    {"image": "excavationsite-005.png"},
+    {"image": "excavationsite-006.png"}
+  ]
+}

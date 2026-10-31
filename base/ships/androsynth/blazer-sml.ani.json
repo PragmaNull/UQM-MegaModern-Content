@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "blazer-sml-000.png", "hotspot": [1, 2]},
+    {"image": "blazer-sml-001.png", "hotspot": [2, 1]},
+    {"image": "blazer-sml-002.png", "hotspot": [3, 1]},
+    {"image": "blazer-sml-003.png", "hotspot": [5, 1]},
+    {"image": "blazer-sml-004.png", "hotspot": [4, 1]},
+    {"image": "blazer-sml-005.png", "hotspot": [5, 1]},
+    {"image": "blazer-sml-006.png", "hotspot": [3, 3]},
+    {"image": "blazer-sml-007.png", "hotspot": [2, 4]},
+    {"image": "blazer-sml-008.png", "hotspot": [1, 4]},
+    {"image": "blazer-sml-009.png", "hotspot": [1, 4]},
+    {"image": "blazer-sml-010.png", "hotspot": [1, 3]},
+    {"image": "blazer-sml-011.png"},
+    {"image": "blazer-sml-012.png", "hotspot": [2, 1]},
+    {"image": "blazer-sml-013.png"},
+    {"image": "blazer-sml-014.png"},
+    {"image": "blazer-sml-015.png"}
+  ]
+}

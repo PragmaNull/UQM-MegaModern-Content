@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [17, 16]},
+  "frames": [
+    {"image": "trader-sml-000.png"},
+    {"image": "trader-sml-001.png"},
+    {"image": "trader-sml-002.png"},
+    {"image": "trader-sml-003.png"},
+    {"image": "trader-sml-004.png"},
+    {"image": "trader-sml-005.png", "hotspot": [18, 17]},
+    {"image": "trader-sml-006.png", "hotspot": [17, 17]},
+    {"image": "trader-sml-007.png", "hotspot": [17, 17]},
+    {"image": "trader-sml-008.png", "hotspot": [16, 17]},
+    {"image": "trader-sml-009.png", "hotspot": [15, 17]},
+    {"image": "trader-sml-010.png", "hotspot": [16, 17]},
+    {"image": "trader-sml-011.png", "hotspot": [16, 17]},
+    {"image": "trader-sml-012.png", "hotspot": [16, 17]},
+    {"image": "trader-sml-013.png", "hotspot": [16, 16]},
+    {"image": "trader-sml-014.png", "hotspot": [16, 16]},
+    {"image": "trader-sml-015.png"}
+  ]
+}

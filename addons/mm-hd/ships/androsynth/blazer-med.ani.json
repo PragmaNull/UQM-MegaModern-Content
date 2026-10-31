@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [11, 11]},
+  "frames": [
+    {"image": "blazer-med-000.png"},
+    {"image": "blazer-med-001.png", "hotspot": [15, 12]},
+    {"image": "blazer-med-002.png", "hotspot": [25, 13]},
+    {"image": "blazer-med-003.png", "hotspot": [31, 13]},
+    {"image": "blazer-med-004.png", "hotspot": [32, 11]},
+    {"image": "blazer-med-005.png", "hotspot": [31, 15]},
+    {"image": "blazer-med-006.png", "hotspot": [25, 25]},
+    {"image": "blazer-med-007.png", "hotspot": [15, 31]},
+    {"image": "blazer-med-008.png", "hotspot": [11, 32]},
+    {"image": "blazer-med-009.png", "hotspot": [13, 31]},
+    {"image": "blazer-med-010.png", "hotspot": [12, 25]},
+    {"image": "blazer-med-011.png", "hotspot": [12, 16]},
+    {"image": "blazer-med-012.png"},
+    {"image": "blazer-med-013.png", "hotspot": [12, 13]},
+    {"image": "blazer-med-014.png", "hotspot": [13, 13]},
+    {"image": "blazer-med-015.png", "hotspot": [13, 12]}
+  ]
+}

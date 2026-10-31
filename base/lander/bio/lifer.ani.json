@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [9, 8]},
+  "frames": [
+    {"image": "lifer-000.png"},
+    {"image": "lifer-001.png", "hotspot": [10, 7]},
+    {"image": "lifer-002.png", "hotspot": [9, 7]},
+    {"image": "lifer-003.png", "hotspot": [11, 8]}
+  ]
+}

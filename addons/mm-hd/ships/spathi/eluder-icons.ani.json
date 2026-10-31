@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-2, -8]},
+  "frames": [
+    {"image": "eluder-icons-000.png"},
+    {"image": "eluder-icons-001.png", "hotspot": [76, 56]}
+  ]
+}

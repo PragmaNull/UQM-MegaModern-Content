@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [14, 14]},
+  "frames": [
+    {"image": "torch-sml-000.png"},
+    {"image": "torch-sml-001.png"},
+    {"image": "torch-sml-002.png"},
+    {"image": "torch-sml-003.png"},
+    {"image": "torch-sml-004.png"},
+    {"image": "torch-sml-005.png"},
+    {"image": "torch-sml-006.png"},
+    {"image": "torch-sml-007.png"},
+    {"image": "torch-sml-008.png"},
+    {"image": "torch-sml-009.png"},
+    {"image": "torch-sml-010.png"},
+    {"image": "torch-sml-011.png"},
+    {"image": "torch-sml-012.png"},
+    {"image": "torch-sml-013.png"},
+    {"image": "torch-sml-014.png"},
+    {"image": "torch-sml-015.png"}
+  ]
+}

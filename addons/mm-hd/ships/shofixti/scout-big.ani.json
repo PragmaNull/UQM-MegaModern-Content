@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [33, 33]},
+  "frames": [
+    {"image": "scout-big-000.png"},
+    {"image": "scout-big-001.png"},
+    {"image": "scout-big-002.png"},
+    {"image": "scout-big-003.png"},
+    {"image": "scout-big-004.png"},
+    {"image": "scout-big-005.png"},
+    {"image": "scout-big-006.png"},
+    {"image": "scout-big-007.png"},
+    {"image": "scout-big-008.png"},
+    {"image": "scout-big-009.png"},
+    {"image": "scout-big-010.png"},
+    {"image": "scout-big-011.png"},
+    {"image": "scout-big-012.png"},
+    {"image": "scout-big-013.png"},
+    {"image": "scout-big-014.png"},
+    {"image": "scout-big-015.png"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 98, "hotspot": [72, 64]},
+  "frames": [
+    {"image": "fwiffo-000.png"},
+    {"image": "fwiffo-001.png"},
+    {"image": "fwiffo-002.png"},
+    {"image": "fwiffo-003.png"}
+  ]
+}

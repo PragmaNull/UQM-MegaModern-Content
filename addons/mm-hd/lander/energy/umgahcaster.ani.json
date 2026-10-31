@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 102, "hotspot": [72, 65]},
+  "frames": [
+    {"image": "umgahcaster-000.png"},
+    {"image": "umgahcaster-001.png"},
+    {"image": "umgahcaster-002.png"},
+    {"image": "umgahcaster-003.png"},
+    {"image": "umgahcaster-004.png"},
+    {"image": "umgahcaster-005.png"},
+    {"image": "umgahcaster-006.png"},
+    {"image": "umgahcaster-007.png"},
+    {"image": "umgahcaster-008.png"}
+  ]
+}

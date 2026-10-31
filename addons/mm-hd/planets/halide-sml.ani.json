@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [37, 37]},
+  "frames": [
+    {"image": "halide-sml-000.png"}
+  ]
+}

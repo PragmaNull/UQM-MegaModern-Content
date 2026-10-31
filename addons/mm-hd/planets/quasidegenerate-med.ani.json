@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [75, 75]},
+  "frames": [
+    {"image": "quasidegenerate-med-000.png"}
+  ]
+}

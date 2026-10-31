@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [32, 33]},
+  "frames": [
+    {"image": "warp-big-000.png"},
+    {"image": "warp-big-001.png", "hotspot": [17, 18]}
+  ]
+}

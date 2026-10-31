@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 55},
+  "frames": [
+    {"image": "pickship-000.png"},
+    {"image": "pickship-001.png"},
+    {"image": "pickship-red.png"}
+  ]
+}

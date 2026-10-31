@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [15, 15]},
+  "frames": [
+    {"image": "terminator-sml-000.png"},
+    {"image": "terminator-sml-001.png"},
+    {"image": "terminator-sml-002.png"},
+    {"image": "terminator-sml-003.png"},
+    {"image": "terminator-sml-004.png"},
+    {"image": "terminator-sml-005.png"},
+    {"image": "terminator-sml-006.png"},
+    {"image": "terminator-sml-007.png"},
+    {"image": "terminator-sml-008.png"},
+    {"image": "terminator-sml-009.png"},
+    {"image": "terminator-sml-010.png"},
+    {"image": "terminator-sml-011.png"},
+    {"image": "terminator-sml-012.png"},
+    {"image": "terminator-sml-013.png"},
+    {"image": "terminator-sml-014.png"},
+    {"image": "terminator-sml-015.png"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1},
+  "frames": [
+    {"image": "xform-cap-000.png"},
+    {"image": "xform-cap-001.png", "transparency": 2, "hotspot": [-37, -11]},
+    {"image": "xform-cap-002.png", "transparency": 2, "hotspot": [-37, -11]},
+    {"image": "xform-cap-003.png", "transparency": 2, "hotspot": [0, -11]},
+    {"image": "xform-cap-004.png", "transparency": 2, "hotspot": [0, -11]},
+    {"image": "xform-cap-005.png", "transparency": 2, "hotspot": [0, -11]},
+    {"image": "xform-cap-006.png", "hotspot": [-19, -15]},
+    {"image": "xform-cap-007.png", "hotspot": [-19, -15]},
+    {"image": "xform-cap-008.png", "hotspot": [-19, -15]},
+    {"image": "xform-cap-009.png", "hotspot": [-14, 0]},
+    {"image": "xform-cap-010.png", "hotspot": [-14, 0]},
+    {"image": "xform-cap-011.png", "hotspot": [-14, 0]},
+    {"image": "xform-cap-012.png", "transparency": 0},
+    {"image": "xform-cap-013.png", "transparency": 0},
+    {"image": "xform-cap-014.png", "transparency": 0}
+  ]
+}

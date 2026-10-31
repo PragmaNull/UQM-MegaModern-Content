@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [3, 3]},
+  "frames": [
+    {"image": "broodhome-icons-000.png"},
+    {"image": "broodhome-icons-001.png", "hotspot": [74, 64]}
+  ]
+}

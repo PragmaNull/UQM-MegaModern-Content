@@ -3,135 +3,135 @@
   "resources": {
     "graphics.ipcallistomask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/callistomask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/callistomask.ani.json"
     },
     "graphics.ipcharonmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/charonmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/charonmask.ani.json"
     },
     "graphics.ipearthmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/earthmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/earthmask.ani.json"
     },
     "graphics.ipeuropamask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/europamask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/europamask.ani.json"
     },
     "graphics.ipganymedemask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/ganymedemask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/ganymedemask.ani.json"
     },
     "graphics.ipiomask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/iomask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/iomask.ani.json"
     },
     "graphics.ipjupitermask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/jupitermask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/jupitermask.ani.json"
     },
     "graphics.iplunamask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/lunamask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/lunamask.ani.json"
     },
     "graphics.ipmarsmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/marsmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/marsmask.ani.json"
     },
     "graphics.ipmercurymask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/mercurymask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/mercurymask.ani.json"
     },
     "graphics.ipneptunemask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/neptunemask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/neptunemask.ani.json"
     },
     "graphics.ipplutomask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/plutomask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/plutomask.ani.json"
     },
     "graphics.ipsaturnmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/saturnmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/saturnmask.ani.json"
     },
     "graphics.iptitanmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/titanmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/titanmask.ani.json"
     },
     "graphics.iptritonmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/tritonmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/tritonmask.ani.json"
     },
     "graphics.ipuranusmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/uranusmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/uranusmask.ani.json"
     },
     "graphics.ipvenusmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-sd/planets/interplanetary/venusmask.ani"
+      "data": "addons/sol-textures-sd/planets/interplanetary/venusmask.ani.json"
     },
     "graphics.marsmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/marsmask.ani"
+      "data": "addons/sol-textures-hd/orbit/marsmask.ani.json"
     },
     "graphics.callistomask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/callistomask.ani"
+      "data": "addons/sol-textures-hd/orbit/callistomask.ani.json"
     },
     "graphics.charonmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/charonmask.ani"
+      "data": "addons/sol-textures-hd/orbit/charonmask.ani.json"
     },
     "graphics.europamask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/europamask.ani"
+      "data": "addons/sol-textures-hd/orbit/europamask.ani.json"
     },
     "graphics.ganymedemask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/ganymedemask.ani"
+      "data": "addons/sol-textures-hd/orbit/ganymedemask.ani.json"
     },
     "graphics.iomask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/iomask.ani"
+      "data": "addons/sol-textures-hd/orbit/iomask.ani.json"
     },
     "graphics.jupitermask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/jupitermask.ani"
+      "data": "addons/sol-textures-hd/orbit/jupitermask.ani.json"
     },
     "graphics.lunamask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/lunamask.ani"
+      "data": "addons/sol-textures-hd/orbit/lunamask.ani.json"
     },
     "graphics.mercurymask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/mercurymask.ani"
+      "data": "addons/sol-textures-hd/orbit/mercurymask.ani.json"
     },
     "graphics.neptunemask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/neptunemask.ani"
+      "data": "addons/sol-textures-hd/orbit/neptunemask.ani.json"
     },
     "graphics.plutomask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/plutomask.ani"
+      "data": "addons/sol-textures-hd/orbit/plutomask.ani.json"
     },
     "graphics.saturnmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/saturnmask.ani"
+      "data": "addons/sol-textures-hd/orbit/saturnmask.ani.json"
     },
     "graphics.titanmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/titanmask.ani"
+      "data": "addons/sol-textures-hd/orbit/titanmask.ani.json"
     },
     "graphics.tritonmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/tritonmask.ani"
+      "data": "addons/sol-textures-hd/orbit/tritonmask.ani.json"
     },
     "graphics.uranusmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/uranusmask.ani"
+      "data": "addons/sol-textures-hd/orbit/uranusmask.ani.json"
     },
     "graphics.venusmask": {
       "type": "GFXRES",
-      "data": "addons/sol-textures-hd/orbit/venusmask.ani"
+      "data": "addons/sol-textures-hd/orbit/venusmask.ani.json"
     },
     "planet.callisto.colortable": {
       "type": "BINTAB",

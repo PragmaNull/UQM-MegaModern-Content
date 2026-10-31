@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [28, 21]},
+  "frames": [
+    {"image": "satellite-big-000.png"},
+    {"image": "satellite-big-001.png"},
+    {"image": "satellite-big-002.png"},
+    {"image": "satellite-big-003.png"},
+    {"image": "satellite-big-004.png"},
+    {"image": "satellite-big-005.png"},
+    {"image": "satellite-big-006.png"},
+    {"image": "satellite-big-007.png"}
+  ]
+}

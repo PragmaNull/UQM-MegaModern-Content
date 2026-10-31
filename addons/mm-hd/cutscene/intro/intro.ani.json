@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "intro-001.png"},
+    {"image": "intro-002.png"},
+    {"image": "intro-003.png"},
+    {"image": "intro-004.png"},
+    {"image": "intro-005.png"}
+  ]
+}

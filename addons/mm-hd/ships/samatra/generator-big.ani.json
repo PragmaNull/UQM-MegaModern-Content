@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "generator-big-000.png", "hotspot": [64, 64]},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"},
+    {"image": "slug.png"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [10, 8]},
+  "frames": [
+    {"image": "slime-000.png", "hotspot": [6, 6]},
+    {"image": "slime-001.png"},
+    {"image": "slime-002.png"},
+    {"image": "slime-003.png"},
+    {"image": "slime-004.png", "hotspot": [10, 10]},
+    {"image": "slime-005.png", "hotspot": [10, 10]}
+  ]
+}

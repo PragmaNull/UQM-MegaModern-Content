@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "hotspot": [9, 8]},
+  "frames": [
+    {"image": "sapphire-sml-000.png"}
+  ]
+}

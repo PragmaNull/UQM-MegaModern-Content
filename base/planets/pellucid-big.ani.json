@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "hotspot": [37, 33]},
+  "frames": [
+    {"image": "pellucid-big-000.png"}
+  ]
+}

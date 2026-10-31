@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "glob-big-000.png"},
+    {"image": "glob-big-001.png", "hotspot": [3, 1]},
+    {"image": "glob-big-002.png", "hotspot": [6, 1]},
+    {"image": "glob-big-003.png", "hotspot": [8, 1]},
+    {"image": "glob-big-004.png", "hotspot": [8, 1]},
+    {"image": "glob-big-005.png", "hotspot": [8, 3]},
+    {"image": "glob-big-006.png", "hotspot": [6, 6]},
+    {"image": "glob-big-007.png", "hotspot": [3, 8]},
+    {"image": "glob-big-008.png", "hotspot": [1, 8]},
+    {"image": "glob-big-009.png", "hotspot": [1, 8]},
+    {"image": "glob-big-010.png", "hotspot": [1, 6]},
+    {"image": "glob-big-011.png", "hotspot": [2, 3]},
+    {"image": "glob-big-012.png", "hotspot": [2, 1]},
+    {"image": "glob-big-013.png", "hotspot": [2, 1]},
+    {"image": "glob-big-014.png"},
+    {"image": "glob-big-015.png"},
+    {"image": "glob-big-016.png", "hotspot": [2, 2]},
+    {"image": "glob-big-017.png", "hotspot": [5, 6]},
+    {"image": "glob-big-018.png", "hotspot": [10, 9]},
+    {"image": "glob-big-019.png", "hotspot": [12, 11]},
+    {"image": "glob-big-020.png", "hotspot": [13, 13]}
+  ]
+}

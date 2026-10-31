@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 5]},
+  "frames": [
+    {"image": "napalm-big-000.png", "hotspot": [4, 3]},
+    {"image": "napalm-big-001.png", "hotspot": [4, 4]},
+    {"image": "napalm-big-002.png"},
+    {"image": "napalm-big-003.png"},
+    {"image": "napalm-big-004.png", "hotspot": [6, 6]},
+    {"image": "napalm-big-005.png", "hotspot": [7, 6]},
+    {"image": "napalm-big-006.png", "hotspot": [9, 8]},
+    {"image": "napalm-big-007.png", "hotspot": [10, 9]}
+  ]
+}

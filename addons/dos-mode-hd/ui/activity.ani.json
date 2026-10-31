@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 0},
+  "frames": [
+    {"image": "activity-000.png", "transparency": "png", "colormap": null},
+    {"image": "activity-001.png"},
+    {"image": "activity-002.png", "transparency": 160, "colormap": null},
+    {"image": "activity-003.png", "transparency": 160, "colormap": null},
+    {"image": "activity-004.png", "transparency": 160, "colormap": null},
+    {"image": "activity-005.png"},
+    {"image": "activity-006.png", "transparency": 0},
+    {"image": "activity-007.png", "transparency": 0, "hotspot": [0, 14]},
+    {"image": "activity-008.png"},
+    {"image": "activity-009.png"},
+    {"image": "activity-010.png"}
+  ]
+}

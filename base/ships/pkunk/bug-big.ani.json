@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [3, 3]},
+  "frames": [
+    {"image": "bug-big-000.png"}
+  ]
+}

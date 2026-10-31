@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 0, "hotspot": [36, 36]},
+  "frames": [
+    {"image": "cruiser-med-000.png"},
+    {"image": "cruiser-med-001.png"},
+    {"image": "cruiser-med-002.png"},
+    {"image": "cruiser-med-003.png"},
+    {"image": "cruiser-med-004.png"},
+    {"image": "cruiser-med-005.png"},
+    {"image": "cruiser-med-006.png"},
+    {"image": "cruiser-med-007.png"},
+    {"image": "cruiser-med-008.png"},
+    {"image": "cruiser-med-009.png"},
+    {"image": "cruiser-med-010.png"},
+    {"image": "cruiser-med-011.png"},
+    {"image": "cruiser-med-012.png"},
+    {"image": "cruiser-med-013.png"},
+    {"image": "cruiser-med-014.png"},
+    {"image": "cruiser-med-015.png"}
+  ]
+}

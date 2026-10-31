@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [88, 88]},
+  "frames": [
+    {"image": "spritz-000.png"},
+    {"image": "spritz-001.png"},
+    {"image": "spritz-002.png"},
+    {"image": "spritz-003.png"},
+    {"image": "spritz-004.png"},
+    {"image": "spritz-005.png"}
+  ]
+}

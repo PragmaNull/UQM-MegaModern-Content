@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-10, -10]},
+  "frames": [
+    {"image": "torch-icons-000.png"},
+    {"image": "torch-icons-001.png", "hotspot": [76, 67]}
+  ]
+}

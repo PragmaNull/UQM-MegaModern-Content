@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1},
+  "frames": [
+    {"image": "xform-icons-000.png"},
+    {"image": "xform-icons-001.png", "hotspot": [74, 58]}
+  ]
+}

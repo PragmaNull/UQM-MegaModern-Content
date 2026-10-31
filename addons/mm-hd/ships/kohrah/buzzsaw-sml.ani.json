@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [8, 8]},
+  "frames": [
+    {"image": "buzzsaw-sml-000.png"},
+    {"image": "buzzsaw-sml-001.png", "hotspot": [9, 9]},
+    {"image": "buzzsaw-sml-002.png"},
+    {"image": "buzzsaw-sml-003.png", "hotspot": [10, 10]},
+    {"image": "buzzsaw-sml-004.png", "hotspot": [11, 11]},
+    {"image": "buzzsaw-sml-005.png", "hotspot": [13, 13]},
+    {"image": "buzzsaw-sml-006.png", "hotspot": [14, 15]},
+    {"image": "buzzsaw-sml-007.png", "hotspot": [15, 16]}
+  ]
+}

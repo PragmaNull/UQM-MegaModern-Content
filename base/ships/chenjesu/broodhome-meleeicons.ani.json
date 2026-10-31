@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "broodhome-meleeicons-000.png", "hotspot": [16, 16]},
+    {"image": "broodhome-meleeicons-001.png"},
+    {"image": "broodhome-sml-000.png"},
+    {"image": "broodhome-sml-001.png"},
+    {"image": "broodhome-sml-002.png"},
+    {"image": "broodhome-sml-003.png", "hotspot": [3, 3]},
+    {"image": "broodhome-sml-004.png", "hotspot": [5, 4]},
+    {"image": "broodhome-sml-005.png", "hotspot": [3, 4]},
+    {"image": "broodhome-sml-006.png"},
+    {"image": "broodhome-sml-007.png", "hotspot": [4, 3]},
+    {"image": "broodhome-sml-008.png"},
+    {"image": "broodhome-sml-009.png", "hotspot": [4, 3]},
+    {"image": "broodhome-sml-010.png"},
+    {"image": "broodhome-sml-011.png"},
+    {"image": "broodhome-sml-012.png"},
+    {"image": "broodhome-sml-013.png", "hotspot": [4, 3]},
+    {"image": "broodhome-sml-014.png"},
+    {"image": "broodhome-sml-015.png"}
+  ]
+}

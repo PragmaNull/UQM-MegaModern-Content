@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1},
+  "frames": [
+    {"image": "avatar-cap-000.png"},
+    {"image": "avatar-cap-001.png"},
+    {"image": "avatar-cap-002.png"},
+    {"image": "avatar-cap-002.png"},
+    {"image": "avatar-cap-002.png"},
+    {"image": "avatar-cap-003.png"},
+    {"image": "avatar-cap-004.png", "hotspot": [-78, 0]},
+    {"image": "avatar-cap-005.png", "hotspot": [-78, 0]},
+    {"image": "avatar-cap-006.png", "hotspot": [-78, 0]},
+    {"image": "avatar-cap-007.png", "hotspot": [-56, 0]},
+    {"image": "avatar-cap-008.png", "hotspot": [-56, 0]},
+    {"image": "avatar-cap-009.png", "hotspot": [-56, 0]},
+    {"image": "avatar-cap-010.png", "hotspot": [-158, 0]},
+    {"image": "avatar-cap-010.png", "hotspot": [-158, 0]},
+    {"image": "avatar-cap-011.png", "hotspot": [-158, 0]}
+  ]
+}

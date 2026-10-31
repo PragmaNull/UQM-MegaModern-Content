@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [6, 6]},
+  "frames": [
+    {"image": "stars-000.png", "hotspot": [25, 25]},
+    {"image": "stars-001.png", "hotspot": [12, 12]},
+    {"image": "stars-002.png"},
+    {"image": "stars-003.png"},
+    {"image": "stars-004.png", "hotspot": [0, 0]}
+  ]
+}

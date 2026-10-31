@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [140, 140]},
+  "frames": [
+    {"image": "plshade-000.png"},
+    {"image": "plshade-001.png"},
+    {"image": "plshade-002.png"},
+    {"image": "plshade-003.png"},
+    {"image": "plshade-004.png"},
+    {"image": "plshade-005.png"},
+    {"image": "plshade-006.png"},
+    {"image": "plshade-007.png"},
+    {"image": "plshade-008.png"},
+    {"image": "plshade-009.png"},
+    {"image": "plshade-010.png"},
+    {"image": "plshade-011.png"},
+    {"image": "plshade-012.png"},
+    {"image": "plshade-013.png"},
+    {"image": "plshade-014.png"},
+    {"image": "plshade-015.png"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 0, "hotspot": [41, 31]},
+  "frames": [
+    {"image": "lifep-000.png", "hotspot": [34, 30]},
+    {"image": "lifep-001.png", "hotspot": [34, 30]},
+    {"image": "lifep-002.png"},
+    {"image": "lifep-003.png"},
+    {"image": "lifep-004.png", "hotspot": [50, 30]},
+    {"image": "lifep-005.png", "hotspot": [50, 30]},
+    {"image": "lifep-002.png"},
+    {"image": "lifep-003.png"}
+  ]
+}

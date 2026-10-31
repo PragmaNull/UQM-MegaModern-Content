@@ -3,51 +3,51 @@
   "resources": {
     "graphics.border": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/custom-border/border.ani"
+      "data": "addons/dos-mode-sd/ui/custom-border/border.ani.json"
     },
     "graphics.activity": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/activity.ani"
+      "data": "addons/dos-mode-sd/ui/activity.ani.json"
     },
     "graphics.flagshipstatus": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/flagshipstatus.ani"
+      "data": "addons/dos-mode-sd/ui/flagshipstatus.ani.json"
     },
     "graphics.landerlaunch": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/lander/launch.ani"
+      "data": "addons/dos-mode-sd/lander/launch.ani.json"
     },
     "graphics.landerreturn": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/lander/return.ani"
+      "data": "addons/dos-mode-sd/lander/return.ani.json"
     },
     "graphics.meleemenu": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/meleemenu.ani"
+      "data": "addons/dos-mode-sd/ui/meleemenu.ani.json"
     },
     "graphics.modulesmenu": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/modulesmenu.ani"
+      "data": "addons/dos-mode-sd/ui/modulesmenu.ani.json"
     },
     "graphics.newgame": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/newgame.ani"
+      "data": "addons/dos-mode-sd/ui/newgame.ani.json"
     },
     "graphics.outfit": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/outfit.ani"
+      "data": "addons/dos-mode-sd/ui/outfit.ani.json"
     },
     "graphics.outfitmodules": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/outfitmodules.ani"
+      "data": "addons/dos-mode-sd/ui/outfitmodules.ani.json"
     },
     "graphics.playmenu": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/playmenu.ani"
+      "data": "addons/dos-mode-sd/ui/playmenu.ani.json"
     },
     "graphics.shipyard": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ui/shipyard.ani"
+      "data": "addons/dos-mode-sd/ui/shipyard.ani.json"
     },
     "slides.accessdata": {
       "type": "STRTAB",
@@ -55,7 +55,7 @@
     },
     "ship.samatra.graphics.captain": {
       "type": "GFXRES",
-      "data": "addons/dos-mode-sd/ships/samatra/samatra-cap.ani"
+      "data": "addons/dos-mode-sd/ships/samatra/samatra-cap.ani.json"
     }
   }
 }

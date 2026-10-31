@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [13, 34]},
+  "frames": [
+    {"image": "samatra-med-000.png", "hotspot": [296, 148]},
+    {"image": "samatra-med-001.png"},
+    {"image": "samatra-med-002.png"},
+    {"image": "samatra-med-003.png"},
+    {"image": "samatra-med-004.png"},
+    {"image": "samatra-med-005.png"},
+    {"image": "samatra-med-006.png"},
+    {"image": "samatra-med-007.png"},
+    {"image": "samatra-med-008.png"},
+    {"image": "samatra-med-009.png"},
+    {"image": "samatra-med-010.png"},
+    {"image": "samatra-med-011.png", "hotspot": [139, -108]},
+    {"image": "samatra-med-012.png", "hotspot": [139, -108]},
+    {"image": "samatra-med-013.png", "hotspot": [139, -108]},
+    {"image": "samatra-med-014.png", "hotspot": [139, -108]}
+  ]
+}

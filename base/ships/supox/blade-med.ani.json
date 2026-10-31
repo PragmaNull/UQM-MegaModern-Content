@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [6, 4]},
+  "frames": [
+    {"image": "blade-med-000.png", "hotspot": [3, 7]},
+    {"image": "blade-med-001.png", "hotspot": [4, 6]},
+    {"image": "blade-med-002.png", "hotspot": [6, 5]},
+    {"image": "blade-med-003.png", "hotspot": [7, 4]},
+    {"image": "blade-med-004.png", "hotspot": [7, 3]},
+    {"image": "blade-med-005.png"},
+    {"image": "blade-med-006.png", "hotspot": [6, 6]},
+    {"image": "blade-med-007.png", "hotspot": [4, 7]},
+    {"image": "blade-med-008.png", "hotspot": [3, 7]},
+    {"image": "blade-med-009.png", "hotspot": [4, 7]},
+    {"image": "blade-med-010.png", "hotspot": [5, 6]},
+    {"image": "blade-med-011.png"},
+    {"image": "blade-med-012.png", "hotspot": [7, 3]},
+    {"image": "blade-med-013.png"},
+    {"image": "blade-med-014.png", "hotspot": [5, 5]},
+    {"image": "blade-med-015.png", "hotspot": [4, 6]}
+  ]
+}

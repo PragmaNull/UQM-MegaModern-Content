@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "horn-sml-000.png"},
+    {"image": "horn-sml-001.png"},
+    {"image": "horn-sml-002.png"},
+    {"image": "horn-sml-003.png"},
+    {"image": "horn-sml-004.png"},
+    {"image": "horn-sml-005.png"},
+    {"image": "horn-sml-006.png"},
+    {"image": "horn-sml-007.png"},
+    {"image": "horn-sml-008.png"},
+    {"image": "horn-sml-009.png"},
+    {"image": "horn-sml-010.png"},
+    {"image": "horn-sml-011.png"},
+    {"image": "horn-sml-012.png"},
+    {"image": "horn-sml-013.png"},
+    {"image": "horn-sml-014.png"},
+    {"image": "horn-sml-015.png"}
+  ]
+}

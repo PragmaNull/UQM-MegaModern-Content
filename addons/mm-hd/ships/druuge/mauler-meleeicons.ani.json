@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [8, 17]},
+  "frames": [
+    {"image": "mauler-meleeicons-000.png", "colormap": null, "hotspot": [56, 56]},
+    {"image": "mauler-meleeicons-001.png"},
+    {"image": "mauler-sml-000.png", "hotspot": [4, 24]},
+    {"image": "mauler-sml-001.png", "hotspot": [6, 22]},
+    {"image": "mauler-sml-002.png"},
+    {"image": "mauler-sml-003.png", "hotspot": [9, 9]},
+    {"image": "mauler-sml-004.png", "hotspot": [10, 4]},
+    {"image": "mauler-sml-005.png", "hotspot": [9, 7]},
+    {"image": "mauler-sml-006.png", "hotspot": [8, 8]},
+    {"image": "mauler-sml-007.png", "hotspot": [7, 9]},
+    {"image": "mauler-sml-008.png", "hotspot": [4, 10]},
+    {"image": "mauler-sml-009.png", "hotspot": [9, 9]},
+    {"image": "mauler-sml-010.png", "hotspot": [17, 8]},
+    {"image": "mauler-sml-011.png", "hotspot": [22, 6]},
+    {"image": "mauler-sml-012.png", "hotspot": [23, 4]},
+    {"image": "mauler-sml-013.png", "hotspot": [22, 9]},
+    {"image": "mauler-sml-014.png", "hotspot": [17, 17]},
+    {"image": "mauler-sml-015.png", "hotspot": [10, 22]}
+  ]
+}

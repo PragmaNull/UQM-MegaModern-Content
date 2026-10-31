@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [36, 34]},
+  "frames": [
+    {"image": "doggy-big-000.png"},
+    {"image": "doggy-big-001.png"},
+    {"image": "doggy-big-002.png"},
+    {"image": "doggy-big-003.png"},
+    {"image": "doggy-big-004.png"},
+    {"image": "doggy-big-005.png"},
+    {"image": "doggy-big-006.png"}
+  ]
+}

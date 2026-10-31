@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 2, "hotspot": [74, 44]},
+  "frames": [
+    {"image": "samatra-final-000.png"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "plasma-med-000.png", "hotspot": [2, 3]},
+    {"image": "plasma-med-001.png"},
+    {"image": "plasma-med-002.png"},
+    {"image": "plasma-med-003.png", "hotspot": [6, 5]},
+    {"image": "plasma-med-004.png", "hotspot": [7, 7]},
+    {"image": "plasma-med-005.png", "hotspot": [9, 8]},
+    {"image": "plasma-med-006.png", "hotspot": [11, 9]},
+    {"image": "plasma-med-007.png", "hotspot": [13, 11]},
+    {"image": "plasma-med-008.png", "hotspot": [13, 11]},
+    {"image": "plasma-med-009.png", "hotspot": [14, 12]},
+    {"image": "plasma-med-010.png", "hotspot": [12, 11]},
+    {"image": "plasma-med-011.png", "hotspot": [0, -1]},
+    {"image": "plasma-med-012.png", "hotspot": [2, 3]},
+    {"image": "plasma-med-013.png", "hotspot": [2, 3]},
+    {"image": "plasma-med-014.png"},
+    {"image": "plasma-med-015.png"},
+    {"image": "plasma-med-016.png", "hotspot": [5, 4]},
+    {"image": "plasma-med-017.png", "hotspot": [5, 4]},
+    {"image": "plasma-med-018.png", "hotspot": [5, 5]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 1, "colormap": 1, "hotspot": [-1, -1]},
+  "frames": [
+    {"image": "jugger-icons-000.png"},
+    {"image": "jugger-icons-001.png", "hotspot": [19, 16]}
+  ]
+}

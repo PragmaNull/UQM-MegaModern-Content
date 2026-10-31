@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "activity-000.png"},
+    {"image": "activity-001.png"},
+    {"image": "activity-002.png"},
+    {"image": "activity-003.png"},
+    {"image": "activity-004.png"},
+    {"image": "activity-005.png"},
+    {"image": "activity-006.png"},
+    {"image": "activity-007.png", "hotspot": [0, 56]},
+    {"image": "activity-008.png"},
+    {"image": "activity-009.png"},
+    {"image": "activity-010.png"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-3, 0]},
+  "frames": [
+    {"image": "trader-icons-000.png"},
+    {"image": "trader-icons-001.png", "hotspot": [63, 60]}
+  ]
+}

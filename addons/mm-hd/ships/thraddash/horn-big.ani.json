@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [11, 21]},
+  "frames": [
+    {"image": "horn-big-000.png", "hotspot": [10, 22]},
+    {"image": "horn-big-001.png"},
+    {"image": "horn-big-002.png", "hotspot": [16, 16]},
+    {"image": "horn-big-003.png", "hotspot": [21, 11]},
+    {"image": "horn-big-004.png", "hotspot": [22, 10]},
+    {"image": "horn-big-005.png", "hotspot": [21, 11]},
+    {"image": "horn-big-006.png", "hotspot": [16, 16]},
+    {"image": "horn-big-007.png"},
+    {"image": "horn-big-008.png", "hotspot": [10, 22]},
+    {"image": "horn-big-009.png"},
+    {"image": "horn-big-010.png", "hotspot": [16, 16]},
+    {"image": "horn-big-011.png", "hotspot": [21, 11]},
+    {"image": "horn-big-012.png", "hotspot": [22, 11]},
+    {"image": "horn-big-013.png", "hotspot": [21, 11]},
+    {"image": "horn-big-014.png", "hotspot": [16, 16]},
+    {"image": "horn-big-015.png"}
+  ]
+}

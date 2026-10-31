@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 55, "hotspot": [47, 47]},
+  "frames": [
+    {"image": "flagship-med-000.png"},
+    {"image": "flagship-med-001.png"},
+    {"image": "flagship-med-002.png"},
+    {"image": "flagship-med-003.png"},
+    {"image": "flagship-med-004.png"},
+    {"image": "flagship-med-005.png"},
+    {"image": "flagship-med-006.png"},
+    {"image": "flagship-med-007.png"},
+    {"image": "flagship-med-008.png"},
+    {"image": "flagship-med-009.png"},
+    {"image": "flagship-med-010.png"},
+    {"image": "flagship-med-011.png"},
+    {"image": "flagship-med-012.png"},
+    {"image": "flagship-med-013.png"},
+    {"image": "flagship-med-014.png"},
+    {"image": "flagship-med-015.png"}
+  ]
+}

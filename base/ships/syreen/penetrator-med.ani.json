@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [8, 7]},
+  "frames": [
+    {"image": "penetrator-med-000.png", "hotspot": [4, 9]},
+    {"image": "penetrator-med-001.png", "hotspot": [6, 8]},
+    {"image": "penetrator-med-002.png"},
+    {"image": "penetrator-med-003.png", "hotspot": [8, 5]},
+    {"image": "penetrator-med-004.png", "hotspot": [7, 4]},
+    {"image": "penetrator-med-005.png", "hotspot": [8, 6]},
+    {"image": "penetrator-med-006.png"},
+    {"image": "penetrator-med-007.png", "hotspot": [6, 7]},
+    {"image": "penetrator-med-008.png", "hotspot": [4, 6]},
+    {"image": "penetrator-med-009.png", "hotspot": [4, 7]},
+    {"image": "penetrator-med-010.png", "hotspot": [7, 7]},
+    {"image": "penetrator-med-011.png", "hotspot": [9, 6]},
+    {"image": "penetrator-med-012.png", "hotspot": [9, 4]},
+    {"image": "penetrator-med-013.png", "hotspot": [9, 5]},
+    {"image": "penetrator-med-014.png", "hotspot": [7, 7]},
+    {"image": "penetrator-med-015.png", "hotspot": [4, 8]}
+  ]
+}

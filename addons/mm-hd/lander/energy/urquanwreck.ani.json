@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 103, "hotspot": [56, 54]},
+  "frames": [
+    {"image": "urquanwreck-000.png"},
+    {"image": "urquanwreck-001.png"},
+    {"image": "urquanwreck-002.png"},
+    {"image": "urquanwreck-003.png"}
+  ]
+}

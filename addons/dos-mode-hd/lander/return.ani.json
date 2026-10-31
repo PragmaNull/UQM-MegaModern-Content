@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [-580, -352]},
+  "frames": [
+    {"image": "return-000.png"},
+    {"image": "return-001.png"},
+    {"image": "return-002.png"},
+    {"image": "return-003.png"},
+    {"image": "return-004.png"},
+    {"image": "return-005.png"},
+    {"image": "return-006.png"},
+    {"image": "return-007.png"},
+    {"image": "return-008.png"},
+    {"image": "return-009.png"},
+    {"image": "return-010.png"},
+    {"image": "return-011.png"},
+    {"image": "return-012.png"},
+    {"image": "return-013.png"},
+    {"image": "return-014.png"},
+    {"image": "return-015.png"},
+    {"image": "return-016.png"},
+    {"image": "return-017.png"},
+    {"image": "return-018.png"},
+    {"image": "return-019.png"},
+    {"image": "return-020.png"},
+    {"image": "return-021.png"}
+  ]
+}

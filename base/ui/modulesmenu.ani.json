@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "hotspot": [0, 11]},
+  "frames": [
+    {"image": "modulesmenu-000.png"},
+    {"image": "modulesmenu-001.png"},
+    {"image": "modulesmenu-002.png"},
+    {"image": "modulesmenu-003.png"},
+    {"image": "modulesmenu-004.png"},
+    {"image": "modulesmenu-005.png"},
+    {"image": "modulesmenu-006.png"},
+    {"image": "modulesmenu-007.png"},
+    {"image": "modulesmenu-008.png"},
+    {"image": "modulesmenu-009.png"},
+    {"image": "modulesmenu-010.png"},
+    {"image": "modulesmenu-011.png"},
+    {"image": "modulesmenu-012.png"},
+    {"image": "modulesmenu-013.png"},
+    {"image": "modulesmenu-014.png", "colormap": 67, "hotspot": [-29, -1]},
+    {"image": "modulesmenu-015.png", "colormap": 67, "hotspot": [-1, -42]}
+  ]
+}

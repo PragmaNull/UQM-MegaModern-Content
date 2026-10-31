@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "marsmask-000.png"},
+    {"image": "marsmask-001.png"}
+  ]
+}

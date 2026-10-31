@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "charonmask-000.png"},
+    {"image": "charonmask-001.png"}
+  ]
+}

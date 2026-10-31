@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 0, "hotspot": [40, 16]},
+  "frames": [
+    {"image": "status-000.png"},
+    {"image": "status-001.png", "hotspot": [-20, 16]},
+    {"image": "status-002.png", "transparency": 0, "hotspot": [16, 23]},
+    {"image": "status-003.png", "transparency": "none", "hotspot": [-6, -2]},
+    {"image": "status-004.png", "hotspot": [36, 12]},
+    {"image": "status-005.png", "hotspot": [44, 12]}
+  ]
+}

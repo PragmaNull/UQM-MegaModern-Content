@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [5, 5]},
+  "frames": [
+    {"image": "bug-med-000.png"}
+  ]
+}

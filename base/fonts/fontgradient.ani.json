@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "hotspot": [0, -1]},
+  "frames": [
+    {"image": "fontgradient-000.png"},
+    {"image": "fontgradient-001.png"},
+    {"image": "fontgradient-002.png"},
+    {"image": "fontgradient-003.png"},
+    {"image": "fontgradient-004.png"},
+    {"image": "fontgradient-005.png"},
+    {"image": "fontgradient-006.png"},
+    {"image": "fontgradient-007.png"},
+    {"image": "fontgradient-008.png"},
+    {"image": "fontgradient-009.png"},
+    {"image": "fontgradient-010.png"},
+    {"image": "fontgradient-011.png"},
+    {"image": "fontgradient-012.png"}
+  ]
+}

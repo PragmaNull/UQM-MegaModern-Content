@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [2, 2]},
+  "frames": [
+    {"image": "drone-sml-000.png", "hotspot": [1, 2]},
+    {"image": "drone-sml-001.png"},
+    {"image": "drone-sml-002.png"},
+    {"image": "drone-sml-003.png"},
+    {"image": "drone-sml-004.png", "hotspot": [2, 1]},
+    {"image": "drone-sml-005.png"},
+    {"image": "drone-sml-006.png"},
+    {"image": "drone-sml-007.png"},
+    {"image": "drone-sml-008.png", "hotspot": [1, 2]},
+    {"image": "drone-sml-009.png"},
+    {"image": "drone-sml-010.png"},
+    {"image": "drone-sml-011.png"},
+    {"image": "drone-sml-012.png", "hotspot": [2, 1]},
+    {"image": "drone-sml-013.png"},
+    {"image": "drone-sml-014.png"},
+    {"image": "drone-sml-015.png"}
+  ]
+}

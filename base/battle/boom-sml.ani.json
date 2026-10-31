@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1},
+  "frames": [
+    {"image": "boom-sml-000.png"},
+    {"image": "boom-sml-001.png"},
+    {"image": "boom-sml-002.png", "transparency": 0, "hotspot": [1, 1]},
+    {"image": "boom-sml-003.png", "transparency": 0, "hotspot": [1, 1]},
+    {"image": "boom-sml-004.png", "transparency": 0, "hotspot": [1, 1]},
+    {"image": "boom-sml-005.png", "transparency": 0, "hotspot": [1, 1]},
+    {"image": "boom-sml-006.png"},
+    {"image": "boom-sml-007.png"},
+    {"image": "boom-sml-008.png"}
+  ]
+}

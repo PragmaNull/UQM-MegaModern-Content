@@ -14,10 +14,10 @@ TC 55FF55
 TBC FFFFFF
 
 #(Load movie)
-ANI1X base/cutscene/spins/accessdata.ani
+ANI1X base/cutscene/spins/accessdata.ani.json
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/spins/accessdata.ani
+ANI4X addons/mm-hd/cutscene/spins/accessdata.ani.json
 
 #(Set font to use)
 FONT 0

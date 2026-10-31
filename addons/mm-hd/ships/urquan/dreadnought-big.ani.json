@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 0, "hotspot": [68, 68]},
+  "frames": [
+    {"image": "dreadnought-big-000.png"},
+    {"image": "dreadnought-big-001.png"},
+    {"image": "dreadnought-big-002.png"},
+    {"image": "dreadnought-big-003.png"},
+    {"image": "dreadnought-big-004.png"},
+    {"image": "dreadnought-big-005.png"},
+    {"image": "dreadnought-big-006.png"},
+    {"image": "dreadnought-big-007.png"},
+    {"image": "dreadnought-big-008.png"},
+    {"image": "dreadnought-big-009.png"},
+    {"image": "dreadnought-big-010.png"},
+    {"image": "dreadnought-big-011.png"},
+    {"image": "dreadnought-big-012.png"},
+    {"image": "dreadnought-big-013.png"},
+    {"image": "dreadnought-big-014.png"},
+    {"image": "dreadnought-big-015.png"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [23, 23]},
+  "frames": [
+    {"image": "probe-sml-000.png"},
+    {"image": "probe-sml-001.png"},
+    {"image": "probe-sml-002.png"},
+    {"image": "probe-sml-003.png"},
+    {"image": "probe-sml-004.png"},
+    {"image": "probe-sml-005.png"},
+    {"image": "probe-sml-006.png"},
+    {"image": "probe-sml-007.png"},
+    {"image": "probe-sml-008.png"},
+    {"image": "probe-sml-009.png"},
+    {"image": "probe-sml-010.png"},
+    {"image": "probe-sml-011.png"},
+    {"image": "probe-sml-012.png"},
+    {"image": "probe-sml-013.png"},
+    {"image": "probe-sml-014.png"},
+    {"image": "probe-sml-015.png"}
+  ]
+}

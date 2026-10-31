@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [52, 52]},
+  "frames": [
+    {"image": "xform-big-000.png"},
+    {"image": "xform-big-001.png"},
+    {"image": "xform-big-002.png"},
+    {"image": "xform-big-003.png"},
+    {"image": "xform-big-004.png"},
+    {"image": "xform-big-005.png"},
+    {"image": "xform-big-006.png"},
+    {"image": "xform-big-007.png"},
+    {"image": "xform-big-008.png"},
+    {"image": "xform-big-009.png"},
+    {"image": "xform-big-010.png"},
+    {"image": "xform-big-011.png"},
+    {"image": "xform-big-012.png"},
+    {"image": "xform-big-013.png"},
+    {"image": "xform-big-014.png"},
+    {"image": "xform-big-015.png"}
+  ]
+}

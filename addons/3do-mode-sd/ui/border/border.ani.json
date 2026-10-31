@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "frames": [
+    {"image": "border-000.png"},
+    {"image": "border-001.png", "hotspot": [-241, -36]},
+    {"image": "border-002.png", "hotspot": [-241, -36]},
+    {"image": "border-003.png", "hotspot": [-241, -29]},
+    {"image": "slug.png"},
+    {"image": "border-004.png", "hotspot": [-16, -16]},
+    {"image": "border-005.png", "hotspot": [-170, -16]},
+    {"image": "border-006.png", "hotspot": [-233, -16]},
+    {"image": "border-007.png", "hotspot": [-233, -26]},
+    {"image": "border-008.png", "hotspot": [-238, -144]},
+    {"image": "border-009.png", "hotspot": [-242, -156]},
+    {"image": "border-010.png", "hotspot": [-242, -156]},
+    {"image": "border-011.png", "hotspot": [-16, -16]},
+    {"image": "border-012.png", "hotspot": [-16, -148]},
+    {"image": "border-013.png", "hotspot": [-16, -148]},
+    {"image": "border-014.png", "hotspot": [-16, -132]}
+  ]
+}

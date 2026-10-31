@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "cannon-sml-000.png", "hotspot": [0, 1]},
+    {"image": "cannon-sml-001.png", "transparency": 0, "hotspot": [0, 1]},
+    {"image": "cannon-sml-002.png", "hotspot": [0, 1]},
+    {"image": "cannon-sml-003.png", "transparency": 0},
+    {"image": "cannon-sml-004.png", "hotspot": [1, 0]},
+    {"image": "cannon-sml-005.png", "transparency": 0},
+    {"image": "cannon-sml-006.png", "hotspot": [0, 0]},
+    {"image": "cannon-sml-007.png", "transparency": 0, "hotspot": [0, 1]},
+    {"image": "cannon-sml-008.png", "hotspot": [0, 1]},
+    {"image": "cannon-sml-009.png", "transparency": 0, "hotspot": [0, 1]},
+    {"image": "cannon-sml-010.png"},
+    {"image": "cannon-sml-011.png", "transparency": 0},
+    {"image": "cannon-sml-012.png", "hotspot": [1, 0]},
+    {"image": "cannon-sml-013.png", "transparency": 0, "hotspot": [1, 0]},
+    {"image": "cannon-sml-014.png"},
+    {"image": "cannon-sml-015.png", "transparency": 0, "hotspot": [0, 1]},
+    {"image": "cannon-sml-016.png", "hotspot": [0, 0]},
+    {"image": "cannon-sml-017.png", "transparency": 0},
+    {"image": "cannon-sml-018.png"},
+    {"image": "cannon-sml-019.png"},
+    {"image": "cannon-sml-020.png"},
+    {"image": "cannon-sml-021.png", "transparency": 0},
+    {"image": "cannon-sml-022.png", "transparency": 0},
+    {"image": "cannon-sml-023.png", "transparency": 0, "hotspot": [2, 2]}
+  ]
+}

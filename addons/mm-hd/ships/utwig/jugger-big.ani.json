@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [59, 60]},
+  "frames": [
+    {"image": "jugger-big-000.png", "hotspot": [67, 67]},
+    {"image": "jugger-big-001.png", "hotspot": [68, 68]},
+    {"image": "jugger-big-002.png"},
+    {"image": "jugger-big-003.png", "hotspot": [55, 64]},
+    {"image": "jugger-big-004.png", "hotspot": [56, 67]},
+    {"image": "jugger-big-005.png", "hotspot": [54, 67]},
+    {"image": "jugger-big-006.png"},
+    {"image": "jugger-big-007.png", "hotspot": [67, 54]},
+    {"image": "jugger-big-008.png", "hotspot": [67, 56]},
+    {"image": "jugger-big-009.png", "hotspot": [65, 54]},
+    {"image": "jugger-big-010.png", "hotspot": [60, 58]},
+    {"image": "jugger-big-011.png", "hotspot": [68, 67]},
+    {"image": "jugger-big-012.png", "hotspot": [66, 66]},
+    {"image": "jugger-big-013.png", "hotspot": [67, 64]},
+    {"image": "jugger-big-014.png", "hotspot": [60, 59]},
+    {"image": "jugger-big-015.png", "hotspot": [65, 67]}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [9, 9]},
+  "frames": [
+    {"image": "scout-meleeicons-000.png", "hotspot": [19, 30]},
+    {"image": "oldscout-meleeicons-001.png", "hotspot": [10, 16]},
+    {"image": "oldscout-sml-000.png"},
+    {"image": "oldscout-sml-001.png"},
+    {"image": "oldscout-sml-002.png"},
+    {"image": "oldscout-sml-003.png"},
+    {"image": "oldscout-sml-004.png"},
+    {"image": "oldscout-sml-005.png"},
+    {"image": "oldscout-sml-006.png"},
+    {"image": "oldscout-sml-007.png"},
+    {"image": "oldscout-sml-008.png"},
+    {"image": "oldscout-sml-009.png"},
+    {"image": "oldscout-sml-010.png"},
+    {"image": "oldscout-sml-011.png"},
+    {"image": "oldscout-sml-012.png"},
+    {"image": "oldscout-sml-013.png"},
+    {"image": "oldscout-sml-014.png"},
+    {"image": "oldscout-sml-015.png"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1},
+  "frames": [
+    {"image": "trader-cap-000.png"},
+    {"image": "trader-cap-001.png", "hotspot": [-73, -75]},
+    {"image": "trader-cap-002.png", "hotspot": [-73, -75]},
+    {"image": "trader-cap-002.png", "hotspot": [-73, -75]},
+    {"image": "trader-cap-002.png", "hotspot": [-73, -75]},
+    {"image": "trader-cap-003.png", "hotspot": [-113, -75]},
+    {"image": "trader-cap-004.png", "hotspot": [-146, -32]},
+    {"image": "trader-cap-004.png", "hotspot": [-146, -32]},
+    {"image": "trader-cap-005.png", "hotspot": [-146, -32]},
+    {"image": "trader-cap-006.png"},
+    {"image": "trader-cap-006.png"},
+    {"image": "trader-cap-007.png"},
+    {"image": "trader-cap-008.png", "hotspot": [-5, -34]},
+    {"image": "trader-cap-008.png", "hotspot": [-5, -34]},
+    {"image": "trader-cap-009.png", "hotspot": [-5, -34]}
+  ]
+}

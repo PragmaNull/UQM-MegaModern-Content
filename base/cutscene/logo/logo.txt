@@ -5,10 +5,10 @@ FONT 0 base/fonts/starcon.fon
 TBC 000000
 
 #(Load movie)
-ANI1X base/cutscene/logo/logo.ani
+ANI1X base/cutscene/logo/logo.ani.json
 
 #(Load movie)
-ANI4X addons/mm-hd/cutscene/logo/logo.ani
+ANI4X addons/mm-hd/cutscene/logo/logo.ani.json
 
 #(Take up entire screen)
 DIMS 320 240

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [16, 16]},
+  "frames": [
+    {"image": "destruct-med-000.png"},
+    {"image": "destruct-med-001.png", "hotspot": [46, 46]},
+    {"image": "destruct-med-002.png", "hotspot": [80, 80]},
+    {"image": "destruct-med-003.png", "hotspot": [100, 100]},
+    {"image": "destruct-med-004.png", "hotspot": [116, 116]},
+    {"image": "destruct-med-005.png", "hotspot": [123, 123]},
+    {"image": "destruct-med-006.png", "hotspot": [129, 129]},
+    {"image": "destruct-med-007.png", "hotspot": [132, 132]}
+  ]
+}

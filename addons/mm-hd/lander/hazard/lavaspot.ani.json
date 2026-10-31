@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 93, "hotspot": [12, 18]},
+  "frames": [
+    {"image": "lavaspot-000.png", "hotspot": [10, 19]},
+    {"image": "lavaspot-001.png", "hotspot": [11, 20]},
+    {"image": "lavaspot-002.png", "hotspot": [12, 21]},
+    {"image": "lavaspot-003.png", "hotspot": [13, 21]},
+    {"image": "lavaspot-004.png", "hotspot": [14, 21]},
+    {"image": "lavaspot-005.png", "hotspot": [15, 22]},
+    {"image": "lavaspot-006.png", "hotspot": [18, 24]},
+    {"image": "lavaspot-007.png", "hotspot": [16, 19]},
+    {"image": "lavaspot-008.png"},
+    {"image": "lavaspot-009.png"},
+    {"image": "lavaspot-010.png", "hotspot": [10, 16]},
+    {"image": "lavaspot-011.png", "hotspot": [8, 15]},
+    {"image": "lavaspot-012.png", "hotspot": [6, 13]}
+  ]
+}

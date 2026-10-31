@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [48, 48]},
+  "frames": [
+    {"image": "drone-big-000.png"},
+    {"image": "drone-big-001.png"},
+    {"image": "drone-big-002.png"},
+    {"image": "drone-big-003.png"},
+    {"image": "drone-big-004.png"},
+    {"image": "drone-big-005.png"},
+    {"image": "drone-big-006.png"},
+    {"image": "drone-big-007.png"},
+    {"image": "drone-big-008.png"},
+    {"image": "drone-big-009.png"},
+    {"image": "drone-big-010.png"},
+    {"image": "drone-big-011.png"},
+    {"image": "drone-big-012.png"},
+    {"image": "drone-big-013.png"},
+    {"image": "drone-big-014.png"},
+    {"image": "drone-big-015.png"}
+  ]
+}

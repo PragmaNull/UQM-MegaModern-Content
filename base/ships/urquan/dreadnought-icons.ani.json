@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [-1, 0]},
+  "frames": [
+    {"image": "dreadnought-icons-000.png"},
+    {"image": "dreadnought-icons-001.png", "hotspot": [20, 19]}
+  ]
+}

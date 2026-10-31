@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 91, "hotspot": [75, 60]},
+  "frames": [
+    {"image": "burvixcaster-000.png"},
+    {"image": "burvixcaster-001.png"},
+    {"image": "burvixcaster-002.png"},
+    {"image": "burvixcaster-003.png"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 0, "hotspot": [35, 34]},
+  "frames": [
+    {"image": "lifec-000.png"},
+    {"image": "lifec-001.png"},
+    {"image": "lifec-002.png"},
+    {"image": "lifec-003.png"}
+  ]
+}

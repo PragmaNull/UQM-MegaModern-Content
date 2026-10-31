@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [5, 6]},
+  "frames": [
+    {"image": "blast-sml-000.png"},
+    {"image": "blast-sml-001.png", "hotspot": [4, 6]},
+    {"image": "blast-sml-002.png", "hotspot": [1, 5]},
+    {"image": "blast-sml-003.png", "hotspot": [4, 4]},
+    {"image": "blast-sml-004.png", "hotspot": [5, 1]},
+    {"image": "blast-sml-005.png", "hotspot": [6, 4]},
+    {"image": "blast-sml-006.png", "hotspot": [7, 5]},
+    {"image": "blast-sml-007.png", "hotspot": [7, 6]}
+  ]
+}

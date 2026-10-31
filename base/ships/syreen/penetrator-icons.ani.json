@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [-3, -1]},
+  "frames": [
+    {"image": "penetrator-icons-000.png"},
+    {"image": "penetrator-icons-001.png", "hotspot": [16, 20]}
+  ]
+}

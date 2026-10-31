@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "tritonmask-000.png"}
+  ]
+}

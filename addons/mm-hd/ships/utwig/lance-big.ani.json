@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "defaults": {"hotspot": [5, 11]},
+  "frames": [
+    {"image": "lance-big-000.png", "hotspot": [2, 12]},
+    {"image": "lance-big-001.png"},
+    {"image": "lance-big-002.png", "hotspot": [10, 10]},
+    {"image": "lance-big-003.png", "hotspot": [11, 5]},
+    {"image": "lance-big-004.png", "hotspot": [12, 2]},
+    {"image": "lance-big-005.png", "hotspot": [11, 5]},
+    {"image": "lance-big-006.png", "hotspot": [10, 10]},
+    {"image": "lance-big-007.png"},
+    {"image": "lance-big-008.png", "hotspot": [2, 12]},
+    {"image": "lance-big-009.png"},
+    {"image": "lance-big-010.png", "hotspot": [10, 10]},
+    {"image": "lance-big-011.png", "hotspot": [11, 5]},
+    {"image": "lance-big-012.png", "hotspot": [12, 2]},
+    {"image": "lance-big-013.png", "hotspot": [11, 5]},
+    {"image": "lance-big-014.png", "hotspot": [10, 10]},
+    {"image": "lance-big-015.png"}
+  ]
+}

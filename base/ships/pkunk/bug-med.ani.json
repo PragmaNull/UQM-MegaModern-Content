@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none", "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "bug-med-000.png"}
+  ]
+}

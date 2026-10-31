@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [-17, -16]},
+  "frames": [
+    {"image": "skiff-icons-000.png"},
+    {"image": "skiff-icons-001.png", "hotspot": [60, 52]}
+  ]
+}

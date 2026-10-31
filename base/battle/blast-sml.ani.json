@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "blast-sml-000.png"},
+    {"image": "blast-sml-001.png"},
+    {"image": "blast-sml-002.png"},
+    {"image": "blast-sml-003.png"},
+    {"image": "blast-sml-004.png"},
+    {"image": "blast-sml-005.png"},
+    {"image": "blast-sml-006.png"},
+    {"image": "blast-sml-007.png"}
+  ]
+}

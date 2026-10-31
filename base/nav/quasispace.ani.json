@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 66, "hotspot": [4, 4]},
+  "frames": [
+    {"image": "quasispace-000.png"},
+    {"image": "quasispace-001.png", "hotspot": [6, 6]},
+    {"image": "quasispace-002.png", "hotspot": [10, 9]},
+    {"image": "quasispace-003.png", "hotspot": [16, 13]},
+    {"image": "quasispace-004.png", "hotspot": [19, 18]},
+    {"image": "quasispace-005.png", "transparency": 1, "hotspot": [37, 37]}
+  ]
+}

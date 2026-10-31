@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1, "hotspot": [5, 5]},
+  "frames": [
+    {"image": "fire-big-000.png", "hotspot": [4, 3]},
+    {"image": "fire-big-001.png", "hotspot": [4, 4]},
+    {"image": "fire-big-002.png"},
+    {"image": "fire-big-003.png"},
+    {"image": "fire-big-004.png", "hotspot": [6, 6]},
+    {"image": "fire-big-005.png", "hotspot": [7, 6]},
+    {"image": "fire-big-006.png", "hotspot": [9, 8]},
+    {"image": "fire-big-007.png", "hotspot": [10, 9]}
+  ]
+}

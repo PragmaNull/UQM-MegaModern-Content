@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "ganymedemask-000.png"}
+  ]
+}

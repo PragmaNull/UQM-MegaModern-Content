@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [3, 4]},
+  "frames": [
+    {"image": "drone-meleeicons-000.png"}
+  ]
+}

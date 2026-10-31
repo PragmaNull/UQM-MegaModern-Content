@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"colormap": 1, "hotspot": [13, 13]},
+  "frames": [
+    {"image": "xform-meleeicons-000.png", "hotspot": [64, 64]},
+    {"image": "xform-meleeicons-001.png", "hotspot": [0, 0]},
+    {"image": "xform-sml-000.png"},
+    {"image": "xform-sml-001.png"},
+    {"image": "xform-sml-002.png"},
+    {"image": "xform-sml-003.png"},
+    {"image": "xform-sml-004.png"},
+    {"image": "xform-sml-005.png"},
+    {"image": "xform-sml-006.png"},
+    {"image": "xform-sml-007.png"},
+    {"image": "xform-sml-008.png"},
+    {"image": "xform-sml-009.png"},
+    {"image": "xform-sml-010.png"},
+    {"image": "xform-sml-011.png"},
+    {"image": "xform-sml-012.png"},
+    {"image": "xform-sml-013.png"},
+    {"image": "xform-sml-014.png"},
+    {"image": "xform-sml-015.png"}
+  ]
+}

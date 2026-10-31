@@ -6,10 +6,10 @@ DIMS 320 200
 #(Everything is drawn within the clipping rect defined by DIMS, from 0, 0)
 
 #(Set ANIM to draw animation frames from)
-ANI1X base/cutscene/ending/victory1.ani
+ANI1X base/cutscene/ending/victory1.ani.json
 
 #(Set ANIM to draw animation frames from)
-ANI4X addons/mm-hd/cutscene/ending/victory1.ani
+ANI4X addons/mm-hd/cutscene/ending/victory1.ani.json
 
 #(Play music)
 MUSIC base/cutscene/ending/victory1.mod

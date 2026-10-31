@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 0, "hotspot": [1, 1]},
+  "frames": [
+    {"image": "visited-000.png", "hotspot": [0, 0]},
+    {"image": "visited-001.png", "hotspot": [0, 0]},
+    {"image": "visited-002.png", "hotspot": [0, 0]},
+    {"image": "visited-003.png", "hotspot": [0, 0]},
+    {"image": "visited-004.png", "hotspot": [0, 0]},
+    {"image": "visited-005.png", "hotspot": [0, 0]},
+    {"image": "visited-006.png"},
+    {"image": "visited-007.png"},
+    {"image": "visited-008.png"},
+    {"image": "visited-009.png"},
+    {"image": "visited-010.png"},
+    {"image": "visited-011.png"},
+    {"image": "visited-012.png"},
+    {"image": "visited-013.png"},
+    {"image": "visited-014.png"},
+    {"image": "visited-015.png"},
+    {"image": "visited-016.png"},
+    {"image": "visited-017.png"}
+  ]
+}

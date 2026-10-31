@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "uranusmask-000.png"},
+    {"image": "uranusmask-001.png"}
+  ]
+}

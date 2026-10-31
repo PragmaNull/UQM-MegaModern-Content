@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "defaults": {"transparency": 0, "colormap": 1},
+  "frames": [
+    {"image": "cruiser-icons-000.png"},
+    {"image": "cruiser-icons-001.png", "hotspot": [11, 18]}
+  ]
+}

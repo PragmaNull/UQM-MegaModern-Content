@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "defaults": {"transparency": "none"},
+  "frames": [
+    {"image": "newgame-000.png"},
+    {"image": "newgame-001.png", "hotspot": [-312, -92]},
+    {"image": "newgame-002.png", "hotspot": [340, 172]},
+    {"image": "newgame-003.png"}
+  ]
+}
