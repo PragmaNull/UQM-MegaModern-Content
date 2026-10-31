@@ -1,0 +1,385 @@
+{
+  "version": 1,
+  "resources": {
+    "comm.arilou.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/arilou.ogg"
+    },
+    "comm.chmmr.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/chmmr.ogg"
+    },
+    "comm.chmmr.process.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/chmmr.process.ogg"
+    },
+    "comm.commander.lowpower.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/commander.lowpower.ogg"
+    },
+    "comm.commander.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/commander.ogg"
+    },
+    "comm.druuge.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/druuge.ogg"
+    },
+    "comm.ilwrath.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/ilwrath.ogg"
+    },
+    "comm.kohrah.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/kohrah.ogg"
+    },
+    "comm.melnorme.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/melnorme.ogg"
+    },
+    "comm.mycon.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/mycon.ogg"
+    },
+    "comm.orz.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/orz.ogg"
+    },
+    "comm.pkunk.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/pkunk.ogg"
+    },
+    "comm.spathi.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/spathi.ogg"
+    },
+    "comm.fwiffo.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/spathi.fwiffo.ogg"
+    },
+    "comm.safeones.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/spathi.safeones.ogg"
+    },
+    "comm.shofixti.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/shofixti.ogg"
+    },
+    "comm.slylandro.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/slylandro.ogg"
+    },
+    "comm.probe.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/slylandro.probe.ogg"
+    },
+    "comm.supox.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/supox.ogg"
+    },
+    "comm.syreen.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/syreen.ogg"
+    },
+    "comm.talkingpet.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/talkingpet.ogg"
+    },
+    "comm.thraddash.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/thraddash.ogg"
+    },
+    "comm.umgah.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/umgah.ogg"
+    },
+    "comm.urquan.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/urquan.ogg"
+    },
+    "comm.urquan.probe.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/urquan.probe.ogg"
+    },
+    "comm.utwig.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/utwig.ogg"
+    },
+    "comm.utwig.ultron.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/utwig.ultron.ogg"
+    },
+    "comm.vux.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/vux.ogg"
+    },
+    "comm.vux.zex.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/vux.zex.ogg"
+    },
+    "comm.yehat.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/yehat.ogg"
+    },
+    "comm.yehat.rebel.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/yehat.rebel.ogg"
+    },
+    "comm.zoqfotpik.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/zoqfotpik.ogg"
+    },
+    "music.battle": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/battle.ogg"
+    },
+    "music.battle.samatra": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/battle.samatra.ogg"
+    },
+    "music.hyperspace": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/hyperspace.ogg"
+    },
+    "music.meleemenu": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/meleemenu.ogg"
+    },
+    "music.orbit1": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/orbit.ogg"
+    },
+    "music.orbit2": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/orbit2.ogg"
+    },
+    "music.orbit3": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/orbit3.ogg"
+    },
+    "music.orbit4": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/orbit4.ogg"
+    },
+    "music.orbit5": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/orbit5.ogg"
+    },
+    "music.orbit6": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/orbit6.ogg"
+    },
+    "music.outfit": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/outfit.ogg"
+    },
+    "music.quasispace": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/quasispace.ogg"
+    },
+    "music.redalert": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/redalert.ogg"
+    },
+    "music.shipyard": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/shipyard.ogg"
+    },
+    "music.space": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/space.ogg"
+    },
+    "music.starbase": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/incidental/starbase.ogg"
+    },
+    "music.credits": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/comm/androsynth.ogg"
+    },
+    "slides.intro": {
+      "type": "STRTAB",
+      "data": "addons/volasaurus-remix-pack/cutscene/intro/intro.txt"
+    },
+    "slides.ending": {
+      "type": "STRTAB",
+      "data": "addons/volasaurus-remix-pack/cutscene/ending/ending.txt"
+    },
+    "ship.androsynth.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/androsynth.ogg"
+    },
+    "ship.arilou.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/arilou.ogg"
+    },
+    "ship.chenjesu.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/chenjesu.ogg"
+    },
+    "ship.chmmr.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/chmmr.ogg"
+    },
+    "ship.druuge.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/druuge.ogg"
+    },
+    "ship.earthling.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/earthling.ogg"
+    },
+    "ship.flagship.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/flagship.ogg"
+    },
+    "ship.ilwrath.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/ilwrath.ogg"
+    },
+    "ship.kohrah.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/kohrah.ogg"
+    },
+    "ship.melnorme.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/melnorme.ogg"
+    },
+    "ship.mmrnmhrm.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/mmrnmhrm.ogg"
+    },
+    "ship.mycon.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/mycon.ogg"
+    },
+    "ship.orz.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/orz.ogg"
+    },
+    "ship.pkunk.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/pkunk.ogg"
+    },
+    "ship.slylandro.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/probe.ogg"
+    },
+    "ship.shofixti.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/shofixti.ogg"
+    },
+    "ship.spathi.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/spathi.ogg"
+    },
+    "ship.supox.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/supox.ogg"
+    },
+    "ship.syreen.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/syreen.ogg"
+    },
+    "ship.thraddash.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/thraddash.ogg"
+    },
+    "ship.umgah.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/umgah.ogg"
+    },
+    "ship.urquan.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/urquan.ogg"
+    },
+    "ship.utwig.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/utwig.ogg"
+    },
+    "ship.vux.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/vux.ogg"
+    },
+    "ship.yehat.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/yehat.ogg"
+    },
+    "ship.zoqfotpik.ditty": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/ditties/zoqfotpik.ogg"
+    },
+    "space.arilou.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/arilou.ogg"
+    },
+    "space.chmmr.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/chmmr.ogg"
+    },
+    "space.druuge.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/druuge.ogg"
+    },
+    "space.ilwrath.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/ilwrath.ogg"
+    },
+    "space.kohrah.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/kohrah.ogg"
+    },
+    "space.mycon.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/mycon.ogg"
+    },
+    "space.orz.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/orz.ogg"
+    },
+    "space.pkunk.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/pkunk.ogg"
+    },
+    "space.spathi.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/spathi.ogg"
+    },
+    "space.supox.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/supox.ogg"
+    },
+    "space.syreen.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/syreen.ogg"
+    },
+    "space.thraddash.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/thraddash.ogg"
+    },
+    "space.umgah.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/umgah.ogg"
+    },
+    "space.urquan.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/urquan.ogg"
+    },
+    "space.utwig.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/utwig.ogg"
+    },
+    "space.vux.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/vux.ogg"
+    },
+    "space.yehat.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/yehat.ogg"
+    },
+    "space.zoqfotpik.music": {
+      "type": "MUSICRES",
+      "data": "addons/volasaurus-remix-pack/space/zoqfotpik.ogg"
+    }
+  }
+}

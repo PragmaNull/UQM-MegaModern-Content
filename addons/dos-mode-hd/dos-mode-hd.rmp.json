@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "resources": {
+    "graphics.activity": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/activity.ani"
+    },
+    "graphics.border": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/custom-border/custom-border.ani"
+    },
+    "graphics.hdborder": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/default-border/default-border.ani"
+    },
+    "graphics.landerlaunch": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/lander/launch.ani"
+    },
+    "graphics.landerreturn": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/lander/return.ani"
+    },
+    "graphics.meleemenu": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/meleemenu/meleemenu.ani"
+    },
+    "graphics.modulesmenu": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/outfit/modulesmenu.ani"
+    },
+    "graphics.newgame": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/newgame.ani"
+    },
+    "graphics.outfit": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/outfit/outfit.ani"
+    },
+    "graphics.outfitmodules": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/outfit/outfitmodules.ani"
+    },
+    "graphics.playmenu": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/playmenu.ani"
+    },
+    "graphics.shipyard": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/shipyard.ani"
+    },
+    "graphics.title": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ui/title.ani"
+    },
+    "slides.accessdata": {
+      "type": "STRTAB",
+      "data": "addons/dos-mode-hd/cutscene/spins/accessdata.txt"
+    },
+    "ship.samatra.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/dos-mode-hd/ships/samatra/samatra-cap.ani"
+    }
+  }
+}

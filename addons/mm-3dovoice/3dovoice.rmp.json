@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "resources": {
+    "comm.arilou.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "addons/mm-3dovoice/arilou/arilou.json",
+        "clips": "addons/mm-3dovoice/arilou/"
+      }
+    },
+    "comm.chmmr.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/chmmr/chmmr.json",
+        "clips": "addons/mm-3dovoice/chmmr/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.commander.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/commander/commander.json",
+        "clips": "addons/mm-3dovoice/commander/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.druuge.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/druuge/druuge.json",
+        "clips": "addons/mm-3dovoice/druuge/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.ilwrath.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/ilwrath/ilwrath.json",
+        "clips": "addons/mm-3dovoice/ilwrath/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.kohrah.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/kohrah/kohrah.json",
+        "clips": "addons/mm-3dovoice/kohrah/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.melnorme.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "addons/mm-3dovoice/melnorme/melnorme.json",
+        "clips": "addons/mm-3dovoice/melnorme/"
+      }
+    },
+    "comm.mycon.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "addons/mm-3dovoice/mycon/mycon.json",
+        "clips": "addons/mm-3dovoice/mycon/"
+      }
+    },
+    "comm.orz.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/orz/orz.json",
+        "clips": "addons/mm-3dovoice/orz/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.pkunk.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/pkunk/pkunk.json",
+        "clips": "addons/mm-3dovoice/pkunk/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.probe.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/probe/probe.json",
+        "clips": "addons/mm-3dovoice/probe/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.robot.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/robot/robot.json",
+        "clips": "addons/mm-3dovoice/robot/"
+      }
+    },
+    "comm.safeones.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/safeones/safeones.json",
+        "clips": "addons/mm-3dovoice/safeones/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.shofixti.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/shofixti/shofixti.json",
+        "clips": "addons/mm-3dovoice/shofixti/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.slylandro.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/slylandro/slylandro.json",
+        "clips": "addons/mm-3dovoice/slylandro/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.spathi.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/spathi/spathi.json",
+        "clips": "addons/mm-3dovoice/spathi/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.starbase.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "addons/mm-3dovoice/starbase/starbase.json",
+        "clips": "addons/mm-3dovoice/starbase/"
+      }
+    },
+    "comm.supox.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/supox/supox.json",
+        "clips": "addons/mm-3dovoice/supox/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.syreen.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "addons/mm-3dovoice/syreen/syreen.json",
+        "clips": "addons/mm-3dovoice/syreen/"
+      }
+    },
+    "comm.talkingpet.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/talkingpet/talkingpet.json",
+        "clips": "addons/mm-3dovoice/talkingpet/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.thraddash.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/thraddash/thraddash.json",
+        "clips": "addons/mm-3dovoice/thraddash/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.umgah.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/umgah/umgah.json",
+        "clips": "addons/mm-3dovoice/umgah/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.urquan.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/urquan/urquan.json",
+        "clips": "addons/mm-3dovoice/urquan/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.utwig.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "addons/mm-3dovoice/utwig/utwig.json",
+        "clips": "addons/mm-3dovoice/utwig/"
+      }
+    },
+    "comm.vux.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/vux/vux.json",
+        "clips": "addons/mm-3dovoice/vux/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.yehat.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/yehat/yehat.json",
+        "clips": "addons/mm-3dovoice/yehat/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.yehat.rebel.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/yehatrebels/yehatrebels.json",
+        "clips": "addons/mm-3dovoice/yehatrebels/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    },
+    "comm.zoqfotpik.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/zoqfotpik/zoqfotpik.json",
+        "clips": "addons/mm-3dovoice/zoqfotpik/",
+        "timing": "addons/mm-3dovoice/3dovoice-timing.json"
+      }
+    }
+  }
+}

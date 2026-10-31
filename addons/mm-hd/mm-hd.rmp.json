@@ -1,0 +1,2809 @@
+{
+  "version": 1,
+  "resources": {
+    "colortable.hangar": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/ui/shipyard/hangar.ct"
+    },
+    "comm.arilou.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/arilou.fon"
+    },
+    "comm.arilou.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/arilou/arilou.ani"
+    },
+    "comm.chmmr.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/chmmr/chmmr.ct"
+    },
+    "comm.chmmr.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/chmmr.fon"
+    },
+    "comm.chmmr.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/chmmr/chmmr.ani"
+    },
+    "comm.chmmr.red.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/chmmr/chmmr-red.ani"
+    },
+    "comm.commander.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/commander/commander.ct"
+    },
+    "comm.commander.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/commander.fon"
+    },
+    "comm.starbas.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/commander/starbas.ani"
+    },
+    "comm.commander.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/commander/commander.ani"
+    },
+    "comm.commander.red.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/commander/commander-red.ani"
+    },
+    "comm.computer.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/computer.fon"
+    },
+    "comm.druuge.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/micro.fon"
+    },
+    "comm.druuge.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/druuge/druuge.ani"
+    },
+    "comm.ilwrath.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/ilwrath.fon"
+    },
+    "comm.ilwrath.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/ilwrath/ilwrath.ani"
+    },
+    "comm.kohrah.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/kohrah.fon"
+    },
+    "comm.kohrah.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/kohrah/kohrah.ani"
+    },
+    "comm.melnorme.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/micro.fon"
+    },
+    "comm.melnorme.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/melnorme/melnorme.ani"
+    },
+    "comm.melnorme.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/melnorme/melnorme-hd.ct"
+    },
+    "comm.mycon.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/mycon.fon"
+    },
+    "comm.mycon.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/mycon/mycon.ani"
+    },
+    "comm.orz.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/orz/orz.ct"
+    },
+    "comm.orz.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/orz.fon"
+    },
+    "comm.orz.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/orz/orz.ani"
+    },
+    "comm.orz.angry.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/orz/orz-angry.ani"
+    },
+    "comm.pkunk.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/pkunk.fon"
+    },
+    "comm.pkunk.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/pkunk/pkunk.ani"
+    },
+    "comm.probe.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/probe.fon"
+    },
+    "comm.probe.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/probe/probe.ani"
+    },
+    "comm.safeones.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/safeones/safeones.ct"
+    },
+    "comm.safeones.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/safeones/safeones.ani"
+    },
+    "comm.shofixti.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/shofixti.fon"
+    },
+    "comm.shofixti.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/shofixti/shofixti.ani"
+    },
+    "comm.shofixti.alt.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/shofixti/shofixti-alt.ani"
+    },
+    "comm.slylandro.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/slylandro/slylandro.ct"
+    },
+    "comm.slylandro.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/slylandro.fon"
+    },
+    "comm.slylandro.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/slylandro/slylandro.ani"
+    },
+    "comm.spathi.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/spathi.fon"
+    },
+    "comm.spathi.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/spathi/spathi.ani"
+    },
+    "comm.supox.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/supox.fon"
+    },
+    "comm.supox.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/supox/supox.ani"
+    },
+    "comm.syreen.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/syreen/syreen.ct"
+    },
+    "comm.syreen.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/syreen.fon"
+    },
+    "comm.syreen.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/syreen/syreen.ani"
+    },
+    "comm.talkingpet.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/talkingpet/talkingpet.ct"
+    },
+    "comm.talkingpet.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/talkingpet.fon"
+    },
+    "comm.talkingpet.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/talkingpet/talkingpet.ani"
+    },
+    "comm.thraddash.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/thraddash.fon"
+    },
+    "comm.thraddash.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/thraddash/thraddash.ani"
+    },
+    "comm.umgah.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/umgah.fon"
+    },
+    "comm.umgah.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/umgah/umgah.ani"
+    },
+    "comm.urquan.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/urquan.fon"
+    },
+    "comm.urquan.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/urquan/urquan.ani"
+    },
+    "comm.utwig.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/utwig.fon"
+    },
+    "comm.utwig.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/utwig/utwig.ani"
+    },
+    "comm.vux.colortable": {
+      "type": "BINTAB",
+      "data": "addons/mm-hd/comm/vux/vux.ct"
+    },
+    "comm.vux.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/vux.fon"
+    },
+    "comm.vux.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/vux/vux.ani"
+    },
+    "comm.vux.zex.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/vux/zex.ani"
+    },
+    "comm.yehat.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/yehat.fon"
+    },
+    "comm.yehat.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/yehat/yehat.ani"
+    },
+    "comm.zoqfotpik.font": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/zoqfotpik.fon"
+    },
+    "comm.zoqfotpik.graphics": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/comm/zoqfotpik/zoqfotpik.ani"
+    },
+    "credits.background": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/cutscene/credits/credback.ani"
+    },
+    "credits.font.pt13": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/pt13.fon"
+    },
+    "credits.font.pt17": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/pt17.fon"
+    },
+    "credits.font.pt45": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/pt45.fon"
+    },
+    "font.button": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/button.fon"
+    },
+    "font.label": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/label.fon"
+    },
+    "font.lander": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/lander.fon"
+    },
+    "font.melee.title": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/melee.title.fon"
+    },
+    "font.micro": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/micro.fon"
+    },
+    "font.micro.thin": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/micro.thin.fon"
+    },
+    "font.module": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/module.fon"
+    },
+    "font.playmenu": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/playmenu.fon"
+    },
+    "font.player": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/player.fon"
+    },
+    "font.slab": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/slab.fon"
+    },
+    "font.square": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/square.fon"
+    },
+    "font.starcon": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/starcon.fon"
+    },
+    "font.tiny": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/tiny.fon"
+    },
+    "font.tiny.bold": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/tiny.bold.fon"
+    },
+    "font.tiny.condensed": {
+      "type": "FONTRES",
+      "data": "addons/mm-hd/fonts/tiny.cond.fon"
+    },
+    "graphics.activity": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/activity.ani"
+    },
+    "graphics.ambient": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/ambient.ani"
+    },
+    "graphics.aquahelix": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/aquahelix.ani"
+    },
+    "graphics.asteroid.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/asteroid-big.ani"
+    },
+    "graphics.asteroid.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/asteroid-med.ani"
+    },
+    "graphics.asteroid.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/asteroid-sml.ani"
+    },
+    "graphics.blast.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/blast-big.ani"
+    },
+    "graphics.blast.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/blast-med.ani"
+    },
+    "graphics.blast.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/blast-sml.ani"
+    },
+    "graphics.blueprints": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/blueprints.ani"
+    },
+    "graphics.boom.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/boom-big.ani"
+    },
+    "graphics.boom.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/boom-med.ani"
+    },
+    "graphics.boom.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/boom-sml.ani"
+    },
+    "graphics.border": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/custom-border/custom-border.ani"
+    },
+    "graphics.hdborder": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/default-border/default-border.ani"
+    },
+    "graphics.cust.bevel": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/custom-border/bevel/custom-bevel.ani"
+    },
+    "graphics.def.bevel": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/default-border/bevel/default-bevel.ani"
+    },
+    "graphics.burvixcaster": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/burvixcaster.ani"
+    },
+    "graphics.3do.shield": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/3dostuff/shield.ani"
+    },
+    "graphics.3do.shade": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/3dostuff/shades.ani"
+    },
+    "graphics.earthmask": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/earthmask.ani"
+    },
+    "graphics.fuel": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/fuel.ani"
+    },
+    "graphics.dossphere": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/dosstuff/planet_sphere.ani"
+    },
+    "graphics.dos.shield": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/dosstuff/shield.ani"
+    },
+    "graphics.eggcase": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/eggcase.ani"
+    },
+    "graphics.excavationsite": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/excavationsite.ani"
+    },
+    "graphics.flagship": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/flagship.ani"
+    },
+    "graphics.flagshipskeleton": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/cutscene/ending/fs_skeleton.ani"
+    },
+    "graphics.flagship.red": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/flagship-red/flagship.ani"
+    },
+    "graphics.flagshipskeleton.red": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/cutscene/ending/fs_skeleton-red.ani"
+    },
+    "graphics.flagshipstatus": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/flagshipstatus.ani"
+    },
+    "graphics.fontgradient": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/fonts/fontgradient.ani"
+    },
+    "graphics.fwiffo": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/fwiffo.ani"
+    },
+    "graphics.hyperstars": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/hyperstars.ani"
+    },
+    "graphics.hyperstars.anim": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/animated/hyperstars.ani"
+    },
+    "graphics.lander": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/lander.ani"
+    },
+    "graphics.lander.pc": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/lander-pc.ani"
+    },
+    "graphics.lander.mods": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/mods/mods.ani"
+    },
+    "graphics.landerfonteffect": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/fonteffect.ani"
+    },
+    "graphics.landerlaunch": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/launch.ani"
+    },
+    "graphics.landerreturn": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/return.ani"
+    },
+    "graphics.landershield": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/shield.ani"
+    },
+    "graphics.lavaspot": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/hazard/lavaspot.ani"
+    },
+    "graphics.life.0": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifea.ani"
+    },
+    "graphics.life.1": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifeb.ani"
+    },
+    "graphics.life.2": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifec.ani"
+    },
+    "graphics.life.3": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifed.ani"
+    },
+    "graphics.life.4": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifee.ani"
+    },
+    "graphics.life.5": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifef.ani"
+    },
+    "graphics.life.6": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifeg.ani"
+    },
+    "graphics.life.7": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifeh.ani"
+    },
+    "graphics.life.8": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifei.ani"
+    },
+    "graphics.life.9": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifej.ani"
+    },
+    "graphics.life.10": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifek.ani"
+    },
+    "graphics.life.11": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifel.ani"
+    },
+    "graphics.life.12": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifem.ani"
+    },
+    "graphics.life.13": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifen.ani"
+    },
+    "graphics.life.14": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifeo.ani"
+    },
+    "graphics.life.15": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifep.ani"
+    },
+    "graphics.life.16": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifeq.ani"
+    },
+    "graphics.life.17": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifer.ani"
+    },
+    "graphics.life.18": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifes.ani"
+    },
+    "graphics.life.19": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifet.ani"
+    },
+    "graphics.life.20": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifew.ani"
+    },
+    "graphics.life.21": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifex.ani"
+    },
+    "graphics.life.22": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifey.ani"
+    },
+    "graphics.life.23": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifeu.ani"
+    },
+    "graphics.life.24": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifev.ani"
+    },
+    "graphics.life.25": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifez.ani"
+    },
+    "graphics.lifecan": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/bio/lifecan.ani"
+    },
+    "graphics.lightning": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/hazard/lightning.ani"
+    },
+    "graphics.maidens": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/maidens.ani"
+    },
+    "graphics.meleemenu": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/meleemenu/meleemenu.ani"
+    },
+    "graphics.meleepickship": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/meleemenu/meleepickship.ani"
+    },
+    "graphics.miscdata": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/miscdata.ani"
+    },
+    "graphics.modulesmenu": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/modulesmenu/modulesmenu.ani"
+    },
+    "graphics.newgame": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/mainmenu/newgame.ani"
+    },
+    "graphics.moonbase": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/moonbase.ani"
+    },
+    "graphics.motherark": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/motherark.ani"
+    },
+    "graphics.orbitbackground": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/orbitbackground/orbitbackground.ani"
+    },
+    "graphics.orbitenter": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/orbitenter.ani"
+    },
+    "graphics.outfit": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/outfit/outfit.ani"
+    },
+    "graphics.outfitmodules": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/outfit/outfitmodules.ani"
+    },
+    "graphics.pickship": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/pickship.ani"
+    },
+    "graphics.planets": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/planets.ani"
+    },
+    "graphics.planets.slaveshield": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/slaveshield.ani"
+    },
+    "graphics.dos.planets": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/dos-planets/planets.ani"
+    },
+    "graphics.playmenu": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/playmenu/playmenu.ani"
+    },
+    "graphics.quake": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/hazard/quake.ani"
+    },
+    "graphics.quasispace": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/quasispace.ani"
+    },
+    "graphics.quasispace.anim": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/animated/quasispace.ani"
+    },
+    "graphics.ruins": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/ruins.ani"
+    },
+    "graphics.segue": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/segue.ani"
+    },
+    "graphics.setupmenu": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/mainmenu/setupmenu.ani"
+    },
+    "graphics.setupmenuarrows": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/mainmenu/setupmenuarrows.ani"
+    },
+    "graphics.shipyard": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/shipyard/shipyard.ani"
+    },
+    "graphics.spathimonument": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/spathimonument.ani"
+    },
+    "graphics.starbase": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/starbase.ani"
+    },
+    "graphics.stars": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/stars.ani"
+    },
+    "graphics.starsmisc.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/stars-misc-big.ani"
+    },
+    "graphics.starsmisc.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/stars-misc-med.ani"
+    },
+    "graphics.starsmisc.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/stars-misc-sml.ani"
+    },
+    "graphics.scenery": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/battle/scenery.ani"
+    },
+    "graphics.status": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/status.ani"
+    },
+    "graphics.stele": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/stele.ani"
+    },
+    "graphics.submenu": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/submenu/submenu.ani"
+    },
+    "graphics.sundevice": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/sundevice.ani"
+    },
+    "graphics.syreenvault": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/syreenvault.ani"
+    },
+    "graphics.taalodevice": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/taalodevice.ani"
+    },
+    "graphics.title": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/mainmenu/title.ani"
+    },
+    "graphics.truespacesun": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/truespacesun.ani"
+    },
+    "graphics.truespacesun.anim": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/nav/animated/truespacesun.ani"
+    },
+    "graphics.umgahcaster": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/umgahcaster.ani"
+    },
+    "graphics.urquanwreck": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/urquanwreck.ani"
+    },
+    "graphics.utwigbomb": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/lander/energy/utwigbomb.ani"
+    },
+    "graphics.visitedstars": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ui/visited-stars/visited.ani"
+    },
+    "nebula.resource": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/nav/nebulae/nebulas.txt"
+    },
+    "planet.acid.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/acid-big.ani"
+    },
+    "planet.acid.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/acid-med.ani"
+    },
+    "planet.acid.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/acid-sml.ani"
+    },
+    "planet.alkali.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/alkali-big.ani"
+    },
+    "planet.alkali.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/alkali-med.ani"
+    },
+    "planet.alkali.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/alkali-sml.ani"
+    },
+    "planet.auric.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/auric-big.ani"
+    },
+    "planet.auric.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/auric-med.ani"
+    },
+    "planet.auric.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/auric-sml.ani"
+    },
+    "planet.azure.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/azure-big.ani"
+    },
+    "planet.azure.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/azure-med.ani"
+    },
+    "planet.azure.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/azure-sml.ani"
+    },
+    "planet.bluegas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/bluegas-big.ani"
+    },
+    "planet.bluegas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/bluegas-med.ani"
+    },
+    "planet.bluegas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/bluegas-sml.ani"
+    },
+    "planet.carbide.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/carbide-big.ani"
+    },
+    "planet.carbide.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/carbide-med.ani"
+    },
+    "planet.carbide.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/carbide-sml.ani"
+    },
+    "planet.chlorine.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/chlorine-big.ani"
+    },
+    "planet.chlorine.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/chlorine-med.ani"
+    },
+    "planet.chlorine.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/chlorine-sml.ani"
+    },
+    "planet.chondrite.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/chondrite-big.ani"
+    },
+    "planet.chondrite.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/chondrite-med.ani"
+    },
+    "planet.chondrite.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/chondrite-sml.ani"
+    },
+    "planet.cimmerian.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cimmerian-big.ani"
+    },
+    "planet.cimmerian.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cimmerian-med.ani"
+    },
+    "planet.cimmerian.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cimmerian-sml.ani"
+    },
+    "planet.copper.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/copper-big.ani"
+    },
+    "planet.copper.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/copper-med.ani"
+    },
+    "planet.copper.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/copper-sml.ani"
+    },
+    "planet.crimson.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/crimson-big.ani"
+    },
+    "planet.crimson.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/crimson-med.ani"
+    },
+    "planet.crimson.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/crimson-sml.ani"
+    },
+    "planet.cyangas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cyangas-big.ani"
+    },
+    "planet.cyangas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cyangas-med.ani"
+    },
+    "planet.cyangas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cyangas-sml.ani"
+    },
+    "planet.cyanic.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cyanic-big.ani"
+    },
+    "planet.cyanic.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cyanic-med.ani"
+    },
+    "planet.cyanic.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/cyanic-sml.ani"
+    },
+    "planet.dust.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/dust-big.ani"
+    },
+    "planet.dust.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/dust-med.ani"
+    },
+    "planet.dust.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/dust-sml.ani"
+    },
+    "planet.emerald.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/emerald-big.ani"
+    },
+    "planet.emerald.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/emerald-med.ani"
+    },
+    "planet.emerald.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/emerald-sml.ani"
+    },
+    "planet.fluorescent.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/fluorescent-big.ani"
+    },
+    "planet.fluorescent.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/fluorescent-med.ani"
+    },
+    "planet.fluorescent.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/fluorescent-sml.ani"
+    },
+    "planet.green.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/green-big.ani"
+    },
+    "planet.green.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/green-med.ani"
+    },
+    "planet.green.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/green-sml.ani"
+    },
+    "planet.greengas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/greengas-big.ani"
+    },
+    "planet.greengas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/greengas-med.ani"
+    },
+    "planet.greengas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/greengas-sml.ani"
+    },
+    "planet.greygas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/greygas-big.ani"
+    },
+    "planet.greygas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/greygas-med.ani"
+    },
+    "planet.greygas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/greygas-sml.ani"
+    },
+    "planet.halide.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/halide-big.ani"
+    },
+    "planet.halide.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/halide-med.ani"
+    },
+    "planet.halide.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/halide-sml.ani"
+    },
+    "planet.hydrocarbon.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/hydrocarbon-big.ani"
+    },
+    "planet.hydrocarbon.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/hydrocarbon-med.ani"
+    },
+    "planet.hydrocarbon.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/hydrocarbon-sml.ani"
+    },
+    "planet.infrared.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/infrared-big.ani"
+    },
+    "planet.infrared.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/infrared-med.ani"
+    },
+    "planet.infrared.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/infrared-sml.ani"
+    },
+    "planet.iodine.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/iodine-big.ani"
+    },
+    "planet.iodine.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/iodine-med.ani"
+    },
+    "planet.iodine.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/iodine-sml.ani"
+    },
+    "planet.lanthanide.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/lanthanide-big.ani"
+    },
+    "planet.lanthanide.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/lanthanide-med.ani"
+    },
+    "planet.lanthanide.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/lanthanide-sml.ani"
+    },
+    "planet.magma.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/magma-big.ani"
+    },
+    "planet.magma.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/magma-med.ani"
+    },
+    "planet.magma.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/magma-sml.ani"
+    },
+    "planet.magnetic.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/magnetic-big.ani"
+    },
+    "planet.magnetic.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/magnetic-med.ani"
+    },
+    "planet.magnetic.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/magnetic-sml.ani"
+    },
+    "planet.maroon.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/maroon-big.ani"
+    },
+    "planet.maroon.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/maroon-med.ani"
+    },
+    "planet.maroon.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/maroon-sml.ani"
+    },
+    "planet.metal.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/metal-big.ani"
+    },
+    "planet.metal.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/metal-med.ani"
+    },
+    "planet.metal.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/metal-sml.ani"
+    },
+    "planet.noble.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/noble-big.ani"
+    },
+    "planet.noble.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/noble-med.ani"
+    },
+    "planet.noble.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/noble-sml.ani"
+    },
+    "planet.oolite.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/oolite-big.ani"
+    },
+    "planet.oolite.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/oolite-med.ani"
+    },
+    "planet.oolite.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/oolite-sml.ani"
+    },
+    "planet.opalescent.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/opalescent-big.ani"
+    },
+    "planet.opalescent.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/opalescent-med.ani"
+    },
+    "planet.opalescent.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/opalescent-sml.ani"
+    },
+    "planet.orangegas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/orangegas-big.ani"
+    },
+    "planet.orangegas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/orangegas-med.ani"
+    },
+    "planet.orangegas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/orangegas-sml.ani"
+    },
+    "planet.organic.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/organic-big.ani"
+    },
+    "planet.organic.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/organic-med.ani"
+    },
+    "planet.organic.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/organic-sml.ani"
+    },
+    "planet.pellucid.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/pellucid-big.ani"
+    },
+    "planet.pellucid.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/pellucid-med.ani"
+    },
+    "planet.pellucid.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/pellucid-sml.ani"
+    },
+    "planet.plutonic.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/plutonic-big.ani"
+    },
+    "planet.plutonic.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/plutonic-med.ani"
+    },
+    "planet.plutonic.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/plutonic-sml.ani"
+    },
+    "planet.primordial.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/primordial-big.ani"
+    },
+    "planet.primordial.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/primordial-med.ani"
+    },
+    "planet.primordial.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/primordial-sml.ani"
+    },
+    "planet.purple.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/purple-big.ani"
+    },
+    "planet.purple.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/purple-med.ani"
+    },
+    "planet.purple.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/purple-sml.ani"
+    },
+    "planet.purplegas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/purplegas-big.ani"
+    },
+    "planet.purplegas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/purplegas-med.ani"
+    },
+    "planet.purplegas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/purplegas-sml.ani"
+    },
+    "planet.quasidegenerate.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/quasidegenerate-big.ani"
+    },
+    "planet.quasidegenerate.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/quasidegenerate-med.ani"
+    },
+    "planet.quasidegenerate.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/quasidegenerate-sml.ani"
+    },
+    "planet.radioactive.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/radioactive-big.ani"
+    },
+    "planet.radioactive.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/radioactive-med.ani"
+    },
+    "planet.radioactive.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/radioactive-sml.ani"
+    },
+    "planet.rainbow.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/rainbow-big.ani"
+    },
+    "planet.rainbow.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/rainbow-med.ani"
+    },
+    "planet.rainbow.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/rainbow-sml.ani"
+    },
+    "planet.redgas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/redgas-big.ani"
+    },
+    "planet.redgas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/redgas-med.ani"
+    },
+    "planet.redgas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/redgas-sml.ani"
+    },
+    "planet.redux.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/redux-big.ani"
+    },
+    "planet.redux.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/redux-med.ani"
+    },
+    "planet.redux.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/redux-sml.ani"
+    },
+    "planet.ruby.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ruby-big.ani"
+    },
+    "planet.ruby.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ruby-med.ani"
+    },
+    "planet.ruby.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ruby-sml.ani"
+    },
+    "planet.samatra.final": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/samatra-final.ani"
+    },
+    "planet.sapphire.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/sapphire-big.ani"
+    },
+    "planet.sapphire.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/sapphire-med.ani"
+    },
+    "planet.sapphire.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/sapphire-sml.ani"
+    },
+    "planet.selenic.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/selenic-big.ani"
+    },
+    "planet.selenic.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/selenic-med.ani"
+    },
+    "planet.selenic.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/selenic-sml.ani"
+    },
+    "planet.shattered.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/shattered-big.ani"
+    },
+    "planet.shattered.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/shattered-med.ani"
+    },
+    "planet.shattered.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/shattered-sml.ani"
+    },
+    "planet.slaveshield.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/slaveshield-big.ani"
+    },
+    "planet.slaveshield.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/slaveshield-med.ani"
+    },
+    "planet.slaveshield.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/slaveshield-sml.ani"
+    },
+    "planet.superdense.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/superdense-big.ani"
+    },
+    "planet.superdense.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/superdense-med.ani"
+    },
+    "planet.superdense.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/superdense-sml.ani"
+    },
+    "planet.telluric.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/telluric-big.ani"
+    },
+    "planet.telluric.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/telluric-med.ani"
+    },
+    "planet.telluric.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/telluric-sml.ani"
+    },
+    "planet.treasure.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/treasure-big.ani"
+    },
+    "planet.treasure.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/treasure-med.ani"
+    },
+    "planet.treasure.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/treasure-sml.ani"
+    },
+    "planet.ultramarine.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ultramarine-big.ani"
+    },
+    "planet.ultramarine.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ultramarine-med.ani"
+    },
+    "planet.ultramarine.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ultramarine-sml.ani"
+    },
+    "planet.ultraviolet.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ultraviolet-big.ani"
+    },
+    "planet.ultraviolet.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ultraviolet-med.ani"
+    },
+    "planet.ultraviolet.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/ultraviolet-sml.ani"
+    },
+    "planet.urea.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/urea-big.ani"
+    },
+    "planet.urea.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/urea-med.ani"
+    },
+    "planet.urea.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/urea-sml.ani"
+    },
+    "planet.vinylogous.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/vinylogous-big.ani"
+    },
+    "planet.vinylogous.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/vinylogous-med.ani"
+    },
+    "planet.vinylogous.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/vinylogous-sml.ani"
+    },
+    "planet.violetgas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/violetgas-big.ani"
+    },
+    "planet.violetgas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/violetgas-med.ani"
+    },
+    "planet.violetgas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/violetgas-sml.ani"
+    },
+    "planet.water.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/water-big.ani"
+    },
+    "planet.water.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/water-med.ani"
+    },
+    "planet.water.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/water-sml.ani"
+    },
+    "planet.xenolithic.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/xenolithic-big.ani"
+    },
+    "planet.xenolithic.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/xenolithic-med.ani"
+    },
+    "planet.xenolithic.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/xenolithic-sml.ani"
+    },
+    "planet.yellowgas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/yellowgas-big.ani"
+    },
+    "planet.yellowgas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/yellowgas-med.ani"
+    },
+    "planet.yellowgas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/yellowgas-sml.ani"
+    },
+    "planet.yttric.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/yttric-big.ani"
+    },
+    "planet.yttric.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/yttric-med.ani"
+    },
+    "planet.yttric.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/planets/yttric-sml.ani"
+    },
+    "ship.androsynth.graphics.blazer.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/blazer-big.ani"
+    },
+    "ship.androsynth.graphics.blazer.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/blazer-med.ani"
+    },
+    "ship.androsynth.graphics.blazer.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/blazer-sml.ani"
+    },
+    "ship.androsynth.graphics.bubble.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/bubble-big.ani"
+    },
+    "ship.androsynth.graphics.bubble.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/bubble-med.ani"
+    },
+    "ship.androsynth.graphics.bubble.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/bubble-sml.ani"
+    },
+    "ship.androsynth.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/guardian-cap.ani"
+    },
+    "ship.androsynth.graphics.guardian.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/guardian-big.ani"
+    },
+    "ship.androsynth.graphics.guardian.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/guardian-med.ani"
+    },
+    "ship.androsynth.graphics.guardian.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/guardian-sml.ani"
+    },
+    "ship.androsynth.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/guardian-icons.ani"
+    },
+    "ship.androsynth.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/androsynth/guardian-meleeicons.ani"
+    },
+    "ship.arilou.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/skiff-cap.ani"
+    },
+    "ship.arilou.graphics.skiff.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/skiff-big.ani"
+    },
+    "ship.arilou.graphics.skiff.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/skiff-med.ani"
+    },
+    "ship.arilou.graphics.skiff.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/skiff-sml.ani"
+    },
+    "ship.arilou.graphics.warp.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/warp-big.ani"
+    },
+    "ship.arilou.graphics.warp.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/warp-med.ani"
+    },
+    "ship.arilou.graphics.warp.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/warp-sml.ani"
+    },
+    "ship.arilou.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/skiff-icons.ani"
+    },
+    "ship.arilou.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/arilou/skiff-meleeicons.ani"
+    },
+    "ship.chenjesu.graphics.broodhome.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/broodhome-big.ani"
+    },
+    "ship.chenjesu.graphics.broodhome.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/broodhome-med.ani"
+    },
+    "ship.chenjesu.graphics.broodhome.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/broodhome-sml.ani"
+    },
+    "ship.chenjesu.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/broodhome-cap.ani"
+    },
+    "ship.chenjesu.graphics.doggy.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/doggy-big.ani"
+    },
+    "ship.chenjesu.graphics.doggy.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/doggy-med.ani"
+    },
+    "ship.chenjesu.graphics.doggy.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/doggy-sml.ani"
+    },
+    "ship.chenjesu.graphics.spark.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/spark-big.ani"
+    },
+    "ship.chenjesu.graphics.spark.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/spark-med.ani"
+    },
+    "ship.chenjesu.graphics.spark.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/spark-sml.ani"
+    },
+    "ship.chenjesu.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/broodhome-icons.ani"
+    },
+    "ship.chenjesu.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chenjesu/broodhome-meleeicons.ani"
+    },
+    "ship.chmmr.graphics.avatar.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/avatar-big.ani"
+    },
+    "ship.chmmr.graphics.avatar.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/avatar-med.ani"
+    },
+    "ship.chmmr.graphics.avatar.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/avatar-sml.ani"
+    },
+    "ship.chmmr.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/avatar-cap.ani"
+    },
+    "ship.chmmr.graphics.muzzle.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/muzzle-big.ani"
+    },
+    "ship.chmmr.graphics.muzzle.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/muzzle-med.ani"
+    },
+    "ship.chmmr.graphics.muzzle.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/muzzle-sml.ani"
+    },
+    "ship.chmmr.graphics.satellite.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/satellite-big.ani"
+    },
+    "ship.chmmr.graphics.satellite.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/satellite-med.ani"
+    },
+    "ship.chmmr.graphics.satellite.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/satellite-sml.ani"
+    },
+    "ship.chmmr.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/avatar-icons.ani"
+    },
+    "ship.chmmr.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/chmmr/avatar-meleeicons.ani"
+    },
+    "ship.drone.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/drone/drone-meleeicons.ani"
+    },
+    "ship.druuge.graphics.cannon.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/cannon-big.ani"
+    },
+    "ship.druuge.graphics.cannon.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/cannon-med.ani"
+    },
+    "ship.druuge.graphics.cannon.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/cannon-sml.ani"
+    },
+    "ship.druuge.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/mauler-cap.ani"
+    },
+    "ship.druuge.graphics.mauler.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/mauler-big.ani"
+    },
+    "ship.druuge.graphics.mauler.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/mauler-med.ani"
+    },
+    "ship.druuge.graphics.mauler.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/mauler-sml.ani"
+    },
+    "ship.druuge.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/mauler-icons.ani"
+    },
+    "ship.druuge.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/druuge/mauler-meleeicons.ani"
+    },
+    "ship.earthling.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/cruiser-cap.ani"
+    },
+    "ship.earthling.graphics.human.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/cruiser-big.ani"
+    },
+    "ship.earthling.graphics.human.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/cruiser-med.ani"
+    },
+    "ship.earthling.graphics.human.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/cruiser-sml.ani"
+    },
+    "ship.earthling.graphics.saturn.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/saturn-big.ani"
+    },
+    "ship.earthling.graphics.saturn.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/saturn-med.ani"
+    },
+    "ship.earthling.graphics.saturn.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/saturn-sml.ani"
+    },
+    "ship.earthling.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/cruiser-icons.ani"
+    },
+    "ship.earthling.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/human/cruiser-meleeicons.ani"
+    },
+    "ship.flagship.graphics.blaster.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/blaster-big.ani"
+    },
+    "ship.flagship.graphics.blaster.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/blaster-med.ani"
+    },
+    "ship.flagship.graphics.blaster.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/blaster-sml.ani"
+    },
+    "ship.flagship.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/flagship-cap.ani"
+    },
+    "ship.flagship.graphics.flagship.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/flagship-big.ani"
+    },
+    "ship.flagship.graphics.flagship.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/flagship-med.ani"
+    },
+    "ship.flagship.graphics.flagship.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/flagship-sml.ani"
+    },
+    "ship.flagship.graphics.flagship.red.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/red/flagship-big.ani"
+    },
+    "ship.flagship.graphics.flagship.red.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/red/flagship-med.ani"
+    },
+    "ship.flagship.graphics.flagship.red.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/red/flagship-sml.ani"
+    },
+    "ship.flagship.graphics.hyperspace": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/hyperspace.ani"
+    },
+    "ship.flagship.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/flagship-icons.ani"
+    },
+    "ship.flagship.red.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/flagship/red/flagship-icons.ani"
+    },
+    "ship.ilwrath.graphics.avenger.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/avenger-big.ani"
+    },
+    "ship.ilwrath.graphics.avenger.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/avenger-med.ani"
+    },
+    "ship.ilwrath.graphics.avenger.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/avenger-sml.ani"
+    },
+    "ship.ilwrath.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/avenger-cap.ani"
+    },
+    "ship.ilwrath.graphics.fire.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/fire-big.ani"
+    },
+    "ship.ilwrath.graphics.fire.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/fire-med.ani"
+    },
+    "ship.ilwrath.graphics.fire.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/fire-sml.ani"
+    },
+    "ship.ilwrath.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/avenger-icons.ani"
+    },
+    "ship.ilwrath.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/ilwrath/avenger-meleeicons.ani"
+    },
+    "ship.kohrah.graphics.buzzsaw.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/buzzsaw-big.ani"
+    },
+    "ship.kohrah.graphics.buzzsaw.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/buzzsaw-med.ani"
+    },
+    "ship.kohrah.graphics.buzzsaw.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/buzzsaw-sml.ani"
+    },
+    "ship.kohrah.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/marauder-cap.ani"
+    },
+    "ship.kohrah.graphics.gas.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/gas-big.ani"
+    },
+    "ship.kohrah.graphics.gas.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/gas-med.ani"
+    },
+    "ship.kohrah.graphics.gas.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/gas-sml.ani"
+    },
+    "ship.kohrah.graphics.marauder.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/marauder-big.ani"
+    },
+    "ship.kohrah.graphics.marauder.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/marauder-med.ani"
+    },
+    "ship.kohrah.graphics.marauder.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/marauder-sml.ani"
+    },
+    "ship.kohrah.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/marauder-icons.ani"
+    },
+    "ship.kohrah.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/kohrah/marauder-meleeicons.ani"
+    },
+    "ship.melnorme.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/trader-cap.ani"
+    },
+    "ship.melnorme.graphics.confuse.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/confuse-big.ani"
+    },
+    "ship.melnorme.graphics.confuse.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/confuse-med.ani"
+    },
+    "ship.melnorme.graphics.confuse.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/confuse-sml.ani"
+    },
+    "ship.melnorme.graphics.pumpup.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/pumpup-big.ani"
+    },
+    "ship.melnorme.graphics.pumpup.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/pumpup-med.ani"
+    },
+    "ship.melnorme.graphics.pumpup.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/pumpup-sml.ani"
+    },
+    "ship.melnorme.graphics.trader.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/trader-big.ani"
+    },
+    "ship.melnorme.graphics.trader.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/trader-med.ani"
+    },
+    "ship.melnorme.graphics.trader.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/trader-sml.ani"
+    },
+    "ship.melnorme.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/trader-icons.ani"
+    },
+    "ship.melnorme.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/melnorme/trader-meleeicons.ani"
+    },
+    "ship.mmrnmhrm.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/xform-cap.ani"
+    },
+    "ship.mmrnmhrm.graphics.torpedo.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/torpedo-big.ani"
+    },
+    "ship.mmrnmhrm.graphics.torpedo.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/torpedo-med.ani"
+    },
+    "ship.mmrnmhrm.graphics.torpedo.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/torpedo-sml.ani"
+    },
+    "ship.mmrnmhrm.graphics.xform.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/xform-big.ani"
+    },
+    "ship.mmrnmhrm.graphics.xform.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/xform-med.ani"
+    },
+    "ship.mmrnmhrm.graphics.xform.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/xform-sml.ani"
+    },
+    "ship.mmrnmhrm.graphics.ywing.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/ywing-big.ani"
+    },
+    "ship.mmrnmhrm.graphics.ywing.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/ywing-med.ani"
+    },
+    "ship.mmrnmhrm.graphics.ywing.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/ywing-sml.ani"
+    },
+    "ship.mmrnmhrm.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/xform-icons.ani"
+    },
+    "ship.mmrnmhrm.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/xform-meleeicons.ani"
+    },
+    "ship.mmrnmhrm.meleeicons.y": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mmrnmhrm/ywing-meleeicons.ani"
+    },
+    "ship.mycon.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/podship-cap.ani"
+    },
+    "ship.mycon.graphics.plasma.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/plasma-big.ani"
+    },
+    "ship.mycon.graphics.plasma.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/plasma-med.ani"
+    },
+    "ship.mycon.graphics.plasma.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/plasma-sml.ani"
+    },
+    "ship.mycon.graphics.podship.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/podship-big.ani"
+    },
+    "ship.mycon.graphics.podship.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/podship-med.ani"
+    },
+    "ship.mycon.graphics.podship.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/podship-sml.ani"
+    },
+    "ship.mycon.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/podship-icons.ani"
+    },
+    "ship.mycon.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/mycon/podship-meleeicons.ani"
+    },
+    "ship.orz.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/nemesis-cap.ani"
+    },
+    "ship.orz.graphics.howitzer.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/howitzer-big.ani"
+    },
+    "ship.orz.graphics.howitzer.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/howitzer-med.ani"
+    },
+    "ship.orz.graphics.howitzer.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/howitzer-sml.ani"
+    },
+    "ship.orz.graphics.nemesis.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/nemesis-big.ani"
+    },
+    "ship.orz.graphics.nemesis.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/nemesis-med.ani"
+    },
+    "ship.orz.graphics.nemesis.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/nemesis-sml.ani"
+    },
+    "ship.orz.graphics.turret.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/turret-big.ani"
+    },
+    "ship.orz.graphics.turret.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/turret-med.ani"
+    },
+    "ship.orz.graphics.turret.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/turret-sml.ani"
+    },
+    "ship.orz.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/nemesis-icons.ani"
+    },
+    "ship.orz.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/orz/nemesis-meleeicons.ani"
+    },
+    "ship.pkunk.graphics.bug.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/bug-big.ani"
+    },
+    "ship.pkunk.graphics.bug.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/bug-med.ani"
+    },
+    "ship.pkunk.graphics.bug.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/bug-sml.ani"
+    },
+    "ship.pkunk.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/fury-cap.ani"
+    },
+    "ship.pkunk.graphics.fury.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/fury-big.ani"
+    },
+    "ship.pkunk.graphics.fury.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/fury-med.ani"
+    },
+    "ship.pkunk.graphics.fury.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/fury-sml.ani"
+    },
+    "ship.pkunk.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/fury-icons.ani"
+    },
+    "ship.pkunk.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/pkunk/fury-meleeicons.ani"
+    },
+    "ship.samatra.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/samatra-cap.ani"
+    },
+    "ship.samatra.graphics.generator.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/generator-big.ani"
+    },
+    "ship.samatra.graphics.generator.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/generator-med.ani"
+    },
+    "ship.samatra.graphics.generator.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/generator-sml.ani"
+    },
+    "ship.samatra.graphics.samatra.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/samatra-big.ani"
+    },
+    "ship.samatra.graphics.samatra.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/samatra-med.ani"
+    },
+    "ship.samatra.graphics.samatra.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/samatra-sml.ani"
+    },
+    "ship.samatra.graphics.sentinel.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/sentinel-big.ani"
+    },
+    "ship.samatra.graphics.sentinel.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/sentinel-med.ani"
+    },
+    "ship.samatra.graphics.sentinel.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/samatra/sentinel-sml.ani"
+    },
+    "ship.shofixti.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/scout-cap.ani"
+    },
+    "ship.shofixti.graphics.destruct.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/destruct-big.ani"
+    },
+    "ship.shofixti.graphics.destruct.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/destruct-med.ani"
+    },
+    "ship.shofixti.graphics.destruct.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/destruct-sml.ani"
+    },
+    "ship.shofixti.graphics.missile.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/missile-big.ani"
+    },
+    "ship.shofixti.graphics.missile.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/missile-med.ani"
+    },
+    "ship.shofixti.graphics.missile.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/missile-sml.ani"
+    },
+    "ship.shofixti.graphics.oldcaptain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/oldscout-cap.ani"
+    },
+    "ship.shofixti.graphics.oldscout.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/oldscout-big.ani"
+    },
+    "ship.shofixti.graphics.oldscout.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/oldscout-med.ani"
+    },
+    "ship.shofixti.graphics.oldscout.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/oldscout-sml.ani"
+    },
+    "ship.shofixti.graphics.scout.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/scout-big.ani"
+    },
+    "ship.shofixti.graphics.scout.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/scout-med.ani"
+    },
+    "ship.shofixti.graphics.scout.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/scout-sml.ani"
+    },
+    "ship.shofixti.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/scout-icons.ani"
+    },
+    "ship.shofixti.oldicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/oldscout-icons.ani"
+    },
+    "ship.shofixti.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/shofixti/scout-meleeicons.ani"
+    },
+    "ship.slylandro.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/slylandro/probe-cap.ani"
+    },
+    "ship.slylandro.graphics.probe.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/slylandro/probe-big.ani"
+    },
+    "ship.slylandro.graphics.probe.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/slylandro/probe-med.ani"
+    },
+    "ship.slylandro.graphics.probe.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/slylandro/probe-sml.ani"
+    },
+    "ship.slylandro.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/slylandro/probe-icons.ani"
+    },
+    "ship.slylandro.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/slylandro/probe-meleeicons.ani"
+    },
+    "ship.spathi.graphics.butt.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/butt-big.ani"
+    },
+    "ship.spathi.graphics.butt.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/butt-med.ani"
+    },
+    "ship.spathi.graphics.butt.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/butt-sml.ani"
+    },
+    "ship.spathi.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/eluder-cap.ani"
+    },
+    "ship.spathi.graphics.eluder.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/eluder-big.ani"
+    },
+    "ship.spathi.graphics.eluder.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/eluder-med.ani"
+    },
+    "ship.spathi.graphics.eluder.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/eluder-sml.ani"
+    },
+    "ship.spathi.graphics.missile.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/missile-big.ani"
+    },
+    "ship.spathi.graphics.missile.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/missile-med.ani"
+    },
+    "ship.spathi.graphics.missile.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/missile-sml.ani"
+    },
+    "ship.spathi.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/eluder-icons.ani"
+    },
+    "ship.spathi.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/spathi/eluder-meleeicons.ani"
+    },
+    "ship.supox.graphics.blade.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/blade-big.ani"
+    },
+    "ship.supox.graphics.blade.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/blade-med.ani"
+    },
+    "ship.supox.graphics.blade.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/blade-sml.ani"
+    },
+    "ship.supox.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/blade-cap.ani"
+    },
+    "ship.supox.graphics.glob.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/glob-big.ani"
+    },
+    "ship.supox.graphics.glob.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/glob-med.ani"
+    },
+    "ship.supox.graphics.glob.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/glob-sml.ani"
+    },
+    "ship.supox.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/blade-icons.ani"
+    },
+    "ship.supox.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/supox/blade-meleeicons.ani"
+    },
+    "ship.syreen.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/penetrator-cap.ani"
+    },
+    "ship.syreen.graphics.dagger.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/dagger-big.ani"
+    },
+    "ship.syreen.graphics.dagger.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/dagger-med.ani"
+    },
+    "ship.syreen.graphics.dagger.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/dagger-sml.ani"
+    },
+    "ship.syreen.graphics.penetrator.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/penetrator-big.ani"
+    },
+    "ship.syreen.graphics.penetrator.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/penetrator-med.ani"
+    },
+    "ship.syreen.graphics.penetrator.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/penetrator-sml.ani"
+    },
+    "ship.syreen.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/penetrator-icons.ani"
+    },
+    "ship.syreen.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/syreen/penetrator-meleeicons.ani"
+    },
+    "ship.thraddash.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/torch-cap.ani"
+    },
+    "ship.thraddash.graphics.horn.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/horn-big.ani"
+    },
+    "ship.thraddash.graphics.horn.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/horn-med.ani"
+    },
+    "ship.thraddash.graphics.horn.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/horn-sml.ani"
+    },
+    "ship.thraddash.graphics.napalm.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/napalm-big.ani"
+    },
+    "ship.thraddash.graphics.napalm.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/napalm-med.ani"
+    },
+    "ship.thraddash.graphics.napalm.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/napalm-sml.ani"
+    },
+    "ship.thraddash.graphics.torch.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/torch-big.ani"
+    },
+    "ship.thraddash.graphics.torch.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/torch-med.ani"
+    },
+    "ship.thraddash.graphics.torch.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/torch-sml.ani"
+    },
+    "ship.thraddash.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/torch-icons.ani"
+    },
+    "ship.thraddash.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/thraddash/torch-meleeicons.ani"
+    },
+    "ship.umgah.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/drone-cap.ani"
+    },
+    "ship.umgah.graphics.cone.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/cone-big.ani"
+    },
+    "ship.umgah.graphics.cone.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/cone-med.ani"
+    },
+    "ship.umgah.graphics.cone.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/cone-sml.ani"
+    },
+    "ship.umgah.graphics.drone.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/drone-big.ani"
+    },
+    "ship.umgah.graphics.drone.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/drone-med.ani"
+    },
+    "ship.umgah.graphics.drone.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/drone-sml.ani"
+    },
+    "ship.umgah.graphics.spritz": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/spritz.ani"
+    },
+    "ship.umgah.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/drone-icons.ani"
+    },
+    "ship.umgah.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/umgah/drone-meleeicons.ani"
+    },
+    "ship.urquan.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/dreadnought-cap.ani"
+    },
+    "ship.urquan.graphics.dreadnought.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/dreadnought-big.ani"
+    },
+    "ship.urquan.graphics.dreadnought.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/dreadnought-med.ani"
+    },
+    "ship.urquan.graphics.dreadnought.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/dreadnought-sml.ani"
+    },
+    "ship.urquan.graphics.fighter.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/fighter-big.ani"
+    },
+    "ship.urquan.graphics.fighter.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/fighter-med.ani"
+    },
+    "ship.urquan.graphics.fighter.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/fighter-sml.ani"
+    },
+    "ship.urquan.graphics.fusion.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/fusion-big.ani"
+    },
+    "ship.urquan.graphics.fusion.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/fusion-med.ani"
+    },
+    "ship.urquan.graphics.fusion.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/fusion-sml.ani"
+    },
+    "ship.urquan.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/dreadnought-icons.ani"
+    },
+    "ship.urquan.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/urquan/dreadnought-meleeicons.ani"
+    },
+    "ship.utwig.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/jugger-cap.ani"
+    },
+    "ship.utwig.graphics.jugger.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/jugger-big.ani"
+    },
+    "ship.utwig.graphics.jugger.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/jugger-med.ani"
+    },
+    "ship.utwig.graphics.jugger.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/jugger-sml.ani"
+    },
+    "ship.utwig.graphics.lance.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/lance-big.ani"
+    },
+    "ship.utwig.graphics.lance.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/lance-med.ani"
+    },
+    "ship.utwig.graphics.lance.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/lance-sml.ani"
+    },
+    "ship.utwig.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/jugger-icons.ani"
+    },
+    "ship.utwig.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/utwig/jugger-meleeicons.ani"
+    },
+    "ship.vux.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/intruder-cap.ani"
+    },
+    "ship.vux.graphics.intruder.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/intruder-big.ani"
+    },
+    "ship.vux.graphics.intruder.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/intruder-med.ani"
+    },
+    "ship.vux.graphics.intruder.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/intruder-sml.ani"
+    },
+    "ship.vux.graphics.limpets.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/limpets-big.ani"
+    },
+    "ship.vux.graphics.limpets.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/limpets-med.ani"
+    },
+    "ship.vux.graphics.limpets.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/limpets-sml.ani"
+    },
+    "ship.vux.graphics.slime": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/slime.ani"
+    },
+    "ship.vux.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/intruder-icons.ani"
+    },
+    "ship.vux.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/vux/intruder-meleeicons.ani"
+    },
+    "ship.yehat.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/terminator-cap.ani"
+    },
+    "ship.yehat.graphics.missile.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/missile-big.ani"
+    },
+    "ship.yehat.graphics.missile.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/missile-med.ani"
+    },
+    "ship.yehat.graphics.missile.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/missile-sml.ani"
+    },
+    "ship.yehat.graphics.shield.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/shield-big.ani"
+    },
+    "ship.yehat.graphics.shield.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/shield-med.ani"
+    },
+    "ship.yehat.graphics.shield.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/shield-sml.ani"
+    },
+    "ship.yehat.graphics.terminator.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/terminator-big.ani"
+    },
+    "ship.yehat.graphics.terminator.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/terminator-med.ani"
+    },
+    "ship.yehat.graphics.terminator.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/terminator-sml.ani"
+    },
+    "ship.yehat.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/terminator-icons.ani"
+    },
+    "ship.yehat.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/yehat/terminator-meleeicons.ani"
+    },
+    "ship.zoqfotpik.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/stinger-cap.ani"
+    },
+    "ship.zoqfotpik.graphics.proboscis.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/proboscis-big.ani"
+    },
+    "ship.zoqfotpik.graphics.proboscis.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/proboscis-med.ani"
+    },
+    "ship.zoqfotpik.graphics.proboscis.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/proboscis-sml.ani"
+    },
+    "ship.zoqfotpik.graphics.spit.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/spit-big.ani"
+    },
+    "ship.zoqfotpik.graphics.spit.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/spit-med.ani"
+    },
+    "ship.zoqfotpik.graphics.spit.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/spit-sml.ani"
+    },
+    "ship.zoqfotpik.graphics.stinger.large": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/stinger-big.ani"
+    },
+    "ship.zoqfotpik.graphics.stinger.medium": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/stinger-med.ani"
+    },
+    "ship.zoqfotpik.graphics.stinger.small": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/stinger-sml.ani"
+    },
+    "ship.zoqfotpik.icons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/stinger-icons.ani"
+    },
+    "ship.zoqfotpik.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/mm-hd/ships/zoqfotpik/stinger-meleeicons.ani"
+    },
+    "slides.spins.00": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship00.txt"
+    },
+    "slides.spins.01": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship01.txt"
+    },
+    "slides.spins.02": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship02.txt"
+    },
+    "slides.spins.03": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship03.txt"
+    },
+    "slides.spins.04": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship04.txt"
+    },
+    "slides.spins.05": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship05.txt"
+    },
+    "slides.spins.06": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship06.txt"
+    },
+    "slides.spins.07": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship07.txt"
+    },
+    "slides.spins.08": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship08.txt"
+    },
+    "slides.spins.09": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship09.txt"
+    },
+    "slides.spins.10": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship10.txt"
+    },
+    "slides.spins.11": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship11.txt"
+    },
+    "slides.spins.12": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship12.txt"
+    },
+    "slides.spins.13": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship13.txt"
+    },
+    "slides.spins.14": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship14.txt"
+    },
+    "slides.spins.15": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship15.txt"
+    },
+    "slides.spins.16": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship16.txt"
+    },
+    "slides.spins.17": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship17.txt"
+    },
+    "slides.spins.18": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship18.txt"
+    },
+    "slides.spins.19": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship19.txt"
+    },
+    "slides.spins.20": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship20.txt"
+    },
+    "slides.spins.21": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship21.txt"
+    },
+    "slides.spins.22": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship22.txt"
+    },
+    "slides.spins.23": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship23.txt"
+    },
+    "slides.spins.24": {
+      "type": "STRTAB",
+      "data": "addons/mm-hd/cutscene/spins/ship24.txt"
+    }
+  }
+}

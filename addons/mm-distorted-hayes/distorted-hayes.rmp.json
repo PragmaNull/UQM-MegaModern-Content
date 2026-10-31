@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "resources": {
+    "comm.commander.dialogue": {
+      "type": "CONVERSATION",
+      "data": {
+        "text": "base/comm/commander/commander.json",
+        "clips": "addons/mm-distorted-hayes/commander/",
+        "timing": "addons/mm-distorted-hayes/distorted-hayes-timing.json"
+      }
+    }
+  }
+}

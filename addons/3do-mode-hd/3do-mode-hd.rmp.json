@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "resources": {
+    "comm.kohrah.graphics": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/comm/kohrah/kohrah.ani"
+    },
+    "comm.urquan.graphics": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/comm/urquan/urquan.ani"
+    },
+    "graphics.border": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/ui/custom-border/custom-border.ani"
+    },
+    "graphics.hdborder": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/ui/default-border/default-border.ani"
+    },
+    "graphics.landerlaunch": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/lander/launch.ani"
+    },
+    "graphics.landerreturn": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/lander/return.ani"
+    },
+    "graphics.meleemenu": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/ui/meleemenu/meleemenu.ani"
+    },
+    "graphics.playmenu": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/ui/playmenu/playmenu.ani"
+    },
+    "graphics.shipyard": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/ui/shipyard/shipyard.ani"
+    },
+    "ship.samatra.graphics.captain": {
+      "type": "GFXRES",
+      "data": "addons/3do-mode-hd/ships/samatra/samatra-cap.ani"
+    }
+  }
+}

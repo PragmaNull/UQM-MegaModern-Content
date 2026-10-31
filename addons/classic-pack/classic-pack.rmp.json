@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "resources": {
+    "comm.arilou.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/arilou.fon"
+    },
+    "comm.computer.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/computer.fon"
+    },
+    "comm.druuge.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/druuge.fon"
+    },
+    "comm.ilwrath.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/ilwrath.fon"
+    },
+    "comm.kohrah.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/kohrah.fon"
+    },
+    "comm.melnorme.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/melnorme.fon"
+    },
+    "comm.mycon.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/mycon.fon"
+    },
+    "comm.orz.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/orz.fon"
+    },
+    "comm.pkunk.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/pkunk.fon"
+    },
+    "comm.probe.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/probe.fon"
+    },
+    "comm.shofixti.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/shofixti.fon"
+    },
+    "comm.slylandro.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/slylandro.fon"
+    },
+    "comm.supox.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/supox.fon"
+    },
+    "comm.syreen.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/syreen.fon"
+    },
+    "comm.talkingpet.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/talkingpet.fon"
+    },
+    "comm.thraddash.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/thraddash.fon"
+    },
+    "comm.umgah.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/umgah.fon"
+    },
+    "comm.urquan.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/urquan.fon"
+    },
+    "comm.utwig.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/utwig.fon"
+    },
+    "comm.vux.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/vux.fon"
+    },
+    "comm.yehat.font": {
+      "type": "FONTRES",
+      "data": "addons/classic-pack/fonts/yehat.fon"
+    },
+    "comm.melnorme.graphics": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/comm/melnorme/melnorme.ani"
+    },
+    "comm.melnorme.colortable": {
+      "type": "BINTAB",
+      "data": "addons/classic-pack/comm/melnorme/melnorme-hd.ct"
+    },
+    "graphics.shipyard": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ui/shipyard/shipyard.ani"
+    },
+    "graphics.activity": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ui/activity.ani"
+    },
+    "graphics.meleemenu": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ui/melee_menu/meleemenu.ani"
+    },
+    "graphics.orbitbackground": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/nav/orbit_background/orbitbackground.ani"
+    },
+    "graphics.orbitenter": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/nav/orbitenter.ani"
+    },
+    "graphics.outfitmodules": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ui/outfit_modules/outfitmodules.ani"
+    },
+    "graphics.pickship": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ui/pickship.ani"
+    },
+    "graphics.playmenu": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ui/play_menu/playmenu.ani"
+    },
+    "graphics.boom.large": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/battle/boom-big.ani"
+    },
+    "graphics.boom.medium": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/battle/boom-med.ani"
+    },
+    "graphics.boom.small": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/battle/boom-sml.ani"
+    },
+    "nebula.resource": {
+      "type": "STRTAB",
+      "data": "addons/classic-pack/nav/nebulae/nebulas.txt"
+    },
+    "ship.kohrah.graphics.marauder.large": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ships/kohrah/marauder-big.ani"
+    },
+    "ship.kohrah.graphics.marauder.medium": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ships/kohrah/marauder-med.ani"
+    },
+    "ship.kohrah.graphics.marauder.small": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ships/kohrah/marauder-sml.ani"
+    },
+    "ship.kohrah.icons": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ships/kohrah/marauder-icons.ani"
+    },
+    "ship.kohrah.meleeicons": {
+      "type": "GFXRES",
+      "data": "addons/classic-pack/ships/kohrah/marauder-meleeicons.ani"
+    },
+    "text.starcon": {
+      "type": "STRTAB",
+      "data": "addons/classic-pack/gamestrings.txt"
+    }
+  }
+}
