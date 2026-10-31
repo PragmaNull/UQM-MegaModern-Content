@@ -720,7 +720,7 @@
       "data": "base/cutscene/credits/credback.ani.json"
     },
     "credits.credits": {
-      "type": "STRTAB",
+      "type": "STRING",
       "data": "base/cutscene/credits/credits.json"
     },
     "credits.font.pt13": {
