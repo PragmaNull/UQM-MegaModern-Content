@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Nebulae 000", "text": ["addons/classic-pack/nav/nebulae/nebula-000.ani.json"]},
+    {"id": "Nebulae 001", "text": ["addons/classic-pack/nav/nebulae/nebula-001.ani.json"]},
+    {"id": "Nebulae 002", "text": ["addons/classic-pack/nav/nebulae/nebula-002.ani.json"]},
+    {"id": "Nebulae 003", "text": ["addons/classic-pack/nav/nebulae/nebula-003.ani.json"]},
+    {"id": "Nebulae 004", "text": ["addons/classic-pack/nav/nebulae/nebula-004.ani.json"]},
+    {"id": "Nebulae 005", "text": ["addons/classic-pack/nav/nebulae/nebula-005.ani.json"]},
+    {"id": "Nebulae 006", "text": ["addons/classic-pack/nav/nebulae/nebula-006.ani.json"]},
+    {"id": "Nebulae 007", "text": ["addons/classic-pack/nav/nebulae/nebula-007.ani.json"]},
+    {"id": "Nebulae 008", "text": ["addons/classic-pack/nav/nebulae/nebula-008.ani.json"]},
+    {"id": "Nebulae 009", "text": ["addons/classic-pack/nav/nebulae/nebula-009.ani.json"]},
+    {"id": "Nebulae 010", "text": ["addons/classic-pack/nav/nebulae/nebula-010.ani.json"]},
+    {"id": "Nebulae 011", "text": ["addons/classic-pack/nav/nebulae/nebula-011.ani.json"]},
+    {"id": "Nebulae 012", "text": ["addons/classic-pack/nav/nebulae/nebula-012.ani.json"]},
+    {"id": "Nebulae 013", "text": ["addons/classic-pack/nav/nebulae/nebula-013.ani.json"]},
+    {"id": "Nebulae 014", "text": ["addons/classic-pack/nav/nebulae/nebula-014.ani.json"]},
+    {"id": "Nebulae 015", "text": ["addons/classic-pack/nav/nebulae/nebula-015.ani.json"]},
+    {"id": "Nebulae 016", "text": ["addons/classic-pack/nav/nebulae/nebula-016.ani.json"]},
+    {"id": "Nebulae 017", "text": ["addons/classic-pack/nav/nebulae/nebula-017.ani.json"]},
+    {"id": "Nebulae 018", "text": ["addons/classic-pack/nav/nebulae/nebula-018.ani.json"]},
+    {"id": "Nebulae 019", "text": ["addons/classic-pack/nav/nebulae/nebula-019.ani.json"]},
+    {"id": "Nebulae 020", "text": ["addons/classic-pack/nav/nebulae/nebula-020.ani.json"]},
+    {"id": "Nebulae 021", "text": ["addons/classic-pack/nav/nebulae/nebula-021.ani.json"]}
+  ]
+}

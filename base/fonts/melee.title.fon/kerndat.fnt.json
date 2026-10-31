@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "leading": 15,
+  "charSpace": 2,
+  "kernAmount": 1,
+  "vertAlign": 15,
+  "kerning": {
+    "-": [3, 2],
+    "M": [1, 3]
+  }
+}

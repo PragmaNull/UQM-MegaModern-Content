@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Orz", "text": ["Orz"]},
+    {"id": "Orz", "text": ["Orz"]},
+    {"id": "Orz", "text": ["Orz"]},
+    {"id": "Nemesis", "text": ["Nemesis"]},
+    {"id": "Nemesis", "text": ["Nemesis"]},
+    {"id": "*Wet*", "text": ["*Wet*"]},
+    {"id": "*Happy*", "text": ["*Happy*"]},
+    {"id": "*Frumple*", "text": ["*Frumple*"]},
+    {"id": "*Camper*", "text": ["*Camper*"]},
+    {"id": "*Loner*", "text": ["*Loner*"]},
+    {"id": "*Dancer*", "text": ["*Dancer*"]},
+    {"id": "*Singer*", "text": ["*Singer*"]},
+    {"id": "*Heavy*", "text": ["*Heavy*"]},
+    {"id": "*NewBoy*", "text": ["*NewBoy*"]},
+    {"id": "*FatFun*", "text": ["*FatFun*"]},
+    {"id": "*Pepper*", "text": ["*Pepper*"]},
+    {"id": "*Hungry*", "text": ["*Hungry*"]},
+    {"id": "*Deep*", "text": ["*Deep*"]},
+    {"id": "*Smell*", "text": ["*Smell*"]},
+    {"id": "*Juice*", "text": ["*Juice*"]},
+    {"id": "*Squirt*", "text": ["*Squirt*"]},
+    {"id": "ORZ", "text": ["|-1|ORZ"]},
+    {"id": "NEMESIS", "text": ["|-1|NEMESIS"]},
+    {"id": "Desc", "text": ["Quick. Rotating turret. Space", "marines board enemy ship."]}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Shofixti", "text": ["Shofixti"]},
+    {"id": "Shofixti", "text": ["Shofixti"]},
+    {"id": "Shofix.", "text": ["Shofix."]},
+    {"id": "Scout", "text": ["Scout"]},
+    {"id": "Scout", "text": ["Scout"]},
+    {"id": "Hiyata", "text": ["Hiyata"]},
+    {"id": "Wasabe", "text": ["Wasabe"]},
+    {"id": "Kudzu", "text": ["Kudzu"]},
+    {"id": "Ichiban", "text": ["Ichiban"]},
+    {"id": "Bonsai!", "text": ["Bonsai!"]},
+    {"id": "Genjiro", "text": ["Genjiro"]},
+    {"id": "Ginzu", "text": ["Ginzu"]},
+    {"id": "Busu", "text": ["Busu"]},
+    {"id": "Gaijin", "text": ["Gaijin"]},
+    {"id": "Daikon", "text": ["Daikon"]},
+    {"id": "Sushi", "text": ["Sushi"]},
+    {"id": "Naninani", "text": ["Naninani"]},
+    {"id": "Chimchim", "text": ["Chimchim"]},
+    {"id": "Tora-3", "text": ["Tora-3"]},
+    {"id": "Tofu", "text": ["Tofu"]},
+    {"id": "Kimba", "text": ["Kimba"]},
+    {"id": "Tanaka", "text": ["Tanaka"]},
+    {"id": "Katana", "text": ["Katana"]},
+    {"id": "SHOFIXTI", "text": ["SHOFIXTI"]},
+    {"id": "SCOUT", "text": ["SCOUT"]},
+    {"id": "Desc", "text": ["Tiny, fast.", "Can self-destruct."]}
+  ]
+}

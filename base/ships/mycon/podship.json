@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Mycon", "text": ["Mycon"]},
+    {"id": "Mycon", "text": ["Mycon"]},
+    {"id": "Mycon", "text": ["Mycon"]},
+    {"id": "Podship", "text": ["Podship"]},
+    {"id": "Podship", "text": ["Podship"]},
+    {"id": "Blort", "text": ["Blort"]},
+    {"id": "Chupp", "text": ["Chupp"]},
+    {"id": "Floos", "text": ["Floos"]},
+    {"id": "Glish", "text": ["Glish"]},
+    {"id": "Glob", "text": ["Glob"]},
+    {"id": "Glush", "text": ["Glush"]},
+    {"id": "Plork", "text": ["Plork"]},
+    {"id": "Shlish", "text": ["Shlish"]},
+    {"id": "Shlupp", "text": ["Shlupp"]},
+    {"id": "Slingy", "text": ["Slingy"]},
+    {"id": "Sploozo", "text": ["Sploozo"]},
+    {"id": "Spork", "text": ["Spork"]},
+    {"id": "Uffo", "text": ["Uffo"]},
+    {"id": "Yush", "text": ["Yush"]},
+    {"id": "Zaloop", "text": ["Zaloop"]},
+    {"id": "Znuff", "text": ["Znuff"]},
+    {"id": "MYCON", "text": ["|-3|MYCON"]},
+    {"id": "PODSHIP", "text": ["|-2|PODSHIP"]},
+    {"id": "Desc", "text": ["Very slow. Homing plasma", "torpedo. Grows new crew."]}
+  ]
+}

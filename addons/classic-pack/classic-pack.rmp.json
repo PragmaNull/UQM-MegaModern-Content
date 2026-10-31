@@ -139,7 +139,7 @@
     },
     "nebula.resource": {
       "type": "STRTAB",
-      "data": "addons/classic-pack/nav/nebulae/nebulas.txt"
+      "data": "addons/classic-pack/nav/nebulae/nebulas.json"
     },
     "ship.kohrah.graphics.marauder.large": {
       "type": "GFXRES",
@@ -163,7 +163,7 @@
     },
     "text.starcon": {
       "type": "STRTAB",
-      "data": "addons/classic-pack/gamestrings.txt"
+      "data": "addons/classic-pack/gamestrings.json"
     }
   }
 }

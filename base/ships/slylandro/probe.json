@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Slylandro", "text": ["Slylandro"]},
+    {"id": "Slylandro", "text": ["Slylandro"]},
+    {"id": "Slylan.", "text": ["Slylan."]},
+    {"id": "Probe", "text": ["Probe"]},
+    {"id": "Probe", "text": ["Probe"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "2418-B", "text": ["2418-B"]},
+    {"id": "SLYLANDRO", "text": ["SLYLANDRO"]},
+    {"id": "PROBE", "text": ["PROBE"]},
+    {"id": "Desc", "text": ["Constant motion, instant", "reverse. Absorbs asteroids."]}
+  ]
+}

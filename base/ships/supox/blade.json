@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Supox", "text": ["Supox"]},
+    {"id": "Supox", "text": ["Supox"]},
+    {"id": "Supox", "text": ["Supox"]},
+    {"id": "Blade", "text": ["Blade"]},
+    {"id": "Blade", "text": ["Blade"]},
+    {"id": "Trifid", "text": ["Trifid"]},
+    {"id": "Crinoid", "text": ["Crinoid"]},
+    {"id": "FlyTrap", "text": ["FlyTrap"]},
+    {"id": "Thistle", "text": ["Thistle"]},
+    {"id": "Ivy", "text": ["Ivy"]},
+    {"id": "Sprout", "text": ["Sprout"]},
+    {"id": "Twig", "text": ["Twig"]},
+    {"id": "Root", "text": ["Root"]},
+    {"id": "Branch", "text": ["Branch"]},
+    {"id": "Thorn", "text": ["Thorn"]},
+    {"id": "Bark", "text": ["Bark"]},
+    {"id": "Bud", "text": ["Bud"]},
+    {"id": "Nut", "text": ["Nut"]},
+    {"id": "Stem", "text": ["Stem"]},
+    {"id": "Bramble", "text": ["Bramble"]},
+    {"id": "Thicket", "text": ["Thicket"]},
+    {"id": "SUPOX", "text": ["|-2|SUPOX"]},
+    {"id": "BLADE", "text": ["|-2|BLADE"]},
+    {"id": "Desc", "text": ["Light. Rapid-fire globs.", "Slides in any direction."]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Earthling", "text": ["Earthling"]},
+    {"id": "Earthling", "text": ["Earthling"]},
+    {"id": "Earth.", "text": ["Earth."]},
+    {"id": "Cruiser", "text": ["Cruiser"]},
+    {"id": "Cruiser", "text": ["Cruiser"]},
+    {"id": "Decker", "text": ["Decker"]},
+    {"id": "Trent", "text": ["Trent"]},
+    {"id": "Adama", "text": ["Adama"]},
+    {"id": "Spiff", "text": ["Spiff"]},
+    {"id": "Graeme", "text": ["Graeme"]},
+    {"id": "Kirk", "text": ["Kirk"]},
+    {"id": "Pike", "text": ["Pike"]},
+    {"id": "Halleck", "text": ["Halleck"]},
+    {"id": "Tuf", "text": ["Tuf"]},
+    {"id": "Pirx", "text": ["Pirx"]},
+    {"id": "Wu", "text": ["Wu"]},
+    {"id": "VanRijn", "text": ["VanRijn"]},
+    {"id": "Ender", "text": ["Ender"]},
+    {"id": "Buck", "text": ["Buck"]},
+    {"id": "Solo", "text": ["Solo"]},
+    {"id": "Belt", "text": ["Belt"]},
+    {"id": "EARTHLING", "text": ["EARTHLING"]},
+    {"id": "CRUISER", "text": ["CRUISER"]},
+    {"id": "Desc", "text": ["Slow, heavy. Seeking nukes.", "Point defense lasers."]}
+  ]
+}

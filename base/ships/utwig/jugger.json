@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Utwig", "text": ["Utwig"]},
+    {"id": "Utwig", "text": ["Utwig"]},
+    {"id": "Utwig", "text": ["Utwig"]},
+    {"id": "Jugger", "text": ["Jugger"]},
+    {"id": "Jugger", "text": ["Jugger"]},
+    {"id": "Endo", "text": ["Endo"]},
+    {"id": "Vermi", "text": ["Vermi"]},
+    {"id": "Manny", "text": ["Manny"]},
+    {"id": "Uuter", "text": ["Uuter"]},
+    {"id": "Nergo", "text": ["Nergo"]},
+    {"id": "Sami", "text": ["Sami"]},
+    {"id": "Duna", "text": ["Duna"]},
+    {"id": "Frann", "text": ["Frann"]},
+    {"id": "Krisk", "text": ["Krisk"]},
+    {"id": "Lololo", "text": ["Lololo"]},
+    {"id": "Snoon", "text": ["Snoon"]},
+    {"id": "Nestor", "text": ["Nestor"]},
+    {"id": "Lurg", "text": ["Lurg"]},
+    {"id": "Thory", "text": ["Thory"]},
+    {"id": "Jujuby", "text": ["Jujuby"]},
+    {"id": "Erog", "text": ["Erog"]},
+    {"id": "Tarp", "text": ["Tarp"]},
+    {"id": "UTWIG", "text": ["|-2|UTWIG"]},
+    {"id": "JUGGER", "text": ["|-2|JUGGER"]},
+    {"id": "Desc", "text": ["Weapons consume no energy.", "Absorbent shields."]}
+  ]
+}

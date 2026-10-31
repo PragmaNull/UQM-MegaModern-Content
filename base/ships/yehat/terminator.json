@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Yehat", "text": ["Yehat"]},
+    {"id": "Yehat", "text": ["Yehat"]},
+    {"id": "Yehat", "text": ["Yehat"]},
+    {"id": "Terminator", "text": ["Terminator"]},
+    {"id": "Termin.", "text": ["Termin."]},
+    {"id": "Heep-eep", "text": ["Heep-eep"]},
+    {"id": "Feep-eep", "text": ["Feep-eep"]},
+    {"id": "Reep-eep", "text": ["Reep-eep"]},
+    {"id": "Yeep-eep", "text": ["Yeep-eep"]},
+    {"id": "Beep-eep", "text": ["Beep-eep"]},
+    {"id": "Eeep-eep", "text": ["Eeep-eep"]},
+    {"id": "Meep-eep", "text": ["Meep-eep"]},
+    {"id": "Teep-eep", "text": ["Teep-eep"]},
+    {"id": "Jeep-eep", "text": ["Jeep-eep"]},
+    {"id": "Leep-eep", "text": ["Leep-eep"]},
+    {"id": "Peep-eep", "text": ["Peep-eep"]},
+    {"id": "Weep-eep", "text": ["Weep-eep"]},
+    {"id": "Veep-eep", "text": ["Veep-eep"]},
+    {"id": "Geep-eep", "text": ["Geep-eep"]},
+    {"id": "Zeep-eep", "text": ["Zeep-eep"]},
+    {"id": "Neep-eep", "text": ["Neep-eep"]},
+    {"id": "YEHAT", "text": ["|-1|YEHAT"]},
+    {"id": "TERMINATOR", "text": ["TERMINATOR"]},
+    {"id": "Desc", "text": ["Agile. Rapid-fire, twin", "missiles. Shield."]}
+  ]
+}

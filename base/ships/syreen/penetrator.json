@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Syreen", "text": ["Syreen"]},
+    {"id": "Syreen", "text": ["Syreen"]},
+    {"id": "Syreen", "text": ["Syreen"]},
+    {"id": "Penetrator", "text": ["Penetrator"]},
+    {"id": "Penetr.", "text": ["Penetr."]},
+    {"id": "Teela", "text": ["Teela"]},
+    {"id": "Dejah", "text": ["Dejah"]},
+    {"id": "Penny", "text": ["Penny"]},
+    {"id": "Alia", "text": ["Alia"]},
+    {"id": "Be'lit", "text": ["Be'lit"]},
+    {"id": "Ripley", "text": ["Ripley"]},
+    {"id": "Yarr", "text": ["Yarr"]},
+    {"id": "Ardala", "text": ["Ardala"]},
+    {"id": "Sparta", "text": ["Sparta"]},
+    {"id": "Munro", "text": ["Munro"]},
+    {"id": "Danning", "text": ["Danning"]},
+    {"id": "Brawne", "text": ["Brawne"]},
+    {"id": "Maya", "text": ["Maya"]},
+    {"id": "Aelita", "text": ["Aelita"]},
+    {"id": "Alura", "text": ["Alura"]},
+    {"id": "Dale", "text": ["Dale"]},
+    {"id": "SYREEN", "text": ["SYREEN"]},
+    {"id": "PENETRATOR", "text": ["PENETRATOR"]},
+    {"id": "Desc", "text": ["Lithe space vixens who", "steal enemy's crew."]}
+  ]
+}

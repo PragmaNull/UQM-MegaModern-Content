@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Androsynth", "text": ["Androsynth"]},
+    {"id": "Androsyn", "text": ["Androsyn"]},
+    {"id": "Andro.", "text": ["Andro."]},
+    {"id": "Guardian", "text": ["Guardian"]},
+    {"id": "Guard.", "text": ["Guard."]},
+    {"id": "BOOJI-1", "text": ["BOOJI-1"]},
+    {"id": "DORN-3", "text": ["DORN-3"]},
+    {"id": "BIM-XT", "text": ["BIM-XT"]},
+    {"id": "JOR-15", "text": ["JOR-15"]},
+    {"id": "976-KILL", "text": ["976-KILL"]},
+    {"id": "KORB-7B", "text": ["KORB-7B"]},
+    {"id": "XR4-TI", "text": ["XR4-TI"]},
+    {"id": "CRC-16", "text": ["CRC-16"]},
+    {"id": "BHS-79", "text": ["BHS-79"]},
+    {"id": "DOS-1.0", "text": ["DOS-1.0"]},
+    {"id": "ME-262", "text": ["ME-262"]},
+    {"id": "AK-47", "text": ["AK-47"]},
+    {"id": "1040-EZ", "text": ["1040-EZ"]},
+    {"id": "NECRO-99", "text": ["NECRO-99"]},
+    {"id": "HAL-2001", "text": ["HAL-2001"]},
+    {"id": "SR-71", "text": ["SR-71"]},
+    {"id": "ANDROSYNTH", "text": ["ANDROSYNTH"]},
+    {"id": "GUARDIAN", "text": ["GUARDIAN"]},
+    {"id": "Desc", "text": ["Pokey. Blows mean bubbles.", "Changes to flaming comet."]}
+  ]
+}

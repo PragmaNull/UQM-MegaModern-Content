@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Druuge", "text": ["Druuge"]},
+    {"id": "Druuge", "text": ["Druuge"]},
+    {"id": "Druuge", "text": ["Druuge"]},
+    {"id": "Mauler", "text": ["Mauler"]},
+    {"id": "Mauler", "text": ["Mauler"]},
+    {"id": "Tuuga", "text": ["Tuuga"]},
+    {"id": "Siinur", "text": ["Siinur"]},
+    {"id": "Kaapo", "text": ["Kaapo"]},
+    {"id": "Juugl", "text": ["Juugl"]},
+    {"id": "Paato", "text": ["Paato"]},
+    {"id": "Feezo", "text": ["Feezo"]},
+    {"id": "Maad", "text": ["Maad"]},
+    {"id": "Moola", "text": ["Moola"]},
+    {"id": "Kooli", "text": ["Kooli"]},
+    {"id": "Faazur", "text": ["Faazur"]},
+    {"id": "Zooto", "text": ["Zooto"]},
+    {"id": "Biitur", "text": ["Biitur"]},
+    {"id": "Duulard", "text": ["Duulard"]},
+    {"id": "Piini", "text": ["Piini"]},
+    {"id": "Soopi", "text": ["Soopi"]},
+    {"id": "Peeru", "text": ["Peeru"]},
+    {"id": "DRUUGE", "text": ["|-2|DRUUGE"]},
+    {"id": "MAULER", "text": ["|-2|MAULER"]},
+    {"id": "Desc", "text": ["Sluggish. Heavy momentum", "weapon. Combustible crew."]}
+  ]
+}

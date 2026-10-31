@@ -807,7 +807,7 @@
     },
     "nebula.resource": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/nav/nebulae/nebulas.txt"
+      "data": "addons/mm-hd/nav/nebulae/nebulas.json"
     },
     "planet.acid.large": {
       "type": "GFXRES",
@@ -2707,103 +2707,103 @@
     },
     "slides.spins.00": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship00.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship00.json"
     },
     "slides.spins.01": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship01.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship01.json"
     },
     "slides.spins.02": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship02.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship02.json"
     },
     "slides.spins.03": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship03.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship03.json"
     },
     "slides.spins.04": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship04.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship04.json"
     },
     "slides.spins.05": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship05.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship05.json"
     },
     "slides.spins.06": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship06.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship06.json"
     },
     "slides.spins.07": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship07.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship07.json"
     },
     "slides.spins.08": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship08.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship08.json"
     },
     "slides.spins.09": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship09.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship09.json"
     },
     "slides.spins.10": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship10.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship10.json"
     },
     "slides.spins.11": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship11.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship11.json"
     },
     "slides.spins.12": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship12.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship12.json"
     },
     "slides.spins.13": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship13.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship13.json"
     },
     "slides.spins.14": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship14.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship14.json"
     },
     "slides.spins.15": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship15.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship15.json"
     },
     "slides.spins.16": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship16.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship16.json"
     },
     "slides.spins.17": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship17.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship17.json"
     },
     "slides.spins.18": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship18.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship18.json"
     },
     "slides.spins.19": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship19.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship19.json"
     },
     "slides.spins.20": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship20.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship20.json"
     },
     "slides.spins.21": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship21.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship21.json"
     },
     "slides.spins.22": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship22.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship22.json"
     },
     "slides.spins.23": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship23.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship23.json"
     },
     "slides.spins.24": {
       "type": "STRTAB",
-      "data": "addons/mm-hd/cutscene/spins/ship24.txt"
+      "data": "addons/mm-hd/cutscene/spins/ship24.json"
     }
   }
 }

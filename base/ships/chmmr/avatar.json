@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Chmmr Hybrid", "text": ["Chmmr"]},
+    {"id": "Chmmr", "text": ["Chmmr"]},
+    {"id": "Chmmr", "text": ["Chmmr"]},
+    {"id": "Avatar", "text": ["Avatar"]},
+    {"id": "Avatar", "text": ["Avatar"]},
+    {"id": "Mnzgk", "text": ["Mnzgk"]},
+    {"id": "Chzrmn", "text": ["Chzrmn"]},
+    {"id": "Bzztrm", "text": ["Bzztrm"]},
+    {"id": "Zrnzrk", "text": ["Zrnzrk"]},
+    {"id": "Tzzqrn", "text": ["Tzzqrn"]},
+    {"id": "Kzzrn", "text": ["Kzzrn"]},
+    {"id": "Vzrzn", "text": ["Vzrzn"]},
+    {"id": "Qrntz", "text": ["Qrntz"]},
+    {"id": "Rmnzk", "text": ["Rmnzk"]},
+    {"id": "Szmrnz", "text": ["Szmrnz"]},
+    {"id": "Zbzzn", "text": ["Zbzzn"]},
+    {"id": "Frnkzk", "text": ["Frnkzk"]},
+    {"id": "Prmtzz", "text": ["Prmtzz"]},
+    {"id": "Tzrtzn", "text": ["Tzrtzn"]},
+    {"id": "Kztztz", "text": ["Kztztz"]},
+    {"id": "Mrnkzt", "text": ["Mrnkzt"]},
+    {"id": "CHMMR", "text": ["|-1|CHMMR"]},
+    {"id": "AVATAR", "text": ["|-1|AVATAR"]},
+    {"id": "Desc", "text": ["Very powerful laser.", "ZapSats. Tractor beam."]}
+  ]
+}

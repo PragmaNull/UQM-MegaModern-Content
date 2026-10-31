@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Mmrnmhrm", "text": ["Mmrnmhrm"]},
+    {"id": "Mmrnmhrm", "text": ["Mmrnmhrm"]},
+    {"id": "Mmrn.", "text": ["Mmrn."]},
+    {"id": "X-Form", "text": ["X-Form"]},
+    {"id": "X-Form", "text": ["X-Form"]},
+    {"id": "Qir-nha", "text": ["Qir-nha"]},
+    {"id": "Jhe-qir", "text": ["Jhe-qir"]},
+    {"id": "Qua-rhna", "text": ["Qua-rhna"]},
+    {"id": "Mn-quah", "text": ["Mn-quah"]},
+    {"id": "Nrna-mha", "text": ["Nrna-mha"]},
+    {"id": "Um-hrh", "text": ["Um-hrh"]},
+    {"id": "Hm-nhuh", "text": ["Hm-nhuh"]},
+    {"id": "Rrma-hrn", "text": ["Rrma-hrn"]},
+    {"id": "Jra-nr", "text": ["Jra-nr"]},
+    {"id": "Ur-mfrs", "text": ["Ur-mfrs"]},
+    {"id": "Qua-qir", "text": ["Qua-qir"]},
+    {"id": "Mrm-na", "text": ["Mrm-na"]},
+    {"id": "Jhe-mhr", "text": ["Jhe-mhr"]},
+    {"id": "Hmr-hun", "text": ["Hmr-hun"]},
+    {"id": "Nhuh-na", "text": ["Nhuh-na"]},
+    {"id": "Hrnm-hm", "text": ["Hrnm-hm"]},
+    {"id": "MMRNMHRM", "text": ["MMRNMHRM"]},
+    {"id": "X-FORM", "text": ["X-FORM"]},
+    {"id": "Desc", "text": ["Transforms from a slow,", "heavy to a light, quick ship."]}
+  ]
+}

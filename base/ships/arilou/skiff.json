@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Ariloulaleelay", "text": ["Ariloulaleelay"]},
+    {"id": "Arilou", "text": ["Arilou"]},
+    {"id": "Arilou", "text": ["Arilou"]},
+    {"id": "Skiff", "text": ["Skiff"]},
+    {"id": "Skiff", "text": ["Skiff"]},
+    {"id": "Fefaloo", "text": ["Fefaloo"]},
+    {"id": "Bezabu", "text": ["Bezabu"]},
+    {"id": "Tiptushi", "text": ["Tiptushi"]},
+    {"id": "Marypup", "text": ["Marypup"]},
+    {"id": "Tinkafo", "text": ["Tinkafo"]},
+    {"id": "Patooti", "text": ["Patooti"]},
+    {"id": "Tifiwilo", "text": ["Tifiwilo"]},
+    {"id": "Loleelu", "text": ["Loleelu"]},
+    {"id": "Louifoui", "text": ["Louifoui"]},
+    {"id": "Pinywiny", "text": ["Pinywiny"]},
+    {"id": "Oowbabe", "text": ["Oowbabe"]},
+    {"id": "Dingdup", "text": ["Dingdup"]},
+    {"id": "Wewalia", "text": ["Wewalia"]},
+    {"id": "Yipyapi", "text": ["Yipyapi"]},
+    {"id": "Ropilup", "text": ["Ropilup"]},
+    {"id": "Wolwali", "text": ["Wolwali"]},
+    {"id": "ARILOU", "text": ["ARILOU"]},
+    {"id": "SKIFF", "text": ["SKIFF"]},
+    {"id": "Desc", "text": ["Fast, no inertia. Auto-aim", "laser. Hyper-jump."]}
+  ]
+}

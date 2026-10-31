@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Clear entire screen first; set size...", "text": ["DIMS 320 200"]},
+    {"id": "Load font to use later", "text": ["FONT1X 0 base/fonts/micro.thin.fon"]},
+    {"id": "Load font to use later", "text": ["FONT4X 0 addons/mm-hd/fonts/micro.thin.fon"]},
+    {"id": "Set color", "text": ["TC 55FF55"]},
+    {"id": "Set color", "text": ["TBC FFFFFF"]},
+    {"id": "Load movie", "text": ["ANI1X addons/dos-mode-sd/cutscene/spins/accessdata.ani.json"]},
+    {"id": "Load movie", "text": ["ANI4X addons/dos-mode-hd/cutscene/spins/accessdata.ani.json"]},
+    {"id": "Set font to use", "text": ["FONT 0"]},
+    {"id": "Draw first frame", "text": ["DRAW 0"]},
+    {"id": "Fade-in a slide; param1=fade time", "text": ["FTC 500"]},
+    {"id": "Text for spin", "text": ["TEXTSPIN 68 53 Accessing Starship Databank..."]},
+    {"id": "Wait", "text": ["WAIT 1600"]}
+  ]
+}

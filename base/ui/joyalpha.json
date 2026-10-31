@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Joystick Alphabet", "text": [" ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,-!?&()"]},
+    {"id": "Joystick upper register", "text": ["ABCDEFGHIJKLMNOPQRSTUVWXYZ"]},
+    {"id": "Joystick lower register", "text": ["abcdefghijklmnopqrstuvwxyz"]}
+  ]
+}

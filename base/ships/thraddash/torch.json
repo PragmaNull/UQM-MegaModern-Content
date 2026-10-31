@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Thraddash", "text": ["Thraddash"]},
+    {"id": "Thraddash", "text": ["Thraddash"]},
+    {"id": "Thradd.", "text": ["Thradd."]},
+    {"id": "Torch", "text": ["Torch"]},
+    {"id": "Torch", "text": ["Torch"]},
+    {"id": "Dthunk", "text": ["Dthunk"]},
+    {"id": "Bardat", "text": ["Bardat"]},
+    {"id": "Znonk", "text": ["Znonk"]},
+    {"id": "Mnump", "text": ["Mnump"]},
+    {"id": "Bronk", "text": ["Bronk"]},
+    {"id": "Smup", "text": ["Smup"]},
+    {"id": "Grulk", "text": ["Grulk"]},
+    {"id": "Hornk", "text": ["Hornk"]},
+    {"id": "Knarg", "text": ["Knarg"]},
+    {"id": "Drulg", "text": ["Drulg"]},
+    {"id": "Dgako", "text": ["Dgako"]},
+    {"id": "Znork", "text": ["Znork"]},
+    {"id": "Kwamp", "text": ["Kwamp"]},
+    {"id": "Fkank", "text": ["Fkank"]},
+    {"id": "Pdump", "text": ["Pdump"]},
+    {"id": "Whumps", "text": ["Whumps"]},
+    {"id": "THRADDASH", "text": ["THRADDASH"]},
+    {"id": "TORCH", "text": ["|-1|TORCH"]},
+    {"id": "Desc", "text": ["Nimble. Afterburner", "accelerates ship, burns enemy."]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Umgah", "text": ["Umgah"]},
+    {"id": "Umgah", "text": ["Umgah"]},
+    {"id": "Umgah", "text": ["Umgah"]},
+    {"id": "Drone", "text": ["Drone"]},
+    {"id": "Drone", "text": ["Drone"]},
+    {"id": "Julg'ka", "text": ["Julg'ka"]},
+    {"id": "Gibj'o", "text": ["Gibj'o"]},
+    {"id": "Baguk'i", "text": ["Baguk'i"]},
+    {"id": "O'guk'e", "text": ["O'guk'e"]},
+    {"id": "Gwap'he", "text": ["Gwap'he"]},
+    {"id": "Chez'ef", "text": ["Chez'ef"]},
+    {"id": "Znork'i", "text": ["Znork'i"]},
+    {"id": "Bob", "text": ["Bob"]},
+    {"id": "Kwik'ow", "text": ["Kwik'ow"]},
+    {"id": "Ei'Ei'o", "text": ["Ei'Ei'o"]},
+    {"id": "Brewz'k", "text": ["Brewz'k"]},
+    {"id": "Pruk'u", "text": ["Pruk'u"]},
+    {"id": "O'bargy", "text": ["O'bargy"]},
+    {"id": "Kterbi'a", "text": ["Kterbi'a"]},
+    {"id": "Chup'he", "text": ["Chup'he"]},
+    {"id": "I'buba", "text": ["I'buba"]},
+    {"id": "UMGAH", "text": ["|-2|UMGAH"]},
+    {"id": "DRONE", "text": ["|-2|DRONE"]},
+    {"id": "Desc", "text": ["Stubby and slow. Anti-matter", "cone. Zips backwards."]}
+  ]
+}

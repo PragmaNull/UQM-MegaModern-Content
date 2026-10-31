@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Spathi", "text": ["Spathi"]},
+    {"id": "Spathi", "text": ["Spathi"]},
+    {"id": "Spathi", "text": ["Spathi"]},
+    {"id": "Eluder", "text": ["Eluder"]},
+    {"id": "Eluder", "text": ["Eluder"]},
+    {"id": "Thwil", "text": ["Thwil"]},
+    {"id": "Pwappy", "text": ["Pwappy"]},
+    {"id": "Phwiff", "text": ["Phwiff"]},
+    {"id": "Wiffy", "text": ["Wiffy"]},
+    {"id": "Plibnik", "text": ["Plibnik"]},
+    {"id": "Snurfel", "text": ["Snurfel"]},
+    {"id": "Kwimp", "text": ["Kwimp"]},
+    {"id": "Pkunky", "text": ["Pkunky"]},
+    {"id": "Jinkeze", "text": ["Jinkeze"]},
+    {"id": "Thintho", "text": ["Thintho"]},
+    {"id": "Rupatup", "text": ["Rupatup"]},
+    {"id": "Nargle", "text": ["Nargle"]},
+    {"id": "Phlendo", "text": ["Phlendo"]},
+    {"id": "Snelopy", "text": ["Snelopy"]},
+    {"id": "Bwinkin", "text": ["Bwinkin"]},
+    {"id": "Whuff", "text": ["Whuff"]},
+    {"id": "Fwiffo", "text": ["Fwiffo"]},
+    {"id": "SPATHI", "text": ["|-1|SPATHI"]},
+    {"id": "ELUDER", "text": ["|-1|ELUDER"]},
+    {"id": "Desc", "text": ["Very fast. Large, cowardly", "crew. Rear firing weapon."]}
+  ]
+}

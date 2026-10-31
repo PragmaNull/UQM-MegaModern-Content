@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Pkunk", "text": ["Pkunk"]},
+    {"id": "Pkunk", "text": ["Pkunk"]},
+    {"id": "Pkunk", "text": ["Pkunk"]},
+    {"id": "Fury", "text": ["Fury"]},
+    {"id": "Fury", "text": ["Fury"]},
+    {"id": "Awwky", "text": ["Awwky"]},
+    {"id": "Tweety", "text": ["Tweety"]},
+    {"id": "WudStok", "text": ["WudStok"]},
+    {"id": "Poppy", "text": ["Poppy"]},
+    {"id": "Brakky", "text": ["Brakky"]},
+    {"id": "Hooter", "text": ["Hooter"]},
+    {"id": "Buzzard", "text": ["Buzzard"]},
+    {"id": "Polly", "text": ["Polly"]},
+    {"id": "Ernie", "text": ["Ernie"]},
+    {"id": "Yompin", "text": ["Yompin"]},
+    {"id": "Fuzzy", "text": ["Fuzzy"]},
+    {"id": "Raven", "text": ["Raven"]},
+    {"id": "Crow", "text": ["Crow"]},
+    {"id": "Jay", "text": ["Jay"]},
+    {"id": "Screech", "text": ["Screech"]},
+    {"id": "Twitter", "text": ["Twitter"]},
+    {"id": "PKUNK", "text": ["|-1|PKUNK"]},
+    {"id": "FURY", "text": ["|-1|FURY"]},
+    {"id": "Desc", "text": ["Blazing fast. Insulting enemy.", "Chance of respawning"]}
+  ]
+}

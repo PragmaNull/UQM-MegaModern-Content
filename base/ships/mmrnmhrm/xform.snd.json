@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "sounds": [
+    "primaryx.wav",
+    "secondary.wav",
+    "primaryy.wav"
+  ]
+}

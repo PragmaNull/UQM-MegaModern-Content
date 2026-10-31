@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Kohr-Ah", "text": ["Kohr-Ah"]},
+    {"id": "Kohr-Ah", "text": ["Kohr-Ah"]},
+    {"id": "Kohr-Ah", "text": ["Kohr-Ah"]},
+    {"id": "Marauder", "text": ["Marauder"]},
+    {"id": "Marauder", "text": ["Maraud."]},
+    {"id": "Death 11", "text": ["Death 11"]},
+    {"id": "Death 17", "text": ["Death 17"]},
+    {"id": "Death 37", "text": ["Death 37"]},
+    {"id": "Death 23", "text": ["Death 23"]},
+    {"id": "Death 7", "text": ["Death 7"]},
+    {"id": "Death 13", "text": ["Death 13"]},
+    {"id": "Death 19", "text": ["Death 19"]},
+    {"id": "Death 29", "text": ["Death 29"]},
+    {"id": "Death 31", "text": ["Death 31"]},
+    {"id": "Death 41", "text": ["Death 41"]},
+    {"id": "Death 43", "text": ["Death 43"]},
+    {"id": "Death 3", "text": ["Death 3"]},
+    {"id": "Death 5", "text": ["Death 5"]},
+    {"id": "Death 47", "text": ["Death 47"]},
+    {"id": "Death 53", "text": ["Death 53"]},
+    {"id": "Death 83", "text": ["Death 83"]},
+    {"id": "KOHR-AH", "text": ["KOHR-AH"]},
+    {"id": "MARAUDER", "text": ["MARAUDER"]},
+    {"id": "Desc", "text": ["Massive. Long-range spinning", "blades, ring of fiery death."]}
+  ]
+}

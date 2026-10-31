@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "VUX", "text": ["VUX"]},
+    {"id": "VUX", "text": ["VUX"]},
+    {"id": "VUX", "text": ["VUX"]},
+    {"id": "Intruder", "text": ["Intruder"]},
+    {"id": "Intrud.", "text": ["Intrud."]},
+    {"id": "ZIK", "text": ["ZIK"]},
+    {"id": "PUZ", "text": ["PUZ"]},
+    {"id": "ZUK", "text": ["ZUK"]},
+    {"id": "VIP", "text": ["VIP"]},
+    {"id": "ZIT", "text": ["ZIT"]},
+    {"id": "YUK", "text": ["YUK"]},
+    {"id": "DAK", "text": ["DAK"]},
+    {"id": "ZRN", "text": ["ZRN"]},
+    {"id": "PIF", "text": ["PIF"]},
+    {"id": "FIZ", "text": ["FIZ"]},
+    {"id": "FUP", "text": ["FUP"]},
+    {"id": "ZUP", "text": ["ZUP"]},
+    {"id": "NRF", "text": ["NRF"]},
+    {"id": "ZOG", "text": ["ZOG"]},
+    {"id": "ORZ", "text": ["ORZ"]},
+    {"id": "ZEK", "text": ["ZEK"]},
+    {"id": "VUX", "text": ["VUX"]},
+    {"id": "INTRUDER", "text": ["INTRUDER"]},
+    {"id": "Desc", "text": ["Clumsy. Powerful laser.", "Spawns limpet parasites."]}
+  ]
+}

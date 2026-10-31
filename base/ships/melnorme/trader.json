@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Melnorme", "text": ["Melnorme"]},
+    {"id": "Melnorme", "text": ["Melnorme"]},
+    {"id": "Melnorme", "text": ["Melnor."]},
+    {"id": "Trader", "text": ["Trader"]},
+    {"id": "Trader", "text": ["Trader"]},
+    {"id": "Reddish", "text": ["Reddish"]},
+    {"id": "Orangy", "text": ["Orangy"]},
+    {"id": "Aqua", "text": ["Aqua"]},
+    {"id": "Crimson", "text": ["Crimson"]},
+    {"id": "Magenta", "text": ["Magenta"]},
+    {"id": "Cheruse", "text": ["Cheruse"]},
+    {"id": "Beige", "text": ["Beige"]},
+    {"id": "Fuchsia", "text": ["Fuchsia"]},
+    {"id": "Umber", "text": ["Umber"]},
+    {"id": "Cerise", "text": ["Cerise"]},
+    {"id": "Mauve", "text": ["Mauve"]},
+    {"id": "Grayish", "text": ["Grayish"]},
+    {"id": "Yellow", "text": ["Yellow"]},
+    {"id": "Black", "text": ["Black"]},
+    {"id": "Bluish", "text": ["Bluish"]},
+    {"id": "Purple", "text": ["Purple"]},
+    {"id": "MELNORME", "text": ["|-1|MELNORME"]},
+    {"id": "TRADER", "text": ["|-1|TRADER"]},
+    {"id": "Desc", "text": ["Tubby. Chargeable weapon.", "Can disrupt enemy controls."]}
+  ]
+}

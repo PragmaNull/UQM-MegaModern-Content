@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Clear entire screen first; set size...", "text": ["DIMS 320 240"]},
+    {"id": "Load font to use later", "text": ["FONT1X 0 base/fonts/micro.thin.fon"]},
+    {"id": "Load font to use later", "text": ["FONT4X 0 addons/mm-hd/fonts/micro.thin.fon"]},
+    {"id": "Set color", "text": ["TC 55FF55"]},
+    {"id": "Set color", "text": ["TBC FFFFFF"]},
+    {"id": "Load movie", "text": ["ANI1X base/cutscene/spins/accessdata.ani.json"]},
+    {"id": "Load movie", "text": ["ANI4X addons/mm-hd/cutscene/spins/accessdata.ani.json"]},
+    {"id": "Set font to use", "text": ["FONT 0"]},
+    {"id": "Draw first frame", "text": ["DRAW 0"]},
+    {"id": "Fade-in a slide; param1=fade time", "text": ["FTC 500"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 1"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 2"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 3"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 4"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 5"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 6"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Draw frame", "text": ["DRAW 7"]},
+    {"id": "Wait", "text": ["SPINWAIT 50"]},
+    {"id": "Text for spin was 64 122", "text": ["TEXTSPIN 68 73", "Accessing Starship Databank..."]},
+    {"id": "Wait", "text": ["SPINWAIT 1500"]},
+    {"id": "Unbatch graphics", "text": ["UNBATCH"]}
+  ]
+}

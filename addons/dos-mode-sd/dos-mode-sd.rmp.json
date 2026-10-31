@@ -51,7 +51,7 @@
     },
     "slides.accessdata": {
       "type": "STRTAB",
-      "data": "addons/dos-mode-sd/cutscene/spins/accessdata.txt"
+      "data": "addons/dos-mode-sd/cutscene/spins/accessdata.json"
     },
     "ship.samatra.graphics.captain": {
       "type": "GFXRES",

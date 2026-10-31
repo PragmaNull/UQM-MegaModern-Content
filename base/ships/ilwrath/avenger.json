@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Ilwrath", "text": ["Ilwrath"]},
+    {"id": "Ilwrath", "text": ["Ilwrath"]},
+    {"id": "Ilwrath", "text": ["Ilwrath"]},
+    {"id": "Avenger", "text": ["Avenger"]},
+    {"id": "Avenger", "text": ["Avenger"]},
+    {"id": "Gorgon", "text": ["Gorgon"]},
+    {"id": "Taragon", "text": ["Taragon"]},
+    {"id": "Kalgon", "text": ["Kalgon"]},
+    {"id": "Borgo", "text": ["Borgo"]},
+    {"id": "Dirga", "text": ["Dirga"]},
+    {"id": "Slygor", "text": ["Slygor"]},
+    {"id": "Rogash", "text": ["Rogash"]},
+    {"id": "Argarak", "text": ["Argarak"]},
+    {"id": "Kayzar", "text": ["Kayzar"]},
+    {"id": "Baylor", "text": ["Baylor"]},
+    {"id": "Zoggak", "text": ["Zoggak"]},
+    {"id": "Targa", "text": ["Targa"]},
+    {"id": "Vogar", "text": ["Vogar"]},
+    {"id": "Lurgo", "text": ["Lurgo"]},
+    {"id": "Regorjo", "text": ["Regorjo"]},
+    {"id": "Manglor", "text": ["Manglor"]},
+    {"id": "ILWRATH", "text": ["ILWRATH"]},
+    {"id": "AVENGER", "text": ["AVENGER"]},
+    {"id": "Desc", "text": ["Large. Devastating flame", "blast. Cloaking device."]}
+  ]
+}

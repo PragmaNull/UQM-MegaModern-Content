@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "DESTROYED_URQUAN_STARBASE", "text": [" ---- REPORT FROM ORBIT ----", "", "THIS HIERARCHY STARBASE HAS BEEN COMPLETELY DESTROYED, CAPTAIN.", "", "  ---- END OF REPORT ----"]},
+    {"id": "DESTROYED_KOHRAH_STARBASE", "text": [" ---- REPORT FROM ORBIT ----", "", "THIS KOHR-AH STARBASE HAS BEEN COMPLETELY DESTROYED, CAPTAIN.", "", "  ---- END OF REPORT ----"]}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "leading": 36,
+  "charSpace": 4,
+  "kernAmount": 4,
+  "vertAlign": 32,
+  "kerning": {
+    ".": [1, 2],
+    "A": [1, 2],
+    "L": [3, 2],
+    "T": [1, 3],
+    "V": [1, 2]
+  }
+}

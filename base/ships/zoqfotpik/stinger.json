@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "ZoqFotPik", "text": ["Zoq-Fot-Pik"]},
+    {"id": "ZoqFot", "text": ["ZoqFot"]},
+    {"id": "ZoqFot", "text": ["ZoqFot"]},
+    {"id": "Stinger", "text": ["Stinger"]},
+    {"id": "Stinger", "text": ["Stinger"]},
+    {"id": "NikNak", "text": ["NikNak"]},
+    {"id": "FipPat", "text": ["FipPat"]},
+    {"id": "DipPak", "text": ["DipPak"]},
+    {"id": "FatPot", "text": ["FatPot"]},
+    {"id": "ZikFat", "text": ["ZikFat"]},
+    {"id": "PukYor", "text": ["PukYor"]},
+    {"id": "TopNik", "text": ["TopNik"]},
+    {"id": "PorKoo", "text": ["PorKoo"]},
+    {"id": "TikTak", "text": ["TikTak"]},
+    {"id": "RinTin", "text": ["RinTin"]},
+    {"id": "FitFap", "text": ["FitFap"]},
+    {"id": "TotToe", "text": ["TotToe"]},
+    {"id": "ZipZak", "text": ["ZipZak"]},
+    {"id": "TikTok", "text": ["TikTok"]},
+    {"id": "MikMok", "text": ["MikMok"]},
+    {"id": "SikSok", "text": ["SikSok"]},
+    {"id": "ZOQFOTPIK", "text": ["|-2|ZOQ-FOT"]},
+    {"id": "STINGER", "text": ["|-3|STINGER"]},
+    {"id": "Desc", "text": ["Small crew. Speedy. Anti-", "matter spray, tongue attack."]}
+  ]
+}

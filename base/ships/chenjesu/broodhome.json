@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Chenjesu", "text": ["Chenjesu"]},
+    {"id": "Chenjesu", "text": ["Chenjesu"]},
+    {"id": "Chenje.", "text": ["Chenje."]},
+    {"id": "Broodhome", "text": ["Broodhome"]},
+    {"id": "Brood.", "text": ["Brood."]},
+    {"id": "Kzzakk", "text": ["Kzzakk"]},
+    {"id": "Tzrrow", "text": ["Tzrrow"]},
+    {"id": "Zzmzmm", "text": ["Zzmzmm"]},
+    {"id": "Vziziz", "text": ["Vziziz"]},
+    {"id": "Hmmhmm", "text": ["Hmmhmm"]},
+    {"id": "Bzrak", "text": ["Bzrak"]},
+    {"id": "Krrtzz", "text": ["Krrtzz"]},
+    {"id": "Zzzzz", "text": ["Zzzzz"]},
+    {"id": "Zxzakz", "text": ["Zxzakz"]},
+    {"id": "Brrzap", "text": ["Brrzap"]},
+    {"id": "Tzaprak", "text": ["Tzaprak"]},
+    {"id": "Pzkrakz", "text": ["Pzkrakz"]},
+    {"id": "Fzzzz", "text": ["Fzzzz"]},
+    {"id": "Vrroww", "text": ["Vrroww"]},
+    {"id": "Zznaz", "text": ["Zznaz"]},
+    {"id": "Zzzhmm", "text": ["Zzzhmm"]},
+    {"id": "CHENJESU", "text": ["CHENJESU"]},
+    {"id": "BROODHOME", "text": ["BROODHOME"]},
+    {"id": "Desc", "text": ["Big. Crystal fragment", "weapon. Breeds pesky doggies."]}
+  ]
+}

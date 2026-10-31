@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Ur-Quan", "text": ["Ur-Quan"]},
+    {"id": "Ur-Quan", "text": ["Ur-Quan"]},
+    {"id": "Ur-Quan", "text": ["Ur-Quan"]},
+    {"id": "Dreadnought", "text": ["Dreadnought"]},
+    {"id": "Dreadnt.", "text": ["Dreadnt."]},
+    {"id": "Lord 999", "text": ["Lord 999"]},
+    {"id": "Lord 342", "text": ["Lord 342"]},
+    {"id": "Lord 88", "text": ["Lord 88"]},
+    {"id": "Lord 156", "text": ["Lord 156"]},
+    {"id": "Lord 43", "text": ["Lord 43"]},
+    {"id": "Lord 412", "text": ["Lord 412"]},
+    {"id": "Lord 666", "text": ["Lord 666"]},
+    {"id": "Lord 18", "text": ["Lord 18"]},
+    {"id": "Lord 237", "text": ["Lord 237"]},
+    {"id": "Lord 89", "text": ["Lord 89"]},
+    {"id": "Lord 3", "text": ["Lord 3"]},
+    {"id": "Lord 476", "text": ["Lord 476"]},
+    {"id": "Lord 103", "text": ["Lord 103"]},
+    {"id": "Lord 783", "text": ["Lord 783"]},
+    {"id": "Lord 52", "text": ["Lord 52"]},
+    {"id": "Lord 21", "text": ["Lord 21"]},
+    {"id": "UR-QUAN", "text": ["UR-QUAN"]},
+    {"id": "DREADNT.", "text": ["DREADNT."]},
+    {"id": "Desc", "text": ["Huge, slow. Heavy weapon.", "Launches fighters."]}
+  ]
+}

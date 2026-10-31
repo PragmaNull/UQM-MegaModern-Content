@@ -199,11 +199,11 @@
     },
     "slides.intro": {
       "type": "STRTAB",
-      "data": "addons/volasaurus-remix-pack/cutscene/intro/intro.txt"
+      "data": "addons/volasaurus-remix-pack/cutscene/intro/intro.json"
     },
     "slides.ending": {
       "type": "STRTAB",
-      "data": "addons/volasaurus-remix-pack/cutscene/ending/ending.txt"
+      "data": "addons/volasaurus-remix-pack/cutscene/ending/ending.json"
     },
     "ship.androsynth.ditty": {
       "type": "MUSICRES",

@@ -721,7 +721,7 @@
     },
     "credits.credits": {
       "type": "STRTAB",
-      "data": "base/cutscene/credits/credits.txt"
+      "data": "base/cutscene/credits/credits.json"
     },
     "credits.font.pt13": {
       "type": "FONTRES",
@@ -1305,7 +1305,7 @@
     },
     "nebula.resource": {
       "type": "STRTAB",
-      "data": "base/nav/nebulae/nebulas.txt"
+      "data": "base/nav/nebulae/nebulas.json"
     },
     "planet.acid.colortable": {
       "type": "BINTAB",
@@ -2573,11 +2573,11 @@
     },
     "ship.androsynth.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/androsynth/guardian.snd"
+      "data": "base/ships/androsynth/guardian.snd.json"
     },
     "ship.androsynth.text": {
       "type": "STRTAB",
-      "data": "base/ships/androsynth/guardian.txt"
+      "data": "base/ships/androsynth/guardian.json"
     },
     "ship.arilou.code": {
       "type": "SHIP",
@@ -2625,11 +2625,11 @@
     },
     "ship.arilou.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/arilou/skiff.snd"
+      "data": "base/ships/arilou/skiff.snd.json"
     },
     "ship.arilou.text": {
       "type": "STRTAB",
-      "data": "base/ships/arilou/skiff.txt"
+      "data": "base/ships/arilou/skiff.json"
     },
     "ship.chenjesu.code": {
       "type": "SHIP",
@@ -2689,11 +2689,11 @@
     },
     "ship.chenjesu.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/chenjesu/broodhome.snd"
+      "data": "base/ships/chenjesu/broodhome.snd.json"
     },
     "ship.chenjesu.text": {
       "type": "STRTAB",
-      "data": "base/ships/chenjesu/broodhome.txt"
+      "data": "base/ships/chenjesu/broodhome.json"
     },
     "ship.chmmr.code": {
       "type": "SHIP",
@@ -2753,11 +2753,11 @@
     },
     "ship.chmmr.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/chmmr/avatar.snd"
+      "data": "base/ships/chmmr/avatar.snd.json"
     },
     "ship.chmmr.text": {
       "type": "STRTAB",
-      "data": "base/ships/chmmr/avatar.txt"
+      "data": "base/ships/chmmr/avatar.json"
     },
     "ship.drone.code": {
       "type": "SHIP",
@@ -2813,11 +2813,11 @@
     },
     "ship.druuge.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/druuge/mauler.snd"
+      "data": "base/ships/druuge/mauler.snd.json"
     },
     "ship.druuge.text": {
       "type": "STRTAB",
-      "data": "base/ships/druuge/mauler.txt"
+      "data": "base/ships/druuge/mauler.json"
     },
     "ship.earthling.code": {
       "type": "SHIP",
@@ -2865,11 +2865,11 @@
     },
     "ship.earthling.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/human/cruiser.snd"
+      "data": "base/ships/human/cruiser.snd.json"
     },
     "ship.earthling.text": {
       "type": "STRTAB",
-      "data": "base/ships/human/cruiser.txt"
+      "data": "base/ships/human/cruiser.json"
     },
     "ship.flagship.code": {
       "type": "SHIP",
@@ -2933,7 +2933,7 @@
     },
     "ship.flagship.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/flagship/flagship.snd"
+      "data": "base/ships/flagship/flagship.snd.json"
     },
     "ship.ilwrath.code": {
       "type": "SHIP",
@@ -2981,11 +2981,11 @@
     },
     "ship.ilwrath.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/ilwrath/avenger.snd"
+      "data": "base/ships/ilwrath/avenger.snd.json"
     },
     "ship.ilwrath.text": {
       "type": "STRTAB",
-      "data": "base/ships/ilwrath/avenger.txt"
+      "data": "base/ships/ilwrath/avenger.json"
     },
     "ship.kohrah.code": {
       "type": "SHIP",
@@ -3045,11 +3045,11 @@
     },
     "ship.kohrah.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/kohrah/marauder.snd"
+      "data": "base/ships/kohrah/marauder.snd.json"
     },
     "ship.kohrah.text": {
       "type": "STRTAB",
-      "data": "base/ships/kohrah/marauder.txt"
+      "data": "base/ships/kohrah/marauder.json"
     },
     "ship.melnorme.code": {
       "type": "SHIP",
@@ -3109,11 +3109,11 @@
     },
     "ship.melnorme.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/melnorme/trader.snd"
+      "data": "base/ships/melnorme/trader.snd.json"
     },
     "ship.melnorme.text": {
       "type": "STRTAB",
-      "data": "base/ships/melnorme/trader.txt"
+      "data": "base/ships/melnorme/trader.json"
     },
     "ship.mmrnmhrm.code": {
       "type": "SHIP",
@@ -3177,11 +3177,11 @@
     },
     "ship.mmrnmhrm.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/mmrnmhrm/xform.snd"
+      "data": "base/ships/mmrnmhrm/xform.snd.json"
     },
     "ship.mmrnmhrm.text": {
       "type": "STRTAB",
-      "data": "base/ships/mmrnmhrm/xform.txt"
+      "data": "base/ships/mmrnmhrm/xform.json"
     },
     "ship.mycon.code": {
       "type": "SHIP",
@@ -3229,11 +3229,11 @@
     },
     "ship.mycon.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/mycon/podship.snd"
+      "data": "base/ships/mycon/podship.snd.json"
     },
     "ship.mycon.text": {
       "type": "STRTAB",
-      "data": "base/ships/mycon/podship.txt"
+      "data": "base/ships/mycon/podship.json"
     },
     "ship.orz.code": {
       "type": "SHIP",
@@ -3293,11 +3293,11 @@
     },
     "ship.orz.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/orz/nemesis.snd"
+      "data": "base/ships/orz/nemesis.snd.json"
     },
     "ship.orz.text": {
       "type": "STRTAB",
-      "data": "base/ships/orz/nemesis.txt"
+      "data": "base/ships/orz/nemesis.json"
     },
     "ship.pkunk.code": {
       "type": "SHIP",
@@ -3345,11 +3345,11 @@
     },
     "ship.pkunk.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/pkunk/fury.snd"
+      "data": "base/ships/pkunk/fury.snd.json"
     },
     "ship.pkunk.text": {
       "type": "STRTAB",
-      "data": "base/ships/pkunk/fury.txt"
+      "data": "base/ships/pkunk/fury.json"
     },
     "ship.samatra.code": {
       "type": "SHIP",
@@ -3397,7 +3397,7 @@
     },
     "ship.samatra.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/samatra/samatra.snd"
+      "data": "base/ships/samatra/samatra.snd.json"
     },
     "ship.shofixti.code": {
       "type": "SHIP",
@@ -3477,11 +3477,11 @@
     },
     "ship.shofixti.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/shofixti/scout.snd"
+      "data": "base/ships/shofixti/scout.snd.json"
     },
     "ship.shofixti.text": {
       "type": "STRTAB",
-      "data": "base/ships/shofixti/scout.txt"
+      "data": "base/ships/shofixti/scout.json"
     },
     "ship.slylandro.code": {
       "type": "SHIP",
@@ -3517,11 +3517,11 @@
     },
     "ship.slylandro.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/slylandro/probe.snd"
+      "data": "base/ships/slylandro/probe.snd.json"
     },
     "ship.slylandro.text": {
       "type": "STRTAB",
-      "data": "base/ships/slylandro/probe.txt"
+      "data": "base/ships/slylandro/probe.json"
     },
     "ship.spathi.code": {
       "type": "SHIP",
@@ -3581,11 +3581,11 @@
     },
     "ship.spathi.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/spathi/eluder.snd"
+      "data": "base/ships/spathi/eluder.snd.json"
     },
     "ship.spathi.text": {
       "type": "STRTAB",
-      "data": "base/ships/spathi/eluder.txt"
+      "data": "base/ships/spathi/eluder.json"
     },
     "ship.supox.code": {
       "type": "SHIP",
@@ -3633,11 +3633,11 @@
     },
     "ship.supox.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/supox/blade.snd"
+      "data": "base/ships/supox/blade.snd.json"
     },
     "ship.supox.text": {
       "type": "STRTAB",
-      "data": "base/ships/supox/blade.txt"
+      "data": "base/ships/supox/blade.json"
     },
     "ship.syreen.code": {
       "type": "SHIP",
@@ -3685,11 +3685,11 @@
     },
     "ship.syreen.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/syreen/penetrator.snd"
+      "data": "base/ships/syreen/penetrator.snd.json"
     },
     "ship.syreen.text": {
       "type": "STRTAB",
-      "data": "base/ships/syreen/penetrator.txt"
+      "data": "base/ships/syreen/penetrator.json"
     },
     "ship.thraddash.code": {
       "type": "SHIP",
@@ -3749,11 +3749,11 @@
     },
     "ship.thraddash.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/thraddash/torch.snd"
+      "data": "base/ships/thraddash/torch.snd.json"
     },
     "ship.thraddash.text": {
       "type": "STRTAB",
-      "data": "base/ships/thraddash/torch.txt"
+      "data": "base/ships/thraddash/torch.json"
     },
     "ship.umgah.code": {
       "type": "SHIP",
@@ -3805,11 +3805,11 @@
     },
     "ship.umgah.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/umgah/drone.snd"
+      "data": "base/ships/umgah/drone.snd.json"
     },
     "ship.umgah.text": {
       "type": "STRTAB",
-      "data": "base/ships/umgah/drone.txt"
+      "data": "base/ships/umgah/drone.json"
     },
     "ship.urquan.code": {
       "type": "SHIP",
@@ -3869,11 +3869,11 @@
     },
     "ship.urquan.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/urquan/dreadnought.snd"
+      "data": "base/ships/urquan/dreadnought.snd.json"
     },
     "ship.urquan.text": {
       "type": "STRTAB",
-      "data": "base/ships/urquan/dreadnought.txt"
+      "data": "base/ships/urquan/dreadnought.json"
     },
     "ship.utwig.code": {
       "type": "SHIP",
@@ -3921,11 +3921,11 @@
     },
     "ship.utwig.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/utwig/jugger.snd"
+      "data": "base/ships/utwig/jugger.snd.json"
     },
     "ship.utwig.text": {
       "type": "STRTAB",
-      "data": "base/ships/utwig/jugger.txt"
+      "data": "base/ships/utwig/jugger.json"
     },
     "ship.vux.code": {
       "type": "SHIP",
@@ -3977,11 +3977,11 @@
     },
     "ship.vux.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/vux/intruder.snd"
+      "data": "base/ships/vux/intruder.snd.json"
     },
     "ship.vux.text": {
       "type": "STRTAB",
-      "data": "base/ships/vux/intruder.txt"
+      "data": "base/ships/vux/intruder.json"
     },
     "ship.yehat.code": {
       "type": "SHIP",
@@ -4041,11 +4041,11 @@
     },
     "ship.yehat.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/yehat/terminator.snd"
+      "data": "base/ships/yehat/terminator.snd.json"
     },
     "ship.yehat.text": {
       "type": "STRTAB",
-      "data": "base/ships/yehat/terminator.txt"
+      "data": "base/ships/yehat/terminator.json"
     },
     "ship.zoqfotpik.code": {
       "type": "SHIP",
@@ -4105,239 +4105,239 @@
     },
     "ship.zoqfotpik.sounds": {
       "type": "SNDRES",
-      "data": "base/ships/zoqfotpik/stinger.snd"
+      "data": "base/ships/zoqfotpik/stinger.snd.json"
     },
     "ship.zoqfotpik.text": {
       "type": "STRTAB",
-      "data": "base/ships/zoqfotpik/stinger.txt"
+      "data": "base/ships/zoqfotpik/stinger.json"
     },
     "slides.accessdata": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/accessdata.txt"
+      "data": "base/cutscene/spins/accessdata.json"
     },
     "slides.deathmarch": {
       "type": "STRTAB",
-      "data": "base/cutscene/gameover/deathmarch.txt"
+      "data": "base/cutscene/gameover/deathmarch.json"
     },
     "slides.defeated": {
       "type": "STRTAB",
-      "data": "base/cutscene/gameover/defeated.txt"
+      "data": "base/cutscene/gameover/defeated.json"
     },
     "slides.ending": {
       "type": "STRTAB",
-      "data": "base/cutscene/ending/ending.txt"
+      "data": "base/cutscene/ending/ending.json"
     },
     "slides.intro": {
       "type": "STRTAB",
-      "data": "base/cutscene/intro/intro.txt"
+      "data": "base/cutscene/intro/intro.json"
     },
     "slides.logo": {
       "type": "STRTAB",
-      "data": "base/cutscene/logo/logo.txt"
+      "data": "base/cutscene/logo/logo.json"
     },
     "slides.reload": {
       "type": "STRTAB",
-      "data": "base/cutscene/reload/reload.txt"
+      "data": "base/cutscene/reload/reload.json"
     },
     "slides.suicide": {
       "type": "STRTAB",
-      "data": "base/cutscene/gameover/suicide.txt"
+      "data": "base/cutscene/gameover/suicide.json"
     },
     "slides.surrendered": {
       "type": "STRTAB",
-      "data": "base/cutscene/gameover/surrendered.txt"
+      "data": "base/cutscene/gameover/surrendered.json"
     },
     "slides.spins.00": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship00.txt"
+      "data": "base/cutscene/spins/ship00.json"
     },
     "slides.spins.01": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship01.txt"
+      "data": "base/cutscene/spins/ship01.json"
     },
     "slides.spins.02": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship02.txt"
+      "data": "base/cutscene/spins/ship02.json"
     },
     "slides.spins.03": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship03.txt"
+      "data": "base/cutscene/spins/ship03.json"
     },
     "slides.spins.04": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship04.txt"
+      "data": "base/cutscene/spins/ship04.json"
     },
     "slides.spins.05": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship05.txt"
+      "data": "base/cutscene/spins/ship05.json"
     },
     "slides.spins.06": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship06.txt"
+      "data": "base/cutscene/spins/ship06.json"
     },
     "slides.spins.07": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship07.txt"
+      "data": "base/cutscene/spins/ship07.json"
     },
     "slides.spins.08": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship08.txt"
+      "data": "base/cutscene/spins/ship08.json"
     },
     "slides.spins.09": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship09.txt"
+      "data": "base/cutscene/spins/ship09.json"
     },
     "slides.spins.10": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship10.txt"
+      "data": "base/cutscene/spins/ship10.json"
     },
     "slides.spins.11": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship11.txt"
+      "data": "base/cutscene/spins/ship11.json"
     },
     "slides.spins.12": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship12.txt"
+      "data": "base/cutscene/spins/ship12.json"
     },
     "slides.spins.13": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship13.txt"
+      "data": "base/cutscene/spins/ship13.json"
     },
     "slides.spins.14": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship14.txt"
+      "data": "base/cutscene/spins/ship14.json"
     },
     "slides.spins.15": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship15.txt"
+      "data": "base/cutscene/spins/ship15.json"
     },
     "slides.spins.16": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship16.txt"
+      "data": "base/cutscene/spins/ship16.json"
     },
     "slides.spins.17": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship17.txt"
+      "data": "base/cutscene/spins/ship17.json"
     },
     "slides.spins.18": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship18.txt"
+      "data": "base/cutscene/spins/ship18.json"
     },
     "slides.spins.19": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship19.txt"
+      "data": "base/cutscene/spins/ship19.json"
     },
     "slides.spins.20": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship20.txt"
+      "data": "base/cutscene/spins/ship20.json"
     },
     "slides.spins.21": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship21.txt"
+      "data": "base/cutscene/spins/ship21.json"
     },
     "slides.spins.22": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship22.txt"
+      "data": "base/cutscene/spins/ship22.json"
     },
     "slides.spins.23": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship23.txt"
+      "data": "base/cutscene/spins/ship23.json"
     },
     "slides.spins.24": {
       "type": "STRTAB",
-      "data": "base/cutscene/spins/ship24.txt"
+      "data": "base/cutscene/spins/ship24.json"
     },
     "sounds.battle": {
       "type": "SNDRES",
-      "data": "base/battle/battle.snd"
+      "data": "base/battle/battle.snd.json"
     },
     "sounds.lander": {
       "type": "SNDRES",
-      "data": "base/lander/lander.snd"
+      "data": "base/lander/lander.snd.json"
     },
     "sounds.menu": {
       "type": "SNDRES",
-      "data": "base/ui/menu.snd"
+      "data": "base/ui/menu.snd.json"
     },
     "sounds.test": {
       "type": "SNDRES",
-      "data": "base/ui/test.snd"
+      "data": "base/ui/test.snd.json"
     },
     "sounds.tune": {
       "type": "SNDRES",
-      "data": "base/nav/tune.snd"
+      "data": "base/nav/tune.snd.json"
     },
     "text.algoliteruins": {
       "type": "STRTAB",
-      "data": "base/lander/energy/algoliteruins.txt"
+      "data": "base/lander/energy/algoliteruins.json"
     },
     "text.androsynthruins": {
       "type": "STRTAB",
-      "data": "base/lander/energy/androsynth_ruins.txt"
+      "data": "base/lander/energy/androsynth_ruins.json"
     },
     "text.aquahelix": {
       "type": "STRTAB",
-      "data": "base/lander/energy/aquahelix.txt"
+      "data": "base/lander/energy/aquahelix.json"
     },
     "text.burvixcaster": {
       "type": "STRTAB",
-      "data": "base/lander/energy/burvixcaster.txt"
+      "data": "base/lander/energy/burvixcaster.json"
     },
     "text.burvixeseruins": {
       "type": "STRTAB",
-      "data": "base/lander/energy/burvixeseruins.txt"
+      "data": "base/lander/energy/burvixeseruins.json"
     },
     "text.chmmrbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/chmmrbase.txt"
+      "data": "base/lander/energy/chmmrbase.json"
     },
     "text.chmmrhome": {
       "type": "STRTAB",
-      "data": "base/lander/energy/chmmrhome.txt"
+      "data": "base/lander/energy/chmmrhome.json"
     },
     "text.destroyedbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/destroyedbase.txt"
+      "data": "base/lander/energy/destroyedbase.json"
     },
     "text.eggcase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/eggcase.txt"
+      "data": "base/lander/energy/eggcase.json"
     },
     "text.excavationsite": {
       "type": "STRTAB",
-      "data": "base/lander/energy/excavationsite.txt"
+      "data": "base/lander/energy/excavationsite.json"
     },
     "text.fwiffo": {
       "type": "STRTAB",
-      "data": "base/lander/energy/fwiffo.txt"
+      "data": "base/lander/energy/fwiffo.json"
     },
     "text.earthbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/earthbase.txt"
+      "data": "base/lander/energy/earthbase.json"
     },
     "text.joyalpha": {
       "type": "STRTAB",
-      "data": "base/ui/joyalpha.txt"
+      "data": "base/ui/joyalpha.json"
     },
     "text.maidens": {
       "type": "STRTAB",
-      "data": "base/lander/energy/maidens.txt"
+      "data": "base/lander/energy/maidens.json"
     },
     "text.moonbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/moonbase.txt"
+      "data": "base/lander/energy/moonbase.json"
     },
     "text.motherark": {
       "type": "STRTAB",
-      "data": "base/lander/energy/motherark.txt"
+      "data": "base/lander/energy/motherark.json"
     },
     "text.precursorbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/precursorbase.txt"
+      "data": "base/lander/energy/precursorbase.json"
     },
     "text.ruins": {
       "type": "STRTAB",
-      "data": "base/lander/energy/ruins.txt"
+      "data": "base/lander/energy/ruins.json"
     },
     "ui.setupmenu": {
       "type": "STRING",
@@ -4345,71 +4345,71 @@
     },
     "text.shofixtibase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/shofixtibase.txt"
+      "data": "base/lander/energy/shofixtibase.json"
     },
     "text.spathimonument": {
       "type": "STRTAB",
-      "data": "base/lander/energy/spathimonument.txt"
+      "data": "base/lander/energy/spathimonument.json"
     },
     "text.sphere": {
       "type": "STRTAB",
-      "data": "base/lander/energy/sphere.txt"
+      "data": "base/lander/energy/sphere.json"
     },
     "text.spindle": {
       "type": "STRTAB",
-      "data": "base/lander/energy/spindle.txt"
+      "data": "base/lander/energy/spindle.json"
     },
     "text.starcon": {
       "type": "STRTAB",
-      "data": "base/gamestrings.txt"
+      "data": "base/gamestrings.json"
     },
     "text.stele": {
       "type": "STRTAB",
-      "data": "base/lander/energy/stele.txt"
+      "data": "base/lander/energy/stele.json"
     },
     "text.sundevice": {
       "type": "STRTAB",
-      "data": "base/lander/energy/sundevice.txt"
+      "data": "base/lander/energy/sundevice.json"
     },
     "text.syreenvault": {
       "type": "STRTAB",
-      "data": "base/lander/energy/syreenvault.txt"
+      "data": "base/lander/energy/syreenvault.json"
     },
     "text.syreenbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/syreenbase.txt"
+      "data": "base/lander/energy/syreenbase.json"
     },
     "text.taalodevice": {
       "type": "STRTAB",
-      "data": "base/lander/energy/taalodevice.txt"
+      "data": "base/lander/energy/taalodevice.json"
     },
     "text.ultron": {
       "type": "STRTAB",
-      "data": "base/lander/energy/ultron.txt"
+      "data": "base/lander/energy/ultron.json"
     },
     "text.umgahcaster": {
       "type": "STRTAB",
-      "data": "base/lander/energy/umgahcaster.txt"
+      "data": "base/lander/energy/umgahcaster.json"
     },
     "text.urquanbase": {
       "type": "STRTAB",
-      "data": "base/lander/energy/urquanbase.txt"
+      "data": "base/lander/energy/urquanbase.json"
     },
     "text.urquanwreck": {
       "type": "STRTAB",
-      "data": "base/lander/energy/urquanwreck.txt"
+      "data": "base/lander/energy/urquanwreck.json"
     },
     "text.utwigbomb": {
       "type": "STRTAB",
-      "data": "base/lander/energy/utwigbomb.txt"
+      "data": "base/lander/energy/utwigbomb.json"
     },
     "text.vuxbeast": {
       "type": "STRTAB",
-      "data": "base/lander/bio/vuxbeast.txt"
+      "data": "base/lander/bio/vuxbeast.json"
     },
     "text.zfpcolony": {
       "type": "STRTAB",
-      "data": "base/lander/energy/zfpcolony.txt"
+      "data": "base/lander/energy/zfpcolony.json"
     }
   }
 }

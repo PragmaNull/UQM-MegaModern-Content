@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "strings": [
+    {"id": "Clear entire screen first; set size...", "text": ["DIMS 320 240"]},
+    {"id": "... and clear", "text": ["CLS"]},
+    {"id": "Set sequence dimensions; param1=width; param2=height", "text": ["DIMS 320 200"]},
+    {"id": "Everything is drawn within the clipping rect defined by DIMS, from 0, 0", "text": [""]},
+    {"id": "Fade all to black; param1=fade time", "text": ["FTB 0"]},
+    {"id": "Load movie", "text": ["ANI1X base/cutscene/reload/reload.ani.json"]},
+    {"id": "Load movie", "text": ["ANI4X addons/mm-hd/cutscene/reload/reload.ani.json"]},
+    {"id": "Draw slide; param1=ANI index", "text": ["DRAW 0"]},
+    {"id": "Fade-in a slide; param1=fade time", "text": ["FTC 500"]}
+  ]
+}
