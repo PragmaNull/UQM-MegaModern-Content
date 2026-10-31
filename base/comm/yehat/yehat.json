@@ -1,0 +1,594 @@
+{
+  "version": 1,
+  "conversation": "yehat",
+  "lines": [
+    {
+      "id": "HOMEWORLD_HELLO_1",
+      "clip": "yehat-000.ogg",
+      "text": [
+        "It is sure and a true thing that the alien interloper has now been warned",
+        "not to approach Caer Zeep-Reep, the Queen's High Perch",
+        "lest it be blasted without further warning!"
+      ]
+    },
+    {
+      "id": "HOMEWORLD_HELLO_2",
+      "clip": "yehat-001.ogg",
+      "text": [
+        "It is a shocking thing to see the return of the human renegade!",
+        "One knows this will not be boding well with her Majesty today."
+      ]
+    },
+    {
+      "id": "whats_up_homeworld",
+      "text": [
+        "What has happened in the twenty years since our species last met?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_HOMEWORLD_1",
+      "clip": "yehat-002.ogg",
+      "text": [
+        "It is a wondering thought that crosses my mind human starship Captain.",
+        "Are ye not knowing that the cause of our Queen and empire",
+        "is now allied with the fortunes of the mighty Ur-Quan?...",
+        "...and that yer presence here is being only the end of yer life?",
+        "Haven't ye got the sense, human, to know this simple thing?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_HOMEWORLD_2",
+      "clip": "yehat-003.ogg",
+      "text": [
+        "Ye are asking the words of a mindless child, human!",
+        "Here, in the Hall of the Queen's High Perch",
+        "ye shall not be finding the sympathies ye so vainly seek.",
+        "There are none here but the nobles and battlemasters of the Yehat Clans.",
+        "It is a sure thing that we will not be casting flower petals in yer path of rebellion."
+      ]
+    },
+    {
+      "id": "i_demand_you_ally_homeworld",
+      "text": [
+        "I, <% state.sis.getCaptainName() %>, of <% comm.getPhrase(\"name_\" .. (state.prop.get(\"NEW_ALLIANCE_NAME\") + 1)) %>, commanding the <% state.sis.getShipName() %>, demand that you uphold your duties as allies of the human species!"
+      ]
+    },
+    {
+      "id": "ENEMY_MUST_DIE",
+      "clip": "yehat-004.ogg",
+      "text": [
+        "Are ye DAFT human!? Have ye not heard our words?",
+        "You and yer kind are slaves, just as we",
+        "but you humans have been confined within a shield of slaves!",
+        "To be found outside this selfsame shield is surely yer own doom!",
+        "It is NOT a permitted thing fer ye to be a-travelling through space",
+        "and now, we must be conforming to our Queen's oath to the Ur-Quan.",
+        "We must be getting about the business of killing you!"
+      ]
+    },
+    {
+      "id": "at_least_help_us_homeworld",
+      "text": [
+        "You must help us. Surely you owe us this much, at least!"
+      ]
+    },
+    {
+      "id": "NO_HELP_ENEMY",
+      "clip": "yehat-005.ogg",
+      "text": [
+        "It is an unbelievable thing!",
+        "Ye speak the words that ruffle our feathers and cause our blood to boil!",
+        "We, the loyal servants of our Queen, bless her Beak, will not be helping the likes of you",
+        "or any of the traitor Yehat bastards ye may have found among the ranks of the starship Clans!"
+      ]
+    },
+    {
+      "id": "give_info",
+      "text": [
+        "Surely giving us some scraps of information would be okay, wouldn't it?"
+      ]
+    },
+    {
+      "id": "NO_INFO_FOR_ENEMY",
+      "clip": "yehat-006.ogg",
+      "text": [
+        "Our Queen has spoken the commands to us, and we are obeying her words!",
+        "No assistance, of any kind at all, shall be given to you, human",
+        "so do not be making the assumptions, that ye know a right thing from a wrong!",
+        "Are ye smarter than the Queen, is that what yer saying, human?",
+        "We shall not be giving ye a SCRAP OF MEAT!... much less our secrets."
+      ]
+    },
+    {
+      "id": "what_about_pkunk_royalist",
+      "text": [
+        "We have encountered an offshoot of your species, the Pkunk. Tell us about them."
+      ]
+    },
+    {
+      "id": "PKUNK_ABSORBED_ROYALIST",
+      "clip": "yehat-007.ogg",
+      "text": [
+        "The Pkunk have been absorbed.",
+        "They are no more. This is how it should be.",
+        "Now the matter is settled, human. Do not be bringing it up again..."
+      ]
+    },
+    {
+      "id": "HATE_PKUNK_ROYALIST",
+      "clip": "yehat-008.ogg",
+      "text": [
+        "The cowards live?!! This is unbelievable!!",
+        "It is a SAD, SAD day to be hearing this thing from ye, human.",
+        "The P... the Pku... I canna even say their vile name!",
+        "The Pku... PKU-NK! are the greatest embarrassment our species has ever suffered!",
+        "Do not be calling these wretched creatures an offshoot of our species!",
+        "Better it is that ye be calling them GARBAGE or DROPPINGS!",
+        "Or better yet do not be talking about them at all!"
+      ]
+    },
+    {
+      "id": "bye_homeworld",
+      "text": [
+        "You disappoint us. We expected more from you. Goodbye."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_HOMEWORLD",
+      "clip": "yehat-009.ogg",
+      "text": [
+        "So human, now ye be thinking that ye shall slink away",
+        "to commit some vile treason and dirty our Queen's good name. Isn't this true?",
+        "Do not be answering! We know the truth.",
+        "We will not let ye pass!"
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_1",
+      "clip": "yehat-010.ogg",
+      "text": [
+        "What am I seeing on my view screen!?",
+        "It is none other than the flattened old face of our friends the human!",
+        "But old ally, are ye not knowing that we, the Yehat are allied with the Ur-Quan now?...",
+        "and yer presence outside the slave shield, and in an armed starship",
+        "are clear violations of yer Oath of Fealty?!",
+        "Whatever shall we do? It just isn't a right thing to kill you, human,",
+        "...but as a loyal member of my Clan, I must obey the wishes of our Queen!"
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_2",
+      "clip": "yehat-011.ogg",
+      "text": [
+        "Human, what are you doing back here!? Are you totally off yer perch!?",
+        "We have sympathies fer yer cause, tis true",
+        "but we must obey the orders of our Queen, however much we may disagree with them!"
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_3",
+      "clip": "yehat-012.ogg",
+      "text": [
+        "Human! I am beginning to think that ye are touched, fer sure!",
+        "Ye tempt fate and our sympathy too much, I think.",
+        "This time, perhaps we cannot be as much yer friends as ye would like."
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_4",
+      "clip": "yehat-013.ogg",
+      "text": [
+        "Human! Human. You try our souls with yer return!",
+        "What is it ye be wanting now?"
+      ]
+    },
+    {
+      "id": "whats_up_space_1",
+      "text": [
+        "We should be allies... friends! Explain why this cannot be."
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_SPACE_1",
+      "clip": "yehat-014.ogg",
+      "text": [
+        "Your words are flying in the face of the facts, human.",
+        "We are no longer being your allies.",
+        "But unlike the nobles of our homeworld, we, of the Starship Clans",
+        "are bereaved at this course of events.",
+        "The Queen's decision to be joining the Hierarchy, pains us!"
+      ]
+    },
+    {
+      "id": "whats_up_space_2",
+      "text": [
+        "How did the Ur-Quan defeat you? What happened?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_SPACE_2",
+      "clip": "yehat-015.ogg",
+      "text": [
+        "WE - WERE - NOT - DEFEATED, HUMAN!!!!",
+        "Never! Never in the two-thousand years of the Veep-Neep Queens",
+        "have the Yehat ever, EVER suffered a defeat!",
+        "It is this fact ALONE that is making our loyalty to the Queen so strong!",
+        "This is the unbreakable bond that keeps the Clans together!",
+        "When the Ur-Quan were entering our home star system at <% comm.getStarName(\"Gamma Serpentis\", \"yehat\") %>...",
+        "...we had a thousand starships prepared to defend our home",
+        "and then... the Queen... She... she",
+        "allied with the Ur-Quan",
+        "and the fight is over before it is even begun. AWK!"
+      ]
+    },
+    {
+      "id": "whats_up_space_3",
+      "text": [
+        "What about your legendary honor? Your courage? What would the Shofixti think?!"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_SPACE_3",
+      "clip": "yehat-016.ogg",
+      "text": [
+        "(sob!)... (whimper) We have fallen so far. (sob!)",
+        "We are not being the same (whimper!) great birds of prey your people were once knowing and trusting.",
+        "We have each betrayed the honor of our Clan, (whimper!)... just as our Queen",
+        "is betraying each of us with her association with the Ur-Quan...",
+        "If the valiant child species, the (sob-gulp!)... Shofixti were being here today",
+        "the shame!... Oh the shame!... it would be unbearable!",
+        "(whimper!)... awk!"
+      ]
+    },
+    {
+      "id": "whats_up_space_4",
+      "text": [
+        "Aren't you just slaves to the Ur-Quan?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_SPACE_4",
+      "clip": "yehat-017.ogg",
+      "text": [
+        "NO!  WE ARE NOT SLAVES!! WE ARE!... We are!... we are...",
+        "Battle Thralls."
+      ]
+    },
+    {
+      "id": "i_demand_you_ally_space",
+      "text": [
+        "By your honor, Yehat captain, I, <% state.sis.getCaptainName() %>, master of the <% state.sis.getShipName() %>, in the name of <% comm.getPhrase(\"name_\" .. (state.prop.get(\"NEW_ALLIANCE_NAME\") + 1)) %> call upon the Starship Clans to honor their word and fight for our cause!"
+      ]
+    },
+    {
+      "id": "WE_CANNOT_1",
+      "clip": "yehat-018.ogg",
+      "text": [
+        "As much as my heart cries to aid ye, valiant human, I cannot!",
+        "Each of us is sworn first to our Queen who",
+        "has commanded us to treat ye as an enemy of the Crown!"
+      ]
+    },
+    {
+      "id": "obligation",
+      "text": [
+        "Your species' obligation cannot simply be forgotten! What about your honor, your pride!?"
+      ]
+    },
+    {
+      "id": "WE_CANNOT_2",
+      "clip": "yehat-019.ogg",
+      "text": [
+        "Can't ye see that ye are killing me human?",
+        "The shame!... the awful shame of it!",
+        "What ye say is true, we SHOULD be under the same wing",
+        "but DAMN YER EYES!... our Queen has given the Ur-Quan our allegiance",
+        "and there is nothing I can be doing about it now!"
+      ]
+    },
+    {
+      "id": "at_least_help_us_space",
+      "text": [
+        "At least help us with materials for our struggle!"
+      ]
+    },
+    {
+      "id": "SORRY_CANNOT",
+      "clip": "yehat-020.ogg",
+      "text": [
+        "We cannot!",
+        "To be doing so would be a direct violation of our royal Queen's commands!"
+      ]
+    },
+    {
+      "id": "dishonor",
+      "text": [
+        "Think Yehat. The sheer dishonor of it all."
+      ]
+    },
+    {
+      "id": "HERES_A_HINT",
+      "clip": "yehat-021.ogg",
+      "text": [
+        "We cannot be giving ye material aid, Captain.",
+        "But perhaps ye can make use of this information, Captain.",
+        "When we were fighting the Great War against the Mycons",
+        "we encountered a number of odd worlds which seemed to be having their crust shattered.",
+        "Molten lava ran across the surface in huge rivers, and dense metallic elements were abundant.",
+        "But the strangest world we found was the first planet at the star at coordinates <% comm.getPoint(\"639.5 : 231.2\", \"sun device\") %>.",
+        "The Mycons were guarding this planet with an almost limitless number of their Podships",
+        "as though there were something of great value there.",
+        "We could never break through their forces, though we destroyed scores of their ships.",
+        "Perhaps, if ye fare better than us, or can somehow trick the Mycons to let ye land",
+        "you may discover this secret, and it may help ye in yer quest."
+      ]
+    },
+    {
+      "id": "what_about_pkunk_space",
+      "text": [
+        "Tell us about the Pkunk."
+      ]
+    },
+    {
+      "id": "PKUNK_ABSORBED_SPACE",
+      "clip": "yehat-022.ogg",
+      "text": [
+        "This is a matter for the Yehat, human, and ONLY for the Yehat.",
+        "The Pkunk have been absorbed... and that is being the end of it.",
+        "Do not ask further about this matter."
+      ]
+    },
+    {
+      "id": "HATE_PKUNK_SPACE",
+      "clip": "yehat-023.ogg",
+      "text": [
+        "You have met them!?? The wretched creatures are alive?!!",
+        "You should be telling us where they are, Captain!",
+        "Tell us so that we can be correcting the mistake made a thousand years ago",
+        "when we permitted the Pkunk to leave our Nest alive.",
+        "By all rights, we should have eliminated the craven cowards down to the last bird!"
+      ]
+    },
+    {
+      "id": "bye_space",
+      "text": [
+        "Goodbye Yehat... our allies and friends."
+      ]
+    },
+    {
+      "id": "GO_IN_PEACE",
+      "clip": "yehat-024.ogg",
+      "text": [
+        "Though honoring our past commitment we are not,",
+        "we will be letting you go in peace."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_SPACE",
+      "clip": "yehat-025.ogg",
+      "text": [
+        "You are causing us sorrow, human, sorrow indeed,",
+        "because now we must obey the commands of our Queen and destroy you."
+      ]
+    },
+    {
+      "id": "shofixti_alive_1",
+      "text": [
+        "This may come as a shock, but the Shofixti are reborn."
+      ]
+    },
+    {
+      "id": "shofixti_alive_2",
+      "text": [
+        "We have a Shofixti Captain here with us. Now do you believe?"
+      ]
+    },
+    {
+      "id": "SEND_HIM_OVER_1",
+      "clip": "yehat-026.ogg",
+      "text": [
+        "If this is being a true thing, there will be many changes.",
+        "But we are a species long wise in the ways of deceit.",
+        "Ye must be proving these words ye say, Captain.",
+        "Send the Shofixti to us as a way of proof."
+      ]
+    },
+    {
+      "id": "SEND_HIM_OVER_2",
+      "clip": "yehat-027.ogg",
+      "text": [
+        "Ye are lying to us once, Captain. Now we need the hard evidence.",
+        "Order yer supposed Shofixti to come to us, Captain."
+      ]
+    },
+    {
+      "id": "not_here",
+      "text": [
+        "Well I don't have one right HERE."
+      ]
+    },
+    {
+      "id": "not_send",
+      "text": [
+        "I will not subject one of my officers to such danger. How do I know you won't just kill him?"
+      ]
+    },
+    {
+      "id": "JUST_A_TRICK_1",
+      "clip": "yehat-028.ogg",
+      "text": [
+        "It is a trick then, isn't it! And nothing more.",
+        "Human, we have been patient with ye up to this point, but now ye have gone too far.",
+        "Ye have most skillfully rubbed the salt into our wounds, and ye shall pay fer it in blood!"
+      ]
+    },
+    {
+      "id": "JUST_A_TRICK_2",
+      "clip": "yehat-029.ogg",
+      "text": [
+        "Another TRICK!",
+        "Yer lying tongue has doomed ye!"
+      ]
+    },
+    {
+      "id": "ok_send",
+      "text": [
+        "All right, I'll send over the Shofixti... but don't mess with him, okay?"
+      ]
+    },
+    {
+      "id": "WE_REVOLT",
+      "clip": "yehat-030.ogg",
+      "text": [
+        "We are scanning the separation of a vessel from yer fleet, Captain",
+        "and indeed, its configuration matches that of a Shofixti Scout vessel.",
+        "This had better not be a trick, Captain!",
+        "We are knowing the power of a Glory Device, and if you detonate the weapon near us",
+        "the price for you shall be dear, very dear.",
+        "The Scout has docked, and we await the pilot's appearance at the airlock.",
+        "The atmosphere cycle is complete... the door slides open... and",
+        "IT IS TRUE!!! THE SHOFIXTI ARE ALIVE!!!",
+        "Look at that furred muzzle, those shining black eyes, the sweet claws!",
+        "Our children have returned from oblivion!!",
+        "But now we are faced with the cruellest truth!...",
+        "...We who have sacrificed our honor! We who have lain with the enemy!",
+        "WE ARE NOT WORTHY! WE ARE NOTHING!...We are less than nothing.",
+        "But wait! We are not Spathi. We are Yehat... OF THE STARSHIP CLANS!",
+        "We will NOT live this lie any longer!",
+        "Listen as I speak these words! If our Queen makes the dishonorable command",
+        "then it is THE QUEEN WHO HAS NO HONOR!",
+        "And a dishonorable Queen is NO QUEEN AT ALL!",
+        "We, the Zeep-Zeep, are the only Clan who remember the TRUE MEANING of honor",
+        "we shall TEAR THE QUEEN FROM HER THRONE!",
+        "The two-thousand year reign of the Veep-Neep Queens IS OVER!",
+        "THE REVOLUTION HAS BEGUN!"
+      ]
+    },
+    {
+      "id": "ROYALIST_SPACE_HELLO_1",
+      "clip": "yehat-031.ogg",
+      "text": [
+        "Human... ye shall never be fully comprehending the damage you are doing now to our Yehat culture.",
+        "For fully TWO THOUSAND YEARS there has been peace between the Clans!...",
+        "...and now you have cast the ancient seed of dissension between our beaks!",
+        "The bloody Wars of Ascension are renewed, and YOU are the cause, Captain!",
+        "While the Zeep-Zeep traitors may be your allies, Captain",
+        "I can be assuring you that we, of the Feep-Eeep Starship Clan",
+        "are wanting nothing more dearly than your death!"
+      ]
+    },
+    {
+      "id": "ROYALIST_SPACE_HELLO_2",
+      "clip": "yehat-032.ogg",
+      "text": [
+        "It is the human Agitator who would see Her Radiant Majesty pulled from the High Perch!",
+        "Ye will rue the day ye devised this wicked scheme!"
+      ]
+    },
+    {
+      "id": "ROYALIST_HOMEWORLD_HELLO_1",
+      "clip": "yehat-033.ogg",
+      "text": [
+        "Human! Like all heroes, ye be as brainless as ye are brave.",
+        "Do ye not know, that here there be none of the traitorous Zeep-Zeep Starship Clans!",
+        "Ye are as good as dead, human."
+      ]
+    },
+    {
+      "id": "ROYALIST_HOMEWORLD_HELLO_2",
+      "clip": "yehat-034.ogg",
+      "text": [
+        "Cease yer bloody taunting, human!",
+        "Ye dance like a sick breeg, never engaging us in battle-to-the-death",
+        "as honor and true courage are demanding!"
+      ]
+    },
+    {
+      "id": "how_is_rebellion",
+      "text": [
+        "So, how's the revolution going for you guys?"
+      ]
+    },
+    {
+      "id": "ROYALIST_REBELLION_1",
+      "clip": "yehat-035.ogg",
+      "text": [
+        "Revolution!? Ye compliment yerself unnecessarily, Captain.",
+        "This is nothing more than a... band of thugs trying to undo the peace of a hundred generations!",
+        "We will roast the traitors in their ships, and crack the eggs in their Clanhome",
+        "so that never again will the Zeep-Zeep criminals be flying though our stars."
+      ]
+    },
+    {
+      "id": "ROYALIST_REBELLION_2",
+      "clip": "yehat-036.ogg",
+      "text": [
+        "Do not be worrying yerself, Captain! Victory is almost within our grasp."
+      ]
+    },
+    {
+      "id": "sorry_about_revolution",
+      "text": [
+        "Gosh, I'm sorry about this revolution thing. I didn't mean any harm."
+      ]
+    },
+    {
+      "id": "ALL_YOUR_FAULT",
+      "clip": "yehat-037.ogg",
+      "text": [
+        "The pain and suffering of this useless conflict are being nothing but a tragic waste of life.",
+        "Congratulate yourself, Captain. The source of all this death and misery is yerself."
+      ]
+    },
+    {
+      "id": "bye_royalist",
+      "text": [
+        "Goodbye Royalist fool!"
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_ROYALIST",
+      "clip": "yehat-038.ogg",
+      "text": [
+        "Now ye must pay fer yer crimes, human!"
+      ]
+    },
+    {
+      "id": "name_1",
+      "text": [
+        "The New Alliance of Free Stars"
+      ]
+    },
+    {
+      "id": "name_2",
+      "text": [
+        "The Concordance of Alien Nations"
+      ]
+    },
+    {
+      "id": "name_3",
+      "text": [
+        "The United Federation of Worlds"
+      ]
+    },
+    {
+      "id": "name_4",
+      "text": [
+        "The Empire of <% state.sis.getCaptainName() %>"
+      ]
+    },
+    {
+      "id": "OUT_TAKES",
+      "clip": "yehat-039.ogg",
+      "text": [
+        "So, I suppose you are wondering what I'm doing at this control console",
+        "well, I guess I can tell you now.",
+        "I'm writing a screenplay!",
+        "It's an existential thriller!",
+        "Kind of a cross between a Woody Allen angst-fest mixed with some of Tobe Hooper's best work.",
+        "But actually, this is just my way of getting my wing in the door, you see",
+        "what I really want to do is DIRECT!"
+      ]
+    }
+  ]
+}

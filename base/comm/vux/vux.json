@@ -1,0 +1,894 @@
+{
+  "version": 1,
+  "conversation": "vux",
+  "lines": [
+    {
+      "id": "ZEX_HELLO_1",
+      "clip": "vux-000.ogg",
+      "text": [
+        "Ah! Human visitors! What a treat!",
+        "I am Admiral ZEX. Please do not be frightened. Unlike the rest of my species, I... enjoy humans.",
+        "You may know me by my reputation, my leadership of VUX forces during the war with your Alliance.",
+        "I assure you that this behavior, a sad necessity of those times, belies a much kinder, gentler being.",
+        "Please be welcome! We can get to know one another... expand our interspecies relationship.",
+        "But wait. How silly of me. You aren't here for polite repartee.",
+        "You have come for my Shofixti Maidens."
+      ]
+    },
+    {
+      "id": "ZEX_HELLO_2",
+      "clip": "vux-001.ogg",
+      "text": [
+        "Why I am so blessed! My favorite friends, the humans, are back.",
+        "Captain, it is good to see you again.",
+        "You Humans are so interesting, so... beautiful.",
+        "You know, I have many pictures of your species!",
+        "I keep them on my walls to... inspire me."
+      ]
+    },
+    {
+      "id": "ZEX_HELLO_3",
+      "clip": "vux-002.ogg",
+      "text": [
+        "Captain! You are back so soon!",
+        "We had better be discreet (hee! hee!), or my countrymen will begin whispering about us."
+      ]
+    },
+    {
+      "id": "ZEX_HELLO_4",
+      "clip": "vux-003.ogg",
+      "text": [
+        "Luscious, robust human... I have eagerly awaited your return."
+      ]
+    },
+    {
+      "id": "FIGHT_OR_TRADE_1",
+      "clip": "vux-004.ogg",
+      "text": [
+        "Captain! You escaped after all! How remarkable!"
+      ]
+    },
+    {
+      "id": "FIGHT_OR_TRADE_2",
+      "clip": "vux-005.ogg",
+      "text": [
+        "Human... we should be friends, not enemies!",
+        "The scope of our relationship can grow as close as you wish."
+      ]
+    },
+    {
+      "id": "what_you_do_here",
+      "text": [
+        "What are you doing here, Admiral ZEX?"
+      ]
+    },
+    {
+      "id": "MY_MENAGERIE",
+      "clip": "vux-006.ogg",
+      "text": [
+        "Ah, such a good question! But you always were a bright species.",
+        "I will explain.",
+        "After the Great War, in which I played some small part",
+        "the VUX high council, in recognition for my services",
+        "granted me this planet, so that I might pursue my... hobby",
+        "without disturbing the general VUX populace.",
+        "I am a collector, you see.",
+        "I have the finest menagerie of... beautiful... creatures in all space."
+      ]
+    },
+    {
+      "id": "what_about_menagerie",
+      "text": [
+        "A menagerie? Is this a collection of animals, like a zoo?"
+      ]
+    },
+    {
+      "id": "NEED_NEW_CREATURE",
+      "clip": "vux-007.ogg",
+      "text": [
+        "Animals? Hee! Hee! Hee! Oh, no, Captain! Not mere animals!",
+        "My menagerie contains only the most... beautiful... creatures in the galaxy!",
+        "Each of my children, as I like to call them, has a wonderful set of traits",
+        "which make them unique and special... especially to me!",
+        "I have a complete variety of beasts from as far away as <% comm.getConstellation(\"Procyon\", \"chmmr\") %> and <% comm.getConstellation(\"Vega\", \"destroyed starbase\") %>.",
+        "No, this is not just some `zoo'!",
+        "I have worked diligently for many years to craft my menagerie, to gradually improve it.",
+        "Perhaps you can't tell, but I am rather proud of it!",
+        "Alas, there is one creature, one GORGEOUS animal which I do not yet possess.",
+        "I would give almost ANYTHING for that creature, Captain."
+      ]
+    },
+    {
+      "id": "what_about_creature",
+      "text": [
+        "If we went and got this little critter for you, would you give us the Shofixti Maidens?"
+      ]
+    },
+    {
+      "id": "ABOUT_CREATURE",
+      "clip": "vux-008.ogg",
+      "text": [
+        "Hmmm... what an interesting proposal!",
+        "I never would have thought of such a wonderful idea myself.",
+        "You are a genius, Captain!",
+        "In answer to your question, yes! I accept your offer.",
+        "Deliver the creature to me, and I shall give you the Shofixti Maidens.",
+        "I will even provide you with a clue to finding the creature's native planet!",
+        "My source for this information is an ancient wildlife handbook",
+        "written millennia ago by some unknown alien author. The pertinent passage goes as follows",
+        "`... demise, It(!) basks in <% comm.getColor(\"yellow\", \"vux beast\") %> light within the constellation Linch-Nas-Ploh.'",
+        "We have translated `Linch-Nas-Ploh' <% comm.swapIfSeeded(\"to mean approximately\", \"to mean\") %>",
+        "`<% comm.getConstellation(\"the long, thin creature who has swallowed the huge beast\", \"vux beast\") %>.'",
+        "I am afraid this is all that I know.",
+        "I hope it is sufficient."
+      ]
+    },
+    {
+      "id": "about_creature_again",
+      "text": [
+        "Would you tell me again where I can find that creature you want so badly?"
+      ]
+    },
+    {
+      "id": "CREATURE_AGAIN",
+      "clip": "vux-009.ogg",
+      "text": [
+        "Certainly, my smooth-skinned friend!",
+        "My source for this information is an ancient wildlife handbook",
+        "written millennia ago by some unknown alien author. The pertinent passage goes as follows",
+        "`... demise, It(!) basks in <% comm.getColor(\"yellow\", \"vux beast\") %> light within the constellation Linch-Nas-Ploh.'",
+        "We have translated `Linch-Nas-Ploh' <% comm.swapIfSeeded(\"to mean approximately\", \"to mean\") %>",
+        "`<% comm.getConstellation(\"the long, thin creature who has swallowed the huge beast\", \"vux beast\") %>.'",
+        "I am afraid this is all that I know.",
+        "I hope it is sufficient."
+      ]
+    },
+    {
+      "id": "i_have_beast",
+      "text": [
+        "Admiral ZEX, we have captured the hideous monster from <% comm.getStarName(\"Delta Lyncis\", \"vux beast\") %>. Let us make an exchange."
+      ]
+    },
+    {
+      "id": "GIVE_BEAST",
+      "clip": "vux-010.ogg",
+      "text": [
+        "Ah, a most excellent piece of news! My chiton rasps and moistens with excitement!",
+        "I have been looking forward to this for so long! Hee! Hee! Hee!",
+        "My subordinates stand ready to receive the beast from your ship, Captain.",
+        "Effect its transfer and then... we shall give you the Maidens you desire."
+      ]
+    },
+    {
+      "id": "ok_take_beast",
+      "text": [
+        "Okay, the beast is ALL yours! But be careful, it's a killer!"
+      ]
+    },
+    {
+      "id": "FOOL_AIEE0",
+      "clip": "vux-011.ogg",
+      "text": [
+        "Ah! My new child is on board. Such a big one, isn't he!?...",
+        "...and so frisky!",
+        "I am delighted beyond words that you have given me the beast, Captain",
+        "but I am afraid that there has been a slight change in our plans. Regrettable, but necessary.",
+        "Oh, my beautiful, luscious human, I had thought that the hideous, violent monster you have given me",
+        "would complete my collection of Ugliness, my Menagerie of Monsters... I was wrong!",
+        "YOU, my human love, are the most vile, the most fierce and wretched!",
+        "My collection could never be complete without you. I need you, Captain.",
+        "But alas, I fear you will not give your consent willingly. Am I right?",
+        "Therefore, sub-commander DAX, terminate communications... warm up my modified Intruder.",
+        "Engage the Precursor warp nullifier. Hee! Hee! Hee!... prepare for battle!"
+      ]
+    },
+    {
+      "id": "FOOL_AIEE1",
+      "clip": "vux-012.ogg",
+      "text": [
+        "Sub-commander? Why has my main console become inoperative?",
+        "The transmit mode is locked!",
+        "What do you mean the central system computer is damaged? How!?...",
+        "...the Beast!?... Escaped!!",
+        "No, Sub-Commander, this is impossible. It couldn't escape from our strongest containment system",
+        "IT'S WHAT?!! Decks five and six?! Eleven Crewmen!!",
+        "Sound the alarms, you fool! Where is it now?! Engineering, report!... Engineering?!",
+        "Sub-Commander, seal Bulkhe-- Sub-Commander... are you listening to me? What are you staring at?",
+        "PAY ATTENTION, Sub-Commander! Give me a report on its posit-- WHAT ARE YOU STARING AT!...",
+        "behind me?",
+        "WH- Wh- what- wh- AIEEEEE!!!!!..."
+      ]
+    },
+    {
+      "id": "why_trust_1",
+      "text": [
+        "Ah, Admiral ZEX, aren't you forgetting something? The Shofixti Maidens?"
+      ]
+    },
+    {
+      "id": "TRUST_1",
+      "clip": "vux-013.ogg",
+      "text": [
+        "Oh yes, no problem. Even now my subordinates are bringing them up from the surface.",
+        "So let's not waste time. Send that delightful beast over, immediately!"
+      ]
+    },
+    {
+      "id": "why_trust_2",
+      "text": [
+        "Look, we believe in 1 for 1 trades. We will transfer the beast when we see the Maidens."
+      ]
+    },
+    {
+      "id": "TRUST_2",
+      "clip": "vux-014.ogg",
+      "text": [
+        "Captain, Captain, we are both creatures of honor.",
+        "If I say that the Shofixti Maidens are on their way up from the surface, then they are.",
+        "You will have them shortly, accept my word... now please, Captain, the beast?"
+      ]
+    },
+    {
+      "id": "why_trust_3",
+      "text": [
+        "Now see here ZEX! Humans and VUX have had a pretty stormy relationship. Why should we trust you?"
+      ]
+    },
+    {
+      "id": "TRUST_3",
+      "clip": "vux-015.ogg",
+      "text": [
+        "Really, Captain! My honor is impugned!",
+        "You have maligned me and I am deeply hurt.",
+        "I thought we had built some trust between us, different though we may be",
+        "but no, I perceive now the same bigotry and misunderstanding",
+        "which brought our two species to war!",
+        "This was our chance to cement a good relationship between Human and VUX.",
+        "With my influence, the High Council could easily have been swayed to view",
+        "the Human cause in a more favorable light."
+      ]
+    },
+    {
+      "id": "why_dont_you_attack",
+      "text": [
+        "Admiral ZEX, why don't you attack us, as all other VUX have?"
+      ]
+    },
+    {
+      "id": "LIKE_YOU",
+      "clip": "vux-016.ogg",
+      "text": [
+        "Because I like Humans, Captain. I respect and admire your species.",
+        "I do not share the bigoted views of most of my people."
+      ]
+    },
+    {
+      "id": "why_like_me",
+      "text": [
+        "Ah, Admiral ZEX? Why do you like us? We thought all VUX hated humans."
+      ]
+    },
+    {
+      "id": "LIKE_BECAUSE",
+      "clip": "vux-017.ogg",
+      "text": [
+        "No, No, not all VUX, Captain! Most... but not all.",
+        "It is true when the majority of my people view one of your species",
+        "they are forced to regurgitate",
+        "but there are those among us who have grown beyond such childishness to take a more liberal view.",
+        "We, the few sophisticates, are not subject to the whims and fads of current fashion.",
+        "Our likes and dislikes are strictly based on personal preference.",
+        "We see the... beauty in you Humans. The value in a long-term... relationship.",
+        "You are different, yes. But personally, I like difference.",
+        "In fact, I ADORE it.",
+        "Your physique is so wonderfully varied! Your multitudinous rigid appendages, your tiny double eyes",
+        "your varied skin coloration, and the delightful patchwork of hair covering only parts of your bodies",
+        "leaving other parts bare and smooth! Mmmmmm!",
+        "I value your species, Captain. I see you as just `people'... like us VUX."
+      ]
+    },
+    {
+      "id": "are_you_a_pervert",
+      "text": [
+        "Whoa, Admiral ZEX! This is just a bit too weird. Are you some kind of perv-- er... aesthete?"
+      ]
+    },
+    {
+      "id": "CALL_ME_WHAT_YOU_WISH",
+      "clip": "vux-018.ogg",
+      "text": [
+        "You have talked with my VUX countrymen, haven't you?",
+        "They are closed-minded fools... bigoted in all ways.",
+        "Call me what you wish, Captain. I choose to view myself as, well",
+        "simply open-minded... free to experience the full range of life's possibilities.",
+        "The VUX rulers could not refuse my military genius, couldn't ignore the many victories I gave them.",
+        "But they would not tolerate my behavior, accept my desires as natural",
+        "so they sent me out here... a hero's exile! Where  I won't `poison' the minds of youth",
+        "with my `bizarre' ideas and `perverted' lifestyle. Hmmph... bigoted fools.",
+        "You see, Captain, we are not all that different, you and I.",
+        "We are different from the majority of VUX, and so we, in VUX eyes, are both monsters."
+      ]
+    },
+    {
+      "id": "take_by_force",
+      "text": [
+        "We require the Shofixti Maidens. We are prepared to use force if necessary."
+      ]
+    },
+    {
+      "id": "PRECURSOR_DEVICE",
+      "clip": "vux-019.ogg",
+      "text": [
+        "Hee! Hee! Hee! Oh, Captain, that would be such an unfortunate mistake",
+        "a grave error on both our parts.",
+        "We have so much to learn from each other, so much to give each other.",
+        "It would be such a sad loss if we were to fall back to the mindless blasting and killing",
+        "that has marred our two species' relationship up to this point.",
+        "Admittedly, as THE acknowledged VUX military genius",
+        "I would find it interesting to face your ONE powerful, alien starship",
+        "with my huge personal fleet of Intruders, but oh! What a mistake it would be.",
+        "Also... I think it only fair to warn you, Captain",
+        "that in my campaigns I collected many interesting items.",
+        "Amongst these treasures is a Precursor artifact, a warp nullification field",
+        "that prevents nearby ships from making emergency HyperSpace maneuvers... from running away.",
+        "I note by the scars on the rear of your vessel that you have made many such escapes.",
+        "So you see, Captain, if you attack me, you will face the greatest military tactician in VUX history",
+        "commanding an almost infinite number of enemy combat ships",
+        "and the battle will be to the Death!",
+        "Surely we can find an alternative."
+      ]
+    },
+    {
+      "id": "regardless",
+      "text": [
+        "We will fight you regardless of your Precursor Artifact!"
+      ]
+    },
+    {
+      "id": "THEN_FIGHT",
+      "clip": "vux-020.ogg",
+      "text": [
+        "Very well... to the Death!"
+      ]
+    },
+    {
+      "id": "you_lied",
+      "text": [
+        "You lied, Admiral ZEX!!! There was no `warp nullification field'! Cheater!"
+      ]
+    },
+    {
+      "id": "YUP_LIED",
+      "clip": "vux-021.ogg",
+      "text": [
+        "Yes, I lied.",
+        "Surely, if a small falsehood can prevent hundreds of unnecessary deaths, this is acceptable.",
+        "Unfortunately, you saw through my falsehood and no doubt lives were lost.",
+        "Let us cease this mindless aggression, before it is our undoing."
+      ]
+    },
+    {
+      "id": "kill_you",
+      "text": [
+        "We have no fear of any of your `devices'. Now we kill you!"
+      ]
+    },
+    {
+      "id": "FIGHT_AGAIN",
+      "clip": "vux-022.ogg",
+      "text": [
+        "Unfortunate. Dreary... and unfortunate.",
+        "Captain, even without such a device, you must understand the overwhelming forces I have at my command!",
+        "You cannot beat me here. It is impossible.",
+        "But... if a fight is what you demand, so be it."
+      ]
+    },
+    {
+      "id": "bye_zex",
+      "text": [
+        "Goodbye, Admiral ZEX."
+      ]
+    },
+    {
+      "id": "GOODBYE_ZEX",
+      "clip": "vux-023.ogg",
+      "text": [
+        "Goodbye, beautiful human. I hope we can meet someday as friends... perhaps even more."
+      ]
+    },
+    {
+      "id": "HOMEWORLD_HELLO_1",
+      "clip": "vux-024.ogg",
+      "text": [
+        "Welcome to the end of your life, courtesy of VUX technology.",
+        "Our infinite supply of Intruder vessels are even now locking their vaporizers onto your position",
+        "and we shall end your painful, grotesque existence for you as soon as possible.",
+        "In the meantime, here is a little music..."
+      ]
+    },
+    {
+      "id": "HOMEWORLD_HELLO_2",
+      "clip": "vux-025.ogg",
+      "text": [
+        "Hello again.  We trust you are enjoying trespassing in VUX space",
+        "and look forward to removing you from existence at our earliest possible convenience.",
+        "If you believe you can fight your way past our invincible forces to our surface, you are correct.",
+        "Some ash and a few wisps of pungent vapor are sure to make it at least that far.",
+        "Our special today is particle fragmentation!",
+        "So if you will kindly open your feeding orifice and start screaming, we will begin."
+      ]
+    },
+    {
+      "id": "HOMEWORLD_HELLO_3",
+      "clip": "vux-026.ogg",
+      "text": [
+        "Welcome back to total annihilation, where, as they say",
+        "once is silatious, twice is phlagrant melons",
+        "but the third time is when it really hurts.",
+        "Please stay seated until your vessel starts smoking",
+        "then feel free to dash your head painfully against the floor."
+      ]
+    },
+    {
+      "id": "HOMEWORLD_HELLO_4",
+      "clip": "vux-027.ogg",
+      "text": [
+        "Congratulations for exhausting the VUX vocabulary of greetings to despicable life-forms.",
+        "May we take this opportunity to lock our femoral scrapers onto your ship",
+        "and to wish you an unpleasant afterlife."
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_1",
+      "clip": "vux-028.ogg",
+      "text": [
+        "Greetings from VUX!... the last word in life form destruction!",
+        "To gain an intimate knowledge of our engines of war",
+        "simply place both hands over your eyes and count to three."
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_2",
+      "clip": "vux-029.ogg",
+      "text": [
+        "Salutations, and may your sense of self-preservation always be so dim.",
+        "As our Intruders surround your vessel, you may care to raise both hands into the air above you",
+        "and practice the ancient chant of the prancing oowee master, ZEN DUX, which begins...",
+        "`AAAAAAAAA AAAAAAHH!!!'"
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_3",
+      "clip": "vux-030.ogg",
+      "text": [
+        "This is VUX Commander YAX.  On behalf of the team here",
+        "I would like to say how very much we have all enjoyed taunting you",
+        "and to congratulate you on plumbing the limits of VUX courtesy",
+        "which you have now exhausted. Therefore, let me just say",
+        "Die, you two-eyed loathsome faceless slug!"
+      ]
+    },
+    {
+      "id": "SPACE_HELLO_4",
+      "clip": "vux-031.ogg",
+      "text": [
+        "Welcome back. All our coherent destructors are currently off-line",
+        "but if you'd care to hold your present course and speed",
+        "one will be free to annihilate you shortly."
+      ]
+    },
+    {
+      "id": "kill_you_squids_1",
+      "text": [
+        "You grotesque squids! We will kill you for your insolence!"
+      ]
+    },
+    {
+      "id": "kill_you_squids_2",
+      "text": [
+        "You are the most vile, repulsive creature I've ever seen!"
+      ]
+    },
+    {
+      "id": "kill_you_squids_3",
+      "text": [
+        "I must say, your rating on the vomit-meter would be AT LEAST ninety six."
+      ]
+    },
+    {
+      "id": "kill_you_squids_4",
+      "text": [
+        "You bloated bag of protoplasm! You worm!"
+      ]
+    },
+    {
+      "id": "WE_FIGHT",
+      "clip": "vux-032.ogg",
+      "text": [
+        "Watch everybody! We're going to kill the repulsive little monster now!"
+      ]
+    },
+    {
+      "id": "why_so_mean",
+      "text": [
+        "Why are you so hostile toward our species?"
+      ]
+    },
+    {
+      "id": "URQUAN_SLAVES",
+      "clip": "vux-033.ogg",
+      "text": [
+        "Augh! You are even uglier than I had thought possible!",
+        "Can't you see you are making me sick?",
+        "Please, foul creature, turn your head, or better yet, put a sack over it.",
+        "Never mind, I have adjusted my display so it is dim enough to be tolerable.",
+        "In answer to your question, our response is simple.",
+        "We must attack you because our masters the Ur-Quan wish it so!",
+        "Now if you don't mind, stop nodding your head like that.",
+        "We VUX do not share this range of motion",
+        "and it appears as though your neck is broken",
+        "and you are a jabbering corpse. Ugh."
+      ]
+    },
+    {
+      "id": "deeper_reason",
+      "text": [
+        "Is there another reason you hate us? Come on, tell me the truth."
+      ]
+    },
+    {
+      "id": "OLD_INSULT",
+      "clip": "vux-034.ogg",
+      "text": [
+        "Do we need another reason?",
+        "Ah! I understand. You refer to the First Human Encounter",
+        "the Insult!",
+        "What more can be said? On that day, your species proved its true crass nature.",
+        "You see, we VUX pride ourselves on our open-mindedness",
+        "our ability to see beyond even the most bizarre and disgusting face like yours",
+        "but that insult was so low, so totally reprehensible that we will never forget it.",
+        "Yes, to be honest, that event pretty much fixed our attitude setting at `ABHOR'.",
+        "I suspect we will despise you forever."
+      ]
+    },
+    {
+      "id": "if_we_apologize",
+      "text": [
+        "What if we apologized? Could we talk truce then?"
+      ]
+    },
+    {
+      "id": "PROBABLY_NOT",
+      "clip": "vux-035.ogg",
+      "text": [
+        "Er... probably not. You see, although we VUX are highly reasonable beings",
+        "who would never judge a race solely on its (urk!) appearance",
+        "the magnitude of your Captain Rand's insult was such that we will probably never forgive your species."
+      ]
+    },
+    {
+      "id": "try_any_way",
+      "text": [
+        "Well, I'll try anyway. The People of Earth Hereby Apologize To The VUX!"
+      ]
+    },
+    {
+      "id": "NOPE",
+      "clip": "vux-036.ogg",
+      "text": [
+        "Nope. I didn't think that would be sufficient. It lacked conviction.",
+        "Sorry, but I'm afraid we'll just have to kill you now."
+      ]
+    },
+    {
+      "id": "APOLOGIZE_IN_SPACE",
+      "clip": "vux-037.ogg",
+      "text": [
+        "Because the Human named Rand offended one of our starship commanders",
+        "apologizing here at the Homeworld is useless.",
+        "Besides, we have decided that you are just too disgusting to live",
+        "so we have decided to vaporize you."
+      ]
+    },
+    {
+      "id": "apology_1",
+      "text": [
+        "Let's try that again. We, The People Of Earth, Really Truly Apologize For The Stupid Insult Made By Captain Rand!"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_1",
+      "clip": "vux-038.ogg",
+      "text": [
+        "No. That didn't cut it either."
+      ]
+    },
+    {
+      "id": "apology_2",
+      "text": [
+        "You were RIGHT! We WERE wrong. We see it all so clearly now!"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_2",
+      "clip": "vux-039.ogg",
+      "text": [
+        "I don't think your heart is in it."
+      ]
+    },
+    {
+      "id": "apology_3",
+      "text": [
+        "Pleeeeeeeeease forgive us!"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_3",
+      "clip": "vux-040.ogg",
+      "text": [
+        "You said that just because you want stuff from us VUX. You didn't really mean it."
+      ]
+    },
+    {
+      "id": "apology_4",
+      "text": [
+        "We - are - sorry! May a thousand insects sting my softest parts if I lie!"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_4",
+      "clip": "vux-041.ogg",
+      "text": [
+        "It's pointless. Why even bother trying again?"
+      ]
+    },
+    {
+      "id": "apology_5",
+      "text": [
+        "We would like to present a petition of 1 million signatures! Each one says, `I'm sorry!'"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_5",
+      "clip": "vux-042.ogg",
+      "text": [
+        "A good try, Captain... but not good enough."
+      ]
+    },
+    {
+      "id": "apology_6",
+      "text": [
+        "Wrong? Yes we were wrong. Oh, so wrong! Boy, were we wrong! The wrongest."
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_6",
+      "clip": "vux-043.ogg",
+      "text": [
+        "We detect a hint of genuine regret, but not enough to forgive you."
+      ]
+    },
+    {
+      "id": "apology_7",
+      "text": [
+        "(Let's try reverse psychology) Listen VUX! You are right! We cannot ever atone for Rand's cruel barb!"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_7",
+      "clip": "vux-044.ogg",
+      "text": [
+        "Oh? I was just thinking that maybe we should consider forgiving you",
+        "but I guess you're right.",
+        "There's no going back."
+      ]
+    },
+    {
+      "id": "apology_8",
+      "text": [
+        "If sorrow were a pebble, our remorse would be... would be!... a great big boulder!"
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_8",
+      "clip": "vux-045.ogg",
+      "text": [
+        "Hey! That was pretty good!",
+        "I could sense the true sadness in your voice for your species' past stupidity.",
+        "Unfortunately, it was not good enough."
+      ]
+    },
+    {
+      "id": "apology_9",
+      "text": [
+        "If there is ANYTHING we can do to gain your forgiveness, we shall do it a thousand times."
+      ]
+    },
+    {
+      "id": "NOT_ACCEPTED_9",
+      "clip": "vux-046.ogg",
+      "text": [
+        "Um..., er... that was about as good as it gets, I think",
+        "but we don't accept it because... because... well, just BECAUSE!"
+      ]
+    },
+    {
+      "id": "apology_10",
+      "text": [
+        "Please, for the love of reason. Heed these words: We, the People of Earth Apologize To The VUX."
+      ]
+    },
+    {
+      "id": "TRUTH",
+      "clip": "vux-047.ogg",
+      "text": [
+        "AIEEE! Human! You have hounded and hounded and hounded us with your pitiful apologies!",
+        "It's driving us crazy! STOP! Please STOP!",
+        "We give up. We accept! We accept! We will no longer hold Rand's insult against your species.",
+        "You are forgiven for all eternity, just stop apologizing!",
+        "But now you have forced us to reveal our REAL reason for hating you humans",
+        "an embarrassing reason with no acceptable justification, but nonetheless undeniable!",
+        "Human! You are SOOO ugly, SOOO hideous to us that we will NEVER be able to find peace with your species!",
+        "Whenever we see your kind, we just want to kick you!... stomp on you!... squish you!...",
+        "...vaporize your ugly faces from the entire universe!",
+        "We know its unreasonable! We know that you had no choice about how you look!",
+        "We know that it is cruel fate that the Creator made you appear like putrid excretion",
+        "but WE JUST CAN'T HANDLE IT!",
+        "Why right now, because of your insufferable wretchedness",
+        "I am faced with a grotesque choice: keep talking to you and regurgitate uncontrollably",
+        "or break off communication and attack your vessel..."
+      ]
+    },
+    {
+      "id": "whats_up_hostile",
+      "text": [
+        "VUX. We seek to learn more about you. Maybe then we can see eye to... eyes."
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_HOSTILE_1",
+      "clip": "vux-048.ogg",
+      "text": [
+        "Look, vomitous alien. If you want to talk to one of our species",
+        "without making them sick",
+        "why don't you go see Admiral ZEX at his world in <% comm.getStarName(\"Alpha Cerenkov\", \"maidens\") %>.",
+        "He (urp!) likes humans."
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_HOSTILE_2",
+      "clip": "vux-049.ogg",
+      "text": [
+        "Look at those yellowish-white hard things in your mouth!",
+        "How do you keep from biting off that pulpy organ... Gross!"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_HOSTILE_3",
+      "clip": "vux-050.ogg",
+      "text": [
+        "Yuck! Don't show your tongue like that. It makes me sick."
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_HOSTILE_4",
+      "clip": "vux-051.ogg",
+      "text": [
+        "Forget it, human. We can't think straight when we have to look at you.",
+        "If you're lonely, go to <% comm.getStarName(\"Alpha Cerenkov\", \"maidens\") %> and talk with that pervert, Admiral ZEX."
+      ]
+    },
+    {
+      "id": "cant_we_be_friends_1",
+      "text": [
+        "Why can't we be friends? I like YOU."
+      ]
+    },
+    {
+      "id": "NEVER_UGLY_HUMANS_1",
+      "clip": "vux-052.ogg",
+      "text": [
+        "I listened. I heard. I know you like ME.",
+        "But the problem is, I DESPISE you!",
+        "Which is why I am attacking, in case you were wondering."
+      ]
+    },
+    {
+      "id": "cant_we_be_friends_2",
+      "text": [
+        "We have too much to gain through cooperation. Just try."
+      ]
+    },
+    {
+      "id": "NEVER_UGLY_HUMANS_2",
+      "clip": "vux-053.ogg",
+      "text": [
+        "Okay, I'll try to like you.",
+        "I'm really trying.",
+        "Naw! This is never going to work.",
+        "Every time I try to think of your friendly smiling face",
+        "(urp!) I want to blow chunks.",
+        "I have a better idea. I'll just kill you."
+      ]
+    },
+    {
+      "id": "cant_we_be_friends_3",
+      "text": [
+        "Didn't anyone ever tell you, `you can't judge a book by its cover?'"
+      ]
+    },
+    {
+      "id": "NEVER_UGLY_HUMANS_3",
+      "clip": "vux-054.ogg",
+      "text": [
+        "Do you want to know how ugly you are to us VUX? I'll tell you.",
+        "You humans are SO ugly, that I get my kids to behave by holding a picture of you behind my back",
+        "and I tell the kids that if they aren't good, I'll show it to them!",
+        "I am such a bad father (sob!) I must destroy you... for the children!"
+      ]
+    },
+    {
+      "id": "cant_we_be_friends_4",
+      "text": [
+        "You are just a bunch of bigots. I thought you were better than that."
+      ]
+    },
+    {
+      "id": "NEVER_UGLY_HUMANS_4",
+      "clip": "vux-055.ogg",
+      "text": [
+        "This IS embarrassing. We pride ourselves on being rational!",
+        "But you are so disgusting that we feel we just HAVE to kill you!",
+        "Like right now!"
+      ]
+    },
+    {
+      "id": "bye_hostile_space",
+      "text": [
+        "Well, THIS has been useless. Goodbye."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_HOSTILE_SPACE_1",
+      "clip": "vux-056.ogg",
+      "text": [
+        "Human, based upon our commitment to the Ur-Quan",
+        "and your general disgusting demeanor, we have decided to blow you to bits."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_HOSTILE_SPACE_2",
+      "clip": "vux-057.ogg",
+      "text": [
+        "Wait! I have one last thing to say",
+        "Die!"
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_HOSTILE_SPACE_3",
+      "clip": "vux-058.ogg",
+      "text": [
+        "For the good of the whole, I will now erase your putrid presence."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_HOSTILE_SPACE_4",
+      "clip": "vux-059.ogg",
+      "text": [
+        "We have no choice. You are too wretched. We shall eliminate you."
+      ]
+    },
+    {
+      "id": "OUT_TAKES",
+      "clip": "vux-060.ogg",
+      "text": [
+        "Oh no! It's one of those ultra-gross humans again!",
+        "Quick, hide your eye!",
+        "AGGH! Look at the pulpy red thing in its mouth",
+        "how it wriggles and writhes like a wet blood worm",
+        "and plays over the hard white nubs that protrude from its headbone!",
+        "I think I'm going to be sick."
+      ]
+    }
+  ]
+}

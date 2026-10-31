@@ -1,0 +1,676 @@
+{
+  "version": 1,
+  "conversation": "kohrah",
+  "lines": [
+    {
+      "id": "SENSE_EVIL",
+      "clip": "kohrah-000.ogg",
+      "text": [
+        "We sense... something... something ancient... a sickly smell... a chilling wind.",
+        "My ancestors scream from within their chambers in my mind",
+        "but I cannot understand their words.",
+        "This feeling... a memory? It sickens us, and for the first time in our lives",
+        "for the first time in generations",
+        "We fear."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_1",
+      "clip": "kohrah-001.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "We cleanse our destiny.",
+        "You will soon die.",
+        "Make whatever rituals are necessary for your species."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_2",
+      "clip": "kohrah-002.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Your presence here is premature.",
+        "We fight the Kzer-Za for supremacy of Doctrine",
+        "and possession of the Sa-Matra.",
+        "When the battle is won, our task is simple.",
+        "We cleanse. You are the filth."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_3",
+      "clip": "kohrah-003.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "You have evaded our attempts to cleanse.",
+        "You are no longer filth. You are a threat.",
+        "Threats deserve greater attention than filth."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_4",
+      "clip": "kohrah-004.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Our nature, the fulfillment of our fate",
+        "requires your destruction."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_5",
+      "clip": "kohrah-005.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Our nature, the fulfillment of our fate",
+        "requires your destruction."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_6",
+      "clip": "kohrah-006.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Our nature, the fulfillment of our fate",
+        "requires your destruction."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_7",
+      "clip": "kohrah-007.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Our nature, the fulfillment of our fate",
+        "requires your destruction."
+      ]
+    },
+    {
+      "id": "HELLO_AND_DIE_8",
+      "clip": "kohrah-008.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Our nature, the fulfillment of our fate",
+        "requires your destruction."
+      ]
+    },
+    {
+      "id": "HELLO_SAMATRA",
+      "clip": "kohrah-009.ogg",
+      "text": [
+        "FILTH! YOU may NOT approach the Sa-Matra.",
+        "Your death was inevitable, but now it is also imminent."
+      ]
+    },
+    {
+      "id": "WE_KILL_ALL_1",
+      "clip": "kohrah-010.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "We have won the ritual war against our cousins, the Kzer-Za.",
+        "Our Doctrine, the Path of Now and Forever, shall be dominant",
+        "until the Kzer-Za win such a war.",
+        "We now cleanse the Kzer-Za slave-races.",
+        "Then we shall take possession of the Sa-Matra and move on",
+        "to find new intelligence",
+        "new filth to cleanse."
+      ]
+    },
+    {
+      "id": "WE_KILL_ALL_2",
+      "clip": "kohrah-011.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Prepare for the cleansing."
+      ]
+    },
+    {
+      "id": "WE_KILL_ALL_3",
+      "clip": "kohrah-012.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Prepare for the cleansing."
+      ]
+    },
+    {
+      "id": "WE_KILL_ALL_4",
+      "clip": "kohrah-013.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah.",
+        "Prepare for the cleansing."
+      ]
+    },
+    {
+      "id": "why_kill_all_1",
+      "text": [
+        "What is this madness!? Why are you trying to kill everyone?"
+      ]
+    },
+    {
+      "id": "why_kill_all_2",
+      "text": [
+        "You have no right to continue this genocide!"
+      ]
+    },
+    {
+      "id": "why_kill_all_3",
+      "text": [
+        "What has made you this way? It is insane!"
+      ]
+    },
+    {
+      "id": "why_kill_all_4",
+      "text": [
+        "I cannot understand why you do this."
+      ]
+    },
+    {
+      "id": "KILL_BECAUSE_1",
+      "clip": "kohrah-014.ogg",
+      "text": [
+        "We do not kill. We cleanse.",
+        "Cleansing is necessary to ensure our eternal freedom and security.",
+        "Indeed, you fail to understand: there is no death.",
+        "Only termination and rebirth.",
+        "Each termination brings around the new chance",
+        "the possibility to be born an Ur-Quan.",
+        "We merely present this opportunity, make it available to all."
+      ]
+    },
+    {
+      "id": "KILL_BECAUSE_2",
+      "clip": "kohrah-015.ogg",
+      "text": [
+        "Our Path of Now and Forever is self-justifying, it needs no confirmation.",
+        "We cleanse. That is all. There is no more."
+      ]
+    },
+    {
+      "id": "KILL_BECAUSE_3",
+      "clip": "kohrah-016.ogg",
+      "text": [
+        "You have not asked properly.",
+        "If you do not ask properly, we will not discuss this matter.",
+        "Instead, we cleanse."
+      ]
+    },
+    {
+      "id": "KILL_BECAUSE_4",
+      "clip": "kohrah-017.ogg",
+      "text": [
+        "Your understanding is not necessary."
+      ]
+    },
+    {
+      "id": "please_dont_kill_1",
+      "text": [
+        "Please, for the love of reason! Stop this madness!"
+      ]
+    },
+    {
+      "id": "WILL_KILL_1",
+      "clip": "kohrah-018.ogg",
+      "text": [
+        "We have listened. We are unmoved. The cleansing will proceed."
+      ]
+    },
+    {
+      "id": "please_dont_kill_2",
+      "text": [
+        "Your logic is faulty. How can you have security in the midst of an endless war?"
+      ]
+    },
+    {
+      "id": "WILL_KILL_2",
+      "clip": "kohrah-019.ogg",
+      "text": [
+        "The cleansing ensures our freedom and security.",
+        "Threats to this freedom and security are confined to non-Ur-Quan intelligent life forms.",
+        "To preserve our freedom and security, we cleanse such threats."
+      ]
+    },
+    {
+      "id": "please_dont_kill_3",
+      "text": [
+        "Stop killing people! You have to stop!"
+      ]
+    },
+    {
+      "id": "WILL_KILL_3",
+      "clip": "kohrah-020.ogg",
+      "text": [
+        "We do not have to stop. No one can make us stop except the Kzer-Za",
+        "and they have lost the war. Our doctrine is now dominant.",
+        "The cleansing will continue."
+      ]
+    },
+    {
+      "id": "please_dont_kill_4",
+      "text": [
+        "Is there anything we can do to make you stop the killing?"
+      ]
+    },
+    {
+      "id": "WILL_KILL_4",
+      "clip": "kohrah-021.ogg",
+      "text": [
+        "If you eliminate all non-Ur-Quan sentient races, including yourselves",
+        "then we will stop.",
+        "We have made this offer before. No one accepts.",
+        "So we cleanse."
+      ]
+    },
+    {
+      "id": "bye_frenzy_1",
+      "text": [
+        "We leave now. We will stop you, somehow."
+      ]
+    },
+    {
+      "id": "bye_frenzy_2",
+      "text": [
+        "We leave now. We will stop you, somehow."
+      ]
+    },
+    {
+      "id": "bye_frenzy_3",
+      "text": [
+        "We leave now. We will stop you, somehow."
+      ]
+    },
+    {
+      "id": "bye_frenzy_4",
+      "text": [
+        "We leave now. We will stop you, somehow."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_FRENZY_1",
+      "clip": "kohrah-022.ogg",
+      "text": [
+        "You may not leave. You are filth.",
+        "You shall be cleansed."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_FRENZY_2",
+      "clip": "kohrah-023.ogg",
+      "text": [
+        "You may not leave. You are filth.",
+        "You shall be cleansed."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_FRENZY_3",
+      "clip": "kohrah-024.ogg",
+      "text": [
+        "You may not leave. You are filth.",
+        "You shall be cleansed."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_FRENZY_4",
+      "clip": "kohrah-025.ogg",
+      "text": [
+        "You may not leave. You are filth.",
+        "You shall be cleansed."
+      ]
+    },
+    {
+      "id": "threat_1",
+      "text": [
+        "If you attack us, we will destroy you. Don't even try it."
+      ]
+    },
+    {
+      "id": "RESISTANCE_IS_USELESS_1",
+      "clip": "kohrah-026.ogg",
+      "text": [
+        "Over five thousand races have made such a claim.",
+        "We survived. They did not.",
+        "Nor shall you."
+      ]
+    },
+    {
+      "id": "threat_2",
+      "text": [
+        "Resistance is useless. Our victory is inevitable!"
+      ]
+    },
+    {
+      "id": "RESISTANCE_IS_USELESS_2",
+      "clip": "kohrah-027.ogg",
+      "text": [
+        "It is not."
+      ]
+    },
+    {
+      "id": "threat_3",
+      "text": [
+        "You have attacked us before, and we survived! You cannot defeat us. Submit!"
+      ]
+    },
+    {
+      "id": "RESISTANCE_IS_USELESS_3",
+      "clip": "kohrah-028.ogg",
+      "text": [
+        "We did. You did. Yes we can. No."
+      ]
+    },
+    {
+      "id": "threat_4",
+      "text": [
+        "Surrender or die."
+      ]
+    },
+    {
+      "id": "RESISTANCE_IS_USELESS_4",
+      "clip": "kohrah-029.ogg",
+      "text": [
+        "Our counter to your statement is simpler",
+        "just `die'."
+      ]
+    },
+    {
+      "id": "key_phrase",
+      "text": [
+        "Hold! What you are doing to us is wrong! Why do you do this thing?"
+      ]
+    },
+    {
+      "id": "RESPONSE_TO_KEY_PHRASE",
+      "clip": "kohrah-030.ogg",
+      "text": [
+        "THE WORDS!... the Words... the words",
+        "Alien, you have spoken the Words. You have spoken them rightly.",
+        "We will explain to you about the Dnyarri, our slavemasters",
+        "the Taalo, our only friends... whom we exterminated",
+        "and our reasons why we cleanse the galaxy of all other sentient life.",
+        "We have explained this before, over twenty thousand years ago.",
+        "Your words, `Why do you do this thing?' echo that ancient plea.",
+        "You see, alien, we were a proud and mighty race, who were cruelly enslaved.",
+        "For thousands of years, we had no free will.",
+        "We were nothing more than tools.",
+        "Never again will anyone enslave our people.",
+        "We cleanse the galaxy of such threats."
+      ]
+    },
+    {
+      "id": "why_do_you_destroy",
+      "text": [
+        "Kohr-Ah, tell us about yourselves."
+      ]
+    },
+    {
+      "id": "WE_WERE_SLAVES",
+      "clip": "kohrah-031.ogg",
+      "text": [
+        "We evolved on a hostile world, the descendants of solitary hunters.",
+        "In a world where one species is the dominant killer",
+        "one's only threat is one's brother, one's sister, anyone of one's species.",
+        "Civilization did not come easily to us, we earned it.",
+        "We mastered our hatreds and murderous desires to form a mighty culture.",
+        "In those ancient days, there was no Kohr-Ah or Kzer-Za, only the Ur-Quan.",
+        "We explored our world, and then the space beyond.",
+        "Here we met the six races of the Sentient Milieu",
+        "here we met the Taalo... the only species we ever called `friend'.",
+        "Our association with the Taalo and the Milieu lasted for three thousand years.",
+        "We, the Ur-Quan who could not tolerate the presence of others",
+        "became the Milieu's scouts, their solitary explorers.",
+        "\t"
+      ]
+    },
+    {
+      "id": "relationship_with_urquan",
+      "text": [
+        "Who were the Taalo?"
+      ]
+    },
+    {
+      "id": "WE_ARE_URQUAN_TOO",
+      "clip": "kohrah-032.ogg",
+      "text": [
+        "Of all the species we have met, only the Taalo did not trigger our instinctive territoriality.",
+        "They were the only people we could stand with, or talk to, without the hunter inside us screaming",
+        "`Kill the interloper! Rip out its life!'",
+        "We believe that the same factors that made the Taalo non-threatening to us",
+        "their unusual rock-like biology",
+        "also gave the Taalo natural immunity to the Dnyarri's psychic compulsion.",
+        "The Dnyarri would not permit this.",
+        "After they had conquered all six of the other races in the Milieu",
+        "they commanded us to attack the Taalo and we did.",
+        "The Taalo would not fight back... they died."
+      ]
+    },
+    {
+      "id": "what_about_culture",
+      "text": [
+        "Who or what are the Dnyarri?"
+      ]
+    },
+    {
+      "id": "BONE_GARDENS",
+      "clip": "kohrah-033.ogg",
+      "text": [
+        "It was on a routine planetfall that one of our Milieu scoutships first met the Dnyarri",
+        "the creatures you know as our Talking Pets.",
+        "But the Dnyarri were different then.",
+        "They were evilly intelligent and wielded psychic powers to control the minds of others.",
+        "They wanted to rule the universe. We had no choice but to give it to them.",
+        "Our Ur-Quan scoutships transported the Dnyarri through the Milieu.",
+        "The war for dominance, such as it was, was quick and bloodless.",
+        "Within weeks, the Dnyarri controlled all races but one... the Taalo."
+      ]
+    },
+    {
+      "id": "how_leave_me_alone",
+      "text": [
+        "How did you defeat the Dnyarri?"
+      ]
+    },
+    {
+      "id": "YOU_DIE",
+      "clip": "kohrah-034.ogg",
+      "text": [
+        "For thousands of years, we were unthinking slaves to the Dnyarri.",
+        "Like the five other surviving races of the old Milieu, we had no choice.",
+        "The Dnyarri's compulsion was too strong to resist.",
+        "But the Dnyarri were not satisfied with their slave races.",
+        "The Yuli and the Drall were inferior, they decided",
+        "and so they instructed us to incinerate their worlds, and we did.",
+        "The Dnyarri had a special liking for us Ur-Quan",
+        "so they began to tinker with our genes... to improve us, their favored slaves.",
+        "Their efforts split the Ur-Quan into two sub-races",
+        "The Green Ur-Quan, effete scientists and bureaucrats",
+        "and the Black Ur-Quan, their Effectuators, the builders, the fighters, the doers.",
+        "The Kohr-Ah are the Black Ur-Quan. The Kzer-Za are the Green.",
+        "I grow tired of talking, alien, and your time grows short.",
+        "I will continue for but a moment longer.",
+        "When we discovered that intense pain could block the Dnyarri's mental powers",
+        "we were able to destroy them, but it took years.",
+        "Can you imagine, alien, what it must have been like to wear an Excruciator?",
+        "To live in endless screaming pain for months on end? No you cannot."
+      ]
+    },
+    {
+      "id": "guess_thats_all",
+      "text": [
+        "I guess that's it. Thanks for the info. We'll just leave now."
+      ]
+    },
+    {
+      "id": "THEN_DIE",
+      "clip": "kohrah-035.ogg",
+      "text": [
+        "No, it is not. There is more you must hear.",
+        "When the war was over, the great Kohr-Ah rose from our ranks",
+        "and declared the Path of Now and Forever. We would cleanse the galaxy.",
+        "No one would ever threaten the Ur-Quan this way again.",
+        "We had cleansed one of the three remaining Milieu races and were in orbit around a second's homeworld.",
+        "From the surface came a plea... identical to the words you spoke a few moments ago.",
+        "The one-eyed creatures, the Mael-Num, asked so simply, so clearly",
+        "that we felt compelled to explain. While we did so, the Kzer-Za appeared.",
+        "They would not permit us to destroy, they said. Enslave, yes. Imprison, yes. But never destroy.",
+        "The moment was tense. Someone opened fire. The first Doctrinal War had begun.",
+        "While we fought, the Mael-Num escaped. We never found them again. ",
+        "When our battle was done, we, the Kohr-Ah, were defeated",
+        "however, the Kzer-Za let us go. We were exiled.",
+        "We travelled through space, rebuilt the strength of our battle fleets",
+        "and continued our plan, to cleanse threats from the galaxy, for all Ur-Quan.",
+        "You have heard our words, and perhaps you understand us a bit better.",
+        "But now, it is time for us to cleanse you."
+      ]
+    },
+    {
+      "id": "what_are_you_hovering_over",
+      "text": [
+        "What are you hanging over?"
+      ]
+    },
+    {
+      "id": "BONE_PILE",
+      "clip": "kohrah-036.ogg",
+      "text": [
+        "My trophy bone-pit.",
+        "In here is one skeleton from each of the races which I personally exterminated.",
+        "I fondle these bones and recall the fine cleansing.",
+        "Perhaps your bones will grace this pit momentarily",
+        "unless they are accidentally vaporized."
+      ]
+    },
+    {
+      "id": "you_sure_are_creepy",
+      "text": [
+        "You sure are creepy."
+      ]
+    },
+    {
+      "id": "YES_CREEPY",
+      "clip": "kohrah-037.ogg",
+      "text": [
+        "Seeing that I represent your imminent death",
+        "as well as the termination of your entire species",
+        "I think your fear is well justified.",
+        "Nonetheless, you require cleansing."
+      ]
+    },
+    {
+      "id": "stop_that_gross_blinking",
+      "text": [
+        "Stop that gross blinking!"
+      ]
+    },
+    {
+      "id": "DIE_HUMAN",
+      "clip": "kohrah-038.ogg",
+      "text": [
+        "The time has come. You require cleansing."
+      ]
+    },
+    {
+      "id": "plead_1",
+      "text": [
+        "Please don't destroy this ship. We mean you no harm!"
+      ]
+    },
+    {
+      "id": "PLEADING_IS_USELESS_1",
+      "clip": "kohrah-039.ogg",
+      "text": [
+        "In the twenty thousand years of our Mission",
+        "we have heard more pleas for mercy than you can possibly imagine.",
+        "Civilizations which saw their doom before them called upon their geniuses to calm us",
+        "to no avail."
+      ]
+    },
+    {
+      "id": "plead_2",
+      "text": [
+        "If you let us go, we'll tell you a big secret!"
+      ]
+    },
+    {
+      "id": "PLEADING_IS_USELESS_2",
+      "clip": "kohrah-040.ogg",
+      "text": [
+        "We are self-sufficient. We need nothing. We want nothing",
+        "beyond the total destruction of all non-Ur-Quan sentience."
+      ]
+    },
+    {
+      "id": "plead_3",
+      "text": [
+        "What if we promise to be your slaves? Will you let us live then?"
+      ]
+    },
+    {
+      "id": "PLEADING_IS_USELESS_3",
+      "clip": "kohrah-041.ogg",
+      "text": [
+        "The ignominy of slaving we leave to our Kzer-Za cousins.",
+        "We have no need for inferiors as servants."
+      ]
+    },
+    {
+      "id": "plead_4",
+      "text": [
+        "Don't attack us! We are not your enemies!"
+      ]
+    },
+    {
+      "id": "PLEADING_IS_USELESS_4",
+      "clip": "kohrah-042.ogg",
+      "text": [
+        "You are right.",
+        "You are not our enemy.",
+        "We have NO enemy",
+        "beyond the Kzer-Za, our partners in the eternal conflict.",
+        "You are simply... a spore, a seed.",
+        "Today you are nothing... insignificant.",
+        "But if allowed to bloom and grow someday...",
+        "someday, you might represent a threat to our freedom and security.",
+        "So we cleanse."
+      ]
+    },
+    {
+      "id": "bye",
+      "text": [
+        "I've heard enough of your madness for now. Goodbye."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE",
+      "clip": "kohrah-043.ogg",
+      "text": [
+        "Before we destroy other thinking beings we share with them this comforting fact",
+        "This life of yours... which shall end immediately following this statement",
+        "is but one of many lives you will live.",
+        "Perhaps, in your next incarnation",
+        "you will be born an Ur-Quan."
+      ]
+    },
+    {
+      "id": "GAME_OVER_DUDE",
+      "clip": "kohrah-044.ogg",
+      "text": [
+        "Attention human!",
+        "This broadcast is to inform you of your defeat.",
+        "We, the Kohr-Ah, have destroyed all the sentient species in this region of space",
+        "and now we have eliminated the Starbase orbiting your planet Earth as well.",
+        "Your efforts to resist us are futile.",
+        "You are defeated!"
+      ]
+    },
+    {
+      "id": "OUT_TAKES",
+      "clip": "kohrah-045.ogg",
+      "text": [
+        "We are the Ur-Quan Kohr-Ah",
+        "The followers of the Path of Now and Forever!",
+        "You are filth. We shall cleanse.",
+        "You WILL be annigilated... I mean annihigated.. damn!",
+        "CUT! CUT! Let's start over!",
+        "Hey, mister director... can you PLEASE think of SOME other word besides",
+        "agnigilate... I mean, oh what's the use. I give up.",
+        "  "
+      ]
+    }
+  ]
+}

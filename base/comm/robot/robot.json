@@ -1,0 +1,1203 @@
+{
+  "version": 1,
+  "conversation": "robot",
+  "lines": [
+    {
+      "id": "ROBOT_DIGIT_0",
+      "clip": "zero.ogg",
+      "text": [
+        "zero"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_1",
+      "clip": "one.ogg",
+      "text": [
+        "wone"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_2",
+      "clip": "two.ogg",
+      "text": [
+        "tuu"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_3",
+      "clip": "three.ogg",
+      "text": [
+        "thre-e"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_4",
+      "clip": "four.ogg",
+      "text": [
+        "forhh"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_5",
+      "clip": "five.ogg",
+      "text": [
+        "five"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_6",
+      "clip": "six.ogg",
+      "text": [
+        "six"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_7",
+      "clip": "seven.ogg",
+      "text": [
+        "seven"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_8",
+      "clip": "eight.ogg",
+      "text": [
+        "eight"
+      ]
+    },
+    {
+      "id": "ROBOT_DIGIT_9",
+      "clip": "nine.ogg",
+      "text": [
+        "nine"
+      ]
+    },
+    {
+      "id": "ROBOT_POINT",
+      "clip": "point.ogg",
+      "text": [
+        "point"
+      ]
+    },
+    {
+      "id": "ROBOT_BY",
+      "clip": "by.ogg",
+      "text": [
+        "buay"
+      ]
+    },
+    {
+      "id": "ROBOT_COLOR_RED",
+      "clip": "red.ogg",
+      "text": [
+        "red"
+      ]
+    },
+    {
+      "id": "ROBOT_COLOR_ORANGE",
+      "clip": "orange.ogg",
+      "text": [
+        "orange"
+      ]
+    },
+    {
+      "id": "ROBOT_COLOR_YELLOW",
+      "clip": "yellow.ogg",
+      "text": [
+        "yellow"
+      ]
+    },
+    {
+      "id": "ROBOT_COLOR_GREEN",
+      "clip": "green.ogg",
+      "text": [
+        "green"
+      ]
+    },
+    {
+      "id": "ROBOT_COLOR_BLUE",
+      "clip": "blue.ogg",
+      "text": [
+        "bloooo"
+      ]
+    },
+    {
+      "id": "ROBOT_COLOR_WHITE",
+      "clip": "white.ogg",
+      "text": [
+        "wwhite"
+      ]
+    },
+    {
+      "id": "ILWRATH_COLOR_RED",
+      "clip": "il_red.ogg",
+      "text": [
+        "_RED_"
+      ]
+    },
+    {
+      "id": "ILWRATH_COLOR_ORANGE",
+      "clip": "il_orange.ogg",
+      "text": [
+        "_ORANGE_"
+      ]
+    },
+    {
+      "id": "ILWRATH_COLOR_YELLOW",
+      "clip": "il_yellow.ogg",
+      "text": [
+        "_YELLOW_"
+      ]
+    },
+    {
+      "id": "ILWRATH_COLOR_GREEN",
+      "clip": "il_green.ogg",
+      "text": [
+        "_GREEN_"
+      ]
+    },
+    {
+      "id": "ILWRATH_COLOR_BLUE",
+      "clip": "il_blue.ogg",
+      "text": [
+        "_BLUE"
+      ]
+    },
+    {
+      "id": "ILWRATH_COLOR_WHITE",
+      "clip": "il_white.ogg",
+      "text": [
+        "_WHITE_"
+      ]
+    },
+    {
+      "id": "ROBOT_PREFIX_0",
+      "clip": "empty.ogg // Unused but easier",
+      "text": [
+        "empty"
+      ]
+    },
+    {
+      "id": "ROBOT_ALPHA",
+      "clip": "alpha.ogg",
+      "text": [
+        "alpha"
+      ]
+    },
+    {
+      "id": "ROBOT_BETA",
+      "clip": "beta.ogg",
+      "text": [
+        "beta"
+      ]
+    },
+    {
+      "id": "ROBOT_GAMMA",
+      "clip": "gamma.ogg",
+      "text": [
+        "gamma"
+      ]
+    },
+    {
+      "id": "ROBOT_DELTA",
+      "clip": "delta.ogg",
+      "text": [
+        "delta"
+      ]
+    },
+    {
+      "id": "ROBOT_EPSILON",
+      "clip": "epsilon.ogg",
+      "text": [
+        "epsilon"
+      ]
+    },
+    {
+      "id": "ROBOT_ZETA",
+      "clip": "zeta.ogg",
+      "text": [
+        "zeta"
+      ]
+    },
+    {
+      "id": "ROBOT_ETA",
+      "clip": "eta.ogg",
+      "text": [
+        "eta"
+      ]
+    },
+    {
+      "id": "ROBOT_THETA",
+      "clip": "theta.ogg",
+      "text": [
+        "theta"
+      ]
+    },
+    {
+      "id": "ROBOT_IOTA",
+      "clip": "iota.ogg",
+      "text": [
+        "iota"
+      ]
+    },
+    {
+      "id": "ROBOT_KAPPA",
+      "clip": "kappa.ogg",
+      "text": [
+        "kappa"
+      ]
+    },
+    {
+      "id": "ROBOT_LAMBDA",
+      "clip": "lambda.ogg",
+      "text": [
+        "lambda"
+      ]
+    },
+    {
+      "id": "ROBOT_MU",
+      "clip": "mu.ogg",
+      "text": [
+        "mu"
+      ]
+    },
+    {
+      "id": "ROBOT_NU",
+      "clip": "nu.ogg",
+      "text": [
+        "nu"
+      ]
+    },
+    {
+      "id": "ROBOT_XI",
+      "clip": "xi.ogg",
+      "text": [
+        "xi"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_0",
+      "clip": "vega.ogg",
+      "text": [
+        "Vega"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_1",
+      "clip": "antliae.ogg",
+      "text": [
+        "Antliaey"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_2",
+      "clip": "apodis.ogg",
+      "text": [
+        "Apodis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_3",
+      "clip": "aquarii.ogg",
+      "text": [
+        "Aquarry"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_4",
+      "clip": "aquilae.ogg",
+      "text": [
+        "Ackui-lay"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_5",
+      "clip": "arae.ogg",
+      "text": [
+        "Arae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_6",
+      "clip": "arietis.ogg",
+      "text": [
+        "Arietis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_7",
+      "clip": "aurigae.ogg",
+      "text": [
+        "Aurigee"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_8",
+      "clip": "trianguli.ogg",
+      "text": [
+        "Tri-ang-yu-lie"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_9",
+      "clip": "caeli.ogg",
+      "text": [
+        "Caeli"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_10",
+      "clip": "camelopardalis.ogg",
+      "text": [
+        "Camel-lo-pardal-lis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_11",
+      "clip": "cancri.ogg",
+      "text": [
+        "Cancri"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_12",
+      "clip": "brahe.ogg",
+      "text": [
+        "Braahee"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_13",
+      "clip": "kepler.ogg",
+      "text": [
+        "Kepler"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_14",
+      "clip": "copernicus.ogg",
+      "text": [
+        "Cuh-perrr-nucuss"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_15",
+      "clip": "capricorni.ogg",
+      "text": [
+        "Capricorni"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_16",
+      "clip": "carinae.ogg",
+      "text": [
+        "Cuhreenae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_17",
+      "clip": "cassiopeiae.ogg",
+      "text": [
+        "Cassiohpeiaeh"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_18",
+      "clip": "tucanae.ogg",
+      "text": [
+        "Toocahnny"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_19",
+      "clip": "cephei.ogg",
+      "text": [
+        "Cephei"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_20",
+      "clip": "ceti.ogg",
+      "text": [
+        "Cetti"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_21",
+      "clip": "crateris.ogg",
+      "text": [
+        "Crayteris"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_22",
+      "clip": "circini.ogg",
+      "text": [
+        "Ceercini"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_23",
+      "clip": "columbae.ogg",
+      "text": [
+        "Columbae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_24",
+      "clip": "chandrasekhar.ogg",
+      "text": [
+        "Chandra-saykhar"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_25",
+      "clip": "sagittae.ogg",
+      "text": [
+        "Sagittae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_26",
+      "clip": "cygnus.ogg",
+      "text": [
+        "Signuss"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_27",
+      "clip": "corvi.ogg",
+      "text": [
+        "Corvi"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_28",
+      "clip": "chamaeleonis.ogg",
+      "text": [
+        "Khamaeleonis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_29",
+      "clip": "equulei.ogg",
+      "text": [
+        "Equulay"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_30",
+      "clip": "delphini.ogg",
+      "text": [
+        "Delphini"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_31",
+      "clip": "doradus.ogg",
+      "text": [
+        "Doradus"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_32",
+      "clip": "monocerotis.ogg",
+      "text": [
+        "Monocerotis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_33",
+      "clip": "crucis.ogg",
+      "text": [
+        "Crucis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_34",
+      "clip": "eridani.ogg",
+      "text": [
+        "Aridahhni"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_35",
+      "clip": "fornacis.ogg",
+      "text": [
+        "Fornacis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_36",
+      "clip": "geminorum.ogg",
+      "text": [
+        "Geminorum"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_37",
+      "clip": "altair.ogg",
+      "text": [
+        "All-tair"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_38",
+      "clip": "antares.ogg",
+      "text": [
+        "Antair-ees"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_39",
+      "clip": "horologii.ogg",
+      "text": [
+        "Horrolow-gii"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_40",
+      "clip": "hydrae.ogg",
+      "text": [
+        "Hydri"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_41",
+      "clip": "andromedae.ogg",
+      "text": [
+        "Androm-medae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_42",
+      "clip": "groombridge.ogg",
+      "text": [
+        "Groombridge"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_43",
+      "clip": "lacertae.ogg",
+      "text": [
+        "Lacertae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_44",
+      "clip": "leonis.ogg",
+      "text": [
+        "Leo-nis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_45",
+      "clip": "hyades.ogg",
+      "text": [
+        "Hya-dees"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_46",
+      "clip": "leporis.ogg",
+      "text": [
+        "Leporis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_47",
+      "clip": "librae.ogg",
+      "text": [
+        "Lie-bray"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_48",
+      "clip": "lipi.ogg",
+      "text": [
+        "Lipi"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_49",
+      "clip": "lyncis.ogg",
+      "text": [
+        "Lyncis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_50",
+      "clip": "fomalhaut.ogg",
+      "text": [
+        "Foe-mellout"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_51",
+      "clip": "menkar.ogg",
+      "text": [
+        "Menkar"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_52",
+      "clip": "microscopii.ogg",
+      "text": [
+        "Micro-scopii"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_53",
+      "clip": "draconis.ogg",
+      "text": [
+        "Dracohnis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_54",
+      "clip": "orionis.ogg",
+      "text": [
+        "OhRionIs"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_55",
+      "clip": "normae.ogg",
+      "text": [
+        "Normay"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_56",
+      "clip": "octantis.ogg",
+      "text": [
+        "Octantis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_57",
+      "clip": "ophiuchi.ogg",
+      "text": [
+        "Ophiuki"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_58",
+      "clip": "muscae.ogg",
+      "text": [
+        "Muscae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_59",
+      "clip": "pavonis.ogg",
+      "text": [
+        "Pavohnis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_60",
+      "clip": "pegasi.ogg",
+      "text": [
+        "Pegasi"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_61",
+      "clip": "persei.ogg",
+      "text": [
+        "Persee-aye"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_62",
+      "clip": "phoenicis.ogg",
+      "text": [
+        "Pheenicis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_63",
+      "clip": "pictoris.ogg",
+      "text": [
+        "Pictoris"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_64",
+      "clip": "piscium.ogg",
+      "text": [
+        "Piscium"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_65",
+      "clip": "hyginus.ogg",
+      "text": [
+        "Hyginus"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_66",
+      "clip": "puppis.ogg",
+      "text": [
+        "Puppis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_67",
+      "clip": "pyxidis.ogg",
+      "text": [
+        "Pyxidis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_68",
+      "clip": "reticuli.ogg",
+      "text": [
+        "Reticuli"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_69",
+      "clip": "arianni.ogg",
+      "text": [
+        "Arianni"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_70",
+      "clip": "sagittarii.ogg",
+      "text": [
+        "Sagitairry-i"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_71",
+      "clip": "scorpii.ogg",
+      "text": [
+        "Scorpii"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_72",
+      "clip": "sculptoris.ogg",
+      "text": [
+        "Sculptoris"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_73",
+      "clip": "scuti.ogg",
+      "text": [
+        "Scuti"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_74",
+      "clip": "serpentis.ogg",
+      "text": [
+        "Serpentis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_75",
+      "clip": "sextantis.ogg",
+      "text": [
+        "Sextantis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_76",
+      "clip": "tauri.ogg",
+      "text": [
+        "Tauri"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_77",
+      "clip": "telescopii.ogg",
+      "text": [
+        "Telescohpi-i"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_78",
+      "clip": "bootis.ogg",
+      "text": [
+        "Bootis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_79",
+      "clip": "olber.ogg",
+      "text": [
+        "Olber"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_80",
+      "clip": "centauri.ogg",
+      "text": [
+        "CenTauri"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_81",
+      "clip": "ptolemae.ogg",
+      "text": [
+        "Ptolemae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_82",
+      "clip": "gorno.ogg",
+      "text": [
+        "Gorno"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_83",
+      "clip": "velorum.ogg",
+      "text": [
+        "Velohrum"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_84",
+      "clip": "virginis.ogg",
+      "text": [
+        "Virginis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_85",
+      "clip": "volantis.ogg",
+      "text": [
+        "Volantis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_86",
+      "clip": "vulpeculae.ogg",
+      "text": [
+        "Vulpec-yoo-lay"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_87",
+      "clip": "lalande.ogg",
+      "text": [
+        "Lalande"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_88",
+      "clip": "luyten.ogg",
+      "text": [
+        "Luyten"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_89",
+      "clip": "indi.ogg",
+      "text": [
+        "Inn-di"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_90",
+      "clip": "lacaille.ogg",
+      "text": [
+        "Lah-cayel"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_91",
+      "clip": "giclas.ogg",
+      "text": [
+        "Geeclas"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_92",
+      "clip": "krueger.ogg",
+      "text": [
+        "Krueger"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_93",
+      "clip": "lyrae.ogg",
+      "text": [
+        "Lie-ree"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_94",
+      "clip": "wolf.ogg",
+      "text": [
+        "Wolf"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_95",
+      "clip": "saurus.ogg",
+      "text": [
+        "Saurus"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_96",
+      "clip": "raynet.ogg",
+      "text": [
+        "Raynet"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_97",
+      "clip": "zeeman.ogg",
+      "text": [
+        "Zeeman"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_98",
+      "clip": "vela.ogg",
+      "text": [
+        "Vela"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_99",
+      "clip": "mira.ogg",
+      "text": [
+        "Mira"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_100",
+      "clip": "cerenkov.ogg",
+      "text": [
+        "Cherenkov"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_101",
+      "clip": "mersenne.ogg",
+      "text": [
+        "Mer-senne"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_102",
+      "clip": "maksutov.ogg",
+      "text": [
+        "Mak-su-tov"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_103",
+      "clip": "klystron.ogg",
+      "text": [
+        "KliYstron"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_104",
+      "clip": "metis.ogg",
+      "text": [
+        "Metis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_105",
+      "clip": "mensae.ogg",
+      "text": [
+        "Mensae"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_106",
+      "clip": "illuminati.ogg",
+      "text": [
+        "Illuminati"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_107",
+      "clip": "vitalis.ogg",
+      "text": [
+        "Vitalis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_108",
+      "clip": "herculis.ogg",
+      "text": [
+        "Herkyoo-lees"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_109",
+      "clip": "gruis.ogg",
+      "text": [
+        "Gruis"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_110",
+      "clip": "squidi.ogg",
+      "text": [
+        "Squidi"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_111",
+      "clip": "almagest.ogg",
+      "text": [
+        "Aalmagest"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_112",
+      "clip": "alcor.ogg",
+      "text": [
+        "Al-cor"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_113",
+      "clip": "algol.ogg",
+      "text": [
+        "Algol"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_114",
+      "clip": "betelgeuse.ogg",
+      "text": [
+        "Beetelgeuse"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_115",
+      "clip": "aldebaran.ogg",
+      "text": [
+        "AlDeBerrin"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_116",
+      "clip": "achernar.ogg",
+      "text": [
+        "Ache-ernar"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_117",
+      "clip": "procyon.ogg",
+      "text": [
+        "Pro-seon"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_118",
+      "clip": "rigel.ogg",
+      "text": [
+        "Ri-gel"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_119",
+      "clip": "bellatrix.ogg",
+      "text": [
+        "Bellaytrix"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_120",
+      "clip": "mizar.ogg",
+      "text": [
+        "My zer"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_121",
+      "clip": "hyperion.ogg",
+      "text": [
+        "Hyperion"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_122",
+      "clip": "regulus.ogg",
+      "text": [
+        "Reg-you-lus"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_123",
+      "clip": "organon.ogg",
+      "text": [
+        "Organon"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_124",
+      "clip": "pollux.ogg",
+      "text": [
+        "Pollux"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_125",
+      "clip": "capella.ogg",
+      "text": [
+        "Capella"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_126",
+      "clip": "deneb.ogg",
+      "text": [
+        "Dehnub"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_127",
+      "clip": "canopus.ogg",
+      "text": [
+        "Canopuss"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_128",
+      "clip": "sirius.ogg",
+      "text": [
+        "Seerius"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_129",
+      "clip": "sol.ogg",
+      "text": [
+        "Sol"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_130",
+      "clip": "arcturus.ogg",
+      "text": [
+        "ArcTurris"
+      ]
+    },
+    {
+      "id": "ROBOT_POSTFIX_131",
+      "clip": "lentilis.ogg",
+      "text": [
+        "Lentilis"
+      ]
+    }
+  ]
+}

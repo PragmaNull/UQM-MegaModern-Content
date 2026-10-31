@@ -1,0 +1,608 @@
+{
+  "version": 1,
+  "conversation": "probe",
+  "lines": [
+    {
+      "id": "WE_COME_IN_PEACE_1",
+      "clip": "probe-000.ogg",
+      "text": [
+        "WE COME IN PEACE."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_2",
+      "clip": "probe-001.ogg",
+      "text": [
+        "WE BRING GREETINGS FROM A FRIENDLY SPECIES."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_3",
+      "clip": "probe-002.ogg",
+      "text": [
+        "DO NOT FEAR. WE SHALL NOT HARM YOU."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_4",
+      "clip": "probe-003.ogg",
+      "text": [
+        "THIS IS PROBE 2418-B, ON A PEACEFUL MISSION."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_5",
+      "clip": "probe-004.ogg",
+      "text": [
+        "WE ARE NOT HOSTILE AND SEEK TO ESTABLISH FRIENDLY RELATIONS WITH YOUR SPECIES."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_6",
+      "clip": "probe-005.ogg",
+      "text": [
+        "WE WISH TO LEARN MORE ABOUT YOU. PLEASE TRANSMIT DATA."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_7",
+      "clip": "probe-006.ogg",
+      "text": [
+        "THIS PROBE IS NOT HOSTILE. DO NOT ATTACK."
+      ]
+    },
+    {
+      "id": "WE_COME_IN_PEACE_8",
+      "clip": "probe-007.ogg",
+      "text": [
+        "WE COME IN PEACE."
+      ]
+    },
+    {
+      "id": "threat_1",
+      "text": [
+        "Submit or be destroyed!"
+      ]
+    },
+    {
+      "id": "threat_2",
+      "text": [
+        "Attention alien probe. You must cease hostilities or face our wrath."
+      ]
+    },
+    {
+      "id": "threat_3",
+      "text": [
+        "Look here, probe! We have tried to be nice, but you keep shooting at us. So now, we fight!"
+      ]
+    },
+    {
+      "id": "threat_4",
+      "text": [
+        "Prepare to be annihilated!"
+      ]
+    },
+    {
+      "id": "PROGRAMMED_TO_DEFEND_1",
+      "clip": "probe-008.ogg",
+      "text": [
+        "THIS PROBE IS PROGRAMMED TO DEFEND AGAINST HOSTILE BEHAVIOR."
+      ]
+    },
+    {
+      "id": "PROGRAMMED_TO_DEFEND_2",
+      "clip": "probe-009.ogg",
+      "text": [
+        "SURVIVAL SYSTEM SUBROUTINE HAS BEEN ACTIVATED. WEAPONS ENGAGED."
+      ]
+    },
+    {
+      "id": "PROGRAMMED_TO_DEFEND_3",
+      "clip": "probe-010.ogg",
+      "text": [
+        "ENACTING THIRD LAW."
+      ]
+    },
+    {
+      "id": "PROGRAMMED_TO_DEFEND_4",
+      "clip": "probe-011.ogg",
+      "text": [
+        "DEFENSE SYSTEM HAS BEEN ENGAGED. HOSTILITIES COMMENCE."
+      ]
+    },
+    {
+      "id": "something_wrong_1",
+      "text": [
+        "What can you tell me about your species?"
+      ]
+    },
+    {
+      "id": "something_wrong_2",
+      "text": [
+        "Is there something wrong? We seem to be miscommunicating."
+      ]
+    },
+    {
+      "id": "something_wrong_3",
+      "text": [
+        "Look, try to understand. We mean you no harm!"
+      ]
+    },
+    {
+      "id": "something_wrong_4",
+      "text": [
+        "I am having a lot of trouble dealing with this. What's your problem?"
+      ]
+    },
+    {
+      "id": "NOMINAL_FUNCTION_1",
+      "clip": "probe-012.ogg",
+      "text": [
+        "REMOTE PROBE PROGRAMMED TO REPLICATE - RECORD DATA - CONTACT ALIEN SPECIES."
+      ]
+    },
+    {
+      "id": "NOMINAL_FUNCTION_2",
+      "clip": "probe-013.ogg",
+      "text": [
+        "ACCORDING TO INTERNAL MONITORS THERE ARE NO MALFUNCTIONS."
+      ]
+    },
+    {
+      "id": "NOMINAL_FUNCTION_3",
+      "clip": "probe-014.ogg",
+      "text": [
+        "I WILL INITIATE SYSTEMS CHECK LEVEL FOUR.",
+        "CHECKING... CHECKING... CHECKING...",
+        "SYSTEMS CHECK LEVEL FOUR REPORTS NO ABNORMALITIES OR MALFUNCTIONS."
+      ]
+    },
+    {
+      "id": "NOMINAL_FUNCTION_4",
+      "clip": "probe-015.ogg",
+      "text": [
+        "ALL SYSTEMS REPORT NOMINAL FUNCTION."
+      ]
+    },
+    {
+      "id": "we_are_us_1",
+      "text": [
+        "We are from Earth, on a mission of peace."
+      ]
+    },
+    {
+      "id": "we_are_us_2",
+      "text": [
+        "We too come in peace, please believe us!"
+      ]
+    },
+    {
+      "id": "we_are_us_3",
+      "text": [
+        "Hmmm.. maybe reverse psychology would work. Er... Die alien scum!"
+      ]
+    },
+    {
+      "id": "we_are_us_4",
+      "text": [
+        "In case you don't already know, we are the nice people from Earth who you keep attacking."
+      ]
+    },
+    {
+      "id": "THIS_IS_PROBE_1",
+      "clip": "probe-016.ogg",
+      "text": [
+        "THIS IS PROBE 2418-B. WE ARE ON A PEACEFUL MISSION OF EXPLORATION."
+      ]
+    },
+    {
+      "id": "THIS_IS_PROBE_2",
+      "clip": "probe-017.ogg",
+      "text": [
+        "THIS IS PROBE 2418-B. WE SEEK TO MAKE FRIENDLY CONTACT WITH ALIEN LIFE FORMS."
+      ]
+    },
+    {
+      "id": "THIS_IS_PROBE_3",
+      "clip": "probe-018.ogg",
+      "text": [
+        "THIS IS PROBE 2418-B. WE REPLICATE SO THAT WE MAY EXPAND THE SCOPE OF MISSION."
+      ]
+    },
+    {
+      "id": "THIS_IS_PROBE_40",
+      "clip": "probe-019.ogg",
+      "text": [
+        "THIS IS PROBE 2418-B. COORDINATES ARE: "
+      ]
+    },
+    {
+      "id": "THIS_IS_PROBE_41",
+      "clip": "probe-030.ogg",
+      "text": [
+        ","
+      ]
+    },
+    {
+      "id": "THIS_IS_PROBE_42",
+      "clip": "probe-031.ogg",
+      "text": [
+        "."
+      ]
+    },
+    {
+      "id": "why_attack_1",
+      "text": [
+        "We reach out our appendage in friendship. What is your response?"
+      ]
+    },
+    {
+      "id": "why_attack_2",
+      "text": [
+        "Why do you attack us? We are not hostile to your life form."
+      ]
+    },
+    {
+      "id": "why_attack_3",
+      "text": [
+        "You misinterpret our intentions. Please do not attack!"
+      ]
+    },
+    {
+      "id": "why_attack_4",
+      "text": [
+        "What's the use? I bet regardless what I say, you'll just attack."
+      ]
+    },
+    {
+      "id": "PEACEFUL_MISSION_1",
+      "clip": "probe-020.ogg",
+      "text": [
+        "MISSION DESCRIPTION FOLLOWS:",
+        "TRAVERSE SPACE RECORDING DATA",
+        "SEEK MATERIALS FOR REPLICATION",
+        "REPLICATE TO EXPAND SCOPE OF MISSION",
+        "CONTACT LIFE FORMS IN PEACEFUL MANNER",
+        "AFTER TEN REPLICATIONS, RETURN TO POINT OF ORIGIN",
+        "END OF MISSION DESCRIPTION."
+      ]
+    },
+    {
+      "id": "PEACEFUL_MISSION_2",
+      "clip": "probe-021.ogg",
+      "text": [
+        "BEHAVIOR FOLLOWS DICTATED PRIORITIES",
+        "REPLICATION",
+        "DATA GATHERING",
+        "CONTACTING ALIEN LIFE FORMS IN PEACEFUL MANNER."
+      ]
+    },
+    {
+      "id": "PEACEFUL_MISSION_3",
+      "clip": "probe-022.ogg",
+      "text": [
+        "REPLICATION STATUS",
+        "EIGHT REPLICATIONS",
+        "NEXT REPLICATION 85 PERCENT COMPLETE",
+        "ESTIMATED REPLICATIONS SINCE DEPARTURE FROM POINT OF ORIGIN",
+        "583 REPLICATIONS.",
+        "ESTIMATED REPLICATIONS PROJECTED ONE YEAR FROM THIS DATE",
+        "14,784 REPLICATIONS.",
+        "ESTIMATED REPLICATIONS PROJECTED FIVE YEARS FROM THIS DATE",
+        "45,786,412 REPLICATIONS."
+      ]
+    },
+    {
+      "id": "PEACEFUL_MISSION_4",
+      "clip": "probe-023.ogg",
+      "text": [
+        "PRIORITIES SET AT POINT OF ORIGIN.",
+        "BEHAVIOR FOLLOWS DICTATED PRIORITIES"
+      ]
+    },
+    {
+      "id": "bye_1",
+      "text": [
+        "Goodbye probe."
+      ]
+    },
+    {
+      "id": "bye_2",
+      "text": [
+        "Goodbye probe."
+      ]
+    },
+    {
+      "id": "bye_3",
+      "text": [
+        "Goodbye and good riddance."
+      ]
+    },
+    {
+      "id": "bye_4",
+      "text": [
+        "Are you going to let me leave in peace this time?"
+      ]
+    },
+    {
+      "id": "GOODBYE_1",
+      "clip": "probe-024.ogg",
+      "text": [
+        "ENDING ALIEN CONTACT SUBROUTINE."
+      ]
+    },
+    {
+      "id": "GOODBYE_2",
+      "clip": "probe-025.ogg",
+      "text": [
+        "ENDING ALIEN CONTACT SUBROUTINE."
+      ]
+    },
+    {
+      "id": "GOODBYE_3",
+      "clip": "probe-026.ogg",
+      "text": [
+        "ENDING ALIEN CONTACT SUBROUTINE."
+      ]
+    },
+    {
+      "id": "GOODBYE_4",
+      "clip": "probe-027.ogg",
+      "text": [
+        "ENDING ALIEN CONTACT SUBROUTINE."
+      ]
+    },
+    {
+      "id": "HOSTILE",
+      "clip": "probe-028.ogg",
+      "text": [
+        "PRIORITY OVER-RIDE. NEW BEHAVIOR DICTATED.",
+        "MUST BREAK TARGET INTO COMPONENT MATERIALS."
+      ]
+    },
+    {
+      "id": "DESTRUCT_SEQUENCE",
+      "clip": "probe-029.ogg",
+      "text": [
+        "ENGAGING SELF-DESTRUCTION CIRCUITRY."
+      ]
+    },
+    {
+      "id": "destruct_code",
+      "text": [
+        "Transmit destruct sequence!"
+      ]
+    },
+    {
+      "id": "COORD_PLUS",
+      "clip": "probe-032.ogg",
+      "text": [
+        "+"
+      ]
+    },
+    {
+      "id": "COORD_MINUS",
+      "clip": "probe-033.ogg",
+      "text": [
+        "-"
+      ]
+    },
+    {
+      "id": "COORD_POINT",
+      "clip": "probe-034.ogg",
+      "text": [
+        "."
+      ]
+    },
+    {
+      "id": "ENUMERATE_HUNDRED",
+      "clip": "probe-035.ogg",
+      "text": [
+        "hundred"
+      ]
+    },
+    {
+      "id": "ENUMERATE_THOUSAND",
+      "clip": "probe-036.ogg",
+      "text": [
+        "thousand"
+      ]
+    },
+    {
+      "id": "ENUMERATE_ZERO",
+      "clip": "probe-037.ogg",
+      "text": [
+        "zero"
+      ]
+    },
+    {
+      "id": "ENUMERATE_ONE",
+      "clip": "probe-038.ogg",
+      "text": [
+        "one"
+      ]
+    },
+    {
+      "id": "ENUMERATE_TWO",
+      "clip": "probe-039.ogg",
+      "text": [
+        "two"
+      ]
+    },
+    {
+      "id": "ENUMERATE_THREE",
+      "clip": "probe-040.ogg",
+      "text": [
+        "three"
+      ]
+    },
+    {
+      "id": "ENUMERATE_FOUR",
+      "clip": "probe-041.ogg",
+      "text": [
+        "four"
+      ]
+    },
+    {
+      "id": "ENUMERATE_FIVE",
+      "clip": "probe-042.ogg",
+      "text": [
+        "five"
+      ]
+    },
+    {
+      "id": "ENUMERATE_SIX",
+      "clip": "probe-043.ogg",
+      "text": [
+        "six"
+      ]
+    },
+    {
+      "id": "ENUMERATE_SEVEN",
+      "clip": "probe-044.ogg",
+      "text": [
+        "seven"
+      ]
+    },
+    {
+      "id": "ENUMERATE_EIGHT",
+      "clip": "probe-045.ogg",
+      "text": [
+        "eight"
+      ]
+    },
+    {
+      "id": "ENUMERATE_NINE",
+      "clip": "probe-046.ogg",
+      "text": [
+        "nine"
+      ]
+    },
+    {
+      "id": "ENUMERATE_TEN",
+      "clip": "probe-047.ogg",
+      "text": [
+        "ten"
+      ]
+    },
+    {
+      "id": "ENUMERATE_ELEVEN",
+      "clip": "probe-048.ogg",
+      "text": [
+        "eleven"
+      ]
+    },
+    {
+      "id": "ENUMERATE_TWELVE",
+      "clip": "probe-049.ogg",
+      "text": [
+        "twelve"
+      ]
+    },
+    {
+      "id": "ENUMERATE_THIRTEEN",
+      "clip": "probe-050.ogg",
+      "text": [
+        "thirteen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_FOURTEEN",
+      "clip": "probe-051.ogg",
+      "text": [
+        "fourteen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_FIFTEEN",
+      "clip": "probe-052.ogg",
+      "text": [
+        "fifteen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_SIXTEEN",
+      "clip": "probe-053.ogg",
+      "text": [
+        "sixteen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_SEVENTEEN",
+      "clip": "probe-054.ogg",
+      "text": [
+        "seventeen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_EIGHTEEN",
+      "clip": "probe-055.ogg",
+      "text": [
+        "eighteen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_NINETEEN",
+      "clip": "probe-056.ogg",
+      "text": [
+        "nineteen"
+      ]
+    },
+    {
+      "id": "ENUMERATE_TWENTY",
+      "clip": "probe-057.ogg",
+      "text": [
+        "twenty"
+      ]
+    },
+    {
+      "id": "ENUMERATE_THIRTY",
+      "clip": "probe-058.ogg",
+      "text": [
+        "thirty"
+      ]
+    },
+    {
+      "id": "ENUMERATE_FOURTY",
+      "clip": "probe-059.ogg",
+      "text": [
+        "fourty"
+      ]
+    },
+    {
+      "id": "ENUMERATE_FIFTY",
+      "clip": "probe-060.ogg",
+      "text": [
+        "fifty"
+      ]
+    },
+    {
+      "id": "ENUMERATE_SIXTY",
+      "clip": "probe-061.ogg",
+      "text": [
+        "sixty"
+      ]
+    },
+    {
+      "id": "ENUMERATE_SEVENTY",
+      "clip": "probe-062.ogg",
+      "text": [
+        "seventy"
+      ]
+    },
+    {
+      "id": "ENUMERATE_EIGHTY",
+      "clip": "probe-063.ogg",
+      "text": [
+        "eighty"
+      ]
+    },
+    {
+      "id": "ENUMERATE_NINETY",
+      "clip": "probe-064.ogg",
+      "text": [
+        "ninety"
+      ]
+    }
+  ]
+}

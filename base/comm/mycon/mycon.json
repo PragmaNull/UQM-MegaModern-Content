@@ -1,0 +1,825 @@
+{
+  "version": 1,
+  "conversation": "mycon",
+  "lines": [
+    {
+      "id": "TELL_US_ABOUT_WORLD",
+      "clip": "mycon-000.ogg",
+      "text": [
+        "Your suggestion is appropriate.",
+        "Acceptable new worlds are a priority for the rapid and complete spread of Juffo-Wup.",
+        "We wish to know more for our suitability assessment.",
+        "Tell us of this world."
+      ]
+    },
+    {
+      "id": "BYE_AND_DIE_HOMEWORLD",
+      "clip": "mycon-001.ogg",
+      "text": [
+        "You impede the flow of Juffo-Wup through the Universe.",
+        "We will now remove this clog.",
+        "We will now aid Juffo-Wup by eliminating you!"
+      ]
+    },
+    {
+      "id": "RAMBLE_1",
+      "clip": "mycon-002.ogg",
+      "text": [
+        "A single spore lands, finds nourishment in decay and soon attains maturity..",
+        "In turn it exhales a cloud of new life, a thousand spores, each lands, finds nourishment in decay",
+        "so progresses Juffo-Wup."
+      ]
+    },
+    {
+      "id": "RAMBLE_2",
+      "clip": "mycon-003.ogg",
+      "text": [
+        "Our bodies seethe with the passion of our genes.",
+        "A thousand of your species do not possess the richness in one of my cells."
+      ]
+    },
+    {
+      "id": "RAMBLE_3",
+      "clip": "mycon-004.ogg",
+      "text": [
+        "I fill with my parents' parents' parents' parents' parents",
+        "I am they -- and they are us. Then, and now."
+      ]
+    },
+    {
+      "id": "RAMBLE_4",
+      "clip": "mycon-005.ogg",
+      "text": [
+        "The Deep Children are part of Juffo-Wup -- home builders.",
+        "The dwellers in the Mohorovichic."
+      ]
+    },
+    {
+      "id": "RAMBLE_5",
+      "clip": "mycon-006.ogg",
+      "text": [
+        "I am Dugee",
+        "I am the purity monitor",
+        "I choose what buds are permitted to mature",
+        "and which must be eradicated.",
+        "I died of general misfunction 57,283 years ago."
+      ]
+    },
+    {
+      "id": "RAMBLE_6",
+      "clip": "mycon-007.ogg",
+      "text": [
+        "A cold rock, spinning silently in the Void, a womb for the Children."
+      ]
+    },
+    {
+      "id": "RAMBLE_7",
+      "clip": "mycon-008.ogg",
+      "text": [
+        "Pulsing hot liquid flows through my outstretched tendrils, sending thrills into my interior.",
+        "The moment has come. I swell and burst.",
+        "Above me a cloud of whispering life whirls through the air.",
+        "I am content."
+      ]
+    },
+    {
+      "id": "RAMBLE_8",
+      "clip": "mycon-009.ogg",
+      "text": [
+        "The Juffo-Wup is strong in this place."
+      ]
+    },
+    {
+      "id": "RAMBLE_9",
+      "clip": "mycon-010.ogg",
+      "text": [
+        "Your simple sexual process produces random mosaics of genetic instructions",
+        "yet with the simplicity of breath, I modify my own patterns.",
+        "You humans improve a tool and double your capabilities.",
+        "We Mycon improve ourselves and increase a thousand-fold."
+      ]
+    },
+    {
+      "id": "RAMBLE_10",
+      "clip": "mycon-011.ogg",
+      "text": [
+        "The Deep Children!",
+        "Spears of light in the darkness! ",
+        "Their discarded husks speak of joy to come."
+      ]
+    },
+    {
+      "id": "RAMBLE_11",
+      "clip": "mycon-012.ogg",
+      "text": [
+        "I have chosen my offsprings' memories carefully from my set of remembrances",
+        "the sweet and warm times of my existence and those of my parents' parents' parents",
+        "the bits of a million lifetimes coalesced into a birth gift of complete awareness."
+      ]
+    },
+    {
+      "id": "RAMBLE_12",
+      "clip": "mycon-013.ogg",
+      "text": [
+        "In the dark they grow, the deep fire feeds the Children.",
+        "Their birth breathes warmth across a cold world."
+      ]
+    },
+    {
+      "id": "RAMBLE_13",
+      "clip": "mycon-014.ogg",
+      "text": [
+        "`...the system requires more energy. A convenient source lies beneath the crust...'"
+      ]
+    },
+    {
+      "id": "RAMBLE_14",
+      "clip": "mycon-015.ogg",
+      "text": [
+        "We look to Juffo-Wup for direction, and it provides the pattern",
+        "endless expansion with purity of achievement and intolerance of error."
+      ]
+    },
+    {
+      "id": "RAMBLE_15",
+      "clip": "mycon-016.ogg",
+      "text": [
+        "I am Shloosh",
+        "I was incinerated fourteen thousand Earth years ago",
+        "I live now, for but a moment",
+        "and then, I am gone."
+      ]
+    },
+    {
+      "id": "RAMBLE_16",
+      "clip": "mycon-017.ogg",
+      "text": [
+        "`...incorporation of dense amphibole fibers ensure survival in environmental extremes...'"
+      ]
+    },
+    {
+      "id": "RAMBLE_17",
+      "clip": "mycon-018.ogg",
+      "text": [
+        "I yearn for magma",
+        "the flowing warm basalts",
+        "the red glow of the lava pools."
+      ]
+    },
+    {
+      "id": "RAMBLE_18",
+      "clip": "mycon-019.ogg",
+      "text": [
+        "When we encounter the Non, we must absorb the Non or reject the Non so that it is no longer Non."
+      ]
+    },
+    {
+      "id": "RAMBLE_19",
+      "clip": "mycon-020.ogg",
+      "text": [
+        "`...entry of noise into the signal is unavoidable. We must include a filtering mechanism...'"
+      ]
+    },
+    {
+      "id": "RAMBLE_20",
+      "clip": "mycon-021.ogg",
+      "text": [
+        "Cessation of an individual is unavoidable",
+        "a consequence of existence",
+        "yet with the birth of life, individuality is transferred in part",
+        "and may occasionally gain dominance for an interval",
+        "achieving a kind of shared immortality."
+      ]
+    },
+    {
+      "id": "RAMBLE_21",
+      "clip": "mycon-022.ogg",
+      "text": [
+        "`...Survival is a priority. Expansion is a priority. Processing is a priority...'"
+      ]
+    },
+    {
+      "id": "RAMBLE_22",
+      "clip": "mycon-023.ogg",
+      "text": [
+        "Juffo-Wup acknowledges the existence of un-Voidable Non",
+        "when we are faced with such, we join, absorb and wait for our opportunity",
+        "to learn the weakness that will allow us to Void the Non."
+      ]
+    },
+    {
+      "id": "RAMBLE_23",
+      "clip": "mycon-024.ogg",
+      "text": [
+        "At times, I meet another, who shares with me the life of a parent inside the mind",
+        "and if we speak this fragment becomes predominant in the both of us",
+        "and self meets self with occasionally enlightening results."
+      ]
+    },
+    {
+      "id": "RAMBLE_24",
+      "clip": "mycon-025.ogg",
+      "text": [
+        "The Podships thrum with the plasma containment field",
+        "whose offspring seek to transform the Non to Void",
+        "the fields grow tighter, and tighter",
+        "the bass rumble of the generators rises gradually to a high burning scream",
+        "sudden silence and a flash of light announce release",
+        "the hot pulsing subsides slowly."
+      ]
+    },
+    {
+      "id": "RAMBLE_25",
+      "clip": "mycon-026.ogg",
+      "text": [
+        "The Deep Children fall from the Void, gathering speed for the penetration",
+        "The tough casing warms as it passes through the atmosphere, glowing white as it hits the surface",
+        "solid rock flows like liquid, and the child slips into the warm, safe depths beneath the crust."
+      ]
+    },
+    {
+      "id": "RAMBLE_26",
+      "clip": "mycon-027.ogg",
+      "text": [
+        "`...look... think... act... look... learn... remember... teach... repeat...'"
+      ]
+    },
+    {
+      "id": "RAMBLE_27",
+      "clip": "mycon-028.ogg",
+      "text": [
+        "The implantation fleet has assembled in orbit above the green world",
+        "the patterns of weakness reveal the point of introduction.",
+        "The Child is prepared for its birthing trip.",
+        "Release!"
+      ]
+    },
+    {
+      "id": "RAMBLE_28",
+      "clip": "mycon-029.ogg",
+      "text": [
+        "I am Gussh",
+        "I attend the birthing nodes",
+        "I died 343 Earth years ago",
+        "I do not know how."
+      ]
+    },
+    {
+      "id": "RAMBLE_29",
+      "clip": "mycon-030.ogg",
+      "text": [
+        "When Juffo-Wup is complete",
+        "when at last there is no Void, no Non",
+        "when the Creators return",
+        "then we can finally rest."
+      ]
+    },
+    {
+      "id": "RAMBLE_30",
+      "clip": "mycon-031.ogg",
+      "text": [
+        "Darkness is Void",
+        "Juffo-Wup is light."
+      ]
+    },
+    {
+      "id": "RAMBLE_31",
+      "clip": "mycon-032.ogg",
+      "text": [
+        "`... planetary transformer biot 94-18: take your place at the transporter dais...'"
+      ]
+    },
+    {
+      "id": "RAMBLE_32",
+      "clip": "mycon-033.ogg",
+      "text": [
+        "You are the Non. You must go now, and never return."
+      ]
+    },
+    {
+      "id": "question_1",
+      "text": [
+        "What can you tell me about your species?"
+      ]
+    },
+    {
+      "id": "question_2",
+      "text": [
+        "Well then, what can you tell us of your history?"
+      ]
+    },
+    {
+      "id": "question_3",
+      "text": [
+        "Why are you unwilling to address my questions?"
+      ]
+    },
+    {
+      "id": "question_4",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_5",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_6",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_7",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_8",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_9",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_10",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_11",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_12",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_13",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_14",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_15",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "question_16",
+      "text": [
+        "You're not paying any attention to me, are you?"
+      ]
+    },
+    {
+      "id": "bye_space",
+      "text": [
+        "Don't trouble yourself. I'll see myself out."
+      ]
+    },
+    {
+      "id": "BYE_AND_DIE_SPACE",
+      "clip": "mycon-034.ogg",
+      "text": [
+        "Juffo-Wup fills in my fibers and I grow turgid. Violent action ensues."
+      ]
+    },
+    {
+      "id": "gonna_die",
+      "text": [
+        "Time to die."
+      ]
+    },
+    {
+      "id": "insult_1",
+      "text": [
+        "I wonder how you would taste, fried in butter?"
+      ]
+    },
+    {
+      "id": "insult_2",
+      "text": [
+        "You know, I probably have some of your relatives between my toes!"
+      ]
+    },
+    {
+      "id": "insult_3",
+      "text": [
+        "Is that a rock you're sitting on, or do you just have a big butt?"
+      ]
+    },
+    {
+      "id": "insult_4",
+      "text": [
+        "I don't suppose there's a chance that you'll actually respond to what I am saying, is there?"
+      ]
+    },
+    {
+      "id": "insult_5",
+      "text": [
+        "I can't believe I'm trying to have a conversation with a hot fungus."
+      ]
+    },
+    {
+      "id": "insult_6",
+      "text": [
+        "Stop wiggling those... those... whatever they are!"
+      ]
+    },
+    {
+      "id": "insult_7",
+      "text": [
+        "Where's the Absorbine Junior when you need it?"
+      ]
+    },
+    {
+      "id": "insult_8",
+      "text": [
+        "Helloo? Ugly! Can you hear me?"
+      ]
+    },
+    {
+      "id": "come_in_peace",
+      "text": [
+        "Mycon. Please try to understand. We wish peace between our peoples."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_1",
+      "clip": "mycon-035.ogg",
+      "text": [
+        "Juffo-Wup is All... omni-existent, spreading and changing the Non into Juffo-Wup.",
+        "You are Non, who must become Juffo-Wup or Void.",
+        "We are the agents of Juffo-Wup.",
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_2",
+      "clip": "mycon-036.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_3",
+      "clip": "mycon-037.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_4",
+      "clip": "mycon-038.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_5",
+      "clip": "mycon-039.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_6",
+      "clip": "mycon-040.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_7",
+      "clip": "mycon-041.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_HOMEWORLD_8",
+      "clip": "mycon-042.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_1",
+      "clip": "mycon-043.ogg",
+      "text": [
+        "We are part of Juffo-Wup.",
+        "Juffo-Wup is the hot light in the darkness.",
+        "All else is unfulfilled Void.",
+        "The source of Juffo-Wup is at <% comm.getPoint(\"629.1, 220.8\", \"mycon\") %>.",
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_2",
+      "clip": "mycon-044.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_3",
+      "clip": "mycon-045.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_4",
+      "clip": "mycon-046.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_5",
+      "clip": "mycon-047.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_6",
+      "clip": "mycon-048.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_7",
+      "clip": "mycon-049.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "HELLO_SPACE_8",
+      "clip": "mycon-050.ogg",
+      "text": [
+        "We are the Mycon."
+      ]
+    },
+    {
+      "id": "lets_be_friends",
+      "text": [
+        "Let's be friends."
+      ]
+    },
+    {
+      "id": "came_to_homeworld",
+      "text": [
+        "We have come to your homeworld to seek a truce."
+      ]
+    },
+    {
+      "id": "submit_to_us",
+      "text": [
+        "Heinous fungus! Submit to our will!"
+      ]
+    },
+    {
+      "id": "bye_sun_device",
+      "text": [
+        "We'll just be going now."
+      ]
+    },
+    {
+      "id": "GOODBYE_SUN_DEVICE",
+      "clip": "mycon-051.ogg",
+      "text": [
+        "Begone from our special place."
+      ]
+    },
+    {
+      "id": "RESPONSE_1",
+      "clip": "mycon-052.ogg",
+      "text": [
+        "This is good."
+      ]
+    },
+    {
+      "id": "RESPONSE_2",
+      "clip": "mycon-053.ogg",
+      "text": [
+        "This is good."
+      ]
+    },
+    {
+      "id": "RESPONSE_3",
+      "clip": "mycon-054.ogg",
+      "text": [
+        "This is good."
+      ]
+    },
+    {
+      "id": "clue_1",
+      "text": [
+        "Its air is pure and sweet."
+      ]
+    },
+    {
+      "id": "clue_2",
+      "text": [
+        "Abundant life covers its surface."
+      ]
+    },
+    {
+      "id": "clue_3",
+      "text": [
+        "The sun gently warms the surface."
+      ]
+    },
+    {
+      "id": "what_about_shattered",
+      "text": [
+        "Why are the Shattered Worlds found only in your region of space?"
+      ]
+    },
+    {
+      "id": "ABOUT_SHATTERED",
+      "clip": "mycon-055.ogg",
+      "text": [
+        "These are the homes of the Deep Children."
+      ]
+    },
+    {
+      "id": "HELLO_SUN_DEVICE_WORLD_1",
+      "clip": "mycon-056.ogg",
+      "text": [
+        "This is a special place",
+        "filled with Juffo-Wup.",
+        "But it is not the source.",
+        "Juffo-Wup springs forth from <% comm.getPoint(\"629.1, 220.8\", \"mycon\") %>.",
+        "We must not allow this place to be soiled by the Non.",
+        "You must go. Now."
+      ]
+    },
+    {
+      "id": "HELLO_SUN_DEVICE_WORLD_2",
+      "clip": "mycon-057.ogg",
+      "text": [
+        "You have returned to our special place.",
+        "This is not permissible.",
+        "Leave."
+      ]
+    },
+    {
+      "id": "whats_up_sun_device",
+      "text": [
+        "What makes this world so special to you?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_SUN_DEVICE",
+      "clip": "mycon-058.ogg",
+      "text": [
+        "Juffo-Wup is the power of life... hot warmth in the cold Void. ",
+        "It flows through all things, binding them together, making them one.",
+        "You are Non-Juffo-Wup, you cannot understand.",
+        "Below is the pod of Juffo-Wup -- there for a thousand centuries.",
+        "When we are cold, the pod opens and warms us.",
+        "When it is dark, the pod clenches and lo, there is light.",
+        "You are the Non. The pod is not for you. You must leave."
+      ]
+    },
+    {
+      "id": "like_to_land",
+      "text": [
+        "I have business on this world.  Move aside."
+      ]
+    },
+    {
+      "id": "NEVER_LET_LAND",
+      "clip": "mycon-059.ogg",
+      "text": [
+        "Juffo-Wup flows through Time and Space. It cannot be stopped by mere energy blasts.",
+        "However, you are Non -- not part of Juffo-Wup.",
+        "You CAN be destroyed by energy blasts.",
+        "Let us demonstrate."
+      ]
+    },
+    {
+      "id": "bye_homeworld",
+      "text": [
+        "Goodbye fungus-boys!"
+      ]
+    },
+    {
+      "id": "i_have_a_cunning_plan",
+      "text": [
+        "There is a world at the star <% comm.getStarName(\"Organon\", \"mycon trap\") %>. I believe it is perfect for your Deep Children."
+      ]
+    },
+    {
+      "id": "DIE_LIAR",
+      "clip": "mycon-060.ogg",
+      "text": [
+        "You are an obstruction to Juffo-Wup.",
+        "You must be removed."
+      ]
+    },
+    {
+      "id": "how_goes_implanting",
+      "text": [
+        "Have you visited the planet I told you about?"
+      ]
+    },
+    {
+      "id": "UNFORSEEN_DELAYS",
+      "clip": "mycon-061.ogg",
+      "text": [
+        "We have experienced unforeseen delays implanting Deep Children beneath the crust of <% comm.getStarName(\"Organon\", \"mycon trap\") %> 1.",
+        "However, Juffo-Wup is inevitable.  The Deep Children WILL be born."
+      ]
+    },
+    {
+      "id": "DIE_THIEF",
+      "clip": "mycon-062.ogg",
+      "text": [
+        "You have taken something from us which we value",
+        "something which is important to Juffo-Wup.",
+        "We require the Solar Manipulator.",
+        "We will take it back from you now!"
+      ]
+    },
+    {
+      "id": "DIE_THIEF_AGAIN",
+      "clip": "mycon-063.ogg",
+      "text": [
+        "You have taken something from us which we value... which is important to Juffo-Wup.",
+        "Return the Solar Manipulator immediately."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE",
+      "clip": "mycon-064.ogg",
+      "text": [
+        "Juffo-Wup is All",
+        "but you are not a part of Juffo-Wup",
+        "therefore you must cease existence.",
+        "We shall make you cease to exist, for Juffo-Wup."
+      ]
+    },
+    {
+      "id": "AMBUSH_TAIL",
+      "text": [
+        "  "
+      ]
+    },
+    {
+      "id": "RAMBLE_TAIL",
+      "text": [
+        "  "
+      ]
+    },
+    {
+      "id": "WE_GO_TO_IMPLANT",
+      "clip": "mycon-065.ogg",
+      "text": [
+        "If your words are true, we will gladly spread Juffo-Wup to a new world!",
+        "We will assemble the Birthing Fleet and send them to this planet.",
+        "We will send many ships to protect the Children as they grow.",
+        "You have been of service to us.",
+        "Your insight into the ineffable Juffo-Wup is encouraging.",
+        "Perhaps, if we were to plant spore sacs in your brain organ",
+        "and let its tendrils spread through your flesh",
+        "then you would truly understand Juffo-Wup... become part of Juffo-Wup.",
+        "You WOULD be happier and more fulfilled.  Consider our offer."
+      ]
+    },
+    {
+      "id": "WONT_FALL_FOR_TRICK",
+      "clip": "mycon-066.ogg",
+      "text": [
+        "We do not interpret the will of Juffo-Wup.",
+        "Only the source is so empowered.",
+        "Until instructed otherwise, Juffo-Wup requires that we remain here."
+      ]
+    }
+  ]
+}

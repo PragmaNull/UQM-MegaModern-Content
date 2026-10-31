@@ -1,0 +1,9799 @@
+{
+  "version": 1,
+  "conversations": {
+    "chmmr": {
+      "WHY_YOU_HERE_1": {
+        "timing": [
+          5538,
+          5518,
+          3705
+        ]
+      },
+      "HYBRID_PROCESS": {
+        "timing": [
+          3645,
+          6129,
+          5378,
+          6609,
+          7130,
+          6059,
+          4026,
+          6509,
+          5578,
+          5999,
+          5958,
+          6370,
+          4676,
+          7441,
+          3675,
+          8092,
+          6319,
+          7321,
+          7570,
+          4547
+        ]
+      },
+      "CANT_HELP": {
+        "timing": [
+          6369,
+          2484,
+          5648,
+          5768,
+          4958,
+          6868,
+          4548,
+          5608,
+          4286,
+          5738,
+          6430,
+          6138
+        ]
+      },
+      "LONG_TIME": {
+        "timing": [
+          7030,
+          5548,
+          6539
+        ]
+      },
+      "DANGER_TO_US": {
+        "timing": [
+          3755,
+          3155,
+          6869
+        ]
+      },
+      "DEFEAT_LIKE_SO": {
+        "timing": [
+          4626,
+          7281,
+          2934,
+          4606
+        ]
+      },
+      "SCARY_BUT_USEFUL": {
+        "timing": [
+          3415,
+          4507,
+          5257,
+          5128
+        ]
+      },
+      "ABOUT_BOMB": {
+        "timing": [
+          6088,
+          8493,
+          7997
+        ]
+      },
+      "ABOUT_SUN_DEVICE": {
+        "timing": [
+          3425
+        ]
+      },
+      "ABOUT_SAMATRA": {
+        "timing": [
+          5709,
+          3775,
+          5368,
+          7601,
+          5868
+        ]
+      },
+      "OK_ENOUGH_ADVICE": {
+        "timing": [
+          4146
+        ]
+      },
+      "GOODBYE_SHIELDED": {
+        "timing": [
+          9503
+        ]
+      },
+      "WE_ARE_FREE": {
+        "timing": [
+          2493,
+          6930,
+          6029,
+          5488
+        ]
+      },
+      "WILL_HELP_ANALYZE_LOGS": {
+        "timing": [
+          4559,
+          3899,
+          4889,
+          3079,
+          5159,
+          5478,
+          5778,
+          5578,
+          7667,
+          7189,
+          5988,
+          6309,
+          4058,
+          4269,
+          4268,
+          1400
+        ]
+      },
+      "YOU_KNOW_SAMATRA": {
+        "timing": [
+          6650
+        ],
+        "subclipTiming": [
+          [
+            6550
+          ],
+          [
+            1001
+          ]
+        ]
+      },
+      "DONT_KNOW_ABOUT_SAMATRA": {
+        "timing": [
+          4556,
+          6359
+        ]
+      },
+      "NEED_DISTRACTION": {
+        "timing": [
+          4296,
+          3415
+        ]
+      },
+      "HAVE_TALKING_PET": {
+        "timing": [
+          5038,
+          5127,
+          6249,
+          6479
+        ]
+      },
+      "NEED_WEAPON": {
+        "timing": [
+          6860,
+          8152,
+          5918,
+          6319
+        ]
+      },
+      "HAVE_BOMB": {
+        "timing": [
+          5779,
+          5578,
+          4946,
+          9164,
+          5828,
+          4156
+        ]
+      },
+      "USE_OUR_SHIPS_BEFORE": {
+        "timing": [
+          8442,
+          5738,
+          8543
+        ]
+      },
+      "PRECURSOR_WEAPON": {
+        "timing": [
+          7331,
+          4516,
+          4577
+        ],
+        "subclipTiming": [
+          [
+            7031
+          ],
+          [
+            16,
+            4577
+          ]
+        ]
+      },
+      "PSYCHIC_WEAPONRY": {
+        "timing": [
+          9003,
+          5067,
+          6219
+        ]
+      },
+      "WE_WILL_IMPROVE_BOMB": {
+        "timing": [
+          3676,
+          6189
+        ]
+      },
+      "MODIFY_VESSEL": {
+        "timing": [
+          8863,
+          7671
+        ]
+      },
+      "USE_OUR_SHIPS_AFTER": {
+        "timing": [
+          6860,
+          5258,
+          6379,
+          6559
+        ]
+      },
+      "TAKE_2_WEEKS": {
+        "timing": [
+          6469,
+          7190,
+          5959
+        ]
+      },
+      "GENERAL_INFO_AFTER_BOMB_1": {
+        "timing": [
+          4182,
+          8078,
+          4100,
+          8257,
+          5718,
+          9366,
+          5128,
+          6919,
+          6908
+        ],
+        "subclipTiming": [
+          [
+            3782
+          ],
+          [],
+          [
+            1078,
+            4100,
+            8257,
+            5718,
+            9366,
+            5128,
+            6919,
+            6908
+          ]
+        ]
+      },
+      "GENERAL_INFO_AFTER_BOMB_2": {
+        "timing": [
+          3095,
+          8211
+        ],
+        "subclipTiming": [
+          [
+            2695
+          ],
+          [
+            6311
+          ]
+        ]
+      },
+      "DO_AFTER_BOMB": {
+        "timing": [
+          6580
+        ]
+      }
+    },
+    "commander": {
+      "GIVE_FUEL": {
+        "timing": [
+          4643
+        ]
+      },
+      "GIVE_FUEL_AGAIN": {
+        "timing": [
+          3304,
+          3255
+        ]
+      },
+      "ARE_YOU_SUPPLY_SHIP": {
+        "timing": [
+          2463,
+          3445,
+          3485,
+          3866,
+          3144,
+          2894,
+          3225
+        ]
+      },
+      "HERE_IS_ANOTHER_LANDER": {
+        "timing": [
+          1332,
+          2414
+        ]
+      },
+      "THE_WHAT_FROM_WHERE": {
+        "timing": [
+          2174,
+          3995,
+          4707,
+          2964,
+          2774,
+          4707,
+          4537,
+          4326,
+          3064,
+          3445,
+          4577,
+          5347
+        ]
+      },
+      "ABOUT_TIME": {
+        "timing": [
+          2554,
+          3965,
+          4447,
+          4476
+        ]
+      },
+      "HERE_IS_A_NEW_LANDER": {
+        "timing": [
+          4777,
+          2674
+        ]
+      },
+      "THIS_MAY_SEEM_SILLY": {
+        "timing": [
+          4456,
+          3966
+        ]
+      },
+      "OK_THE_NAME_IS_EMPIRE": {
+        "timing": [
+          4466
+        ]
+      },
+      "FUEL_UP0": {
+        "timing": [
+          2884
+        ]
+      },
+      "FUEL_UP1": {
+        "timing": [
+          5388,
+          5768,
+          2774
+        ]
+      },
+      "WHAT_KIND_OF_IDIOT": {
+        "timing": [
+          1111,
+          4146,
+          3996,
+          3355
+        ]
+      },
+      "DONT_KNOW_WHO_YOU_ARE": {
+        "timing": [
+          3024,
+          2254,
+          3014,
+          2453,
+          4637,
+          2614
+        ]
+      },
+      "THATS_IMPOSSIBLE": {
+        "timing": [
+          3314,
+          6350,
+          2934
+        ],
+        "subclipTiming": [
+          [
+            3214,
+            6350
+          ],
+          [
+            34
+          ]
+        ]
+      },
+      "RADIOS_ON_MERCURY": {
+        "timing": [
+          4146,
+          3215,
+          3935
+        ]
+      },
+      "THANKS_FOR_HELPING": {
+        "timing": [
+          4046
+        ]
+      },
+      "STARBASE_IS": {
+        "timing": [
+          4096,
+          3785,
+          3645,
+          4737,
+          3355,
+          4957
+        ]
+      },
+      "HAPPENED_TO_EARTH": {
+        "timing": [
+          4316,
+          5929,
+          4967,
+          3385
+        ]
+      },
+      "URQUAN_LEFT": {
+        "timing": [
+          3775
+        ]
+      },
+      "BASE_ON_MOON": {
+        "timing": [
+          3510,
+          3758,
+          4020,
+          3757,
+          3698,
+          3949,
+          3169,
+          3990,
+          4968,
+          3898,
+          5309,
+          2839,
+          3340,
+          2240,
+          6426,
+          3040,
+          3360,
+          4179,
+          3768,
+          2999,
+          4568,
+          1799,
+          5129
+        ]
+      },
+      "ACKNOWLEDGE_SECRET": {
+        "timing": [
+          2834,
+          4457,
+          3775,
+          4346,
+          3535,
+          4006
+        ],
+        "subclipTiming": [
+          [
+            2534,
+            4557,
+            4075
+          ],
+          [
+            3546,
+            3035,
+            3906
+          ]
+        ]
+      },
+      "ABOUT_BASE": {
+        "timing": [
+          4606,
+          3996,
+          4647,
+          3063
+        ]
+      },
+      "GOOD_LUCK_WITH_BASE": {
+        "timing": [
+          1582,
+          5027,
+          2965
+        ]
+      },
+      "HERE_COMES_ILWRATH": {
+        "timing": [
+          1372,
+          3515,
+          3906,
+          3254,
+          4186
+        ]
+      },
+      "VERY_IMPRESSIVE": {
+        "timing": [
+          2766,
+          4379,
+          3699,
+          3710,
+          3959,
+          4989,
+          4118,
+          3238
+        ]
+      },
+      "IT_WAS_ABANDONED": {
+        "timing": [
+          1442
+        ]
+      },
+      "THAT_WAS_PROBE": {
+        "timing": [
+          3755
+        ]
+      },
+      "DEEP_TROUBLE": {
+        "timing": [
+          3875,
+          3255
+        ]
+      },
+      "GOOD_NEWS": {
+        "timing": [
+          4817,
+          3475
+        ]
+      },
+      "ABOUT_BASE_AGAIN": {
+        "timing": [
+          5979,
+          4487,
+          5187,
+          4767
+        ]
+      },
+      "STARBASE_WILL_BE_READY": {
+        "timing": [
+          3304
+        ]
+      }
+    },
+    "druuge": {
+      "AMBUSH_IS_FIRST_HELLO": {
+        "timing": [
+          9885,
+          7741
+        ]
+      },
+      "SUBSEQ_BOMB_WORLD_HELLO": {
+        "timing": [
+          7771,
+          4637,
+          4777,
+          6249
+        ]
+      },
+      "GEN_INFO_AT_BOMB_PLANET": {
+        "timing": [
+          5115,
+          6357,
+          8808,
+          6848,
+          4278,
+          8399,
+          5928,
+          5848,
+          4289,
+          6508,
+          7668,
+          4117,
+          6560,
+          8957,
+          3977
+        ]
+      },
+      "NOT_GET_BOMB": {
+        "timing": [
+          1552,
+          5257,
+          5639,
+          4967,
+          4736,
+          7001,
+          5477,
+          2154,
+          5227,
+          10235,
+          7410,
+          7421,
+          6409,
+          8643,
+          6639,
+          7531,
+          8542,
+          8412,
+          5478,
+          4517,
+          4126,
+          9443,
+          6019,
+          6059,
+          5988,
+          8513,
+          9223,
+          5678
+        ]
+      },
+      "FIGHT_FOR_BOMB": {
+        "timing": [
+          2925,
+          6569,
+          3545,
+          8612,
+          4477,
+          5708,
+          7992
+        ]
+      },
+      "TRADE_FOR_SPHERE": {
+        "timing": [
+          5108,
+          5257,
+          3445,
+          6900,
+          2674,
+          7541
+        ]
+      },
+      "OK_REGULAR_DEAL": {
+        "timing": [
+          4767,
+          6509,
+          5358
+        ]
+      },
+      "OK_HERES_SPHERE": {
+        "timing": [
+          6068
+        ]
+      },
+      "SPHERE_IS": {
+        "timing": [
+          6830,
+          3306,
+          9474,
+          3325,
+          6509,
+          5348,
+          7190
+        ]
+      },
+      "WE_SELL_FOR_CREW": {
+        "timing": [
+          4356,
+          5809,
+          7060,
+          8913
+        ]
+      },
+      "YOUR_LOSS": {
+        "timing": [
+          7992,
+          6349,
+          6099,
+          9253,
+          11897,
+          2153,
+          8092
+        ]
+      },
+      "NO_SLAVE_TRADE": {
+        "timing": [
+          8022,
+          5668
+        ]
+      },
+      "HAVE_FUN": {
+        "timing": [
+          7481,
+          4707
+        ]
+      },
+      "THIS_FOR_SALE": {
+        "timing": [
+          3104
+        ]
+      },
+      "HAVE_SPHERE": {
+        "timing": [
+          7991
+        ]
+      },
+      "HAVE_ART_2": {
+        "timing": [
+          5077,
+          9554
+        ]
+      },
+      "HAVE_ART_1": {
+        "timing": [
+          9764,
+          9053
+        ]
+      },
+      "SHIPS_AND_FUEL": {
+        "timing": [
+          9053,
+          5137,
+          4156
+        ]
+      },
+      "BOUGHT_SHIP": {
+        "timing": [
+          5768
+        ]
+      },
+      "BOUGHT_FUEL": {
+        "timing": [
+          4746
+        ]
+      },
+      "BOUGHT_ART_2": {
+        "timing": [
+          11967,
+          7331
+        ]
+      },
+      "BOUGHT_ART_1": {
+        "timing": [
+          6549,
+          6900,
+          4356
+        ]
+      },
+      "BOUGHT_SPHERE": {
+        "timing": [
+          8242,
+          8613,
+          8862,
+          9063
+        ]
+      },
+      "INIT_SPACE_HELLO": {
+        "timing": [
+          4356,
+          5709,
+          4476,
+          8192
+        ],
+        "subclipTiming": [
+          [
+            4356,
+            5709,
+            4476,
+            8192
+          ],
+          [
+            469
+          ]
+        ]
+      },
+      "SUBSEQUENT_SPACE_HELLO": {
+        "timing": [
+          4787,
+          3996
+        ]
+      },
+      "GENERAL_INFO_IN_SPACE_1": {
+        "timing": [
+          7741,
+          6089
+        ]
+      },
+      "GENERAL_INFO_IN_SPACE_2": {
+        "timing": [
+          4847,
+          6219,
+          3775,
+          7862,
+          8772,
+          5608,
+          9384,
+          4637,
+          9774,
+          7891
+        ]
+      },
+      "GENERAL_INFO_IN_SPACE_3": {
+        "timing": [
+          6740,
+          4056,
+          5317,
+          3255,
+          7271,
+          3414,
+          6189
+        ]
+      },
+      "GENERAL_INFO_IN_SPACE_4": {
+        "timing": [
+          8923,
+          2514,
+          10715,
+          6450,
+          8542,
+          6259,
+          8422,
+          6449,
+          7060
+        ],
+        "subclipTiming": [
+          [
+            8923,
+            2514,
+            10715,
+            6450,
+            8542,
+            6259
+          ],
+          [
+            22,
+            6449,
+            7060
+          ]
+        ]
+      },
+      "HSTL_TRADE_WORLD_HELLO_2": {
+        "timing": [
+          4266
+        ]
+      },
+      "HOSTILE_SPACE_HELLO_1": {
+        "timing": [
+          4486,
+          5198
+        ]
+      },
+      "HOSTILE_SPACE_HELLO_2": {
+        "timing": [
+          6580
+        ]
+      },
+      "INITIAL_TRADE_WORLD_HELLO": {
+        "timing": [
+          3005,
+          6149,
+          3254
+        ]
+      },
+      "SSQ_TRADE_WORLD_HELLO_1": {
+        "timing": [
+          3916
+        ]
+      },
+      "SSQ_TRADE_WORLD_HELLO_3": {
+        "timing": [
+          6679
+        ]
+      },
+      "GEN_INFO_AT_TRADE_WORLD_1": {
+        "timing": [
+          8312,
+          6769,
+          7962
+        ]
+      },
+      "GEN_INFO_AT_TRADE_WORLD_2": {
+        "timing": [
+          6689,
+          6840,
+          10535,
+          9013,
+          6960,
+          6259,
+          9123
+        ]
+      },
+      "GEN_INFO_AT_TRADE_WORLD_3": {
+        "timing": [
+          4276,
+          8152,
+          8322,
+          6640
+        ]
+      },
+      "GEN_INFO_AT_TRADE_WORLD_4": {
+        "timing": [
+          7491,
+          4706,
+          5318,
+          5127,
+          8152,
+          5718,
+          5258,
+          6419,
+          8953,
+          5067,
+          8573,
+          3224,
+          7321,
+          1312,
+          9383,
+          6509,
+          10195,
+          6750,
+          9253,
+          6479,
+          7251,
+          8322,
+          3415,
+          5478,
+          9123,
+          6900,
+          4286
+        ]
+      },
+      "SCAN_MAIDENS": {
+        "timing": [
+          6609,
+          4998,
+          6028,
+          3766
+        ]
+      },
+      "SCAN_FRAGMENTS": {
+        "timing": [
+          7261
+        ]
+      },
+      "SCAN_DRUUGE_CASTER": {
+        "timing": [
+          9043,
+          5308,
+          4216,
+          4356
+        ]
+      },
+      "SCAN_ARILOU_SPAWNER": {
+        "timing": [
+          4386,
+          7200
+        ]
+      },
+      "ENOUGH_FRAGMENTS": {
+        "timing": [
+          4777
+        ]
+      },
+      "READY_TO_SELL": {
+        "timing": [
+          3555
+        ]
+      },
+      "SALVAGE_YOUR_SHIP_1": {
+        "timing": [
+          5458,
+          10616
+        ]
+      },
+      "SALVAGE_YOUR_SHIP_2": {
+        "timing": [
+          7240,
+          2644,
+          5608,
+          8152
+        ]
+      },
+      "DEAL_FOR_LESS_SHIPS": {
+        "timing": [
+          3545,
+          5077
+        ]
+      },
+      "DEAL_FOR_NO_SHIPS": {
+        "timing": [
+          3495,
+          6380,
+          7931
+        ]
+      },
+      "FUEL0": {
+        "timing": [
+          3425,
+          4998
+        ]
+      },
+      "HIDEOUS_DEAL": {
+        "timing": [
+          7431,
+          6539,
+          4416,
+          4126,
+          3065
+        ]
+      },
+      "BAD_DEAL": {
+        "timing": [
+          7531,
+          7731,
+          9864,
+          4657
+        ]
+      },
+      "FAIR_DEAL": {
+        "timing": [
+          5028,
+          4055,
+          5709
+        ]
+      },
+      "GOOD_DEAL": {
+        "timing": [
+          6709
+        ]
+      },
+      "FINE_DEAL": {
+        "timing": [
+          6446,
+          5539,
+          8977,
+          7129,
+          6696,
+          7089,
+          3159,
+          8308
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          6000,
+          6000,
+          6000,
+          3000,
+          6000,
+          6500,
+          2500,
+          3500
+        ]
+      }
+    },
+    "ilwrath": {
+      "NEVER_ENOUGH": {
+        "timing": [
+          7610
+        ]
+      },
+      "OK_WARSHIP": {
+        "timing": [
+          6379
+        ]
+      },
+      "OK_YOUBOO": {
+        "timing": [
+          3635,
+          2935,
+          5678
+        ]
+      },
+      "BIG_FUN": {
+        "timing": [
+          1842,
+          4417,
+          7030,
+          10955,
+          7511,
+          9444,
+          9483
+        ]
+      },
+      "FAST_AS_CAN": {
+        "timing": [
+          4780,
+          9416,
+          8007,
+          7329,
+          2639,
+          8578,
+          5938,
+          3949,
+          5188
+        ]
+      },
+      "GLORIOUS_WORSHIP": {
+        "timing": [
+          8892,
+          7902
+        ]
+      },
+      "ON_WAY": {
+        "timing": [
+          10225,
+          5738,
+          5568,
+          12929,
+          9514
+        ],
+        "subclipTiming": [
+          [
+            10225,
+            5438,
+            5568,
+            13129
+          ],
+          [
+            814
+          ]
+        ]
+      },
+      "GODS_RETURN_3": {
+        "timing": [
+          6680,
+          6059,
+          5608,
+          8282
+        ]
+      },
+      "JUST_GRUNTS": {
+        "timing": [
+          9053,
+          7290,
+          2834,
+          7321,
+          4476
+        ]
+      },
+      "GRUNTS_AGAIN": {
+        "timing": [
+          3865,
+          6249,
+          7611,
+          3025,
+          7951
+        ],
+        "subclipTiming": [
+          [
+            3865,
+            6249,
+            7411,
+            2725
+          ],
+          [
+            4451
+          ]
+        ]
+      },
+      "WE_WORSHIP_1": {
+        "timing": [
+          7721,
+          8252,
+          7771,
+          9253,
+          7411
+        ]
+      },
+      "WE_WORSHIP_2": {
+        "timing": [
+          5017,
+          4837,
+          2353,
+          7641
+        ]
+      },
+      "WE_WORSHIP_3": {
+        "timing": [
+          2654,
+          2223,
+          5998,
+          3435,
+          5989,
+          9413,
+          3065,
+          7581
+        ]
+      },
+      "SUBSEQUENT_CHMMR_HELLO": {
+        "timing": [
+          8071,
+          9995,
+          8863
+        ]
+      },
+      "INIT_CHMMR_HELLO": {
+        "timing": [
+          3405,
+          4307,
+          3515,
+          9123,
+          4837,
+          4636,
+          2644
+        ]
+      },
+      "OK_ENOUGH_GODS": {
+        "timing": [
+          6870,
+          2994
+        ]
+      },
+      "SEND_MESSAGE": {
+        "timing": [
+          3886,
+          5358,
+          9153,
+          6830,
+          5898,
+          4096,
+          4897,
+          9023
+        ]
+      },
+      "CAME_FROM": {
+        "timing": [
+          4747,
+          4286,
+          3024,
+          6580,
+          6089,
+          5708,
+          9123,
+          5187
+        ],
+        "subclipTiming": [
+          [
+            4647,
+            4286,
+            3124,
+            6480,
+            5889
+          ],
+          [
+            3608,
+            9223,
+            5187
+          ]
+        ]
+      },
+      "WHO_BLASTS_WHO": {
+        "timing": [
+          3355,
+          6068,
+          8833
+        ]
+      },
+      "NO_SURRENDER": {
+        "timing": [
+          1352,
+          6900,
+          6199
+        ]
+      },
+      "NOT_REASONABLE": {
+        "timing": [
+          7281
+        ]
+      },
+      "SUBSEQUENT_HOME_HELLO": {
+        "timing": [
+          3686,
+          6769,
+          4697,
+          5288,
+          4456,
+          6039
+        ]
+      },
+      "GENERAL_INFO": {
+        "timing": [
+          5367,
+          5739,
+          8091,
+          9644,
+          4096,
+          2674,
+          2834,
+          3515,
+          5608,
+          3836,
+          4286,
+          3735,
+          5677
+        ]
+      },
+      "GOODBYE_AND_DIE": {
+        "timing": [
+          10766,
+          3335
+        ]
+      },
+      "DECEIVERS": {
+        "timing": [
+          1803,
+          3995
+        ]
+      },
+      "NO_PEACE": {
+        "timing": [
+          7611
+        ]
+      },
+      "NO_ALLIANCE": {
+        "timing": [
+          9053,
+          8342
+        ]
+      },
+      "ILWRATH_BELIEVE": {
+        "timing": [
+          1632,
+          6730
+        ]
+      },
+      "OK_KILL_THRADDASH": {
+        "timing": [
+          1940,
+          2119,
+          7359,
+          4489,
+          4538,
+          6918,
+          3379,
+          5078,
+          1980,
+          6137,
+          6088
+        ]
+      },
+      "GOODBYE_GODS": {
+        "timing": [
+          8141
+        ]
+      },
+      "INIT_HELLO_SPACE": {
+        "timing": [
+          7020,
+          3675,
+          4547
+        ]
+      },
+      "SUBSEQUENT_HELLO_SPACE_1": {
+        "timing": [
+          8983,
+          8252,
+          8542
+        ]
+      },
+      "SUBSEQUENT_HELLO_SPACE_2": {
+        "timing": [
+          6450,
+          4967,
+          5638,
+          6289,
+          7701,
+          5768
+        ],
+        "subclipTiming": [
+          [
+            6350,
+            4867,
+            5838
+          ],
+          [
+            4489,
+            7701,
+            5768
+          ]
+        ]
+      },
+      "SUBSEQUENT_HELLO_SPACE_3": {
+        "timing": [
+          6750,
+          6189,
+          6609,
+          10115,
+          6059,
+          4116
+        ]
+      },
+      "SUBSEQUENT_HELLO_SPACE_4": {
+        "timing": [
+          5838,
+          7511,
+          3575,
+          5418,
+          6960,
+          6449,
+          6259,
+          6029
+        ],
+        "subclipTiming": [
+          [],
+          [
+            5238,
+            7011,
+            3675,
+            5718,
+            6660,
+            6449,
+            6259,
+            6029
+          ]
+        ]
+      },
+      "GENERAL_INFO_SPACE_1": {
+        "timing": [
+          6189
+        ]
+      },
+      "GENERAL_INFO_SPACE_2": {
+        "timing": [
+          7771,
+          4827,
+          6870,
+          4967,
+          3285
+        ]
+      },
+      "GENERAL_INFO_SPACE_3": {
+        "timing": [
+          4857,
+          4867,
+          9324,
+          6439,
+          8162
+        ],
+        "subclipTiming": [
+          [
+            4857,
+            4767
+          ],
+          [
+            24,
+            6439,
+            8162
+          ]
+        ]
+      },
+      "GENERAL_INFO_SPACE_4": {
+        "timing": [
+          6388,
+          6219,
+          5318,
+          6798,
+          6739,
+          6348,
+          9306,
+          4008,
+          3491,
+          11355,
+          10167,
+          5530,
+          13036,
+          8938
+        ]
+      },
+      "GENERAL_INFO_SPACE_5": {
+        "timing": [
+          9353,
+          7581,
+          6309
+        ]
+      },
+      "STRENGTH_NOT_ALL": {
+        "timing": [
+          7871,
+          7891,
+          3545,
+          6290,
+          5547
+        ]
+      },
+      "NO_SLAY_BY_THOUSANDS": {
+        "timing": [
+          4707,
+          5318,
+          5447,
+          5128,
+          7671
+        ]
+      },
+      "NO_EASE_UP": {
+        "timing": [
+          7020,
+          4937
+        ]
+      },
+      "GOODBYE_AND_DIE_SPACE": {
+        "timing": [
+          2254,
+          4746,
+          3836
+        ]
+      },
+      "INIT_HOME_HELLO": {
+        "timing": [
+          6179,
+          7351,
+          3485,
+          4546,
+          4897,
+          7191
+        ]
+      },
+      "GOODBYE_AND_DIE_HOMEWORLD": {
+        "timing": [
+          7701,
+          4998
+        ]
+      },
+      "SO_MUCH_TO_KNOW": {
+        "timing": [
+          7741,
+          4446
+        ]
+      },
+      "LONG_AGO": {
+        "timing": [
+          9193,
+          3646,
+          7671,
+          7090
+        ]
+      },
+      "KILLED_GOOD_GODS": {
+        "timing": [
+          5438,
+          4607,
+          2914,
+          5157,
+          7551,
+          6930,
+          3735,
+          6320,
+          5998,
+          3215,
+          4456
+        ]
+      },
+      "CHANNEL_44": {
+        "timing": [
+          6499,
+          4968,
+          5447,
+          5959,
+          5318,
+          6579
+        ]
+      },
+      "BECAUSE_44": {
+        "timing": [
+          2115,
+          4689,
+          5277,
+          5268,
+          6818,
+          8137
+        ]
+      },
+      "WHAT_ABOUT_ILWRATH": {
+        "timing": [
+          5065,
+          5628,
+          4188
+        ]
+      },
+      "ABOUT_PHYSIO": {
+        "timing": [
+          8624,
+          4090,
+          9448,
+          9717,
+          5927,
+          9657,
+          7157
+        ]
+      },
+      "ABOUT_HISTORY": {
+        "timing": [
+          3884,
+          7819,
+          7478,
+          5479,
+          9435,
+          5819,
+          8358,
+          7038,
+          4838,
+          7688,
+          7418,
+          7896,
+          8009,
+          4958,
+          8188,
+          5039,
+          4467,
+          2790
+        ]
+      },
+      "ABOUT_CULTURE": {
+        "timing": [
+          5167,
+          6189,
+          6640,
+          7731,
+          10896,
+          5317
+        ]
+      },
+      "ABOUT_URQUAN": {
+        "timing": [
+          6810,
+          7801,
+          9704,
+          9183,
+          5448,
+          7741
+        ]
+      },
+      "URQUAN_TOO_NICE": {
+        "timing": [
+          7955,
+          9617,
+          5558,
+          9748,
+          10037,
+          7038
+        ]
+      },
+      "OF_COURSE_WERE_EVIL": {
+        "timing": [
+          5849,
+          8091,
+          6580,
+          9634
+        ]
+      },
+      "DONT_CONFUSE_US": {
+        "timing": [
+          4566,
+          9153,
+          7962,
+          2774,
+          4086,
+          3194,
+          5548,
+          4377,
+          1231,
+          3796
+        ]
+      },
+      "ON_WAY_TO_THRADDASH": {
+        "timing": [
+          2614,
+          3575,
+          4446,
+          5677
+        ]
+      },
+      "HAPPY_FIGHTING_THRADDASH": {
+        "timing": [
+          7852,
+          7540,
+          4337,
+          5988
+        ]
+      }
+    },
+    "kohrah": {
+      "SENSE_EVIL": {
+        "timing": [
+          9344,
+          5127,
+          2804,
+          7451,
+          2253
+        ]
+      },
+      "HELLO_AND_DIE_1": {
+        "timing": [
+          2273,
+          2324,
+          2473
+        ]
+      },
+      "HELLO_AND_DIE_2": {
+        "timing": [
+          2353,
+          2423,
+          3175,
+          1993,
+          3475
+        ]
+      },
+      "HELLO_AND_DIE_3": {
+        "timing": [
+          2323,
+          3045,
+          4106
+        ]
+      },
+      "HELLO_AND_DIE_4": {
+        "timing": [
+          2514,
+          3074
+        ]
+      },
+      "HELLO_AND_DIE_5": {
+        "timing": [
+          2384,
+          2994
+        ]
+      },
+      "HELLO_AND_DIE_6": {
+        "timing": [
+          2524,
+          3064
+        ]
+      },
+      "HELLO_AND_DIE_7": {
+        "timing": [
+          2544,
+          3044
+        ]
+      },
+      "HELLO_AND_DIE_8": {
+        "timing": [
+          2604,
+          2964
+        ]
+      },
+      "HELLO_SAMATRA": {
+        "timing": [
+          5067
+        ]
+      },
+      "WE_KILL_ALL_1": {
+        "timing": [
+          2424,
+          5207,
+          5608,
+          2804,
+          3916,
+          5117,
+          1673
+        ]
+      },
+      "WE_KILL_ALL_2": {
+        "timing": [
+          2644
+        ]
+      },
+      "WE_KILL_ALL_3": {
+        "timing": [
+          2724
+        ]
+      },
+      "WE_KILL_ALL_4": {
+        "timing": [
+          2824
+        ]
+      },
+      "KILL_BECAUSE_1": {
+        "timing": [
+          3455,
+          4497,
+          5658,
+          2693,
+          3225,
+          3295
+        ]
+      },
+      "KILL_BECAUSE_2": {
+        "timing": [
+          6309
+        ]
+      },
+      "KILL_BECAUSE_3": {
+        "timing": [
+          1973,
+          4576
+        ]
+      },
+      "WILL_KILL_2": {
+        "timing": [
+          3234,
+          6099
+        ]
+      },
+      "WILL_KILL_3": {
+        "timing": [
+          5458,
+          4857
+        ]
+      },
+      "WILL_KILL_4": {
+        "timing": [
+          4587,
+          1522,
+          3685
+        ]
+      },
+      "GOODBYE_AND_DIE_FRENZY_1": {
+        "timing": [
+          3045
+        ]
+      },
+      "GOODBYE_AND_DIE_FRENZY_2": {
+        "timing": [
+          3075
+        ]
+      },
+      "GOODBYE_AND_DIE_FRENZY_3": {
+        "timing": [
+          3225
+        ]
+      },
+      "GOODBYE_AND_DIE_FRENZY_4": {
+        "timing": [
+          3165
+        ]
+      },
+      "RESISTANCE_IS_USELESS_1": {
+        "timing": [
+          2974,
+          3445
+        ]
+      },
+      "RESISTANCE_IS_USELESS_4": {
+        "timing": [
+          2243
+        ]
+      },
+      "RESPONSE_TO_KEY_PHRASE": {
+        "timing": [
+          4035,
+          6030,
+          4666,
+          4717,
+          4967,
+          4877,
+          6239,
+          7090,
+          3576,
+          3284,
+          4487
+        ]
+      },
+      "WE_WERE_SLAVES": {
+        "timing": [
+          5007,
+          3646,
+          5397,
+          4857,
+          5639,
+          7991,
+          4527,
+          3715,
+          5658,
+          6229,
+          4607,
+          4937
+        ]
+      },
+      "WE_ARE_URQUAN_TOO": {
+        "timing": [
+          6399,
+          6850,
+          3435,
+          5658,
+          2714,
+          5759,
+          2864,
+          4536,
+          4046
+        ]
+      },
+      "BONE_GARDENS": {
+        "timing": [
+          5518,
+          2773,
+          2805,
+          6589,
+          6159,
+          5027,
+          5698
+        ]
+      },
+      "YOU_DIE": {
+        "timing": [
+          4346,
+          5378,
+          4066,
+          3935,
+          3836,
+          4386,
+          4316,
+          7501,
+          3936,
+          4336,
+          8112,
+          6449,
+          4487,
+          2954,
+          5097,
+          3225,
+          5468
+        ]
+      },
+      "THEN_DIE": {
+        "timing": [
+          3965,
+          5128,
+          5728,
+          4516,
+          7611,
+          5668,
+          6890,
+          6680,
+          9634,
+          7821,
+          7010,
+          5809,
+          6148,
+          5639,
+          5047,
+          5718
+        ]
+      },
+      "BONE_PILE": {
+        "timing": [
+          1703,
+          6699,
+          5037,
+          3806
+        ]
+      },
+      "YES_CREEPY": {
+        "timing": [
+          3225,
+          3205,
+          2623
+        ]
+      },
+      "PLEADING_IS_USELESS_1": {
+        "timing": [
+          2193,
+          3335,
+          6189
+        ]
+      },
+      "PLEADING_IS_USELESS_2": {
+        "timing": [
+          5028
+        ]
+      },
+      "PLEADING_IS_USELESS_3": {
+        "timing": [
+          34089
+        ]
+      },
+      "PLEADING_IS_USELESS_4": {
+        "timing": [
+          1286,
+          1920,
+          2059,
+          4768,
+          4908,
+          4369,
+          3910,
+          4038
+        ]
+      },
+      "GOODBYE_AND_DIE": {
+        "timing": [
+          4587,
+          5047,
+          3465,
+          3055
+        ]
+      },
+      "GAME_OVER_DUDE": {
+        "timing": [
+          1432,
+          3535,
+          7250,
+          6229,
+          2804
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          3000,
+          4000,
+          3000,
+          4500,
+          3000,
+          6000
+        ]
+      }
+    },
+    "orz": {
+      "INIT_HELLO": {
+        "timing": [
+          5091,
+          3979,
+          3129
+        ]
+      },
+      "WE_ARE_ORZ": {
+        "timing": [
+          11998,
+          8191
+        ]
+      },
+      "HERE_BECAUSE": {
+        "timing": [
+          10706,
+          8922,
+          6930,
+          7561,
+          9224
+        ]
+      },
+      "ALLIED_HOMEWORLD_HELLO_1": {
+        "timing": [
+          6910,
+          8291,
+          6520
+        ]
+      },
+      "ALLIED_HOMEWORLD_HELLO_2": {
+        "timing": [
+          10275,
+          7280,
+          5798,
+          3916
+        ]
+      },
+      "ALLIED_HOMEWORLD_HELLO_3": {
+        "timing": [
+          7000,
+          8643,
+          3605
+        ]
+      },
+      "ALLIED_HOMEWORLD_HELLO_4": {
+        "timing": [
+          7131,
+          8472,
+          3835
+        ]
+      },
+      "ALLIED_SPACE_HELLO_1": {
+        "timing": [
+          6779,
+          6360,
+          6078
+        ]
+      },
+      "ALLIED_SPACE_HELLO_2": {
+        "timing": [
+          5518,
+          11637
+        ]
+      },
+      "ALLIED_SPACE_HELLO_3": {
+        "timing": [
+          7170,
+          7761
+        ]
+      },
+      "ALLIED_SPACE_HELLO_4": {
+        "timing": [
+          7171,
+          7861
+        ]
+      },
+      "GENERAL_INFO_ALLY_1": {
+        "timing": [
+          9494,
+          8522,
+          7892,
+          6950,
+          7651,
+          2563,
+          5929
+        ]
+      },
+      "GENERAL_INFO_ALLY_2": {
+        "timing": [
+          4606,
+          8853,
+          4076,
+          10906
+        ],
+        "subclipTiming": [
+          [
+            4606,
+            8853,
+            4076
+          ],
+          [
+            2906
+          ]
+        ]
+      },
+      "GENERAL_INFO_ALLY_3": {
+        "timing": [
+          10966,
+          12488,
+          5178,
+          8412,
+          7691,
+          7220,
+          7721
+        ]
+      },
+      "GENERAL_INFO_ALLY_4": {
+        "timing": [
+          8071,
+          8241,
+          3737,
+          6810,
+          3384
+        ]
+      },
+      "ABOUT_US_1": {
+        "timing": [
+          6590,
+          8532,
+          9964,
+          3325,
+          5919,
+          7310,
+          6930,
+          3896
+        ]
+      },
+      "ABOUT_US_2": {
+        "timing": [
+          7671,
+          5618,
+          8032,
+          8802,
+          7852,
+          2073,
+          9413
+        ]
+      },
+      "ABOUT_US_3": {
+        "timing": [
+          2504,
+          9293,
+          7591,
+          8432,
+          5278,
+          8432,
+          6129,
+          6158,
+          7501,
+          3095,
+          5728,
+          9874,
+          7801,
+          9103
+        ]
+      },
+      "ABOUT_US_4": {
+        "timing": [
+          7340,
+          4337,
+          6419,
+          2043,
+          8522,
+          5308
+        ]
+      },
+      "DISEMBLE_ABOUT_ANDROSYN": {
+        "timing": [
+          6399,
+          7631,
+          6599,
+          8953
+        ]
+      },
+      "KNOW_TOO_MUCH": {
+        "timing": [
+          5458,
+          7931,
+          7441,
+          2644
+        ]
+      },
+      "YOU_ARE_OUR_FRIENDS": {
+        "timing": [
+          9084,
+          3214,
+          7190,
+          6730
+        ]
+      },
+      "FORGET_ANDRO_1": {
+        "timing": [
+          7671,
+          6580,
+          7691,
+          3515,
+          6769
+        ]
+      },
+      "FORGET_ANDRO_2": {
+        "timing": [
+          8537,
+          7452,
+          4429,
+          8026,
+          2641
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_1": {
+        "timing": [
+          6750,
+          8752
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_2": {
+        "timing": [
+          7882,
+          6329,
+          5438
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_3": {
+        "timing": [
+          7271,
+          6389,
+          2614
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_4": {
+        "timing": [
+          7908,
+          6341,
+          2767
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_1": {
+        "timing": [
+          6028,
+          5448
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_2": {
+        "timing": [
+          7551
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_4": {
+        "timing": [
+          5267
+        ]
+      },
+      "HOSTILITY_IS_BAD_1": {
+        "timing": [
+          5107
+        ]
+      },
+      "HOSTILITY_IS_BAD_2": {
+        "timing": [
+          6579
+        ]
+      },
+      "NICE_TO_MEET_YOU": {
+        "timing": [
+          6560
+        ]
+      },
+      "ARE_NICE_WANT_ALLY": {
+        "timing": [
+          5068,
+          6699,
+          3125
+        ]
+      },
+      "OK_TALK_ALLIANCE": {
+        "timing": [
+          7481,
+          4166,
+          5188,
+          7220
+        ]
+      },
+      "GREAT": {
+        "timing": [
+          6019,
+          3214
+        ]
+      },
+      "MAYBE_LATER": {
+        "timing": [
+          3775,
+          6409
+        ]
+      },
+      "OK_LATER": {
+        "timing": [
+          9924,
+          4947
+        ]
+      },
+      "TRUSTING_BECAUSE": {
+        "timing": [
+          6559,
+          4988,
+          9303,
+          5638,
+          4236,
+          4096,
+          7621,
+          6589
+        ]
+      },
+      "GOODBYE_NEUTRAL": {
+        "timing": [
+          6330,
+          2533,
+          7130,
+          11036,
+          6540,
+          5758
+        ]
+      },
+      "ANGRY_SPACE_HELLO_1": {
+        "timing": [
+          8762,
+          5589,
+          7420
+        ]
+      },
+      "ANGRY_SPACE_HELLO_2": {
+        "timing": [
+          8322,
+          3475,
+          8702,
+          6069
+        ]
+      },
+      "ANGRY_HOMEWORLD_HELLO_1": {
+        "timing": [
+          7638,
+          1970,
+          6967,
+          4300
+        ]
+      },
+      "ANGRY_HOMEWORLD_HELLO_2": {
+        "timing": [
+          9453,
+          2874,
+          6800
+        ]
+      },
+      "GENERAL_INFO_ANGRY_1": {
+        "timing": [
+          5328,
+          3795,
+          4797,
+          4226,
+          7280
+        ]
+      },
+      "GENERAL_INFO_ANGRY_2": {
+        "timing": [
+          4406,
+          5959,
+          6369
+        ]
+      },
+      "APOLOGY_ACCEPTED": {
+        "timing": [
+          7150,
+          6870,
+          6630,
+          3044,
+          8272
+        ]
+      },
+      "INSULTED_1": {
+        "timing": [
+          7932,
+          4446,
+          8112
+        ]
+      },
+      "INSULTED_2": {
+        "timing": [
+          7841,
+          7081,
+          4576
+        ]
+      },
+      "INSULTED_3": {
+        "timing": [
+          5037,
+          4386,
+          3956
+        ]
+      },
+      "INSULTED_4": {
+        "timing": [
+          5067,
+          4707,
+          3635
+        ]
+      },
+      "GOODBYE_ANGRY": {
+        "timing": [
+          7771,
+          4146,
+          4126,
+          6739
+        ]
+      },
+      "ANGRY_TAALO_HELLO_1": {
+        "timing": [
+          4656,
+          5018,
+          6829,
+          3255
+        ]
+      },
+      "ANGRY_TAALO_HELLO_2": {
+        "timing": [
+          6089,
+          3696,
+          2834,
+          5067
+        ]
+      },
+      "FRIENDLY_ALLIED_TAALO_HELLO_1": {
+        "timing": [
+          6219,
+          2534,
+          4376
+        ]
+      },
+      "FRIENDLY_ALLIED_TAALO_HELLO_2": {
+        "timing": [
+          5739,
+          4446
+        ]
+      },
+      "NO_DEMAND": {
+        "timing": [
+          6159,
+          7861,
+          2954
+        ]
+      },
+      "ASK_NICELY": {
+        "timing": [
+          7501,
+          6329,
+          3215
+        ]
+      },
+      "ANGRY_EXPLANATION": {
+        "timing": [
+          4627,
+          7040,
+          5628,
+          8643
+        ]
+      },
+      "FRIENDLY_EXPLANATION": {
+        "timing": [
+          9343,
+          7231,
+          6819,
+          7531,
+          6209
+        ]
+      },
+      "FRIENDLY_PLACE": {
+        "timing": [
+          5237,
+          5458,
+          6550,
+          8181,
+          5278,
+          8883,
+          4837,
+          6579,
+          5578,
+          7441
+        ]
+      },
+      "ANGRY_PLACE": {
+        "timing": [
+          8252,
+          6049,
+          10495,
+          5979
+        ],
+        "subclipTiming": [
+          [
+            8252,
+            6049,
+            10495,
+            5979
+          ],
+          [
+            169
+          ]
+        ]
+      },
+      "SURE_LAND": {
+        "timing": [
+          7180,
+          8212,
+          5378
+        ]
+      },
+      "ALLIES_CAN_VISIT": {
+        "timing": [
+          4657,
+          6269,
+          2754
+        ]
+      },
+      "CANT_ALLY_HERE": {
+        "timing": [
+          6339,
+          2784,
+          6890,
+          3405,
+          5297,
+          8232
+        ],
+        "subclipTiming": [
+          [
+            6339,
+            2784,
+            6890,
+            3405,
+            5297
+          ],
+          [
+            1432
+          ]
+        ]
+      },
+      "BUSY_BECAUSE": {
+        "timing": [
+          7440,
+          3676,
+          4406,
+          4046,
+          6389
+        ]
+      },
+      "GOODBYE_ALLY": {
+        "timing": [
+          9294
+        ]
+      },
+      "FRIENDLY_TAALO_GOODBYE": {
+        "timing": [
+          9734,
+          6860,
+          4998
+        ]
+      },
+      "ANGRY_TAALO_GOODBYE": {
+        "timing": [
+          6930,
+          5468,
+          4536
+        ]
+      },
+      "HOSTILE_HELLO_1": {
+        "timing": [
+          5798,
+          3145
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          3500,
+          4000,
+          3500,
+          3500
+        ]
+      }
+    },
+    "pkunk": {
+      "GIVE_SPINDLE": {
+        "timing": [
+          4413,
+          3858,
+          3290,
+          4979,
+          2738,
+          3220,
+          2478,
+          2870,
+          4869,
+          3687,
+          7938,
+          2129
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_1": {
+        "timing": [
+          5758,
+          5548,
+          6049
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_3": {
+        "timing": [
+          4877,
+          5819,
+          5778,
+          7881
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_2": {
+        "timing": [
+          4349,
+          5220,
+          5058,
+          4989,
+          4029
+        ]
+      },
+      "NEUTRAL_SPACE_HELLO_4": {
+        "timing": [
+          2654,
+          5558,
+          1992,
+          4727,
+          2854,
+          5779,
+          2844
+        ],
+        "subclipTiming": [
+          [
+            2654,
+            5558,
+            1992
+          ],
+          [
+            127,
+            2954,
+            5879,
+            2844
+          ]
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_1": {
+        "timing": [
+          4427,
+          6359,
+          4426,
+          5538
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_2": {
+        "timing": [
+          5846,
+          6226,
+          3379,
+          5300
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_3": {
+        "timing": [
+          3888,
+          2950,
+          3988,
+          3109
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_4": {
+        "timing": [
+          4322,
+          5898,
+          4250,
+          6118,
+          6327
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_5": {
+        "timing": [
+          5107,
+          5058,
+          6379,
+          7130,
+          3255,
+          5416,
+          4608,
+          4917
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_6": {
+        "timing": [
+          4116,
+          6609,
+          4156,
+          2494,
+          3214
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_7": {
+        "timing": [
+          6279
+        ]
+      },
+      "FRIENDLY_SPACE_HELLO_8": {
+        "timing": [
+          6149
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_1": {
+        "timing": [
+          4536,
+          5278,
+          2393,
+          1923,
+          3135
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_2": {
+        "timing": [
+          5796,
+          5067,
+          5219
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_3": {
+        "timing": [
+          6239
+        ]
+      },
+      "NEUTRAL_HOMEWORLD_HELLO_4": {
+        "timing": [
+          6199
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_1": {
+        "timing": [
+          3560,
+          4008,
+          4538,
+          7039
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_2": {
+        "timing": [
+          4186,
+          5507
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_3": {
+        "timing": [
+          6189
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_4": {
+        "timing": [
+          6179
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_5": {
+        "timing": [
+          6399
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_6": {
+        "timing": [
+          6199
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_7": {
+        "timing": [
+          6139
+        ]
+      },
+      "FRIENDLY_HOMEWORLD_HELLO_8": {
+        "timing": [
+          6199
+        ]
+      },
+      "GENERAL_INFO_NEUTRAL_1": {
+        "timing": [
+          7701,
+          9643,
+          4817,
+          2794,
+          3906,
+          6199,
+          3565
+        ]
+      },
+      "GENERAL_INFO_NEUTRAL_2": {
+        "timing": [
+          6199,
+          7060,
+          2924,
+          5969,
+          5027
+        ]
+      },
+      "GENERAL_INFO_NEUTRAL_3": {
+        "timing": [
+          6980,
+          2353,
+          2093,
+          2334
+        ]
+      },
+      "GENERAL_INFO_NEUTRAL_4": {
+        "timing": [
+          3825
+        ]
+      },
+      "WE_GO_HOME_1": {
+        "timing": [
+          4747,
+          5047,
+          6049
+        ]
+      },
+      "WE_GO_HOME_2": {
+        "timing": [
+          1632,
+          3285,
+          4567
+        ]
+      },
+      "NO_GO_HOME_1": {
+        "timing": [
+          9104
+        ]
+      },
+      "NO_GO_HOME_2": {
+        "timing": [
+          4035,
+          7631
+        ]
+      },
+      "SENSE_KOHRAH_VICTORY": {
+        "timing": [
+          3358,
+          4350,
+          3417,
+          4969,
+          3208,
+          6999,
+          6878,
+          4089,
+          6609,
+          4157,
+          10899,
+          7976
+        ],
+        "subclipTiming": [
+          [
+            3358,
+            4150,
+            3617,
+            4969,
+            2708,
+            6999
+          ],
+          [
+            2878
+          ],
+          [
+            1089
+          ],
+          [
+            3109,
+            4657,
+            10399,
+            7976
+          ]
+        ]
+      },
+      "SPIRITUAL_PROBLEMS_1": {
+        "timing": [
+          6369,
+          5798,
+          6109,
+          1653,
+          3915,
+          3565
+        ]
+      },
+      "SPIRITUAL_PROBLEMS_2": {
+        "timing": [
+          2614,
+          6419,
+          4296,
+          6059,
+          4086
+        ]
+      },
+      "SPIRITUAL_PROBLEMS_3": {
+        "timing": [
+          2333,
+          2935,
+          2303,
+          3285,
+          5037,
+          3725
+        ]
+      },
+      "SPIRITUAL_PROBLEMS_4": {
+        "timing": [
+          5227,
+          4386,
+          2284,
+          5107
+        ]
+      },
+      "HATE_YOU_FOREVER_1": {
+        "timing": [
+          5718,
+          3455,
+          3485
+        ]
+      },
+      "HATE_YOU_FOREVER_2": {
+        "timing": [
+          3004,
+          7771,
+          6760,
+          7671,
+          3705,
+          3956
+        ]
+      },
+      "HATE_YOU_FOREVER_3": {
+        "timing": [
+          4156,
+          4697,
+          2824,
+          5478,
+          3375
+        ]
+      },
+      "HATE_YOU_FOREVER_4": {
+        "timing": [
+          2223,
+          5869,
+          1181,
+          5589,
+          2653,
+          6450
+        ]
+      },
+      "MIGRATING_SPACE_1": {
+        "timing": [
+          6299,
+          7731,
+          8582
+        ],
+        "subclipTiming": [
+          [
+            6299,
+            7731
+          ],
+          [
+            6582
+          ]
+        ]
+      },
+      "MIGRATING_SPACE_2": {
+        "timing": [
+          6540
+        ]
+      },
+      "MIGRATING_SPACE_3": {
+        "timing": [
+          6209
+        ]
+      },
+      "MIGRATING_SPACE_4": {
+        "timing": [
+          6149
+        ]
+      },
+      "MIGRATING_SPACE_5": {
+        "timing": [
+          6098
+        ]
+      },
+      "MIGRATING_SPACE_6": {
+        "timing": [
+          6139
+        ]
+      },
+      "MIGRATING_SPACE_7": {
+        "timing": [
+          6049
+        ]
+      },
+      "MIGRATING_SPACE_8": {
+        "timing": [
+          6099
+        ]
+      },
+      "VERY_WELL": {
+        "timing": [
+          3184,
+          7801
+        ]
+      },
+      "RELEASE_TENSION": {
+        "timing": [
+          8553,
+          2764
+        ]
+      },
+      "ABOUT_US_ANGRY": {
+        "timing": [
+          5418,
+          8252,
+          4046
+        ]
+      },
+      "YES_FRIENDS": {
+        "timing": [
+          5275,
+          5190,
+          4627
+        ]
+      },
+      "CANT_ASK_FOR_MORE": {
+        "timing": [
+          7426,
+          1819,
+          6968,
+          6878
+        ]
+      },
+      "VISIT_OUR_HOMEWORLD": {
+        "timing": [
+          5518
+        ],
+        "subclipTiming": [
+          [
+            5518
+          ],
+          []
+        ]
+      },
+      "CAN_BE_FRIENDS": {
+        "timing": [
+          5034,
+          4039,
+          12347
+        ],
+        "subclipTiming": [
+          [
+            4934,
+            3939
+          ],
+          [],
+          [
+            2947
+          ]
+        ]
+      },
+      "GOODBYE_ANGRY": {
+        "timing": [
+          2276
+        ]
+      },
+      "WHY_CONQUER": {
+        "timing": [
+          3004
+        ]
+      },
+      "NOT_CONQUER_1": {
+        "timing": [
+          2186,
+          3019
+        ]
+      },
+      "NOT_CONQUER_2": {
+        "timing": [
+          2163
+        ]
+      },
+      "GOOD_IDEA": {
+        "timing": [
+          5418,
+          3425,
+          6009,
+          6549,
+          6289,
+          5248
+        ]
+      },
+      "WHY_YOU_HERE": {
+        "timing": [
+          2163,
+          4958,
+          6559
+        ]
+      },
+      "NEED_HELP": {
+        "timing": [
+          3675,
+          4226,
+          6810,
+          3124,
+          6760,
+          8222,
+          4166
+        ]
+      },
+      "GIVE_HELP": {
+        "timing": [
+          6512,
+          4949,
+          5227,
+          7607
+        ]
+      },
+      "SENSE_DEEPER_CONFLICT": {
+        "timing": [
+          4607,
+          5738,
+          3825,
+          5428
+        ]
+      },
+      "REPRESS": {
+        "timing": [
+          5895,
+          5268,
+          3799,
+          4788
+        ]
+      },
+      "ILWRATH_FIGHT_BECAUSE": {
+        "timing": [
+          5508,
+          2403,
+          5979,
+          2262,
+          6120,
+          7390,
+          5048,
+          2303,
+          4927,
+          3285,
+          4066,
+          3555
+        ]
+      },
+      "FIGHT_START_WHEN": {
+        "timing": [
+          1832,
+          6840,
+          4577,
+          5317
+        ]
+      },
+      "FIGHT_GOES": {
+        "timing": [
+          4236,
+          4887,
+          5968,
+          2424
+        ]
+      },
+      "WAR_GOES_1": {
+        "timing": [
+          5969,
+          5447,
+          4909,
+          4358,
+          4679,
+          2329,
+          4549,
+          4547,
+          4151,
+          3208,
+          3100
+        ]
+      },
+      "WAR_GOES_2": {
+        "timing": [
+          4657,
+          5958,
+          4637,
+          2834,
+          5778,
+          1473,
+          5317,
+          4767,
+          3245
+        ]
+      },
+      "WAR_GOES_4": {
+        "timing": [
+          3606,
+          5337,
+          3285,
+          3115,
+          5367
+        ]
+      },
+      "STOP_FIGHT_LIKE_SO": {
+        "timing": [
+          6990,
+          5909,
+          7521,
+          3986,
+          6339
+        ]
+      },
+      "OK_ENOUGH_ILWRATH": {
+        "timing": [
+          3826,
+          5137,
+          7171,
+          5357,
+          2924
+        ]
+      },
+      "ABOUT_HISTORY": {
+        "timing": [
+          4638,
+          5418,
+          7187,
+          3500,
+          6607,
+          2190,
+          2779,
+          4309,
+          2920
+        ]
+      },
+      "ABOUT_YEHAT": {
+        "timing": [
+          3425,
+          6129,
+          5798,
+          5037,
+          4066,
+          4276
+        ]
+      },
+      "ABOUT_CULTURE": {
+        "timing": [
+          4389,
+          4530,
+          1488,
+          3470,
+          1799
+        ]
+      },
+      "OK_ELABORATE_CULTURE": {
+        "timing": [
+          7501,
+          1371,
+          5288,
+          4757,
+          5638
+        ]
+      },
+      "ABOUT_FUTURE": {
+        "timing": [
+          5207,
+          3936,
+          8372,
+          4236,
+          6750,
+          3274,
+          6480
+        ]
+      },
+      "OK_ENOUGH_ABOUT_US": {
+        "timing": [
+          7150
+        ]
+      },
+      "ABOUT_US": {
+        "timing": [
+          5100,
+          3809
+        ]
+      },
+      "MIGRATING_HOMEWORLD_1": {
+        "timing": [
+          6470
+        ]
+      },
+      "MIGRATING_HOMEWORLD_2": {
+        "timing": [
+          4817,
+          6950
+        ]
+      },
+      "MIGRATING_HOMEWORLD_3": {
+        "timing": [
+          6409,
+          5318
+        ]
+      },
+      "RETURNING_FROM_YEHAT_1": {
+        "timing": [
+          5164
+        ]
+      },
+      "RETURNING_FROM_YEHAT_2": {
+        "timing": [
+          2314
+        ]
+      },
+      "DONT_WORRY_1": {
+        "timing": [
+          7040,
+          3485,
+          2563,
+          3556
+        ]
+      },
+      "DONT_WORRY_2": {
+        "timing": [
+          8032
+        ]
+      },
+      "DONT_WORRY_3": {
+        "timing": [
+          4776,
+          4126,
+          4357,
+          7751,
+          4676,
+          2985,
+          6669,
+          6410
+        ]
+      },
+      "GO_TO_HOMEWORLD": {
+        "timing": [
+          6759,
+          5769,
+          3595,
+          3445,
+          4696,
+          5598,
+          6199
+        ],
+        "subclipTiming": [
+          [
+            6759,
+            5769,
+            3595,
+            3445,
+            4696,
+            5598,
+            6199
+          ],
+          []
+        ]
+      },
+      "GO_TO_HOMEWORLD_AGAIN": {
+        "timing": [
+          3445
+        ],
+        "subclipTiming": [
+          [
+            3645
+          ],
+          []
+        ]
+      },
+      "DONT_BE_HOSTILE": {
+        "timing": [
+          5227
+        ]
+      },
+      "NO_OBEY": {
+        "timing": [
+          4847,
+          4397,
+          4716,
+          6420
+        ]
+      },
+      "NEUTRAL_GOODBYE_SPACE": {
+        "timing": [
+          6735,
+          4257
+        ]
+      },
+      "SHIP_GIFT": {
+        "timing": [
+          2253,
+          1943,
+          6229
+        ]
+      },
+      "NO_ROOM": {
+        "timing": [
+          5828
+        ]
+      },
+      "FRIENDLY_GOODBYE_SPACE": {
+        "timing": [
+          6439
+        ]
+      },
+      "ALMOST_ALLIANCE": {
+        "timing": [
+          3068,
+          4980,
+          2028,
+          4438,
+          9037,
+          5720,
+          3838,
+          7109
+        ]
+      },
+      "INIT_NO_ROOM": {
+        "timing": [
+          6249,
+          3655,
+          6169
+        ]
+      },
+      "INIT_SHIP_GIFT": {
+        "timing": [
+          4156,
+          7140
+        ]
+      },
+      "ABOUT_ILWRATH": {
+        "timing": [
+          6119,
+          6159
+        ]
+      },
+      "SHIPS_AT_HOME": {
+        "timing": [
+          3495,
+          2864,
+          5277,
+          4747
+        ]
+      },
+      "GENERAL_INFO_SPACE_1": {
+        "timing": [
+          6299,
+          6800,
+          3815,
+          5608,
+          4156,
+          3926,
+          4346
+        ]
+      },
+      "GENERAL_INFO_SPACE_2": {
+        "timing": [
+          7124,
+          6009,
+          6446,
+          4740,
+          4008,
+          7908,
+          5968
+        ]
+      },
+      "GENERAL_INFO_SPACE_3": {
+        "timing": [
+          6419,
+          5128,
+          4656,
+          6109,
+          6500
+        ]
+      },
+      "GENERAL_INFO_SPACE_4": {
+        "timing": [
+          4236,
+          3465,
+          5498,
+          4847,
+          5107,
+          4607,
+          8552,
+          4477
+        ],
+        "subclipTiming": [
+          [
+            4236,
+            3465,
+            5498,
+            4847,
+            5207,
+            4907
+          ],
+          [
+            1852,
+            4577
+          ]
+        ]
+      },
+      "GENERAL_INFO_SPACE_5": {
+        "timing": [
+          6900,
+          9223,
+          6750,
+          7231,
+          7771,
+          2604,
+          7620,
+          2574,
+          5178,
+          5417
+        ],
+        "subclipTiming": [
+          [
+            6900,
+            9223,
+            6750,
+            7231,
+            8071,
+            2504,
+            7620,
+            2574
+          ],
+          [
+            178,
+            5217
+          ]
+        ]
+      },
+      "GENERAL_INFO_SPACE_6": {
+        "timing": [
+          5373,
+          1371
+        ]
+      },
+      "FORTUNE_IS_1": {
+        "timing": [
+          3926,
+          3995,
+          5338,
+          4076,
+          8362,
+          7441
+        ]
+      },
+      "FORTUNE_IS_2": {
+        "timing": [
+          3033,
+          3100,
+          6789,
+          6947,
+          6267,
+          2611,
+          3799,
+          3169,
+          3829,
+          5208
+        ]
+      },
+      "FORTUNE_IS_3": {
+        "timing": [
+          4978,
+          5517,
+          6670,
+          5929,
+          4586
+        ]
+      },
+      "FORTUNE_IS_4": {
+        "timing": [
+          5888,
+          2864,
+          6890,
+          3665,
+          5558,
+          6099,
+          4907,
+          1963
+        ]
+      },
+      "FORTUNE_IS_5": {
+        "timing": [
+          6329,
+          5347,
+          7291,
+          4807,
+          4937,
+          3014,
+          7100,
+          3916
+        ]
+      },
+      "FORTUNE_IS_6": {
+        "timing": [
+          5638
+        ]
+      },
+      "FORTUNE_IS_7": {
+        "timing": [
+          3174,
+          4356,
+          4427
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          6000,
+          3500,
+          7000,
+          7000,
+          3000,
+          4000,
+          3000
+        ]
+      }
+    },
+    "probe": {
+      "NOMINAL_FUNCTION_3": {
+        "timing": [
+          3085,
+          3334
+        ]
+      },
+      "PEACEFUL_MISSION_1": {
+        "timing": [
+          1953,
+          2003,
+          2062,
+          2694,
+          2724,
+          3465
+        ]
+      },
+      "PEACEFUL_MISSION_2": {
+        "timing": [
+          2614,
+          1011,
+          1062
+        ]
+      },
+      "PEACEFUL_MISSION_3": {
+        "timing": [
+          1532,
+          1402,
+          3315,
+          4316,
+          2393,
+          3906,
+          3545,
+          4246
+        ]
+      },
+      "PEACEFUL_MISSION_4": {
+        "timing": [
+          2313
+        ]
+      },
+      "HOSTILE": {
+        "timing": [
+          3785
+        ]
+      }
+    },
+    "safeones": {
+      "NOT_LIKELY": {
+        "timing": [
+          5000,
+          1000
+        ]
+      },
+      "WE_WONT_BECAUSE": {
+        "timing": [
+          1061,
+          6350,
+          6459
+        ]
+      },
+      "MEAN_GUYS_RETURN": {
+        "timing": [
+          3985
+        ]
+      },
+      "DONT_BELIEVE": {
+        "timing": [
+          8469
+        ]
+      },
+      "HELLO_AGAIN": {
+        "timing": [
+          3394,
+          6149,
+          4046,
+          6830,
+          4296
+        ]
+      },
+      "HATE_YOU_FOREVER": {
+        "timing": [
+          4968,
+          3264
+        ]
+      },
+      "WHAT_IS_PASSWORD_AGAIN": {
+        "timing": [
+          2664
+        ]
+      },
+      "WRONG_PASSWORD": {
+        "timing": [
+          3104,
+          4547,
+          3294
+        ]
+      },
+      "NO_PASSWORD": {
+        "timing": [
+          4006,
+          5588,
+          5518,
+          5378
+        ]
+      },
+      "YES_GOOD_PASSWORD": {
+        "timing": [
+          4717,
+          5468,
+          5157,
+          3135
+        ]
+      },
+      "WHERE_SPATHI": {
+        "timing": [
+          4056
+        ]
+      },
+      "GUN_TO_HEAD": {
+        "timing": [
+          5358,
+          3746
+        ]
+      },
+      "KILLED_SPATHI": {
+        "timing": [
+          2994,
+          3144
+        ]
+      },
+      "JUST_MISUNDERSTANDING": {
+        "timing": [
+          6386,
+          6109
+        ]
+      },
+      "ABOUT_HIERARCHY": {
+        "timing": [
+          5948,
+          5318,
+          6689,
+          3696,
+          5267,
+          3325,
+          8032,
+          5648,
+          7080,
+          5358,
+          7681,
+          2563
+        ],
+        "subclipTiming": [
+          [
+            5948,
+            5318,
+            6789,
+            3796,
+            5367,
+            3125,
+            8032
+          ],
+          [
+            1648,
+            6780,
+            5358,
+            7581,
+            2663
+          ]
+        ]
+      },
+      "ABOUT_HISTORY": {
+        "timing": [
+          4998,
+          3845,
+          3195,
+          3144,
+          6129,
+          4847,
+          6339,
+          4527,
+          4206,
+          4386
+        ]
+      },
+      "ABOUT_ALLIANCE": {
+        "timing": [
+          3425,
+          5608,
+          3976,
+          4146,
+          6720,
+          7541,
+          7711,
+          3825,
+          6580
+        ],
+        "subclipTiming": [
+          [
+            3425,
+            5508,
+            4176,
+            4146
+          ],
+          [
+            1320,
+            7441
+          ],
+          [
+            111,
+            3825,
+            6680
+          ]
+        ]
+      },
+      "ABOUT_OTHER": {
+        "timing": [
+          4567,
+          4756,
+          6109,
+          4467,
+          5518,
+          5968,
+          5869,
+          5708,
+          3765
+        ],
+        "subclipTiming": [
+          [
+            4467,
+            4806,
+            6159
+          ],
+          [
+            167,
+            5618,
+            5968,
+            5869,
+            5708,
+            3765
+          ]
+        ]
+      },
+      "ABOUT_PRECURSORS": {
+        "timing": [
+          6429,
+          5548,
+          5938,
+          5398,
+          3545,
+          1312,
+          6349,
+          6750
+        ]
+      },
+      "BIG_MISTAKE": {
+        "timing": [
+          2543,
+          7000,
+          4998,
+          6799,
+          4287
+        ]
+      },
+      "QUEST_AGAIN": {
+        "timing": [
+          3335,
+          4326,
+          2394,
+          3435
+        ]
+      },
+      "GOOD_START": {
+        "timing": [
+          3725
+        ]
+      },
+      "NOTHING_FISHY": {
+        "timing": [
+          2774,
+          3104,
+          1913
+        ]
+      },
+      "NO_SURRENDER": {
+        "timing": [
+          4887
+        ]
+      },
+      "TOO_AFRAID": {
+        "timing": [
+          4016
+        ]
+      },
+      "YOURE_NOT": {
+        "timing": [
+          4176
+        ]
+      },
+      "NO_YOURE_NOT": {
+        "timing": [
+          4857,
+          7651
+        ]
+      },
+      "BETTER_IDEA": {
+        "timing": [
+          1893,
+          2463
+        ]
+      },
+      "WE_UNDERSTAND": {
+        "timing": [
+          1392
+        ]
+      },
+      "YOUR_BEHAVIOR": {
+        "timing": [
+          4937
+        ]
+      },
+      "BEFORE_ACCEPT": {
+        "timing": [
+          3515,
+          3565,
+          4476,
+          6600,
+          5257,
+          4036,
+          2083,
+          2163,
+          2954,
+          3455,
+          2875,
+          3565,
+          6169,
+          7460,
+          5638,
+          7631
+        ]
+      },
+      "AWAIT_RETURN": {
+        "timing": [
+          4116
+        ]
+      },
+      "EARLY_BIRD_CHECK": {
+        "timing": [
+          3845,
+          4256,
+          3626,
+          4576
+        ]
+      },
+      "NOT_SURPRISED": {
+        "timing": [
+          3906
+        ]
+      },
+      "TEST_AGAIN": {
+        "timing": [
+          3635,
+          3586,
+          3194,
+          4567
+        ]
+      },
+      "WILL_CHECK_1": {
+        "timing": [
+          2564,
+          6519,
+          5198
+        ]
+      },
+      "WILL_CHECK_2": {
+        "timing": [
+          2404,
+          2804,
+          1892,
+          1683
+        ]
+      },
+      "MUST_DESTROY_ALL": {
+        "timing": [
+          2744
+        ]
+      },
+      "YOU_FORTUNATE": {
+        "timing": [
+          2453,
+          3646
+        ]
+      },
+      "YOU_LIED_1": {
+        "timing": [
+          1833,
+          1843,
+          4516,
+          3335,
+          5227,
+          4096
+        ]
+      },
+      "YOU_LIED_2": {
+        "timing": [
+          2964,
+          1913
+        ]
+      },
+      "MUST_PARTY_1": {
+        "timing": [
+          8012,
+          4336,
+          3225
+        ]
+      },
+      "MUST_PARTY_2": {
+        "timing": [
+          1482,
+          891
+        ]
+      },
+      "MUST_PARTY_3": {
+        "timing": [
+          4086,
+          3315,
+          3785
+        ]
+      },
+      "WAIT_A_WHILE": {
+        "timing": [
+          5218
+        ]
+      },
+      "ADULT_VIEW": {
+        "timing": [
+          1593,
+          5588,
+          5277
+        ]
+      },
+      "WHAT_RELATIONSHIP": {
+        "timing": [
+          2774,
+          801
+        ]
+      },
+      "DEPART_FOR_EARTH": {
+        "timing": [
+          3656,
+          6088,
+          2093
+        ]
+      },
+      "HELLO_ALLIES_1": {
+        "timing": [
+          2724
+        ]
+      },
+      "GENERAL_INFO_1": {
+        "timing": [
+          2694,
+          5017,
+          4376,
+          8072,
+          7441
+        ]
+      },
+      "GENERAL_INFO_2": {
+        "timing": [
+          2904,
+          6640,
+          5337,
+          7391,
+          6950
+        ]
+      },
+      "GENERAL_INFO_3": {
+        "timing": [
+          3975,
+          6950,
+          2834,
+          1042,
+          2594,
+          1702,
+          2934,
+          7381,
+          3375,
+          6860,
+          6058,
+          9023,
+          4547,
+          5448,
+          4887,
+          3595,
+          4026,
+          3795,
+          3916,
+          6469,
+          5558
+        ]
+      },
+      "GENERAL_INFO_4": {
+        "timing": [
+          4797,
+          6139,
+          8322
+        ]
+      }
+    },
+    "shofixti": {
+      "HOSTILE_KATANA_1": {
+        "timing": [
+          8071,
+          3406
+        ]
+      },
+      "HOSTILE_KATANA_2": {
+        "timing": [
+          4657
+        ]
+      },
+      "HOSTILE_KATANA_3": {
+        "timing": [
+          3254,
+          2023,
+          2774
+        ]
+      },
+      "HOSTILE_TANAKA_1": {
+        "timing": [
+          2335,
+          3270,
+          3818,
+          1839,
+          2811,
+          4408,
+          4959,
+          1499,
+          2243
+        ]
+      },
+      "HOSTILE_TANAKA_2": {
+        "timing": [
+          4637,
+          5057,
+          4317
+        ]
+      },
+      "TYPICAL_PLOY": {
+        "timing": [
+          4419,
+          2950
+        ]
+      },
+      "ONLY_STOP": {
+        "timing": [
+          2744
+        ]
+      },
+      "TOO_BAD": {
+        "timing": [
+          1041
+        ]
+      },
+      "NEVER": {
+        "timing": [
+          1833
+        ]
+      },
+      "FOR_YOU": {
+        "timing": [
+          3826
+        ]
+      },
+      "YES_BLOODSHED": {
+        "timing": [
+          1872,
+          3716
+        ]
+      },
+      "MUST_FIGHT_YOU_URQUAN_1": {
+        "timing": [
+          1573
+        ]
+      },
+      "MUST_FIGHT_YOU_URQUAN_2": {
+        "timing": [
+          1722
+        ]
+      },
+      "MUST_FIGHT_YOU_URQUAN_3": {
+        "timing": [
+          1903
+        ]
+      },
+      "MUST_FIGHT_YOU_URQUAN_4": {
+        "timing": [
+          1872
+        ]
+      },
+      "YOU_LIMP": {
+        "timing": [
+          6319
+        ]
+      },
+      "HANG_YOUR": {
+        "timing": [
+          5407
+        ]
+      },
+      "DGRUNTI": {
+        "timing": [
+          5207,
+          1302,
+          2494
+        ]
+      },
+      "SO_SORRY": {
+        "timing": [
+          1752,
+          1382
+        ]
+      },
+      "MUST_UNDERSTAND": {
+        "timing": [
+          2314,
+          4086
+        ]
+      },
+      "NICE_BUT_WHAT_IS_DONKEY": {
+        "timing": [
+          4387
+        ]
+      },
+      "IS_DEFEAT_TRUE": {
+        "timing": [
+          3195,
+          4706
+        ]
+      },
+      "VERY_SAD_KILL_SELF": {
+        "timing": [
+          3631,
+          3828
+        ]
+      },
+      "OK_WILL_BE_SENTRY": {
+        "timing": [
+          3926,
+          1913,
+          6780
+        ]
+      },
+      "YES_I_DO_IT": {
+        "timing": [
+          991,
+          8422,
+          2113,
+          3355,
+          2504
+        ]
+      },
+      "ON_SECOND_THOUGHT": {
+        "timing": [
+          3635,
+          3996,
+          3785,
+          4297,
+          5888,
+          4497,
+          3184
+        ]
+      },
+      "LEAPING_HAPPINESS": {
+        "timing": [
+          2214,
+          5217,
+          3816,
+          4776,
+          1583,
+          3825,
+          2684,
+          2604,
+          4817
+        ]
+      },
+      "I_GUARD": {
+        "timing": [
+          6029
+        ]
+      },
+      "BLEW_IT_UP": {
+        "timing": [
+          3155,
+          4707
+        ]
+      },
+      "NOT_HERE": {
+        "timing": [
+          3007,
+          6898,
+          6287,
+          3310,
+          7028,
+          4528,
+          4779,
+          3359,
+          7197,
+          6897,
+          4470
+        ],
+        "subclipTiming": [
+          [
+            3007,
+            6898
+          ],
+          [
+            287,
+            3110,
+            7028,
+            4528,
+            4779,
+            3359,
+            7197,
+            6897,
+            4470
+          ]
+        ]
+      },
+      "MET_VUX": {
+        "timing": [
+          3936,
+          6369,
+          3535,
+          6099,
+          5137,
+          6129,
+          5378,
+          2683
+        ],
+        "subclipTiming": [
+          [
+            3936,
+            6369,
+            3535,
+            6099
+          ],
+          [
+            2937,
+            6129,
+            5378,
+            2683
+          ]
+        ]
+      },
+      "SWITCH_BROKE": {
+        "timing": [
+          4416,
+          2654
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          3500,
+          6000,
+          3000,
+          3000,
+          3500,
+          4000,
+          3000,
+          3000,
+          3500,
+          4000
+        ]
+      }
+    },
+    "slylandro": {
+      "HELLO_1": {
+        "timing": [
+          1412,
+          4226,
+          1873,
+          2563,
+          3716
+        ]
+      },
+      "HELLO_2": {
+        "timing": [
+          2383,
+          3706,
+          4146
+        ]
+      },
+      "HELLO_3": {
+        "timing": [
+          1962,
+          3115
+        ]
+      },
+      "HELLO_4": {
+        "timing": [
+          2053,
+          3104
+        ]
+      },
+      "RECALL_PROGRAM_1": {
+        "timing": [
+          2814,
+          3035,
+          2193,
+          4446,
+          4346,
+          3415
+        ]
+      },
+      "TERRIBLY_EXCITING": {
+        "timing": [
+          2473,
+          3135,
+          3064,
+          4957,
+          4727,
+          4036,
+          4306,
+          4256,
+          3585,
+          2724
+        ]
+      },
+      "TELL_MORE": {
+        "timing": [
+          2954,
+          2634,
+          2454,
+          3815
+        ]
+      },
+      "YES_TELL_MORE": {
+        "timing": [
+          2233,
+          5508,
+          2704
+        ]
+      },
+      "OK_EARTH": {
+        "timing": [
+          2834,
+          1993,
+          2914,
+          3595,
+          3495,
+          3956,
+          2283
+        ]
+      },
+      "OK_EXPLORE": {
+        "timing": [
+          4356,
+          5688,
+          6479,
+          6089,
+          5388,
+          3235,
+          3284,
+          6630
+        ]
+      },
+      "URQUAN_NICE_GUYS": {
+        "timing": [
+          5898,
+          4516,
+          4857
+        ]
+      },
+      "PERSONALITY_CHANGE": {
+        "timing": [
+          2624,
+          3445,
+          3045,
+          5237
+        ]
+      },
+      "MAYBE_INTERESTED": {
+        "timing": [
+          5678,
+          2964,
+          4427,
+          4416,
+          1622
+        ],
+        "subclipTiming": [
+          [],
+          [
+            1678
+          ],
+          [
+            464,
+            4427,
+            4416,
+            1622
+          ]
+        ]
+      },
+      "VISITORS": {
+        "timing": [
+          5698,
+          3535,
+          3986,
+          4086,
+          5307,
+          4317,
+          2974,
+          4707,
+          2533
+        ]
+      },
+      "LONG_AGO": {
+        "timing": [
+          3185,
+          4757,
+          4376
+        ]
+      },
+      "MET_TAALO_THEY_ARE_FROM": {
+        "timing": [
+          7541,
+          1902,
+          5669,
+          7941,
+          2974,
+          4667
+        ]
+      },
+      "PRECURSORS": {
+        "timing": [
+          5608,
+          4707,
+          4796,
+          4086,
+          1352
+        ]
+      },
+      "ABOUT_PRECURSORS": {
+        "timing": [
+          3115,
+          4396,
+          4677,
+          6500,
+          2603,
+          4800,
+          3825,
+          3946,
+          3755,
+          4800,
+          5237,
+          4150
+        ]
+      },
+      "ALL_WE_KNOW": {
+        "timing": [
+          4977,
+          961,
+          2644,
+          5898,
+          6760,
+          7010,
+          6600,
+          3825,
+          6670,
+          3335
+        ],
+        "subclipTiming": [
+          [
+            4977,
+            461,
+            3144,
+            5898,
+            6760,
+            7010,
+            6600,
+            3825
+          ],
+          [
+            1670
+          ],
+          [
+            835
+          ]
+        ]
+      },
+      "SURE_KNOW_WHAT": {
+        "timing": [
+          4135
+        ]
+      },
+      "ABOUT_HOME": {
+        "timing": [
+          6059,
+          6119,
+          4636,
+          4797,
+          6289,
+          4716,
+          4698,
+          2704,
+          5518
+        ]
+      },
+      "ABOUT_CULTURE": {
+        "timing": [
+          4367,
+          5167,
+          6089,
+          3675,
+          4507,
+          4606,
+          4647,
+          4056
+        ]
+      },
+      "ABOUT_HISTORY": {
+        "timing": [
+          6369,
+          5338,
+          4066,
+          4556,
+          5368,
+          7100,
+          3495,
+          4226
+        ]
+      },
+      "ABOUT_BIOLOGY": {
+        "timing": [
+          6079,
+          6409,
+          3844,
+          4999,
+          4206,
+          4827,
+          3374,
+          4677
+        ]
+      },
+      "DOWN_HERE": {
+        "timing": [
+          6171,
+          3759,
+          5319,
+          5150,
+          4718
+        ]
+      },
+      "NO_ITS_NOT_1": {
+        "timing": [
+          4737
+        ]
+      },
+      "NO_ITS_NOT_2": {
+        "timing": [
+          3385,
+          4236
+        ]
+      },
+      "PROBES_ARE": {
+        "timing": [
+          6279,
+          4216,
+          4968,
+          4136
+        ]
+      },
+      "OK_WHAT_MORE_PROBE": {
+        "timing": [
+          4757,
+          2213,
+          4056,
+          4026,
+          4586,
+          4146
+        ]
+      },
+      "PROBES_FROM_MELNORME": {
+        "timing": [
+          2523,
+          6620
+        ]
+      },
+      "SELL_FOR_INFO": {
+        "timing": [
+          4923,
+          3369,
+          3760,
+          4288,
+          6259
+        ]
+      },
+      "SEEK_OUT_NEW_LIFE": {
+        "timing": [
+          3405,
+          4296,
+          4807
+        ]
+      },
+      "THEY_REPLICATE": {
+        "timing": [
+          4556,
+          3595,
+          2815,
+          2964,
+          4086,
+          3134,
+          3505,
+          2664
+        ]
+      },
+      "ONLY_DEFEND": {
+        "timing": [
+          2123,
+          2764,
+          4817
+        ]
+      },
+      "BASIC_COMMANDS": {
+        "timing": [
+          5758,
+          5698,
+          3996,
+          2814,
+          5969,
+          3995,
+          5809,
+          2974,
+          3896,
+          2684,
+          4506,
+          3084,
+          3105,
+          3485,
+          3565,
+          3764,
+          3947,
+          2464,
+          2433,
+          2584,
+          4446,
+          3305
+        ]
+      },
+      "OK_BASICS_AGAIN": {
+        "timing": [
+          1923,
+          3565,
+          2463,
+          5959,
+          3885,
+          5578,
+          2594,
+          4216,
+          2334,
+          3715,
+          2343,
+          2674,
+          3155,
+          3214,
+          3545,
+          4807,
+          5228,
+          3243,
+          4678,
+          5007
+        ]
+      },
+      "AFFECTS_BEHAVIOR": {
+        "timing": [
+          5357,
+          5178,
+          3985
+        ]
+      },
+      "ONLY_SELF_DEFENSE": {
+        "timing": [
+          3145,
+          1792,
+          5027
+        ]
+      },
+      "MISSILE_BATTERIES": {
+        "timing": [
+          3525
+        ]
+      },
+      "LIGHTNING_ONLY_FOR_HARVESTING": {
+        "timing": [
+          3815,
+          5808
+        ]
+      },
+      "ABOUT_REP": {
+        "timing": [
+          3996,
+          5187,
+          4747,
+          2063,
+          5228
+        ]
+      },
+      "MAXIMUM": {
+        "timing": [
+          5288,
+          5918,
+          2013,
+          5478,
+          3785
+        ]
+      },
+      "NO_IT_DOESNT": {
+        "timing": [
+          4938
+        ]
+      },
+      "ATTACK_NO_PROBLEM": {
+        "timing": [
+          2854
+        ]
+      },
+      "MAXIMUM_SO_WHAT": {
+        "timing": [
+          4366
+        ]
+      },
+      "UH_OH": {
+        "timing": [
+          4126,
+          4389,
+          4079,
+          5809,
+          5610,
+          1289,
+          5459,
+          5129,
+          929,
+          2279,
+          2100,
+          2269,
+          2010,
+          1380,
+          2069,
+          3679
+        ]
+      },
+      "GROW_TOO_FAST": {
+        "timing": [
+          2053,
+          2573
+        ]
+      },
+      "SIGNED_WAIVER": {
+        "timing": [
+          4547
+        ]
+      },
+      "NOT_THIS_MODEL": {
+        "timing": [
+          3565,
+          3155,
+          4676
+        ]
+      },
+      "WHY_YES_THERE_IS": {
+        "timing": [
+          2053,
+          4406,
+          4437,
+          5346
+        ]
+      }
+    },
+    "spathi": {
+      "SORRY_ABOUT_THAT": {
+        "timing": [
+          8502,
+          3188,
+          5979,
+          10927,
+          7716,
+          4320,
+          3889,
+          5198,
+          658,
+          4540
+        ],
+        "subclipTiming": [
+          [
+            8502,
+            3188,
+            5979
+          ],
+          [
+            27,
+            7716,
+            4320,
+            3889,
+            5198,
+            658,
+            4540
+          ]
+        ]
+      },
+      "I_FWIFFO": {
+        "timing": [
+          1863,
+          4746,
+          3465,
+          2374,
+          5528,
+          5237,
+          7161
+        ]
+      },
+      "ARE_YOU_SURE": {
+        "timing": [
+          1432,
+          4316,
+          4226,
+          5138,
+          5307
+        ]
+      },
+      "OK_WONT": {
+        "timing": [
+          2443
+        ]
+      },
+      "WEZZY_WEZZAH": {
+        "timing": [
+          7000,
+          8472,
+          7851
+        ]
+      },
+      "MUST_DO_RITUAL_AT_HOME": {
+        "timing": [
+          6519,
+          4557,
+          4917,
+          7170,
+          3505
+        ]
+      },
+      "ETERNAL_GRATITUDE": {
+        "timing": [
+          5588,
+          5317
+        ]
+      },
+      "CLUTCH_MAVEN": {
+        "timing": [
+          8022,
+          7580,
+          3596,
+          2954
+        ]
+      },
+      "HONEST_AND_FRIENDLY": {
+        "timing": [
+          6400,
+          6950,
+          4676
+        ]
+      },
+      "COORDINATES_ARE": {
+        "timing": [
+          7271,
+          2443,
+          2794,
+          4367
+        ],
+        "subclipTiming": [
+          [],
+          [
+            1771,
+            2543,
+            2794,
+            4367
+          ]
+        ]
+      },
+      "FAKE_COORDINATES": {
+        "timing": [
+          1702,
+          4677
+        ],
+        "subclipTiming": [
+          [
+            1702,
+            4677
+          ],
+          [
+            420
+          ]
+        ]
+      },
+      "TOO_SCARY": {
+        "timing": [
+          3985
+        ]
+      },
+      "SORRY_NO_COORDS": {
+        "timing": [
+          1893,
+          5848,
+          5588,
+          1592
+        ]
+      },
+      "ABOUT_20_YEARS_AGO": {
+        "timing": [
+          8702,
+          5849,
+          4396,
+          4947
+        ]
+      },
+      "WHEN_URQUAN_ARRIVED": {
+        "timing": [
+          5047,
+          4306,
+          6830,
+          6429,
+          4196,
+          5779,
+          3795,
+          5678
+        ]
+      },
+      "URQUAN_LEFT": {
+        "timing": [
+          4607,
+          4947,
+          1692,
+          4897
+        ]
+      },
+      "ABOUT_OTHER_RACES": {
+        "timing": [
+          4647,
+          4466,
+          5288,
+          4206
+        ],
+        "subclipTiming": [
+          [
+            4547,
+            4466
+          ],
+          [
+            1288,
+            3906
+          ]
+        ]
+      },
+      "ABOUT_MYSELF": {
+        "timing": [
+          4035,
+          7832,
+          3835,
+          5538,
+          2844,
+          3605,
+          6570,
+          1762,
+          7461,
+          4126,
+          2964,
+          4967,
+          7161,
+          7300,
+          5378,
+          5037,
+          6780,
+          4537,
+          5167,
+          5648,
+          6099,
+          4767,
+          5087,
+          2754,
+          4316
+        ]
+      },
+      "STATIONED_ON_EARTH_MOON": {
+        "timing": [
+          4626,
+          5929,
+          3355,
+          3234,
+          4997,
+          3455,
+          4978,
+          2283
+        ]
+      },
+      "BLAZE_IS": {
+        "timing": [
+          5288,
+          2944,
+          5698,
+          7070,
+          4647,
+          5468
+        ]
+      },
+      "SET_UP_BASE": {
+        "timing": [
+          5357,
+          2935,
+          7130,
+          3365,
+          7521
+        ]
+      },
+      "ABOUT_ILWRATH": {
+        "timing": [
+          4476,
+          1993,
+          5859,
+          4756,
+          5779,
+          3064,
+          3946
+        ]
+      },
+      "SPATHI_ARE": {
+        "timing": [
+          6299,
+          6930
+        ]
+      },
+      "ENEMY_IS": {
+        "timing": [
+          8822,
+          5388
+        ]
+      },
+      "THEN_ILWRATH": {
+        "timing": [
+          6990,
+          2534
+        ]
+      },
+      "DREW_SHORT_STRAW": {
+        "timing": [
+          6239,
+          4396,
+          5498,
+          7100,
+          7491,
+          4797,
+          4436,
+          7091
+        ]
+      },
+      "JUST_ME": {
+        "timing": [
+          4777,
+          4696,
+          3435,
+          5718,
+          5028,
+          5187,
+          3806
+        ]
+      },
+      "THOUSANDS": {
+        "timing": [
+          6300,
+          5638,
+          5297
+        ]
+      },
+      "HOW_TRUE": {
+        "timing": [
+          2433,
+          6139,
+          4987,
+          5728,
+          5538
+        ]
+      },
+      "WILL_JOIN": {
+        "timing": [
+          2693,
+          6650,
+          3375,
+          2884,
+          5658,
+          5338,
+          4396,
+          5398,
+          4306
+        ]
+      },
+      "WONT_JOIN_1": {
+        "timing": [
+          1643,
+          4857,
+          7550,
+          7011,
+          5477
+        ]
+      },
+      "WONT_JOIN_2": {
+        "timing": [
+          2494,
+          5577,
+          7261,
+          7671,
+          5118,
+          2273,
+          8973,
+          4817
+        ]
+      },
+      "WONT_JOIN_3": {
+        "timing": [
+          4887
+        ]
+      },
+      "HATE_YOU_FOREVER_SPACE": {
+        "timing": [
+          6159,
+          2123
+        ]
+      },
+      "INIT_ANGRY_HELLO_SPACE": {
+        "timing": [
+          5168
+        ]
+      },
+      "SUBSEQUENT_ANGRY_HELLO_SPACE": {
+        "timing": [
+          7010,
+          5127
+        ]
+      },
+      "INIT_NEUTRAL_HELLO_SPACE": {
+        "timing": [
+          2073,
+          4897
+        ]
+      },
+      "SUBSEQUENT_FRIENDLY_HELLO_SPACE": {
+        "timing": [
+          6079,
+          3073,
+          5965
+        ]
+      },
+      "INIT_ALLIED_HELLO_SPACE": {
+        "timing": [
+          4566
+        ]
+      },
+      "SUBSEQUENT_ALLIED_HELLO_SPACE": {
+        "timing": [
+          4797,
+          1913,
+          3004,
+          4406,
+          5058,
+          5508,
+          2633,
+          5117
+        ]
+      },
+      "HERES_SOME_INFO": {
+        "timing": [
+          6049
+        ]
+      },
+      "APOLOGIZE_AT_HOMEWORLD": {
+        "timing": [
+          4336,
+          2684,
+          5878,
+          2654,
+          6690,
+          2443,
+          4306
+        ]
+      },
+      "GOODBYE_ANGRY_SPACE": {
+        "timing": [
+          3235
+        ]
+      },
+      "NO_YOU_LOOK_REALLY_WEIRD": {
+        "timing": [
+          1822,
+          832
+        ]
+      },
+      "AGAINST_NATURE": {
+        "timing": [
+          4900,
+          700,
+          3400,
+          5849,
+          1000
+        ]
+      },
+      "ALWAYS_PREPARED": {
+        "timing": [
+          4136,
+          2423
+        ]
+      },
+      "GIVE_ADVICE": {
+        "timing": [
+          3075
+        ]
+      },
+      "GENERAL_INFO_SPACE_1": {
+        "timing": [
+          5909,
+          3304,
+          6860,
+          5428,
+          2804,
+          2454,
+          2774,
+          3815,
+          5107
+        ]
+      },
+      "URQUAN_SLAVES": {
+        "timing": [
+          5498
+        ]
+      },
+      "UMGAH_TRICK": {
+        "timing": [
+          5058,
+          6369,
+          5167,
+          4667,
+          6369,
+          2754,
+          2814,
+          5518,
+          6900,
+          5798,
+          4847,
+          8061,
+          7111,
+          5358,
+          3595,
+          6539,
+          7050,
+          7331,
+          5077,
+          3996,
+          4817
+        ]
+      },
+      "ABOUT_US": {
+        "timing": [
+          3285,
+          6719,
+          4557,
+          5147
+        ]
+      },
+      "WANT_THIS": {
+        "timing": [
+          8902
+        ]
+      },
+      "SURE": {
+        "timing": [
+          4444
+        ]
+      },
+      "KEEP_IT_SECRET": {
+        "timing": [
+          4016
+        ]
+      },
+      "DARN_TOOTIN": {
+        "timing": [
+          3224
+        ]
+      },
+      "DONT_REALLY_WANT_TO_FIGHT": {
+        "timing": [
+          3896
+        ]
+      },
+      "YIPES": {
+        "timing": [
+          1763,
+          8032,
+          5097,
+          5778
+        ]
+      },
+      "GENERAL_INFO_SPACE_2": {
+        "timing": [
+          3956,
+          3064,
+          7892,
+          4376,
+          2784
+        ],
+        "subclipTiming": [
+          [
+            3956,
+            3064
+          ],
+          [
+            92,
+            4176,
+            2984
+          ]
+        ]
+      },
+      "GET_INFO_FROM_SPATHIWA": {
+        "timing": [
+          5348
+        ]
+      },
+      "GET_RESOURCES_FROM_SPATHIWA": {
+        "timing": [
+          4917,
+          5958
+        ]
+      },
+      "DO_THIS_FOR_FUN": {
+        "timing": [
+          4917,
+          5048,
+          5527,
+          5408
+        ]
+      },
+      "OK_WE_FIGHT_AT_PLUTO": {
+        "timing": [
+          4256,
+          4106,
+          4426,
+          3384,
+          5109,
+          2934,
+          4877
+        ],
+        "subclipTiming": [
+          [
+            4256,
+            4206,
+            4426,
+            3284
+          ],
+          [
+            3109,
+            2934,
+            4977
+          ]
+        ]
+      }
+    },
+    "supox": {
+      "HOSTILE_SPACE_HELLO_1": {
+        "timing": [
+          4697,
+          1802,
+          3375
+        ],
+        "subclipTiming": [
+          [],
+          [
+            497,
+            2102,
+            3575
+          ]
+        ]
+      },
+      "HOSTILE_SPACE_HELLO_2": {
+        "timing": [
+          4075,
+          3646,
+          4556
+        ]
+      },
+      "YEAH_SORRY": {
+        "timing": [
+          7490,
+          8022
+        ]
+      },
+      "SYMBIOTS": {
+        "timing": [
+          4837,
+          5107
+        ]
+      },
+      "OUR_SPECIES": {
+        "timing": [
+          8522,
+          6109,
+          3665,
+          8893
+        ],
+        "subclipTiming": [
+          [],
+          [
+            2122,
+            6109,
+            3665,
+            8993
+          ]
+        ]
+      },
+      "PROVES_WERE_SPECIAL": {
+        "timing": [
+          6529
+        ]
+      },
+      "UTWIG_NEARBY": {
+        "timing": [
+          6105,
+          4098,
+          5628,
+          5348,
+          4877,
+          4847
+        ]
+      },
+      "UTWIG_ALLIES": {
+        "timing": [
+          5228,
+          5628,
+          5348,
+          4877,
+          4847
+        ]
+      },
+      "TAKE_ULTRON": {
+        "timing": [
+          6329,
+          7711,
+          6459,
+          4847,
+          4326,
+          5759,
+          5858,
+          6580,
+          3905,
+          3666,
+          6679,
+          6700,
+          6058
+        ]
+      },
+      "FIX_IT": {
+        "timing": [
+          5558,
+          5097,
+          3896,
+          6659,
+          4377,
+          6269
+        ]
+      },
+      "HIDEOUS_MONSTERS": {
+        "timing": [
+          8472
+        ]
+      },
+      "GOOD_GIVE_TO_UTWIG": {
+        "timing": [
+          5948
+        ],
+        "subclipTiming": [
+          [],
+          [
+            748
+          ]
+        ]
+      },
+      "ALMOST_THERE": {
+        "timing": [
+          1923,
+          6790
+        ]
+      },
+      "GREAT_DO_MORE": {
+        "timing": [
+          1773,
+          2163,
+          4677,
+          4726
+        ]
+      },
+      "ANCIENT_RHYME": {
+        "timing": [
+          3415
+        ]
+      },
+      "ABOUT_BATTLE": {
+        "timing": [
+          1658,
+          5290,
+          4899,
+          3979,
+          4146
+        ]
+      },
+      "HELLO_DURING_KOHRAH_SPACE_1": {
+        "timing": [
+          6379
+        ]
+      },
+      "HELLO_DURING_KOHRAH_SPACE_2": {
+        "timing": [
+          4266
+        ]
+      },
+      "GENERAL_INFO_AFTER_SPACE_1": {
+        "timing": [
+          4096,
+          5127,
+          5779,
+          5507
+        ]
+      },
+      "GENERAL_INFO_AFTER_SPACE_2": {
+        "timing": [
+          6630,
+          6990,
+          7130,
+          4326
+        ]
+      },
+      "DO_THIS_AFTER_SPACE": {
+        "timing": [
+          5388
+        ]
+      },
+      "GENERAL_INFO_BEFORE_SPACE_1": {
+        "timing": [
+          6179
+        ],
+        "subclipTiming": [
+          [
+            6179
+          ],
+          []
+        ]
+      },
+      "DO_THIS_BEFORE_SPACE": {
+        "timing": [
+          5548,
+          3826,
+          4957
+        ]
+      },
+      "BATTLE_HAPPENS_1": {
+        "timing": [
+          5998,
+          3726,
+          6919,
+          7351,
+          7431,
+          5377
+        ]
+      },
+      "BATTLE_HAPPENS_2": {
+        "timing": [
+          4096,
+          5027,
+          5078,
+          6930
+        ]
+      },
+      "FLEET_ON_WAY": {
+        "timing": [
+          6089
+        ],
+        "subclipTiming": [
+          [],
+          [
+            42
+          ]
+        ]
+      },
+      "NO_NEW_INFO": {
+        "timing": [
+          5448,
+          3625
+        ]
+      },
+      "SAMATRA": {
+        "timing": [
+          3615,
+          3094,
+          4417,
+          6339
+        ],
+        "subclipTiming": [
+          [
+            3315,
+            3394,
+            4417,
+            6339
+          ],
+          [
+            420
+          ]
+        ]
+      },
+      "HOPE_KILL_EACH_OTHER": {
+        "timing": [
+          5648
+        ]
+      },
+      "UP_TO_YOU": {
+        "timing": [
+          6900,
+          5798,
+          5588
+        ]
+      },
+      "HOW_HELP": {
+        "timing": [
+          6469
+        ]
+      },
+      "DONT_NEED": {
+        "timing": [
+          3826
+        ]
+      },
+      "GOOD_HINTS": {
+        "timing": [
+          5298,
+          4506,
+          5909,
+          6849,
+          7311,
+          6740,
+          6289,
+          5117,
+          6670,
+          4807,
+          7310,
+          8072,
+          5197
+        ],
+        "subclipTiming": [
+          [
+            5298,
+            4306,
+            6109,
+            6849,
+            7311
+          ],
+          [],
+          [
+            169
+          ],
+          [
+            1139,
+            5217,
+            6770,
+            4807,
+            7310,
+            8072,
+            5197
+          ]
+        ]
+      },
+      "ULTRON_IS_GREAT": {
+        "timing": [
+          8302
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          3000,
+          3500,
+          4000,
+          3000,
+          3500
+        ]
+      }
+    },
+    "talkingpet": {
+      "JUST_TALKING_PET": {
+        "timing": [
+          8665,
+          6091,
+          7517,
+          6869,
+          5650
+        ],
+        "subclipTiming": [
+          [
+            8665,
+            6091
+          ],
+          [
+            117,
+            6869,
+            5650
+          ]
+        ]
+      },
+      "OH_NO_YOU_DONT": {
+        "timing": [
+          3261,
+          2900,
+          3529,
+          4719,
+          4610,
+          1309
+        ]
+      },
+      "DID_NOTHING": {
+        "timing": [
+          6231
+        ]
+      },
+      "WORKS_LIKE_THIS": {
+        "timing": [
+          3527,
+          3489,
+          4380
+        ]
+      },
+      "GOOD_FOR_YOU": {
+        "timing": [
+          4963,
+          4970
+        ]
+      },
+      "EXPLAIN_NOTHING_MONKEY_BOY": {
+        "timing": [
+          3637,
+          3139,
+          4759,
+          1530,
+          6548,
+          2499
+        ]
+      },
+      "GOODBYE_AT_UMGAH": {
+        "timing": [
+          2940,
+          2738,
+          2729,
+          2399,
+          4090
+        ]
+      },
+      "HYPNOTIZE_AGAIN_1": {
+        "timing": [
+          4111,
+          2179
+        ]
+      },
+      "HYPNOTIZE_AGAIN_2": {
+        "timing": [
+          4390,
+          5319
+        ]
+      },
+      "HYPNOTIZE_AGAIN_3": {
+        "timing": [
+          4043
+        ]
+      },
+      "HYPNOTIZE_AGAIN_4": {
+        "timing": [
+          1720,
+          2809,
+          3178
+        ]
+      },
+      "CANT_COMPEL": {
+        "timing": [
+          3119,
+          2761,
+          3029
+        ]
+      },
+      "LETS_MAKE_A_DEAL": {
+        "timing": [
+          2990,
+          5568,
+          3560,
+          4960,
+          4368,
+          3401,
+          3487,
+          2939,
+          2240,
+          5590,
+          6267,
+          4420,
+          5648,
+          6298,
+          2100,
+          1879,
+          2970,
+          2120,
+          980,
+          2448,
+          1911,
+          1439,
+          3910,
+          2898
+        ]
+      },
+      "HELP_DEFEAT_URQUAN": {
+        "timing": [
+          3891,
+          2668,
+          3839,
+          5045,
+          6023,
+          4650
+        ]
+      },
+      "COMING_ABOARD": {
+        "timing": [
+          3338,
+          4538,
+          2361,
+          4208,
+          6129
+        ]
+      },
+      "TRUST": {
+        "timing": [
+          3419,
+          5579,
+          5809,
+          1549,
+          3999,
+          5410,
+          6427
+        ]
+      },
+      "YOUR_BONELESS_DWEEB": {
+        "timing": [
+          4227
+        ]
+      },
+      "POOR_DNYARRI": {
+        "timing": [
+          3683,
+          4140,
+          4299,
+          4679,
+          4708,
+          3178,
+          2570,
+          4389,
+          4629,
+          5169,
+          5108,
+          5511,
+          5788,
+          4069,
+          2870,
+          3189,
+          4119,
+          4628,
+          1690,
+          5998,
+          7319,
+          4718,
+          6599,
+          3149,
+          3670
+        ]
+      },
+      "ITS_TRUE": {
+        "timing": [
+          2687,
+          4019,
+          6157,
+          5580,
+          7359,
+          5758,
+          5179,
+          4558,
+          3130,
+          7808,
+          6778,
+          4889,
+          9178,
+          4348,
+          5221,
+          5327,
+          6069,
+          3470,
+          4126,
+          4892
+        ]
+      },
+      "WORTH_A_TRY": {
+        "timing": [
+          4953
+        ]
+      },
+      "PLEASE_DONT": {
+        "timing": [
+          2106
+        ]
+      },
+      "DONT_KILL": {
+        "timing": [
+          7271,
+          4570,
+          2908,
+          3211,
+          5317
+        ]
+      },
+      "GLAD_YOU_WONT_KILL": {
+        "timing": [
+          4640,
+          3990,
+          3979
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_1": {
+        "timing": [
+          4130,
+          2371
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_2": {
+        "timing": [
+          2977,
+          2521,
+          4648,
+          4978
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_3": {
+        "timing": [
+          5512,
+          4225,
+          6253
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_4": {
+        "timing": [
+          6024,
+          3139,
+          5929,
+          2608,
+          6319,
+          3539,
+          4729,
+          3279
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_5": {
+        "timing": [
+          3533,
+          2069,
+          4029,
+          3870,
+          3010,
+          4878,
+          4079,
+          3259
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_6": {
+        "timing": [
+          3365,
+          3090,
+          4368,
+          5879,
+          4808
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_7": {
+        "timing": [
+          2550,
+          2889,
+          3570,
+          4069
+        ]
+      },
+      "GENERAL_INFO_ONBOARD_8": {
+        "timing": [
+          6154
+        ]
+      },
+      "HELLO_AS_DEVICE_1": {
+        "timing": [
+          5344,
+          3739,
+          4640
+        ]
+      },
+      "HELLO_AS_DEVICE_2": {
+        "timing": [
+          1476,
+          3519,
+          1909
+        ]
+      },
+      "HELLO_AS_DEVICE_3": {
+        "timing": [
+          5954
+        ]
+      },
+      "HELLO_AS_DEVICE_4": {
+        "timing": [
+          2020,
+          2359,
+          3509,
+          3939,
+          5509
+        ]
+      },
+      "HELLO_AS_DEVICE_5": {
+        "timing": [
+          11096
+        ]
+      },
+      "HELLO_AS_DEVICE_6": {
+        "timing": [
+          2916,
+          3829
+        ]
+      },
+      "HELLO_AS_DEVICE_7": {
+        "timing": [
+          4646,
+          4287
+        ]
+      },
+      "CYBORG_PEP_TALK": {
+        "timing": [
+          3189,
+          4679,
+          4529,
+          1330,
+          1079
+        ]
+      },
+      "HUMAN_PEP_TALK": {
+        "timing": [
+          3497,
+          3649,
+          6269,
+          1470,
+          4829,
+          2559,
+          5499,
+          3529,
+          4988,
+          4420,
+          1940,
+          5418,
+          4468,
+          1600,
+          3829,
+          1150,
+          1611
+        ]
+      },
+      "I_SENSE_MY_SLAVES": {
+        "timing": [
+          4196
+        ]
+      },
+      "COMEBACK_WHEN_READY": {
+        "timing": [
+          3411
+        ]
+      },
+      "DO_THIS": {
+        "timing": [
+          4682
+        ]
+      },
+      "HERE_WE_GO": {
+        "timing": [
+          4252,
+          2149,
+          2840
+        ]
+      },
+      "STUPID_FOP": {
+        "timing": [
+          3253,
+          2968,
+          1511
+        ]
+      },
+      "SAVING_MY_POWER": {
+        "timing": [
+          5210
+        ]
+      },
+      "SUGGESTION_2": {
+        "timing": [
+          4030
+        ]
+      },
+      "SUGGESTION_3": {
+        "timing": [
+          6855
+        ]
+      },
+      "SUGGESTION_4": {
+        "timing": [
+          3302
+        ]
+      },
+      "SUGGESTION_5": {
+        "timing": [
+          3539,
+          3448
+        ]
+      },
+      "SUGGESTION_6": {
+        "timing": [
+          4797,
+          4998,
+          2820
+        ]
+      },
+      "WHAT_ABOUT_RACE": {
+        "timing": [
+          4085,
+          1949
+        ]
+      },
+      "SO_WHAT": {
+        "timing": [
+          2311,
+          3459,
+          4131,
+          3197
+        ]
+      },
+      "NO_TALK_ABOUT_SELF": {
+        "timing": [
+          4214
+        ]
+      },
+      "NOT_POWERS_BUT_FLOWERS": {
+        "timing": [
+          3752
+        ]
+      },
+      "GOOD_HUMAN": {
+        "timing": [
+          3385,
+          1621
+        ]
+      },
+      "EXCELLENT_IDEA": {
+        "timing": [
+          4797
+        ]
+      },
+      "ABOUT_HISTORY": {
+        "timing": [
+          5533,
+          5098,
+          5489
+        ]
+      },
+      "ABOUT_SENTIENT_MILIEU": {
+        "timing": [
+          7266,
+          4300,
+          1990,
+          4339
+        ]
+      },
+      "ABOUT_WAR": {
+        "timing": [
+          3851,
+          2660,
+          3908,
+          1130,
+          3439,
+          3870,
+          3509,
+          4638,
+          2039
+        ]
+      },
+      "UMGAH_ALL_GONE": {
+        "timing": [
+          6770,
+          6259,
+          5928,
+          4969,
+          5328,
+          2340,
+          4979,
+          7068,
+          4501,
+          6129,
+          7297,
+          3817,
+          3672,
+          5828,
+          6728,
+          1839,
+          8359,
+          3280,
+          5508,
+          3580,
+          6387,
+          2040,
+          5118,
+          6550
+        ],
+        "subclipTiming": [
+          [
+            6770,
+            6259,
+            5728,
+            4969,
+            5328,
+            2540,
+            4879,
+            7068,
+            4501
+          ],
+          [
+            2229,
+            7297,
+            3917,
+            3572,
+            5828,
+            6728,
+            1739,
+            8359,
+            3280,
+            5508,
+            3780,
+            6187,
+            2040,
+            5118,
+            6550
+          ]
+        ]
+      },
+      "HELLO_AFTER_COMPEL_URQUAN": {
+        "timing": [
+          3000,
+          2500
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          4000,
+          4000,
+          4000,
+          4000,
+          4000,
+          4000,
+          3500,
+          3500
+        ]
+      }
+    },
+    "thraddash": {
+      "HOSTILE_SPACE_HELLO_1": {
+        "timing": [
+          6008,
+          3335,
+          6109,
+          3214,
+          4056,
+          3095,
+          6249,
+          5738,
+          6429
+        ]
+      },
+      "HOSTILE_SPACE_HELLO_2": {
+        "timing": [
+          8172,
+          4767,
+          5718
+        ]
+      },
+      "HOSTILE_SPACE_HELLO_3": {
+        "timing": [
+          7581,
+          6018,
+          5608,
+          6500,
+          4066
+        ]
+      },
+      "HOSTILE_SPACE_HELLO_4": {
+        "timing": [
+          8292,
+          6349
+        ]
+      },
+      "HOSTILE_HOMEWORLD_HELLO_1": {
+        "timing": [
+          6159,
+          5247,
+          1493,
+          6128,
+          4777,
+          6039,
+          5087,
+          4707,
+          4997,
+          4687,
+          4607,
+          3945
+        ]
+      },
+      "HOSTILE_HOMEWORLD_HELLO_2": {
+        "timing": [
+          3885,
+          6159,
+          4376,
+          6490,
+          4556
+        ]
+      },
+      "HOSTILE_HOMEWORLD_HELLO_3": {
+        "timing": [
+          5238,
+          5658,
+          5357,
+          4297
+        ]
+      },
+      "HOSTILE_HOMEWORLD_HELLO_4": {
+        "timing": [
+          5097,
+          3946,
+          5658,
+          4487
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_1": {
+        "timing": [
+          1482,
+          1542,
+          6269,
+          6550,
+          7420,
+          8142,
+          6880,
+          6970,
+          7581,
+          8162,
+          7110,
+          7651,
+          7000,
+          6940,
+          3204
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_2": {
+        "timing": [
+          7281,
+          3334,
+          7742,
+          1151,
+          9033,
+          3445,
+          4577,
+          7130,
+          7280,
+          5608,
+          6971,
+          8071,
+          3705,
+          8773,
+          2684,
+          6770
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_3": {
+        "timing": [
+          4646,
+          4216,
+          5799,
+          5107,
+          8643
+        ],
+        "subclipTiming": [
+          [
+            4646,
+            4216,
+            5799,
+            5107,
+            8643
+          ],
+          [
+            420
+          ]
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_4": {
+        "timing": [
+          2673,
+          5839,
+          6089,
+          3915,
+          4076,
+          2133
+        ],
+        "subclipTiming": [
+          [
+            2673
+          ],
+          [
+            739,
+            6089,
+            3915,
+            4076,
+            2345
+          ]
+        ]
+      },
+      "ABOUT_US_1": {
+        "timing": [
+          6460,
+          7781,
+          6239,
+          5818,
+          6590,
+          4396,
+          6609,
+          5729,
+          5067,
+          1362,
+          3765,
+          6840
+        ]
+      },
+      "ABOUT_US_2": {
+        "timing": [
+          2954,
+          4978,
+          3415,
+          3905,
+          6159,
+          5528,
+          5478,
+          5818,
+          6620,
+          5438,
+          5317,
+          7451,
+          8863,
+          4116,
+          6899,
+          6410,
+          5027,
+          6289
+        ]
+      },
+      "ABOUT_URQUAN_1": {
+        "timing": [
+          5748,
+          5448,
+          3174,
+          5819,
+          5518,
+          3174,
+          5097,
+          4347,
+          5458,
+          4496,
+          7150,
+          6670,
+          7571,
+          6689,
+          5018
+        ]
+      },
+      "ABOUT_URQUAN_2": {
+        "timing": [
+          4035,
+          7101,
+          2394,
+          5467,
+          2975,
+          5678,
+          3675,
+          3996,
+          5328,
+          5678,
+          5558,
+          5007
+        ]
+      },
+      "GOOD_IDEA": {
+        "timing": [
+          3374,
+          4487,
+          4276,
+          4527,
+          2062,
+          3465,
+          7551,
+          5929,
+          7170
+        ]
+      },
+      "WE_GO_TO_IMPRESS_URQUAN_1": {
+        "timing": [
+          4607,
+          2543
+        ]
+      },
+      "WE_GO_TO_IMPRESS_URQUAN_2": {
+        "timing": [
+          4166,
+          3204,
+          4407
+        ]
+      },
+      "WE_IMPRESSING_URQUAN_1": {
+        "timing": [
+          5728,
+          7721,
+          4397,
+          3214,
+          4917
+        ]
+      },
+      "WE_IMPRESSING_URQUAN_2": {
+        "timing": [
+          2373,
+          6950,
+          4347,
+          4266,
+          3755,
+          6520
+        ]
+      },
+      "WE_IMPRESSED_URQUAN_1": {
+        "timing": [
+          5238,
+          4066,
+          4066,
+          5878,
+          5858,
+          4367,
+          1752
+        ]
+      },
+      "WE_IMPRESSED_URQUAN_2": {
+        "timing": [
+          4517,
+          4106,
+          2854,
+          3685,
+          1863
+        ]
+      },
+      "HOSTILE_HELIX_HELLO_1": {
+        "timing": [
+          4887,
+          2052
+        ]
+      },
+      "HOSTILE_HELIX_HELLO_2": {
+        "timing": [
+          2494,
+          741
+        ]
+      },
+      "NO_SUBMIT_1": {
+        "timing": [
+          611,
+          761,
+          651,
+          2103,
+          3625
+        ]
+      },
+      "NO_SUBMIT_2": {
+        "timing": [
+          1312,
+          2945
+        ]
+      },
+      "NO_FRIENDS_1": {
+        "timing": [
+          6449
+        ]
+      },
+      "NO_FRIENDS_2": {
+        "timing": [
+          4807,
+          2323,
+          5898,
+          4767,
+          2664
+        ]
+      },
+      "IMPRESSED_LIKE_SO_1": {
+        "timing": [
+          5188,
+          4556,
+          5839,
+          8011,
+          5638,
+          5308,
+          4767
+        ]
+      },
+      "IMPRESSED_LIKE_SO_2": {
+        "timing": [
+          7902,
+          6629,
+          5638,
+          2905,
+          4526,
+          3395,
+          4206
+        ]
+      },
+      "GOODBYE_HOSTILE_1": {
+        "timing": [
+          6069
+        ]
+      },
+      "NONE_OF_YOUR_CONCERN": {
+        "timing": [
+          2673
+        ]
+      },
+      "NO_DEMAND": {
+        "timing": [
+          4396
+        ]
+      },
+      "BLUE_HELIX": {
+        "timing": [
+          4091,
+          3522,
+          2320,
+          1599,
+          1150,
+          1518,
+          2720,
+          1420,
+          1949,
+          2760,
+          3579,
+          3929
+        ]
+      },
+      "HELIX_IS_HOSTILE": {
+        "timing": [
+          6501,
+          3557,
+          2641,
+          1388,
+          1441,
+          3180,
+          3679,
+          2459,
+          3138
+        ]
+      },
+      "CAUGHT_LIE": {
+        "timing": [
+          1984,
+          1770,
+          4138,
+          4000,
+          6018
+        ]
+      },
+      "DIE_THIEF_1": {
+        "timing": [
+          5468,
+          5367,
+          4988,
+          6769
+        ]
+      },
+      "DIE_THIEF_2": {
+        "timing": [
+          4967,
+          6179,
+          3384
+        ]
+      },
+      "AMAZING_PERFORMANCE": {
+        "timing": [
+          6629,
+          5077,
+          5048,
+          4086,
+          6048,
+          3686,
+          4977,
+          5978,
+          4176
+        ]
+      },
+      "IMPRESSIVE_PERFORMANCE": {
+        "timing": [
+          5528,
+          4246,
+          5177
+        ]
+      },
+      "ADEQUATE_PERFORMANCE": {
+        "timing": [
+          4697,
+          6750,
+          6739,
+          3706,
+          7300
+        ]
+      },
+      "HELLO_POLITE_1": {
+        "timing": [
+          3234,
+          5077
+        ]
+      },
+      "HELLO_POLITE_2": {
+        "timing": [
+          3385
+        ]
+      },
+      "HELLO_POLITE_3": {
+        "timing": [
+          2223
+        ]
+      },
+      "HELLO_POLITE_4": {
+        "timing": [
+          4457
+        ]
+      },
+      "HELLO_RHYME_1": {
+        "timing": [
+          2534,
+          3114,
+          1613,
+          1882,
+          1452
+        ]
+      },
+      "HELLO_RHYME_2": {
+        "timing": [
+          3135,
+          3695,
+          1202
+        ]
+      },
+      "HELLO_RHYME_3": {
+        "timing": [
+          2974,
+          2624,
+          1552,
+          1553,
+          2363
+        ]
+      },
+      "HELLO_RHYME_4": {
+        "timing": [
+          1702,
+          4236,
+          711,
+          1823,
+          1442
+        ]
+      },
+      "HELLO_PIG_LATIN_2": {
+        "timing": [
+          5899
+        ]
+      },
+      "WELCOME_HELIX0": {
+        "timing": [
+          6690
+        ]
+      },
+      "GUARDING_HELIX_ALLY": {
+        "timing": [
+          6048,
+          3315,
+          3385,
+          4256
+        ]
+      },
+      "HELIX_IS_ALLY": {
+        "timing": [
+          3625,
+          5027,
+          6529,
+          5408,
+          2013,
+          5398,
+          2884,
+          4116,
+          3625,
+          2954,
+          4867,
+          2294,
+          5327
+        ]
+      },
+      "SURE_LAND": {
+        "timing": [
+          6570
+        ]
+      },
+      "GENERAL_INFO_ALLY_1": {
+        "timing": [
+          3685,
+          4857,
+          5268,
+          5097,
+          2073,
+          5879,
+          3815
+        ],
+        "subclipTiming": [
+          [
+            3685,
+            4857,
+            5268
+          ],
+          [
+            1111,
+            2073
+          ],
+          [
+            1879
+          ],
+          [
+            115
+          ]
+        ]
+      },
+      "GENERAL_INFO_ALLY_2": {
+        "timing": [
+          3034,
+          5438,
+          5147,
+          5087,
+          5108,
+          6950,
+          5868
+        ],
+        "subclipTiming": [
+          [
+            3034,
+            5438,
+            5147,
+            5087,
+            5108,
+            6950
+          ],
+          [
+            69
+          ]
+        ]
+      },
+      "GENERAL_INFO_ALLY_3": {
+        "timing": [
+          6349,
+          5769,
+          4526,
+          7301,
+          4696,
+          7321,
+          4917
+        ],
+        "subclipTiming": [
+          [
+            6349,
+            5669,
+            4626,
+            7301,
+            4696,
+            7321
+          ],
+          [
+            917
+          ]
+        ]
+      },
+      "GENERAL_INFO_ALLY_4": {
+        "timing": [
+          3004,
+          3565,
+          3696,
+          3445,
+          1622
+        ]
+      },
+      "HOW_SHOULD_WE_ACT": {
+        "timing": [
+          3324
+        ]
+      },
+      "OK_FRIENDLY": {
+        "timing": [
+          6629,
+          5699,
+          3775
+        ]
+      },
+      "OK_WACKY": {
+        "timing": [
+          6329,
+          3846,
+          5077,
+          4517
+        ]
+      },
+      "OK_JUST_LIKE_YOU": {
+        "timing": [
+          4387,
+          4937,
+          4837,
+          4496,
+          5598,
+          2524
+        ]
+      },
+      "WORK_TO_DO": {
+        "timing": [
+          5578,
+          4707,
+          3184,
+          6239
+        ]
+      },
+      "OK_CONTEMPLATIVE": {
+        "timing": [
+          7051,
+          3434,
+          4327
+        ]
+      },
+      "CONTEMP_GOES_1": {
+        "timing": [
+          5969,
+          5287,
+          6369,
+          2284
+        ]
+      },
+      "CONTEMP_GOES_2": {
+        "timing": [
+          4715
+        ]
+      },
+      "FRIENDLY_GOES_1": {
+        "timing": [
+          5328,
+          6719,
+          6900
+        ]
+      },
+      "FRIENDLY_GOES_2": {
+        "timing": [
+          4957,
+          6028,
+          3746,
+          6079
+        ]
+      },
+      "WACKY_GOES_1": {
+        "timing": [
+          4536,
+          6219,
+          4406,
+          4256,
+          3335,
+          4807,
+          3986,
+          1282,
+          4867,
+          3595
+        ]
+      },
+      "WACKY_GOES_2": {
+        "timing": [
+          3638,
+          2259,
+          5130,
+          3219,
+          2170,
+          4678,
+          5160
+        ]
+      },
+      "LIKE_YOU_GOES_1": {
+        "timing": [
+          2423,
+          3405,
+          6179,
+          3315,
+          4276,
+          3885,
+          4707,
+          4477,
+          2694
+        ],
+        "subclipTiming": [
+          [
+            2323,
+            3405
+          ],
+          [
+            2179,
+            3415,
+            4176,
+            3785
+          ],
+          [
+            77,
+            4477,
+            2694
+          ]
+        ]
+      },
+      "LIKE_YOU_GOES_2": {
+        "timing": [
+          5568,
+          6790,
+          2834,
+          3785
+        ],
+        "subclipTiming": [
+          [],
+          [
+            868
+          ],
+          [
+            4290,
+            2834,
+            3785
+          ]
+        ]
+      },
+      "OK_POLITE": {
+        "timing": [
+          2053,
+          3055,
+          1402
+        ]
+      },
+      "OK_PIG_LATIN": {
+        "timing": [
+          5508,
+          4657,
+          4797,
+          4636,
+          2134
+        ]
+      },
+      "OK_RHYMES": {
+        "timing": [
+          2283,
+          2734,
+          5007
+        ]
+      },
+      "OK_WAY_YOU_DO": {
+        "timing": [
+          2524,
+          3805,
+          3085
+        ]
+      },
+      "WHAT_NAME_FOR_CULTURE": {
+        "timing": [
+          4075,
+          2794,
+          3315,
+          3145,
+          3405
+        ]
+      },
+      "OK_CULTURE_20": {
+        "timing": [
+          5078,
+          1091,
+          4276,
+          1252,
+          4166,
+          1352,
+          2864
+        ]
+      },
+      "OK_FAT": {
+        "timing": [
+          5759,
+          3425,
+          4666,
+          5198
+        ]
+      },
+      "OK_SLAVE": {
+        "timing": [
+          3575
+        ]
+      },
+      "HAVING_FUN_WITH_ILWRATH_1": {
+        "timing": [
+          3275,
+          5278,
+          4276,
+          3665,
+          2303,
+          5108
+        ]
+      },
+      "HAVING_FUN_WITH_ILWRATH_2": {
+        "timing": [
+          4146,
+          2523,
+          2404,
+          3705
+        ]
+      },
+      "GO_AWAY_FIGHTING_ILWRATH_1": {
+        "timing": [
+          3004,
+          4727,
+          3706,
+          4196,
+          2964,
+          4596,
+          2754,
+          5368
+        ]
+      },
+      "GO_AWAY_FIGHTING_ILWRATH_2": {
+        "timing": [
+          2243,
+          4927,
+          3155,
+          5668
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          4000,
+          5500,
+          6000,
+          4500,
+          4500
+        ]
+      }
+    },
+    "umgah": {
+      "HWLD_PRE_ZOMBIE_HELLO_1": {
+        "timing": [
+          4527,
+          4056,
+          5467
+        ]
+      },
+      "HWLD_PRE_ZOMBIE_HELLO_2": {
+        "timing": [
+          5057,
+          3866
+        ]
+      },
+      "SPACE_PRE_ZOMBIE_HELLO_1": {
+        "timing": [
+          4075,
+          4627,
+          4080
+        ]
+      },
+      "SPACE_PRE_ZOMBIE_HELLO_2": {
+        "timing": [
+          5107,
+          3515,
+          4677,
+          1502
+        ]
+      },
+      "SPACE_PRE_ZOMBIE_HELLO_3": {
+        "timing": [
+          4427,
+          4046,
+          2834,
+          2774,
+          4907
+        ]
+      },
+      "UNKNOWN_ZOMBIE_HELLO_1": {
+        "timing": [
+          2234
+        ]
+      },
+      "UNKNOWN_ZOMBIE_HELLO_2": {
+        "timing": [
+          3425
+        ]
+      },
+      "UNKNOWN_ZOMBIE_HELLO_3": {
+        "timing": [
+          5248
+        ]
+      },
+      "UNKNOWN_ZOMBIE_HELLO_4": {
+        "timing": [
+          2784
+        ]
+      },
+      "DESTROY_INTERFERER_1": {
+        "timing": [
+          2683
+        ]
+      },
+      "DESTROY_INTERFERER_3": {
+        "timing": [
+          3445
+        ]
+      },
+      "HOSTILE_HELLO_1": {
+        "timing": [
+          3105,
+          4927,
+          7701
+        ]
+      },
+      "HOSTILE_HELLO_2": {
+        "timing": [
+          5198,
+          8472,
+          5458
+        ]
+      },
+      "HOSTILE_HELLO_3": {
+        "timing": [
+          5187,
+          3706,
+          4466,
+          4537,
+          8422,
+          4186,
+          8983
+        ]
+      },
+      "HOSTILE_HELLO_4": {
+        "timing": [
+          5297
+        ]
+      },
+      "REWARD_AT_HOMEWORLD_1": {
+        "timing": [
+          7396,
+          7338,
+          6727
+        ],
+        "subclipTiming": [
+          [
+            7296,
+            7338
+          ],
+          [
+            27
+          ]
+        ]
+      },
+      "REWARD_AT_HOMEWORLD_2": {
+        "timing": [
+          5989,
+          5147
+        ],
+        "subclipTiming": [
+          [
+            5989
+          ],
+          [
+            47
+          ]
+        ]
+      },
+      "POST_ZOMBIE_HWLD_HELLO": {
+        "timing": [
+          7290,
+          7010,
+          9153,
+          7872,
+          3555
+        ]
+      },
+      "GIVE_LIFEDATA": {
+        "timing": [
+          4346,
+          6259,
+          4386,
+          3695,
+          6219,
+          8142,
+          5598,
+          7361,
+          6339,
+          5298,
+          10855,
+          10545,
+          2764,
+          8763,
+          2223
+        ]
+      },
+      "THANKS": {
+        "timing": [
+          3075,
+          9523,
+          7771,
+          5639,
+          7240,
+          6419,
+          5378,
+          10815,
+          10756,
+          2574,
+          9033,
+          1922
+        ]
+      },
+      "TRICK_URQUAN": {
+        "timing": [
+          7922,
+          5207,
+          5398,
+          6930,
+          3775,
+          6419,
+          7711,
+          4517,
+          8352,
+          9434,
+          7921,
+          11527,
+          2834,
+          8792,
+          4106
+        ]
+      },
+      "SURE": {
+        "timing": [
+          6289,
+          7601,
+          5037,
+          9574,
+          4567
+        ]
+      },
+      "TRKD_SPATHI_AND_ILWRATH": {
+        "timing": [
+          7621
+        ]
+      },
+      "SPATHI_TOOK_THEM": {
+        "timing": [
+          5938,
+          4106,
+          5208,
+          5998,
+          8523,
+          6609,
+          9233,
+          9414
+        ]
+      },
+      "DO_THIS_NOW": {
+        "timing": [
+          12979,
+          7781,
+          9794,
+          6820,
+          4947,
+          5678,
+          8732,
+          6640,
+          10435,
+          7110,
+          7140,
+          8212,
+          4016,
+          5157,
+          6380,
+          4686,
+          9554
+        ]
+      },
+      "FUNNY_IDEA": {
+        "timing": [
+          7236,
+          4909,
+          7008,
+          7297,
+          6338,
+          5200,
+          5777,
+          6110,
+          3466
+        ]
+      },
+      "GENERAL_INFO_PRE_ZOMBIE": {
+        "timing": [
+          7601,
+          8602,
+          10135,
+          3715,
+          6760
+        ],
+        "subclipTiming": [
+          [
+            7601,
+            8602
+          ],
+          [
+            35,
+            3715,
+            6760
+          ]
+        ]
+      },
+      "NOT_EVIL_BLOBBIES": {
+        "timing": [
+          4817
+        ]
+      },
+      "SURE_FRIENDS": {
+        "timing": [
+          5266,
+          9607
+        ]
+      },
+      "FINE_BY_US": {
+        "timing": [
+          6429,
+          9924,
+          10115,
+          8803,
+          5788
+        ],
+        "subclipTiming": [
+          [
+            6429,
+            9924
+          ],
+          [
+            2015,
+            8803,
+            5788
+          ]
+        ]
+      },
+      "SADLY_IT_DIED": {
+        "timing": [
+          2073
+        ]
+      },
+      "THEN_DIE": {
+        "timing": [
+          3655,
+          4446
+        ]
+      },
+      "YES_VERY_EVIL": {
+        "timing": [
+          2584
+        ]
+      },
+      "NOT_GIVE_UP": {
+        "timing": [
+          4686,
+          2664
+        ]
+      },
+      "GOOD_FOR_YOU_1": {
+        "timing": [
+          4437
+        ]
+      },
+      "GOOD_FOR_YOU_2": {
+        "timing": [
+          4307
+        ]
+      },
+      "JOKE_1": {
+        "timing": [
+          4049,
+          3228,
+          1170,
+          2550
+        ]
+      },
+      "JOKE_2": {
+        "timing": [
+          6416,
+          7648,
+          4458,
+          1210,
+          1481
+        ]
+      },
+      "YES_WE_ARE": {
+        "timing": [
+          5719
+        ]
+      }
+    },
+    "urquan": {
+      "HELLO_SAMATRA": {
+        "timing": [
+          8412,
+          5698,
+          6029,
+          5167
+        ]
+      },
+      "SENSE_EVIL": {
+        "timing": [
+          10445,
+          4817,
+          6299,
+          3665,
+          8562
+        ]
+      },
+      "INIT_URQUAN_WAKE_UP": {
+        "timing": [
+          9223
+        ]
+      },
+      "YOU_ARE_HERE": {
+        "timing": [
+          5268
+        ]
+      },
+      "HURTS_BECAUSE": {
+        "timing": [
+          6679
+        ]
+      },
+      "ABOUT_2_WEEKS": {
+        "timing": [
+          9854,
+          4016
+        ]
+      },
+      "WHAT_COMPULSION": {
+        "timing": [
+          2473,
+          2444
+        ]
+      },
+      "BAD_NEWS": {
+        "timing": [
+          4316,
+          5678,
+          5498,
+          7010,
+          8943,
+          11727,
+          5999
+        ]
+      },
+      "WHAT_FELT_LIKE": {
+        "timing": [
+          3174,
+          1663
+        ]
+      },
+      "STUPID_DEVIL": {
+        "timing": [
+          9573,
+          2674
+        ]
+      },
+      "SOUNDS_FAMILIAR": {
+        "timing": [
+          9604,
+          6699,
+          10636,
+          6940,
+          9463
+        ]
+      },
+      "MUST_EXPLAIN": {
+        "timing": [
+          7801,
+          9724,
+          4627,
+          9563,
+          7741,
+          9304,
+          8141,
+          4787
+        ]
+      },
+      "GOODBYE_AND_DIE_INIT_HYPNO": {
+        "timing": [
+          5248
+        ]
+      },
+      "SUBSEQUENT_URQUAN_WAKE_UP": {
+        "timing": [
+          5558,
+          4236,
+          5869
+        ]
+      },
+      "NO_UH_OH": {
+        "timing": [
+          9273,
+          8172
+        ]
+      },
+      "NO_STOP_MEETING": {
+        "timing": [
+          10585,
+          5208
+        ]
+      },
+      "GOODBYE_AND_DIE_SUB_HYPNO": {
+        "timing": [
+          6990
+        ]
+      },
+      "CAUGHT_YA": {
+        "timing": [
+          8192,
+          10845,
+          12278,
+          11406,
+          7491
+        ]
+      },
+      "INIT_FLEE_HUMAN": {
+        "timing": [
+          5378,
+          8122,
+          4717
+        ]
+      },
+      "SUBSEQUENT_FLEE_HUMAN": {
+        "timing": [
+          9954
+        ]
+      },
+      "FLEE_BECAUSE": {
+        "timing": [
+          6289,
+          9684,
+          2444,
+          10755,
+          7471
+        ]
+      },
+      "HAPPENS_NOW": {
+        "timing": [
+          10115,
+          9824
+        ]
+      },
+      "ABOUT_US": {
+        "timing": [
+          9784,
+          11917,
+          4907,
+          8853,
+          8042,
+          6689,
+          8172,
+          8042
+        ]
+      },
+      "SEND_MESSAGE": {
+        "timing": [
+          5748,
+          6399,
+          4827,
+          6249,
+          6570,
+          10164,
+          5478,
+          6640,
+          7580,
+          7772
+        ]
+      },
+      "INIT_HELLO": {
+        "timing": [
+          7221,
+          4446
+        ]
+      },
+      "SUBSEQUENT_HELLO_2": {
+        "timing": [
+          5848,
+          4357
+        ]
+      },
+      "DISOBEDIENCE_PUNISHED": {
+        "timing": [
+          5208,
+          5868
+        ]
+      },
+      "BAD_CHOICE": {
+        "timing": [
+          4367
+        ]
+      },
+      "GOOD_CHOICE": {
+        "timing": [
+          7721,
+          5588,
+          6119
+        ]
+      },
+      "URQUAN_STORY": {
+        "timing": [
+          7861,
+          9033,
+          8318,
+          12179,
+          7036,
+          11548,
+          11286,
+          9213,
+          10125,
+          9754,
+          6131,
+          10633,
+          5468,
+          4787,
+          11086,
+          6799,
+          5719,
+          8562,
+          8212,
+          8738,
+          10779,
+          8472,
+          6810,
+          13529,
+          7882,
+          12227,
+          12578,
+          8729
+        ]
+      },
+      "INDEPENDENCE_IS_BAD": {
+        "timing": [
+          6419
+        ]
+      },
+      "GENERAL_INFO_1": {
+        "timing": [
+          11357,
+          2413,
+          6590,
+          10605,
+          9293,
+          8893,
+          7331,
+          8462
+        ]
+      },
+      "GENERAL_INFO_2": {
+        "timing": [
+          7000,
+          3024,
+          7251,
+          8822,
+          2654,
+          5238
+        ]
+      },
+      "GENERAL_INFO_3": {
+        "timing": [
+          7681,
+          4867,
+          5127,
+          11106,
+          9754,
+          9934,
+          5699,
+          8352,
+          3615
+        ]
+      },
+      "GENERAL_INFO_4": {
+        "timing": [
+          6850,
+          8281,
+          7782,
+          4045,
+          9053,
+          8703,
+          8713,
+          7350,
+          14771
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          2500,
+          2500,
+          5500,
+          6000,
+          5000,
+          3500,
+          5000,
+          6000,
+          5500,
+          3500,
+          5000,
+          3500
+        ]
+      }
+    },
+    "vux": {
+      "ZEX_HELLO_1": {
+        "timing": [
+          4456,
+          10074,
+          6119,
+          7801,
+          6780,
+          4747
+        ]
+      },
+      "ZEX_HELLO_2": {
+        "timing": [
+          6900,
+          3134,
+          5358,
+          3285
+        ]
+      },
+      "ZEX_HELLO_3": {
+        "timing": [
+          2544
+        ]
+      },
+      "FIGHT_OR_TRADE_2": {
+        "timing": [
+          4035
+        ]
+      },
+      "MY_MENAGERIE": {
+        "timing": [
+          5838,
+          1352,
+          4136,
+          3845,
+          4907,
+          2845,
+          2353
+        ]
+      },
+      "NEED_NEW_CREATURE": {
+        "timing": [
+          6399,
+          7521,
+          4957,
+          4937,
+          5188,
+          3205,
+          7240,
+          3495,
+          6860
+        ],
+        "subclipTiming": [
+          [
+            6399,
+            7521,
+            4957,
+            4937
+          ],
+          [],
+          [
+            88,
+            3205,
+            7240,
+            3495,
+            6860
+          ]
+        ]
+      },
+      "ABOUT_CREATURE": {
+        "timing": [
+          4006,
+          4126,
+          1923,
+          4797,
+          4326,
+          4236,
+          4216,
+          6710,
+          7360,
+          3195,
+          4797,
+          2984
+        ],
+        "subclipTiming": [
+          [
+            4006,
+            4126,
+            1923,
+            4797,
+            4326,
+            4236,
+            4216,
+            6710
+          ],
+          [
+            4060
+          ],
+          [
+            95
+          ],
+          [
+            97,
+            2984
+          ]
+        ]
+      },
+      "CREATURE_AGAIN": {
+        "timing": [
+          4486,
+          4457,
+          7090,
+          6820,
+          3625,
+          5268,
+          3144
+        ],
+        "subclipTiming": [
+          [
+            4486,
+            4457,
+            7090
+          ],
+          [
+            4020
+          ],
+          [
+            42
+          ],
+          [
+            69,
+            3144
+          ]
+        ]
+      },
+      "GIVE_BEAST": {
+        "timing": [
+          8853,
+          4987,
+          4446
+        ]
+      },
+      "FOOL_AIEE0": {
+        "timing": [
+          6192,
+          2039,
+          5607,
+          6740,
+          7278,
+          6789,
+          6258,
+          5339,
+          5559,
+          6359
+        ]
+      },
+      "FOOL_AIEE1": {
+        "timing": [
+          3865,
+          2684,
+          3936,
+          2794,
+          5818,
+          4096,
+          5558,
+          6219,
+          5187,
+          1102
+        ]
+      },
+      "TRUST_1": {
+        "timing": [
+          5848
+        ]
+      },
+      "TRUST_2": {
+        "timing": [
+          4426,
+          5969
+        ]
+      },
+      "TRUST_3": {
+        "timing": [
+          3725,
+          3505,
+          4217,
+          4065,
+          3025,
+          4676,
+          5178
+        ]
+      },
+      "LIKE_YOU": {
+        "timing": [
+          5868
+        ]
+      },
+      "LIKE_BECAUSE": {
+        "timing": [
+          5178,
+          4426,
+          2714,
+          6279,
+          6509,
+          4667,
+          6319,
+          5017,
+          2884,
+          8202,
+          6910,
+          4006
+        ]
+      },
+      "CALL_ME_WHAT_YOU_WISH": {
+        "timing": [
+          3545,
+          4467,
+          4957,
+          5969,
+          6469,
+          5668,
+          6810,
+          7180,
+          4697
+        ]
+      },
+      "PRECURSOR_DEVICE": {
+        "timing": [
+          5458,
+          2664,
+          4727,
+          6890,
+          4056,
+          4296,
+          4727,
+          5748,
+          3385,
+          3795,
+          6209,
+          6319,
+          4907,
+          7110,
+          4327,
+          2573
+        ]
+      },
+      "YUP_LIED": {
+        "timing": [
+          2003,
+          5738,
+          4998
+        ]
+      },
+      "FIGHT_AGAIN": {
+        "timing": [
+          4286,
+          7711,
+          3395
+        ]
+      },
+      "HOMEWORLD_HELLO_1": {
+        "timing": [
+          5427,
+          6280,
+          5548
+        ]
+      },
+      "HOMEWORLD_HELLO_2": {
+        "timing": [
+          6169,
+          5477,
+          6620,
+          5978,
+          3746
+        ]
+      },
+      "HOMEWORLD_HELLO_3": {
+        "timing": [
+          4987,
+          4066,
+          4457,
+          2954
+        ]
+      },
+      "HOMEWORLD_HELLO_4": {
+        "timing": [
+          7771,
+          5368
+        ]
+      },
+      "SPACE_HELLO_1": {
+        "timing": [
+          6179,
+          3144
+        ]
+      },
+      "SPACE_HELLO_2": {
+        "timing": [
+          6309,
+          6300,
+          6158
+        ]
+      },
+      "SPACE_HELLO_3": {
+        "timing": [
+          4206,
+          4576,
+          4266,
+          4397
+        ]
+      },
+      "SPACE_HELLO_4": {
+        "timing": [
+          5488,
+          3144
+        ]
+      },
+      "URQUAN_SLAVES": {
+        "timing": [
+          3905,
+          2634,
+          4627,
+          4586,
+          3575,
+          4917,
+          3255,
+          2974,
+          1813
+        ]
+      },
+      "OLD_INSULT": {
+        "timing": [
+          2003,
+          4126,
+          1302,
+          5578,
+          4406,
+          6780,
+          6820,
+          6369
+        ]
+      },
+      "PROBABLY_NOT": {
+        "timing": [
+          6239,
+          4877
+        ]
+      },
+      "NOPE": {
+        "timing": [
+          4987
+        ]
+      },
+      "APOLOGIZE_IN_SPACE": {
+        "timing": [
+          4727,
+          3155,
+          5327
+        ]
+      },
+      "NOT_ACCEPTED_7": {
+        "timing": [
+          4536,
+          1562
+        ]
+      },
+      "NOT_ACCEPTED_8": {
+        "timing": [
+          2023,
+          4557
+        ]
+      },
+      "NOT_ACCEPTED_9": {
+        "timing": [
+          4327
+        ]
+      },
+      "TRUTH": {
+        "timing": [
+          7270,
+          4897,
+          8092,
+          4096,
+          5107,
+          6570,
+          9533,
+          5128,
+          4867,
+          4676,
+          6930,
+          3305,
+          4326,
+          7251
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_1": {
+        "timing": [
+          4917,
+          1402,
+          6500
+        ],
+        "subclipTiming": [
+          [
+            4867,
+            1402
+          ],
+          [
+            69
+          ]
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_2": {
+        "timing": [
+          3605
+        ]
+      },
+      "GENERAL_INFO_HOSTILE_4": {
+        "timing": [
+          4446
+        ],
+        "subclipTiming": [
+          [
+            4446
+          ],
+          []
+        ]
+      },
+      "NEVER_UGLY_HUMANS_1": {
+        "timing": [
+          4226,
+          3185
+        ]
+      },
+      "NEVER_UGLY_HUMANS_2": {
+        "timing": [
+          2834,
+          1863,
+          2553,
+          3575,
+          3225
+        ]
+      },
+      "NEVER_UGLY_HUMANS_3": {
+        "timing": [
+          4777,
+          7962,
+          3835
+        ]
+      },
+      "NEVER_UGLY_HUMANS_4": {
+        "timing": [
+          5247,
+          6109
+        ]
+      },
+      "GOODBYE_AND_DIE_HOSTILE_SPACE_1": {
+        "timing": [
+          3305
+        ]
+      },
+      "GOODBYE_AND_DIE_HOSTILE_SPACE_2": {
+        "timing": [
+          3005
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          4000,
+          2500,
+          4000,
+          4000,
+          6000
+        ]
+      }
+    },
+    "yehat": {
+      "HOMEWORLD_HELLO_1": {
+        "timing": [
+          4867,
+          3776
+        ]
+      },
+      "HOMEWORLD_HELLO_2": {
+        "timing": [
+          4286
+        ]
+      },
+      "GENERAL_INFO_HOMEWORLD_1": {
+        "timing": [
+          5328,
+          3615,
+          4176,
+          4236
+        ]
+      },
+      "GENERAL_INFO_HOMEWORLD_2": {
+        "timing": [
+          3755,
+          3005,
+          3805,
+          5298
+        ]
+      },
+      "ENEMY_MUST_DIE": {
+        "timing": [
+          4346,
+          3685,
+          4106,
+          4457,
+          4016,
+          4476
+        ]
+      },
+      "NO_HELP_ENEMY": {
+        "timing": [
+          2643,
+          4797,
+          6309
+        ]
+      },
+      "NO_INFO_FOR_ENEMY": {
+        "timing": [
+          5228,
+          5067,
+          4056,
+          3565
+        ]
+      },
+      "PKUNK_ABSORBED_ROYALIST": {
+        "timing": [
+          3818,
+          3399
+        ]
+      },
+      "HATE_PKUNK_ROYALIST": {
+        "timing": [
+          3884,
+          4610,
+          3369,
+          4808,
+          3691,
+          3118
+        ]
+      },
+      "GOODBYE_AND_DIE_HOMEWORLD": {
+        "timing": [
+          3375,
+          4756,
+          2594
+        ]
+      },
+      "SPACE_HELLO_1": {
+        "timing": [
+          1903,
+          3565,
+          5999,
+          4737,
+          2834,
+          4596
+        ]
+      },
+      "SPACE_HELLO_2": {
+        "timing": [
+          4496,
+          2284
+        ]
+      },
+      "SPACE_HELLO_3": {
+        "timing": [
+          3275,
+          3114
+        ]
+      },
+      "SPACE_HELLO_4": {
+        "timing": [
+          3805
+        ]
+      },
+      "GENERAL_INFO_SPACE_1": {
+        "timing": [
+          3345,
+          3284,
+          4347,
+          2353
+        ]
+      },
+      "GENERAL_INFO_SPACE_2": {
+        "timing": [
+          3822,
+          4410,
+          3379,
+          4379,
+          3879,
+          4738,
+          2900,
+          3519,
+          1480
+        ],
+        "subclipTiming": [
+          [
+            3622,
+            4210,
+            3279,
+            4879,
+            3879
+          ],
+          [
+            38,
+            3000,
+            3519,
+            1380
+          ]
+        ]
+      },
+      "GENERAL_INFO_SPACE_3": {
+        "timing": [
+          5483,
+          5959,
+          5149,
+          3810,
+          6068,
+          4019
+        ]
+      },
+      "GENERAL_INFO_SPACE_4": {
+        "timing": [
+          5771
+        ]
+      },
+      "WE_CANNOT_1": {
+        "timing": [
+          5778,
+          2935
+        ]
+      },
+      "WE_CANNOT_2": {
+        "timing": [
+          3345,
+          3545,
+          3805,
+          4857
+        ]
+      },
+      "SORRY_CANNOT": {
+        "timing": [
+          1452
+        ]
+      },
+      "HERES_A_HINT": {
+        "timing": [
+          4077,
+          5238,
+          3869,
+          4720,
+          6237,
+          9198,
+          4579,
+          2070,
+          3809,
+          5528
+        ],
+        "subclipTiming": [
+          [
+            4077,
+            5238,
+            3869,
+            4320,
+            5837
+          ],
+          [
+            42,
+            4779,
+            2070,
+            3809,
+            5528
+          ]
+        ]
+      },
+      "PKUNK_ABSORBED_SPACE": {
+        "timing": [
+          4796,
+          4086
+        ]
+      },
+      "HATE_PKUNK_SPACE": {
+        "timing": [
+          4704,
+          2989,
+          4049,
+          2819
+        ]
+      },
+      "GO_IN_PEACE": {
+        "timing": [
+          3415
+        ]
+      },
+      "GOODBYE_AND_DIE_SPACE": {
+        "timing": [
+          4286
+        ]
+      },
+      "SEND_HIM_OVER_1": {
+        "timing": [
+          3675,
+          4166,
+          2724
+        ]
+      },
+      "SEND_HIM_OVER_2": {
+        "timing": [
+          5098
+        ]
+      },
+      "JUST_A_TRICK_1": {
+        "timing": [
+          3986,
+          5448
+        ]
+      },
+      "JUST_A_TRICK_2": {
+        "timing": [
+          1502
+        ]
+      },
+      "WE_REVOLT": {
+        "timing": [
+          3885,
+          4176,
+          2524,
+          4126,
+          3074,
+          4006,
+          4026,
+          4206,
+          6900,
+          3104,
+          3445,
+          5869,
+          6719,
+          7551,
+          2714,
+          6930,
+          2614,
+          3565,
+          6119,
+          3254,
+          4257
+        ]
+      },
+      "ROYALIST_SPACE_HELLO_1": {
+        "timing": [
+          6479,
+          3906,
+          4256,
+          4466,
+          3886,
+          4256
+        ]
+      },
+      "ROYALIST_SPACE_HELLO_2": {
+        "timing": [
+          6199
+        ]
+      },
+      "ROYALIST_HOMEWORLD_HELLO_1": {
+        "timing": [
+          4767,
+          6118
+        ]
+      },
+      "ROYALIST_HOMEWORLD_HELLO_2": {
+        "timing": [
+          2173,
+          4336
+        ]
+      },
+      "ROYALIST_REBELLION_1": {
+        "timing": [
+          5238,
+          6970,
+          5047
+        ]
+      },
+      "ALL_YOUR_FAULT": {
+        "timing": [
+          8272
+        ]
+      },
+      "OUT_TAKES": {
+        "timing": [
+          6000,
+          3000,
+          2500,
+          2750,
+          7000,
+          6000
+        ]
+      }
+    },
+    "yehatrebels": {
+      "REBEL_HELLO_1": {
+        "timing": [
+          2694
+        ]
+      },
+      "REBEL_HELLO_2": {
+        "timing": [
+          2053,
+          4286
+        ]
+      },
+      "REBEL_HELLO_3": {
+        "timing": [
+          1862,
+          4026
+        ]
+      },
+      "REBEL_REVOLUTION_1": {
+        "timing": [
+          4146
+        ]
+      },
+      "REBEL_REVOLUTION_2": {
+        "timing": [
+          6519,
+          6299,
+          1643
+        ]
+      },
+      "REBEL_REVOLUTION_3": {
+        "timing": [
+          5218
+        ]
+      },
+      "REBEL_REVOLUTION_4": {
+        "timing": [
+          4547
+        ]
+      },
+      "HAVE_ALL_SHIPS": {
+        "timing": [
+          2193
+        ]
+      },
+      "HAVE_FEW_SHIPS": {
+        "timing": [
+          2153,
+          4356
+        ]
+      },
+      "NO_SHIPS_YET": {
+        "timing": [
+          4817
+        ]
+      },
+      "ABOUT_ROYALTY": {
+        "timing": [
+          2484,
+          5858,
+          5398,
+          5738,
+          5729,
+          4136,
+          5417,
+          6860,
+          4347,
+          5898,
+          5017,
+          4647,
+          3715,
+          5528,
+          4136,
+          5148,
+          4596,
+          4937,
+          2574,
+          2844,
+          5047,
+          6610,
+          6018,
+          5318
+        ]
+      },
+      "ABOUT_WAR": {
+        "timing": [
+          2373,
+          5869,
+          5327,
+          4967,
+          6700,
+          3826,
+          5718,
+          5227,
+          2774,
+          1352,
+          8172,
+          4236,
+          3075,
+          4626,
+          2634,
+          3715,
+          5268
+        ],
+        "subclipTiming": [
+          [
+            2373,
+            5869,
+            5327
+          ],
+          [
+            67,
+            6700,
+            3826,
+            5718,
+            5227,
+            2774,
+            1352,
+            8172,
+            4336,
+            2975,
+            4676,
+            2834,
+            3715,
+            5268
+          ]
+        ]
+      },
+      "ABOUT_URQUAN": {
+        "timing": [
+          4657,
+          5057,
+          5548,
+          3866,
+          3886,
+          4416,
+          5999,
+          6148,
+          5398,
+          3495,
+          4997,
+          5749,
+          4556,
+          4126,
+          5298,
+          3965,
+          3045,
+          3214,
+          3515,
+          3365,
+          3916
+        ]
+      },
+      "ABOUT_VUX": {
+        "timing": [
+          5659,
+          4005,
+          3435,
+          4747,
+          6109,
+          4657,
+          4797,
+          4336,
+          7621
+        ],
+        "subclipTiming": [
+          [
+            5659,
+            4005,
+            3335,
+            4847,
+            6109,
+            4657,
+            4997,
+            4236
+          ],
+          [
+            421
+          ]
+        ]
+      },
+      "ABOUT_CLUE": {
+        "timing": [
+          5538,
+          3154,
+          3976,
+          2353,
+          3916,
+          7741,
+          4126,
+          4286,
+          3465,
+          6960
+        ]
+      },
+      "YEHAT_CAVALRY": {
+        "timing": [
+          5189,
+          3863,
+          5182,
+          5109,
+          3068,
+          5350,
+          2138,
+          3130,
+          2749,
+          4439,
+          5989,
+          5288,
+          6239
+        ]
+      },
+      "PKUNK_ABSORBED_REBEL": {
+        "timing": [
+          3818,
+          3399
+        ]
+      },
+      "HATE_PKUNK_REBEL": {
+        "timing": [
+          3884,
+          4610,
+          3369,
+          4808,
+          3691,
+          3118
+        ]
+      }
+    },
+    "zoqfotpik": {
+      "WE_ARE0": {
+        "timing": [
+          1833
+        ]
+      },
+      "SCOUT_HELLO0": {
+        "timing": [
+          1803
+        ]
+      },
+      "SCOUT_HELLO1": {
+        "timing": [
+          1553,
+          2293,
+          1172,
+          3034
+        ],
+        "subclipTiming": [
+          [
+            1553,
+            2293,
+            1172
+          ],
+          [
+            1634
+          ]
+        ]
+      },
+      "SCOUT_HELLO3": {
+        "timing": [
+          1998
+        ],
+        "subclipTiming": [
+          [
+            1598
+          ],
+          []
+        ]
+      },
+      "HE_IS6": {
+        "timing": [
+          981
+        ]
+      },
+      "WE_GLAD0": {
+        "timing": [
+          921
+        ]
+      },
+      "WE_GLAD2": {
+        "timing": [
+          2173
+        ]
+      },
+      "WE_GLAD3": {
+        "timing": [
+          1663
+        ]
+      },
+      "WE_GLAD4": {
+        "timing": [
+          1472,
+          1922,
+          3636
+        ]
+      },
+      "YEARS_AGO6": {
+        "timing": [
+          4016
+        ]
+      },
+      "YEARS_AGO11": {
+        "timing": [
+          3799,
+          1689,
+          940
+        ]
+      },
+      "YEARS_AGO12": {
+        "timing": [
+          2514,
+          1121
+        ]
+      },
+      "TRAVELED_FAR5": {
+        "timing": [
+          2694
+        ]
+      },
+      "UNDER_ATTACK3": {
+        "timing": [
+          2955
+        ]
+      },
+      "UNDER_ATTACK7": {
+        "timing": [
+          3095,
+          3765
+        ]
+      },
+      "NOT_HELPFUL2": {
+        "timing": [
+          2874
+        ]
+      },
+      "LOOK_LIKE0": {
+        "timing": [
+          2954
+        ]
+      },
+      "LOOK_LIKE1": {
+        "timing": [
+          2444
+        ]
+      },
+      "LOOK_LIKE3": {
+        "timing": [
+          2984
+        ]
+      },
+      "GOODBYE2": {
+        "timing": [
+          2223
+        ]
+      },
+      "GOODBYE3": {
+        "timing": [
+          3535
+        ]
+      },
+      "SEE_TOLD_YOU1": {
+        "timing": [
+          2393
+        ]
+      },
+      "SEE_TOLD_YOU3": {
+        "timing": [
+          3696,
+          2333,
+          1753
+        ]
+      },
+      "ALLY_WITH_US0": {
+        "timing": [
+          1882,
+          2153
+        ]
+      },
+      "ALLY_WITH_US1": {
+        "timing": [
+          2393
+        ]
+      },
+      "ALLY_WITH_US2": {
+        "timing": [
+          2724,
+          2254
+        ]
+      },
+      "ALLY_WITH_US3": {
+        "timing": [
+          3866
+        ]
+      },
+      "ALLY_WITH_US5": {
+        "timing": [
+          1733,
+          1933
+        ]
+      },
+      "PLEASE_HURRY0": {
+        "timing": [
+          3275
+        ]
+      },
+      "EMMISSARIES2": {
+        "timing": [
+          2584
+        ]
+      },
+      "EMMISSARIES4": {
+        "timing": [
+          2334,
+          1952
+        ]
+      },
+      "EMMISSARIES6": {
+        "timing": [
+          3044
+        ],
+        "subclipTiming": [
+          [],
+          [
+            44
+          ]
+        ]
+      },
+      "WE_ALLY4": {
+        "timing": [
+          3635
+        ]
+      },
+      "WE_ALLY5": {
+        "timing": [
+          1402,
+          2673,
+          3486,
+          2053,
+          1923
+        ]
+      },
+      "WE_ENEMIES0": {
+        "timing": [
+          2393,
+          3055,
+          2984,
+          3395,
+          2403,
+          3515
+        ]
+      },
+      "WE_ENEMIES1": {
+        "timing": [
+          891
+        ]
+      },
+      "HOSTILE_HELLO_10": {
+        "timing": [
+          1892
+        ]
+      },
+      "HOSTILE_HELLO_11": {
+        "timing": [
+          741
+        ]
+      },
+      "HOSTILE_HELLO_24": {
+        "timing": [
+          2294
+        ]
+      },
+      "HOSTILE_HELLO_30": {
+        "timing": [
+          2224
+        ]
+      },
+      "HOSTILE_HELLO_40": {
+        "timing": [
+          2794
+        ]
+      },
+      "HOSTILE_HELLO_41": {
+        "timing": [
+          2774
+        ]
+      },
+      "NEUTRAL_HOME_HELLO_12": {
+        "timing": [
+          1763,
+          2033
+        ]
+      },
+      "NEUTRAL_HOME_HELLO_13": {
+        "timing": [
+          2243
+        ]
+      },
+      "NEUTRAL_HOME_HELLO_23": {
+        "timing": [
+          2023
+        ]
+      },
+      "ALLIED_HOME_HELLO_23": {
+        "timing": [
+          2814,
+          2464
+        ]
+      },
+      "ALLIED_HOME_HELLO_26": {
+        "timing": [
+          1883
+        ]
+      },
+      "ALLIED_HOME_HELLO_27": {
+        "timing": [
+          2644
+        ]
+      },
+      "ALLIED_HOME_HELLO_30": {
+        "timing": [
+          1412
+        ]
+      },
+      "ALLIED_HOME_HELLO_40": {
+        "timing": [
+          1452
+        ]
+      },
+      "THANKS_FOR_RESCUE0": {
+        "timing": [
+          1882
+        ]
+      },
+      "THANKS_FOR_RESCUE2": {
+        "timing": [
+          2914,
+          3114
+        ]
+      },
+      "THANKS_FOR_RESCUE4": {
+        "timing": [
+          2373
+        ]
+      },
+      "THANKS_FOR_RESCUE6": {
+        "timing": [
+          3104
+        ]
+      },
+      "THANKS_FOR_RESCUE7": {
+        "timing": [
+          3184,
+          3225,
+          1322,
+          3605
+        ]
+      },
+      "THANKS_FOR_RESCUE8": {
+        "timing": [
+          3075,
+          2523
+        ]
+      },
+      "THANKS_FOR_RESCUE10": {
+        "timing": [
+          2734,
+          2303,
+          2214,
+          2643
+        ]
+      },
+      "GENERAL_INFO_12": {
+        "timing": [
+          1973,
+          1862,
+          1412
+        ]
+      },
+      "GENERAL_INFO_20": {
+        "timing": [
+          1762
+        ]
+      },
+      "GENERAL_INFO_22": {
+        "timing": [
+          2543
+        ]
+      },
+      "GENERAL_INFO_24": {
+        "timing": [
+          2043
+        ]
+      },
+      "GENERAL_INFO_25": {
+        "timing": [
+          1963
+        ]
+      },
+      "GENERAL_INFO_27": {
+        "timing": [
+          1392
+        ]
+      },
+      "GENERAL_INFO_30": {
+        "timing": [
+          2293,
+          2113
+        ]
+      },
+      "GENERAL_INFO_31": {
+        "timing": [
+          2494
+        ]
+      },
+      "GENERAL_INFO_32": {
+        "timing": [
+          2163
+        ]
+      },
+      "GENERAL_INFO_34": {
+        "timing": [
+          2293
+        ],
+        "subclipTiming": [
+          [
+            2493
+          ],
+          []
+        ]
+      },
+      "GENERAL_INFO_35": {
+        "timing": [
+          1211
+        ]
+      },
+      "GENERAL_INFO_40": {
+        "timing": [
+          2294,
+          2143
+        ]
+      },
+      "GENERAL_INFO_42": {
+        "timing": [
+          1743,
+          2063,
+          1762
+        ]
+      },
+      "GENERAL_INFO_43": {
+        "timing": [
+          2021,
+          2305,
+          2303,
+          3255
+        ]
+      },
+      "GENERAL_INFO_44": {
+        "timing": [
+          2634
+        ]
+      },
+      "GENERAL_INFO_45": {
+        "timing": [
+          1923
+        ]
+      },
+      "GENERAL_INFO_410": {
+        "timing": [
+          2323,
+          2604
+        ],
+        "subclipTiming": [
+          [
+            2233,
+            2604
+          ],
+          []
+        ]
+      },
+      "UTWIG_DELAY0": {
+        "timing": [
+          2294
+        ],
+        "subclipTiming": [
+          [
+            2294
+          ],
+          []
+        ]
+      },
+      "UTWIG_DELAY2": {
+        "timing": [
+          2784
+        ],
+        "subclipTiming": [
+          [
+            2784
+          ],
+          []
+        ]
+      },
+      "UTWIG_DELAY3": {
+        "timing": [
+          2804
+        ]
+      },
+      "UTWIG_DELAY6": {
+        "timing": [
+          3705
+        ]
+      },
+      "UTWIG_DELAY8": {
+        "timing": [
+          1762
+        ]
+      },
+      "UTWIG_DELAY12": {
+        "timing": [
+          3455,
+          2414
+        ]
+      },
+      "KOHRAH_WINNING0": {
+        "timing": [
+          2734
+        ]
+      },
+      "KOHRAH_WINNING2": {
+        "timing": [
+          3074,
+          3355
+        ]
+      },
+      "KOHRAH_WINNING5": {
+        "timing": [
+          2945
+        ]
+      },
+      "KOHRAH_WINNING8": {
+        "timing": [
+          3285,
+          2263
+        ]
+      },
+      "KOHRAH_WINNING9": {
+        "timing": [
+          2865
+        ]
+      },
+      "URQUAN_NEARLY_GONE2": {
+        "timing": [
+          1552,
+          1973
+        ]
+      },
+      "URQUAN_NEARLY_GONE4": {
+        "timing": [
+          2924,
+          2724,
+          2764
+        ]
+      },
+      "KOHRAH_FRENZY3": {
+        "timing": [
+          3145
+        ]
+      },
+      "KOHRAH_FRENZY4": {
+        "timing": [
+          2313,
+          3004
+        ]
+      },
+      "KOHRAH_FRENZY6": {
+        "timing": [
+          1752,
+          1743,
+          2644
+        ],
+        "subclipTiming": [
+          [
+            1752,
+            1743,
+            2644
+          ],
+          []
+        ]
+      },
+      "KOHRAH_FRENZY8": {
+        "timing": [
+          2073,
+          2614,
+          2183
+        ]
+      },
+      "KOHRAH_FRENZY10": {
+        "timing": [
+          2453
+        ]
+      },
+      "GOOD6": {
+        "timing": [
+          4767
+        ]
+      },
+      "GOOD8": {
+        "timing": [
+          2994
+        ]
+      },
+      "GOOD9": {
+        "timing": [
+          1212,
+          2493,
+          2764,
+          2203,
+          2023
+        ]
+      },
+      "ABOUT_OTHERS6": {
+        "timing": [
+          2684,
+          2353
+        ]
+      },
+      "ABOUT_OTHERS8": {
+        "timing": [
+          3665,
+          2113
+        ]
+      },
+      "ABOUT_OTHERS10": {
+        "timing": [
+          1652
+        ]
+      },
+      "ABOUT_OTHERS11": {
+        "timing": [
+          4788,
+          2160,
+          2349,
+          1860,
+          2119
+        ]
+      },
+      "ABOUT_OTHERS12": {
+        "timing": [
+          2814,
+          1712,
+          1392,
+          1392
+        ],
+        "subclipTiming": [
+          [
+            2814,
+            1712,
+            1292
+          ],
+          [
+            92
+          ],
+          []
+        ]
+      },
+      "ABOUT_ZEBRANKY2": {
+        "timing": [
+          3535
+        ]
+      },
+      "ABOUT_ZEBRANKY3": {
+        "timing": [
+          3054,
+          3105,
+          2894,
+          3815,
+          2494
+        ]
+      },
+      "ABOUT_ZEBRANKY4": {
+        "timing": [
+          3244,
+          3115
+        ]
+      },
+      "ABOUT_ZEBRANKY5": {
+        "timing": [
+          4096
+        ]
+      },
+      "ABOUT_ZEBRANKY6": {
+        "timing": [
+          2734,
+          1552,
+          2373
+        ]
+      },
+      "ABOUT_PAST0": {
+        "timing": [
+          4106
+        ]
+      },
+      "ABOUT_PAST1": {
+        "timing": [
+          2814
+        ]
+      },
+      "ABOUT_PAST2": {
+        "timing": [
+          2674
+        ]
+      },
+      "ABOUT_PAST3": {
+        "timing": [
+          2904,
+          2163
+        ]
+      },
+      "ABOUT_PAST4": {
+        "timing": [
+          2965
+        ]
+      },
+      "ABOUT_PAST5": {
+        "timing": [
+          7511,
+          4797,
+          3164
+        ]
+      },
+      "ABOUT_PAST6": {
+        "timing": [
+          2554,
+          4496,
+          4236
+        ]
+      },
+      "ABOUT_PAST7": {
+        "timing": [
+          3686,
+          4817
+        ]
+      },
+      "ABOUT_PAST8": {
+        "timing": [
+          2684
+        ]
+      },
+      "ABOUT_PAST9": {
+        "timing": [
+          1432,
+          5138
+        ]
+      },
+      "ABOUT_PAST10": {
+        "timing": [
+          2754,
+          1763,
+          4196
+        ]
+      },
+      "ABOUT_STINGER2": {
+        "timing": [
+          2103
+        ]
+      },
+      "ABOUT_STINGER3": {
+        "timing": [
+          1812
+        ]
+      },
+      "ABOUT_STINGER4": {
+        "timing": [
+          2463,
+          2554,
+          2123
+        ]
+      },
+      "OUT_TAKES1": {
+        "timing": [
+          3500
+        ]
+      },
+      "OUT_TAKES4": {
+        "timing": [
+          3500,
+          4000
+        ]
+      }
+    }
+  }
+}

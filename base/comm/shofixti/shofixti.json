@@ -1,0 +1,701 @@
+{
+  "version": 1,
+  "conversation": "shofixti",
+  "lines": [
+    {
+      "id": "name_1",
+      "text": [
+        "The New Alliance of Free Stars"
+      ]
+    },
+    {
+      "id": "name_2",
+      "text": [
+        "The Concordance of Alien Nations"
+      ]
+    },
+    {
+      "id": "name_3",
+      "text": [
+        "The United Federation of Worlds"
+      ]
+    },
+    {
+      "id": "name_4",
+      "text": [
+        "The Empire of <% state.sis.getCaptainName() %>"
+      ]
+    },
+    {
+      "id": "tanaka",
+      "clip": "shofixti-000.ogg",
+      "text": [
+        "Tanaka"
+      ]
+    },
+    {
+      "id": "katana",
+      "clip": "shofixti-001.ogg",
+      "text": [
+        "Katana"
+      ]
+    },
+    {
+      "id": "HOSTILE_KATANA_1",
+      "clip": "shofixti-002.ogg",
+      "text": [
+        "I, Katana the Warrior, have travelled for long years through space, finally to come home",
+        "only to witness you blasting my brother to atoms!",
+        "Now you die!"
+      ]
+    },
+    {
+      "id": "HOSTILE_KATANA_2",
+      "clip": "shofixti-003.ogg",
+      "text": [
+        "The Ur-Quan has returned! How unusually brave",
+        "for a leprous, non-functional sex organ, like yourself."
+      ]
+    },
+    {
+      "id": "HOSTILE_KATANA_3",
+      "clip": "shofixti-004.ogg",
+      "text": [
+        "Evil murderer, you think to taunt me.",
+        "Ha! And again I say, Ha!",
+        "I have faced far worse than you",
+        "You pitiful imitation of six-weeks dead Dhrang!"
+      ]
+    },
+    {
+      "id": "HOSTILE_KATANA_4",
+      "clip": "shofixti-005.ogg",
+      "text": [
+        "I swear by the hero, Daikon, this time I will kill you."
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_1",
+      "clip": "shofixti-006.ogg",
+      "text": [
+        "Attention huge alien vessel!",
+        "Though most of my sensory instruments are malfunctioning",
+        "my mass indicator shows the huge size of your vessel",
+        "revealing you are none other",
+        "than a disgusting Ur-Quan slimewad!",
+        "I am the glorious Shofixti warrior Tanaka.",
+        "You killed my father... my mother... my many brothers",
+        "all six of my sisters",
+        "in fact, my entire species.",
+        "Prepare to die!"
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_2",
+      "clip": "shofixti-007.ogg",
+      "text": [
+        "Ah, so the cowardly slug-spawn has returned!",
+        "You were most fortunate last time, you hideous, pouchless freak!",
+        "But this time I shall surely destroy your vessel",
+        "you slithering eater of putrid hairballs!"
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_3",
+      "clip": "shofixti-008.ogg",
+      "text": [
+        "I see you're back for even more humiliation, you flatulent, Ur-Quan pus-cup."
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_4",
+      "clip": "shofixti-009.ogg",
+      "text": [
+        "I'll kill you this time you pitiful, weakling fancier of herd animal excrement!"
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_5",
+      "clip": "shofixti-010.ogg",
+      "text": [
+        "I'll kill you this time you pitiful, weakling fancier of herd animal excrement!"
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_6",
+      "clip": "shofixti-011.ogg",
+      "text": [
+        "I'll kill you this time you pitiful, weakling fancier of herd animal excrement!"
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_7",
+      "clip": "shofixti-012.ogg",
+      "text": [
+        "I'll kill you this time you pitiful, weakling fancier of herd animal excrement!"
+      ]
+    },
+    {
+      "id": "HOSTILE_TANAKA_8",
+      "clip": "shofixti-013.ogg",
+      "text": [
+        "I'll kill you this time you pitiful, weakling fancier of herd animal excrement!"
+      ]
+    },
+    {
+      "id": "dont_attack",
+      "text": [
+        "Don't attack -- we're not the Ur-Quan! We're your allies!"
+      ]
+    },
+    {
+      "id": "TYPICAL_PLOY",
+      "clip": "shofixti-014.ogg",
+      "text": [
+        "A typical Ur-Quan gambit... which has failed.",
+        "And now I howl the scream of death!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "hey_stop",
+      "text": [
+        "Hey, stop shooting! Someone could get hurt!"
+      ]
+    },
+    {
+      "id": "ONLY_STOP",
+      "clip": "shofixti-015.ogg",
+      "text": [
+        "I will only stop when you are dead!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "look_you_are",
+      "text": [
+        "Look, you're getting me REALLY pissed-off!  Stop attacking and talk!"
+      ]
+    },
+    {
+      "id": "TOO_BAD",
+      "clip": "shofixti-016.ogg",
+      "text": [
+        "Too bad.",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "dont_know",
+      "text": [
+        "Don't you know the war is over?"
+      ]
+    },
+    {
+      "id": "NEVER",
+      "clip": "shofixti-017.ogg",
+      "text": [
+        "For me it will never be over!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "look0",
+      "text": [
+        "Look "
+      ]
+    },
+    {
+      "id": "look1",
+      "text": [
+        ", the war is over -- really!"
+      ]
+    },
+    {
+      "id": "FOR_YOU",
+      "clip": "shofixti-018.ogg",
+      "text": [
+        "For you perhaps, fat cowardly lard-log!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "no_bloodshed",
+      "text": [
+        "There is no point in further bloodshed."
+      ]
+    },
+    {
+      "id": "YES_BLOODSHED",
+      "clip": "shofixti-019.ogg",
+      "text": [
+        "Oh yes there is!",
+        "When you have shed enough blood, You Will Die!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "dont_want_to_fight",
+      "text": [
+        "Gee, if that's the way you feel, then I'll be on my way."
+      ]
+    },
+    {
+      "id": "MUST_FIGHT_YOU_URQUAN_1",
+      "clip": "shofixti-020.ogg",
+      "text": [
+        "Oh no you don't!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "MUST_FIGHT_YOU_URQUAN_2",
+      "clip": "shofixti-021.ogg",
+      "text": [
+        "Oh no you don't!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "MUST_FIGHT_YOU_URQUAN_3",
+      "clip": "shofixti-022.ogg",
+      "text": [
+        "Oh no you don't!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "MUST_FIGHT_YOU_URQUAN_4",
+      "clip": "shofixti-023.ogg",
+      "text": [
+        "Oh no you don't!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "no_one_insults",
+      "text": [
+        "No one insults us like that you toothless, piebald, impotent roof-rabbit!"
+      ]
+    },
+    {
+      "id": "YOU_LIMP",
+      "clip": "shofixti-024.ogg",
+      "text": [
+        "You limp, bloodless sack of decaying flesh Ur-Quan! You die!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "mighty_words",
+      "text": [
+        "Those are mighty words from a dripping, snout-rotted little furball!"
+      ]
+    },
+    {
+      "id": "HANG_YOUR",
+      "clip": "shofixti-025.ogg",
+      "text": [
+        "I will hang your withered reproductive organs from my posterior monitor!",
+        "Kyaiee!"
+      ]
+    },
+    {
+      "id": "donkey_breath",
+      "text": [
+        "Look donkey breath - one more insult and it's vapor city for you!"
+      ]
+    },
+    {
+      "id": "DGRUNTI",
+      "clip": "shofixti-026.ogg",
+      "text": [
+        "Why you wallowing, phlegm-filled Dgrunti belly-licker, you",
+        "hey",
+        "Ur-Quans never insulted me before!",
+        "Who did you say you were?"
+      ]
+    },
+    {
+      "id": "i_am_captain",
+      "text": [
+        "I am Captain <% state.sis.getCaptainName() %> from the <% comm.getPhrase(\"name_\" .. (state.prop.get(\"NEW_ALLIANCE_NAME\") + 1)) %> aboard the flagship <% state.sis.getShipName() %>. Cease aggression immediately!"
+      ]
+    },
+    {
+      "id": "i_am_nice",
+      "text": [
+        "I am the nice, friendly ally WHO YOU'VE BEEN TRYING TO KILL -- YOU IDIOT, MORON RATHEAD!"
+      ]
+    },
+    {
+      "id": "i_am_guy",
+      "text": [
+        "I am the guy who called you donkey-breath, you violent little varmint."
+      ]
+    },
+    {
+      "id": "SO_SORRY",
+      "clip": "shofixti-027.ogg",
+      "text": [
+        "Oh. I am sorriest",
+        "I must be reprimanded.",
+        "When we report back to Star Control..."
+      ]
+    },
+    {
+      "id": "MUST_UNDERSTAND",
+      "clip": "shofixti-028.ogg",
+      "text": [
+        "Hyai! What a fool I am!",
+        "When you failed to launch fighter craft, I should have guessed.",
+        "Just one of those mistakes you make in war..."
+      ]
+    },
+    {
+      "id": "NICE_BUT_WHAT_IS_DONKEY",
+      "clip": "shofixti-029.ogg",
+      "text": [
+        "Ah, Earth humor! Very funny! Ha-ha-ha!",
+        "But what is don..."
+      ]
+    },
+    {
+      "id": "IS_DEFEAT_TRUE",
+      "clip": "shofixti-030.ogg",
+      "text": [
+        "Suddenly your words ring in my ears.",
+        "Captain, is this true? Have the Ur-Quan been destroyed?",
+        "Has the ultimate sacrifice of my people resulted in freedom for the Alliance?"
+      ]
+    },
+    {
+      "id": "yes_and_no",
+      "text": [
+        "Well yes AND no... mostly no."
+      ]
+    },
+    {
+      "id": "butt_blasted",
+      "text": [
+        "I'm sorry to be the one to tell you, but the Alliance got its butt blasted."
+      ]
+    },
+    {
+      "id": "clobbered",
+      "text": [
+        "Er... maybe we should talk about this later."
+      ]
+    },
+    {
+      "id": "VERY_SAD_KILL_SELF",
+      "clip": "shofixti-031.ogg",
+      "text": [
+        "HYAIEEE!",
+        "I am a defeated warrior! A worthless shell!",
+        "I must die!!!!"
+      ]
+    },
+    {
+      "id": "important_duty",
+      "text": [
+        "No, wait, Shofixti! I have an important duty for you to perform."
+      ]
+    },
+    {
+      "id": "WHAT_DUTY",
+      "clip": "shofixti-032.ogg",
+      "text": [
+        "What might that be?"
+      ]
+    },
+    {
+      "id": "need_you_for_duty",
+      "text": [
+        "Shofixti, I am now your new commander. I order you not to kill yourself. Instead, join our fleet. Fight with us!"
+      ]
+    },
+    {
+      "id": "OK_WILL_BE_SENTRY",
+      "clip": "shofixti-033.ogg",
+      "text": [
+        "To fight again? Against the UR-QUAN!?",
+        "YES!!...  But no.",
+        "I cannot leave my homeworld unguarded. I will remain here and keep a solitary vigil.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "dont_do_it",
+      "text": [
+        "Don't do it, old Warrior! You still have much to live for!"
+      ]
+    },
+    {
+      "id": "YES_I_DO_IT",
+      "clip": "shofixti-034.ogg",
+      "text": [
+        "Like what?!",
+        "My race is dead. My world is an airless rock. And I've seen all my FunRoms at least a hundred times.",
+        "My life is over.",
+        "I have already picked out a nice asteroid to smash into",
+        "so if you don't mind, I'll just go and kill myself.",
+        "Unless you want to annihilate me yourself."
+      ]
+    },
+    {
+      "id": "go_ahead",
+      "text": [
+        "Fine. Go ahead. Kill yourself, you violent little weasel."
+      ]
+    },
+    {
+      "id": "ON_SECOND_THOUGHT",
+      "clip": "shofixti-035.ogg",
+      "text": [
+        "Wait! I have had a sudden realization!",
+        "If you are here, in such an amazing ship",
+        "that means there is yet hope to defeat the evil Ur-Quan pus-dogs!",
+        "A sudden exhilaration sweeps through my old body",
+        "I have changed my mind, Captain! I will not smash myself into an asteroid",
+        "instead, I will wait here, and when the time comes, Captain",
+        "when you have found the duty that only I can perform",
+        "I will be waiting here... eager to help you."
+      ]
+    },
+    {
+      "id": "procreating_wildly",
+      "text": [
+        "What would you think about procreating wildly?"
+      ]
+    },
+    {
+      "id": "replenishing_your_species",
+      "text": [
+        "I can give you the opportunity to replenish your species."
+      ]
+    },
+    {
+      "id": "hope_you_have",
+      "text": [
+        "Shofixti, I have something a lot better than FunRoms. Are you interested?"
+      ]
+    },
+    {
+      "id": "SOUNDS_GREAT_BUT_HOW",
+      "clip": "shofixti-036.ogg",
+      "text": [
+        "I am intrigued, Captain, but what are you talking about?"
+      ]
+    },
+    {
+      "id": "females",
+      "text": [
+        "We have obtained females of your species."
+      ]
+    },
+    {
+      "id": "nubiles",
+      "text": [
+        "We can make available a bevy of fecund Shofixti nubiles."
+      ]
+    },
+    {
+      "id": "rat_babes",
+      "text": [
+        "What would you say to rat-babes galore?"
+      ]
+    },
+    {
+      "id": "LEAPING_HAPPINESS",
+      "clip": "shofixti-037.ogg",
+      "text": [
+        "Great leaping mounds of happiness!",
+        "You shall be honored forever, Captain, as the savior of the Shofixti race!",
+        "I have been granted the ultimate reward, er..  duty.",
+        "This humble warrior will take the Shofixti maidens you possess",
+        "gently wake them",
+        "and then perform ribald feats of unsurpassed fertility!",
+        "With their consent, of course.",
+        "Our people shall be reborn!",
+        "Your name shall be recorded in our most sacred writings for all time!",
+        "Thank you Captain, and farewell... I have urgent business to attend to."
+      ]
+    },
+    {
+      "id": "bye0",
+      "text": [
+        "Farewell "
+      ]
+    },
+    {
+      "id": "bye1",
+      "text": [
+        "."
+      ]
+    },
+    {
+      "id": "GOODBYE0",
+      "text": [
+        "Goodbye Captain "
+      ]
+    },
+    {
+      "id": "GOODBYE1",
+      "text": [
+        "."
+      ]
+    },
+    {
+      "id": "why_here0",
+      "text": [
+        "So what were you doing here "
+      ]
+    },
+    {
+      "id": "why_here1",
+      "text": [
+        "?"
+      ]
+    },
+    {
+      "id": "I_GUARD",
+      "clip": "shofixti-038.ogg",
+      "text": [
+        "I guard the homeworld. I seek revenge against its destroyers, the Ur-Quan and their",
+        "vile battle thralls. I await the return of the hero Daikon and the rebirth of my species."
+      ]
+    },
+    {
+      "id": "where_world",
+      "text": [
+        "Where is your life-filled homeworld, Kyabetsu?"
+      ]
+    },
+    {
+      "id": "BLEW_IT_UP",
+      "clip": "shofixti-039.ogg",
+      "text": [
+        "My people blew up the sun, heh, heh, heh!",
+        "Or at least they caused it to flare like a nova, destroying the many hundreds of",
+        "Hierarchy vessels that had invaded our system to enslave us Shofixti."
+      ]
+    },
+    {
+      "id": "how_survive",
+      "text": [
+        "If your sun went nova, how did you survive?"
+      ]
+    },
+    {
+      "id": "NOT_HERE",
+      "clip": "shofixti-040.ogg",
+      "text": [
+        "I wasn't here when they made the sun flare.",
+        "I was assigned to a Yehat squadron as a forward scout performing a deep recon in Mycon space.",
+        "We were sent to investigate reports of unusual Mycon activity around <% comm.getStarName(\"Beta Brahe\", \"sun device\") %>.",
+        "I was the first ship to enter the system.",
+        "My scanners showed a small fleet of Mycon clustered around the planet conducting a test of some device.",
+        "The unit was small, not even half the size of my ship.",
+        "When the Mycon activated it a glow began to radiate outward.",
+        "I crept closer, to get a better look.",
+        "Suddenly there was a flare, like a newborn sun, blinding me and overloading my sensors.",
+        "When I recovered my vision, hours later, the Mycon and their device were gone.",
+        "I was able to effect repairs on my sensors and depart the system",
+        "but I had been cut off from my squadron, and had to travel home alone."
+      ]
+    },
+    {
+      "id": "what_happened",
+      "text": [
+        "So what happened to your ship?"
+      ]
+    },
+    {
+      "id": "MET_VUX",
+      "clip": "shofixti-041.ogg",
+      "text": [
+        "On my way home, I encountered a VUX Intruder.",
+        "Before I destroyed it, the VUX was able to affix some of those vile limpet things to my ship",
+        "and I had to return home at a greatly diminished speed.",
+        "I did find one thing interesting though as I skimmed through the edge of Yehat space.",
+        "I dropped into <% comm.getStarName(\"Zeta Sextantis\", \"rainbow 0\") %> to re-charge some of my depleted energy cells",
+        "so I moved into the extreme inner system. There, right next to the sun",
+        "I found a very strange planet... it messed up my sensors somehow",
+        "that's why I could not recognize your ship at first.",
+        "I'd never seen a planet like that before, so maybe you should investigate?"
+      ]
+    },
+    {
+      "id": "glory_device",
+      "text": [
+        "When we were fighting, why didn't you use your Glory Device?"
+      ]
+    },
+    {
+      "id": "SWITCH_BROKE",
+      "clip": "shofixti-042.ogg",
+      "text": [
+        "During my battle with the VUX, I decided to employ the weapon.",
+        "But I guess I used too much gusto",
+        "and the switch broke."
+      ]
+    },
+    {
+      "id": "bye",
+      "text": [
+        "Goodbye, Tanaka."
+      ]
+    },
+    {
+      "id": "GOODBYE",
+      "clip": "shofixti-043.ogg",
+      "text": [
+        "Good hunting."
+      ]
+    },
+    {
+      "id": "FRIENDLY_HELLO",
+      "clip": "shofixti-044.ogg",
+      "text": [
+        "Greetings Captain. It is good to see you again."
+      ]
+    },
+    {
+      "id": "report0",
+      "text": [
+        "What's your report "
+      ]
+    },
+    {
+      "id": "report1",
+      "text": [
+        "?"
+      ]
+    },
+    {
+      "id": "NOTHING_NEW",
+      "clip": "shofixti-045.ogg",
+      "text": [
+        "Nothing new to report, sir."
+      ]
+    },
+    {
+      "id": "OUT_TAKES",
+      "clip": "shofixti-046.ogg",
+      "text": [
+        "Ah, I see someone approaches, but who is it?",
+        "Ho, ho! It is the creature which I wrongly called a disgusting Ur-Quan slimewad",
+        "and a cowardly slug-spawn",
+        "and a pouchless lard-log freak",
+        "and a leprous, non-functional sex organ",
+        "and a wallowing, phlegm-filled Ogrunti belly-licker.",
+        "HA! My human friend has returned!",
+        "So what am I doing here, you ask?",
+        "I'M TRYING TO GET SOME REST, THAT'S WHAT!!!",
+        "I'll be lucky if I don't have a heart attack soon.",
+        "You have no idea how hard it is to personally replenish an entire species!"
+      ]
+    }
+  ]
+}

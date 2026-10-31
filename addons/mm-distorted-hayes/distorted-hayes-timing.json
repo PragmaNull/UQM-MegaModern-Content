@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "conversations": {
+    "commander": {
+      "GIVE_FUEL": {
+        "timing": [
+          4643
+        ]
+      },
+      "GIVE_FUEL_AGAIN": {
+        "timing": [
+          3304,
+          3255
+        ]
+      },
+      "ARE_YOU_SUPPLY_SHIP": {
+        "timing": [
+          2463,
+          3445,
+          3485,
+          3866,
+          3144,
+          2894,
+          3225
+        ]
+      },
+      "HERE_IS_ANOTHER_LANDER": {
+        "timing": [
+          1332,
+          2414
+        ]
+      },
+      "THE_WHAT_FROM_WHERE": {
+        "timing": [
+          2174,
+          3995,
+          4707,
+          2964,
+          2774,
+          4707,
+          4537,
+          4326,
+          3064,
+          3445,
+          4577,
+          5347
+        ]
+      },
+      "ABOUT_TIME": {
+        "timing": [
+          2554,
+          3965,
+          4447,
+          4476
+        ]
+      },
+      "HERE_IS_A_NEW_LANDER": {
+        "timing": [
+          4777,
+          2674
+        ]
+      },
+      "THIS_MAY_SEEM_SILLY": {
+        "timing": [
+          4456,
+          3966
+        ]
+      },
+      "OK_THE_NAME_IS_EMPIRE": {
+        "timing": [
+          4466
+        ]
+      },
+      "FUEL_UP0": {
+        "timing": [
+          2884
+        ]
+      },
+      "FUEL_UP1": {
+        "timing": [
+          5388,
+          5768,
+          2774
+        ]
+      },
+      "WHAT_KIND_OF_IDIOT": {
+        "timing": [
+          1111,
+          4146,
+          3996,
+          3355
+        ]
+      },
+      "DONT_KNOW_WHO_YOU_ARE": {
+        "timing": [
+          3024,
+          2254,
+          3014,
+          2453,
+          4637,
+          2614
+        ]
+      },
+      "THATS_IMPOSSIBLE": {
+        "timing": [
+          3314,
+          6350,
+          2934
+        ],
+        "subclipTiming": [
+          [
+            3214,
+            6350
+          ],
+          [
+            34
+          ]
+        ]
+      },
+      "RADIOS_ON_MERCURY": {
+        "timing": [
+          4146,
+          3215,
+          3935
+        ]
+      },
+      "THANKS_FOR_HELPING": {
+        "timing": [
+          4046
+        ]
+      },
+      "STARBASE_IS": {
+        "timing": [
+          4096,
+          3785,
+          3645,
+          4737,
+          3355,
+          4957
+        ]
+      },
+      "HAPPENED_TO_EARTH": {
+        "timing": [
+          4316,
+          5929,
+          4967,
+          3385
+        ]
+      },
+      "URQUAN_LEFT": {
+        "timing": [
+          3775
+        ]
+      },
+      "BASE_ON_MOON": {
+        "timing": [
+          3510,
+          3758,
+          4020,
+          3757,
+          3698,
+          3949,
+          3169,
+          3990,
+          4968,
+          3898,
+          5309,
+          2839,
+          3340,
+          2240,
+          6426,
+          3040,
+          3360,
+          4179,
+          3768,
+          2999,
+          4568,
+          1799,
+          5129
+        ]
+      },
+      "ACKNOWLEDGE_SECRET": {
+        "timing": [
+          2834,
+          4457,
+          3775,
+          4346,
+          3535,
+          4006
+        ],
+        "subclipTiming": [
+          [
+            2534,
+            4557,
+            4075
+          ],
+          [
+            3546,
+            3035,
+            3906
+          ]
+        ]
+      },
+      "ABOUT_BASE": {
+        "timing": [
+          4606,
+          3996,
+          4647,
+          3063
+        ]
+      },
+      "GOOD_LUCK_WITH_BASE": {
+        "timing": [
+          1582,
+          5027,
+          2965
+        ]
+      },
+      "HERE_COMES_ILWRATH": {
+        "timing": [
+          1372,
+          3515,
+          3906,
+          3254,
+          4186
+        ]
+      },
+      "VERY_IMPRESSIVE": {
+        "timing": [
+          2766,
+          4379,
+          3699,
+          3710,
+          3959,
+          4989,
+          4118,
+          3238
+        ]
+      },
+      "IT_WAS_ABANDONED": {
+        "timing": [
+          1442
+        ]
+      },
+      "THAT_WAS_PROBE": {
+        "timing": [
+          3755
+        ]
+      },
+      "DEEP_TROUBLE": {
+        "timing": [
+          3875,
+          3255
+        ]
+      },
+      "GOOD_NEWS": {
+        "timing": [
+          4817,
+          3475
+        ]
+      },
+      "ABOUT_BASE_AGAIN": {
+        "timing": [
+          5979,
+          4487,
+          5187,
+          4767
+        ]
+      },
+      "STARBASE_WILL_BE_READY": {
+        "timing": [
+          3304
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "version": 1,
+  "conversation": "urquan",
+  "lines": [
+    {
+      "id": "HELLO_SAMATRA",
+      "clip": "urquan-000.ogg",
+      "text": [
+        "You may not approach the ancient Sa-Matra, the symbol of Ur-Quan dominance!",
+        "Your presence here is further violation of the slave laws",
+        "which your species have already violated so flagrantly.",
+        "We cannot tolerate such insubordination!",
+        "Your species' penalty shall be annihilation!"
+      ]
+    },
+    {
+      "id": "SENSE_EVIL",
+      "clip": "urquan-001.ogg",
+      "text": [
+        "There is something wrong here... something which makes my sheath retract and my talons ooze.",
+        "I sense the ugliness of a thousand evil thoughts",
+        "and I have located the source of these fetid emanations.",
+        "They come from aboard your vessel!",
+        "Foolish renegade human, why have you come here? All that you have found",
+        "is your inevitable punishment."
+      ]
+    },
+    {
+      "id": "INIT_URQUAN_WAKE_UP",
+      "clip": "urquan-002.ogg",
+      "text": [
+        "...in addition, your refusal to answer our transmissions is taken as an insult",
+        "which shall earn you the reward of Death unless you respond immediately!"
+      ]
+    },
+    {
+      "id": "where_am_i",
+      "text": [
+        "Hey!? Where am I?"
+      ]
+    },
+    {
+      "id": "YOU_ARE_HERE",
+      "clip": "urquan-003.ogg",
+      "text": [
+        "Your insubordination is intolerable!",
+        "You MUST obey the slave laws, or face our gruesome punishment!"
+      ]
+    },
+    {
+      "id": "why_does_my_head_hurt",
+      "text": [
+        "Why does my head hurt?"
+      ]
+    },
+    {
+      "id": "HURTS_BECAUSE",
+      "clip": "urquan-004.ogg",
+      "text": [
+        "You forget that the consequences of your misbehavior",
+        "will cause great suffering for your entire people."
+      ]
+    },
+    {
+      "id": "what_about_2_weeks",
+      "text": [
+        "Wow!? Where did the last two weeks go?"
+      ]
+    },
+    {
+      "id": "ABOUT_2_WEEKS",
+      "clip": "urquan-005.ogg",
+      "text": [
+        "We have been lenient with your species, because you are so immature.",
+        "Now this attitude has changed.",
+        "You WILL be held responsible for your malfeasance!"
+      ]
+    },
+    {
+      "id": "compulsion",
+      "text": [
+        "Whoa! I must have been under some form of weird mental compulsion."
+      ]
+    },
+    {
+      "id": "WHAT_COMPULSION",
+      "clip": "urquan-006.ogg",
+      "text": [
+        "WHAT DID YOU SAY?!",
+        "COMPULSION!?",
+        "WHAT HAPPENED?! EXPLAIN!"
+      ]
+    },
+    {
+      "id": "wascally_little_guy",
+      "text": [
+        "It was this wascally little guy in Umgah space. He did it!"
+      ]
+    },
+    {
+      "id": "WHAT_IT_LOOK_LIKE",
+      "clip": "urquan-007.ogg",
+      "text": [
+        "WHAT DID THE CREATURE LOOK LIKE?!"
+      ]
+    },
+    {
+      "id": "terran_amphibian",
+      "text": [
+        "It resembled a large, terran amphibian."
+      ]
+    },
+    {
+      "id": "talking_pet_on_steroids",
+      "text": [
+        "It looked like one of your Talking Pets on brain steroids."
+      ]
+    },
+    {
+      "id": "BAD_NEWS",
+      "clip": "urquan-008.ogg",
+      "text": [
+        "A Talking Pet with compulsion powers!",
+        "This is grave news indeed, the worst in millennia!",
+        "We will speed the war against our cousins, the Kohr-Ah",
+        "then we shall deal with this neo-Dnyarri, this Talking Pet.",
+        "Alien Captain! You have done a service for us greater than you can possibly imagine.",
+        "Your reward is continued survival, and if you return to Earth and destroy your vessel IMMEDIATELY",
+        "we will abolish all punishment against you and your species.",
+        "Now leave!... and never return."
+      ]
+    },
+    {
+      "id": "turd_and_toad",
+      "text": [
+        "Kind of like a cross between a turd and a toad."
+      ]
+    },
+    {
+      "id": "WHAT_IS_TURD_AND_TOAD",
+      "clip": "urquan-009.ogg",
+      "text": [
+        "These references are obscure. Respecify."
+      ]
+    },
+    {
+      "id": "alien_mind_control",
+      "text": [
+        "I think I was attacked by some form of alien mind control!"
+      ]
+    },
+    {
+      "id": "WHAT_FELT_LIKE",
+      "clip": "urquan-010.ogg",
+      "text": [
+        "WHAT?!! OH NO!!!",
+        "IT CANNOT BE!",
+        "QUICK HUMAN! TELL ME: WHAT DID IT FEEL LIKE, THIS COMPULSION?"
+      ]
+    },
+    {
+      "id": "possessed_by_devil",
+      "text": [
+        "I am fairly sure that I was possessed by the devil."
+      ]
+    },
+    {
+      "id": "STUPID_DEVIL",
+      "clip": "urquan-011.ogg",
+      "text": [
+        "Devil? The only real devils are the ones flying the dark ships, human",
+        "the murderous Kohr-Ah.",
+        "NOW GIVE ME THE INFORMATION I DEMAND!"
+      ]
+    },
+    {
+      "id": "falling_asleep",
+      "text": [
+        "It was like I fell asleep, or was unconscious."
+      ]
+    },
+    {
+      "id": "someone_else_controlled",
+      "text": [
+        "I felt like someone had control of my mind and my body."
+      ]
+    },
+    {
+      "id": "SOUNDS_FAMILIAR",
+      "clip": "urquan-012.ogg",
+      "text": [
+        "This sounds all too familiar... yes, the nightmare begins again.",
+        "Perhaps we should contact the Kohr-Ah Primat, explain to her.",
+        "No, they will not believe. They are too stubborn and simple-minded.",
+        "They will not see the danger until it is too late!",
+        "Human, begone! Leave my sight! We must defeat the Kohr-Ah speedily",
+        "so that we can attend to this new Dnyarri menace."
+      ]
+    },
+    {
+      "id": "before_coffee",
+      "text": [
+        "Kind of like the screen went dark, and then POW! here you were."
+      ]
+    },
+    {
+      "id": "EXPLAIN",
+      "clip": "urquan-013.ogg",
+      "text": [
+        "WHAT DO YOU MEAN?! ELUCIDATE!"
+      ]
+    },
+    {
+      "id": "why_explain",
+      "text": [
+        "Why should I explain this to you? You're just going to try to kill me!"
+      ]
+    },
+    {
+      "id": "MUST_EXPLAIN",
+      "clip": "urquan-014.ogg",
+      "text": [
+        "Human. We Ur-Quan never lie. NEVER!",
+        "It is a weakness to lie, and as you haven't noticed, the Ur-Quan are not weak!",
+        "So listen, and believe these words",
+        "if what you say is true, you were in contact with a creature so horrible, so evil",
+        "that it makes ANYTHING else you have ever known TRIVIAL by comparison.",
+        "There is no equal to the Dnyarri's cruelty, to its love for torment.",
+        "Dying a THOUSAND TIMES would be preferable to what is in store for you",
+        "if we do not stop that creature.",
+        "So tell me what I want to know, human. NOW!"
+      ]
+    },
+    {
+      "id": "bye_init_hypno",
+      "text": [
+        "Look, ah... this was all a mistake. A weird mistake. Bye!"
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_INIT_HYPNO",
+      "clip": "urquan-015.ogg",
+      "text": [
+        "Your insolence knows no bounds!",
+        "You will be punished."
+      ]
+    },
+    {
+      "id": "SUBSEQUENT_URQUAN_WAKE_UP",
+      "clip": "urquan-016.ogg",
+      "text": [
+        "...and again you have violated our great battlefield",
+        "interfered with our Doctrinal War!",
+        "We were tolerant last time, and permitted you to escape.",
+        "This time, you shall not be so fortunate."
+      ]
+    },
+    {
+      "id": "uh_oh",
+      "text": [
+        "Uh oh."
+      ]
+    },
+    {
+      "id": "NO_UH_OH",
+      "clip": "urquan-017.ogg",
+      "text": [
+        "It is as though your species' brain is too small to hold a simple thought",
+        "such as, WE WILL KILL YOU FOR DISOBEYING!",
+        "This is not a complex idea."
+      ]
+    },
+    {
+      "id": "stop_meeting",
+      "text": [
+        "We have just GOT to stop meeting like this!"
+      ]
+    },
+    {
+      "id": "NO_STOP_MEETING",
+      "clip": "urquan-018.ogg",
+      "text": [
+        "You boldly enter our space! Approach this Dreadnought as though it were a recreation base",
+        "and then play the dumb hominid?",
+        "Who do you take us for, Captain... Spathi!?"
+      ]
+    },
+    {
+      "id": "bye_sub_hypno",
+      "text": [
+        "Look, ah... big mistake! We're in a hurry! Goodbye."
+      ]
+    },
+    {
+      "id": "GOODBYE_AND_DIE_SUB_HYPNO",
+      "clip": "urquan-019.ogg",
+      "text": [
+        "We cannot permit such disobedience from our slaves.",
+        "You will make an example for the rest of our subordinates."
+      ]
+    },
+    {
+      "id": "CAUGHT_YA",
+      "clip": "urquan-020.ogg",
+      "text": [
+        "SO! THE OFFSPRING HAS RETURNED TO ITS NEST!",
+        "When you left this system, our ship was near enough to detect your translation into HyperSpace.",
+        "Though we lost your HyperSpace spoor, we were able to backtrack your path here to this star system.",
+        "And what did we FIND? An outlaw culture! Humans outside of a slave shield!",
+        "You will note that this oversight has been rectified.",
+        "Now, we shall finish the job."
+      ]
+    },
+    {
+      "id": "INIT_FLEE_HUMAN",
+      "clip": "urquan-021.ogg",
+      "text": [
+        "So... it is the human slave.",
+        "How strange. I would have thought your species was extinct by now.",
+        "We have a suggestion for you.",
+        "FLEE! Run as fast and as far as your ship will take you."
+      ]
+    },
+    {
+      "id": "SUBSEQUENT_FLEE_HUMAN",
+      "clip": "urquan-022.ogg",
+      "text": [
+        "Human? You are a fool! Why are you still here?",
+        "Flee!... before the Kohr-Ah find you!"
+      ]
+    },
+    {
+      "id": "why_flee",
+      "text": [
+        "Why should we run away?"
+      ]
+    },
+    {
+      "id": "FLEE_BECAUSE",
+      "clip": "urquan-023.ogg",
+      "text": [
+        "Because you are doomed if you remain here!",
+        "Our Doctrinal War is over. We, the Kzer-Za, have lost.",
+        "RUN HUMAN!",
+        "Because if you do not run -- do not find somewhere to hide and nurture your species",
+        "you are extinct, and we, who have tried to protect you",
+        "are now powerless to stop the killing frenzy of the Kohr-Ah."
+      ]
+    },
+    {
+      "id": "what_happens_now",
+      "text": [
+        "So what happens now?"
+      ]
+    },
+    {
+      "id": "HAPPENS_NOW",
+      "clip": "urquan-024.ogg",
+      "text": [
+        "Now the Kohr-Ah and their Eternal Doctrine have free reign in these stars.",
+        "The Kohr-Ah will visit each of our slave races, staying only long enough",
+        "to ensure than not one of the species remains alive."
+      ]
+    },
+    {
+      "id": "what_about_you",
+      "text": [
+        "So what happens to you?"
+      ]
+    },
+    {
+      "id": "ABOUT_US",
+      "clip": "urquan-025.ogg",
+      "text": [
+        "Human, days ago, I would have killed you for your insolence",
+        "but now... what is the use? You and your kind will receive the ultimate punishment soon enough.",
+        "I will tell you what you wish to know.",
+        "While the Kohr-Ah move through space, killing your neighboring species",
+        "we shall remain here, guarding the trophy... the Sa-Matra.",
+        "When the Kohr-Ah are done with their dark business",
+        "they will take possession of the Sa-Matra, and then we will part ways",
+        "traversing the galaxy in opposite directions, fulfilling our doctrines",
+        "and preparing for our next Doctrinal War."
+      ]
+    },
+    {
+      "id": "bye_wars_over",
+      "text": [
+        "Well, it's been less than uplifting. Bye."
+      ]
+    },
+    {
+      "id": "GOODBYE_WARS_OVER",
+      "clip": "urquan-026.ogg",
+      "text": [
+        "Farewell human. I hope your species survives."
+      ]
+    },
+    {
+      "id": "SEND_MESSAGE",
+      "clip": "urquan-027.ogg",
+      "text": [
+        "Attention interloper - heed this recorded message!",
+        "This drone-vessel speaks with the voice and authority of the Ur-Quan.",
+        "You are trespassing within Ur-Quan space.",
+        "This world, Earth, may not be approached for any reason.",
+        "Nor will hostilities against our orbital platform be tolerated.",
+        "In addition, your ship does not respond to standard Hierarchy identification transmissions",
+        "and is therefore deemed to be... independent.",
+        "This is not permissible -- only subservience shall be tolerated.",
+        "This drone now leaves to inform the Ur-Quan of your transgressions.",
+        "You are commanded to remain here and await the arrival of the Ur-Quan.",
+        "Disobedience will be punished."
+      ]
+    },
+    {
+      "id": "INIT_HELLO",
+      "clip": "urquan-028.ogg",
+      "text": [
+        "WHAT! A human in a Precursor service vehicle?!",
+        "How did you escape the slave shield, human?",
+        "Or are you a rogue?"
+      ]
+    },
+    {
+      "id": "SUBSEQUENT_HELLO_1",
+      "clip": "urquan-029.ogg",
+      "text": [
+        "Human, you have ignored our commands and now you will be punished."
+      ]
+    },
+    {
+      "id": "SUBSEQUENT_HELLO_2",
+      "clip": "urquan-030.ogg",
+      "text": [
+        "Your insubordination is intolerable!",
+        "You MUST obey our slave laws!",
+        "Further disobedience will result in punitive measures against your homeworld."
+      ]
+    },
+    {
+      "id": "SUBSEQUENT_HELLO_3",
+      "clip": "urquan-031.ogg",
+      "text": [
+        "We will give you no more warnings, renegade human."
+      ]
+    },
+    {
+      "id": "SUBSEQUENT_HELLO_4",
+      "clip": "urquan-032.ogg",
+      "text": [
+        "We will give you no more warnings, renegade human."
+      ]
+    },
+    {
+      "id": "you_must_surrender",
+      "text": [
+        "Uh... surrender foul creature!"
+      ]
+    },
+    {
+      "id": "NOPE",
+      "clip": "urquan-033.ogg",
+      "text": [
+        "Submit or die foolish human!"
+      ]
+    },
+    {
+      "id": "i_surrender",
+      "text": [
+        "Okay. I guess I surrender."
+      ]
+    },
+    {
+      "id": "DISOBEDIENCE_PUNISHED",
+      "clip": "urquan-034.ogg",
+      "text": [
+        "We will not kill your entire crew",
+        "only those responsible for decision making",
+        "specifically YOU, Captain, and your officers."
+      ]
+    },
+    {
+      "id": "i_wont_surrender",
+      "text": [
+        "Nope! I won't surrender!"
+      ]
+    },
+    {
+      "id": "BAD_CHOICE",
+      "clip": "urquan-035.ogg",
+      "text": [
+        "You have made the incorrect choice",
+        "and now you must suffer the consequences of your mistake."
+      ]
+    },
+    {
+      "id": "i_will_surrender",
+      "text": [
+        "I really, really, honestly surrender. I mean it. No kidding."
+      ]
+    },
+    {
+      "id": "GOOD_CHOICE",
+      "clip": "urquan-036.ogg",
+      "text": [
+        "Your wise decision has spared many of your crew the pain of death.",
+        "However, as the commanding officer of your renegade vessel",
+        "you will bear the full extent of the defined punishment",
+        "which is death..."
+      ]
+    },
+    {
+      "id": "key_phrase",
+      "text": [
+        "Hold! What you are doing to us is wrong! Why do you do this thing?"
+      ]
+    },
+    {
+      "id": "URQUAN_STORY",
+      "clip": "urquan-037.ogg",
+      "text": [
+        "Alien, you have spoken the Words, and you have spoken them rightly.",
+        "We will tell you our reasons why we enslave all other sentient life.",
+        "We evolved on a hostile world, the descendants of solitary hunters.",
+        "In those ancient days, there was no Kohr-Ah or Kzer-Za, only the Ur-Quan.",
+        "We explored our world, and then the space beyond.",
+        "Here we met the six races of the Sentient Milieu, which we joined as partners.",
+        "It was on a routine planetfall that one of our Milieu scoutships first met the Dnyarri.",
+        "They were evilly intelligent creatures who could control the minds of others.",
+        "They wanted to rule the universe. We had no choice but to give it to them.",
+        "For thousands of years, we were unthinking slaves to the Dnyarri.",
+        "The Dnyarri had a special liking for us Ur-Quan",
+        "so they began to tinker with our genes. They built two Ur-Quan sub-races",
+        "one Green, the thinkers and planners",
+        "the other Black, the warriors and laborers.",
+        "When the martyred genius Kzer-Za gave us the secret to defeating the Dnyarri, we destroyed them.",
+        "Then we decided that we would never again be slaves.",
+        "We would follow the Path of Now and Forever.",
+        "We decided to enslave or imprison all other intelligent life in the galaxy.",
+        "We had slave-shielded one world, when we learned that the Black Ur-Quan",
+        "under a new leader, Kohr-Ah, had devised the Eternal Doctrine",
+        "which called for the `cleansing', the annihilation, of all non-Ur-Quan sentient life.",
+        "Before we could stop them, they burned the Yuptar race's homeworld",
+        "and were on their way to the planet of the last remaining free race.",
+        "We met the Kohr-Ah in orbit above that planet. We confronted them. They would not submit. We fought.",
+        "When our battle was done, the Kohr-Ah were defeated.",
+        "We exiled them, sent the remnant of the Kohr-Ah fleet into the unknown reaches of the galaxy.",
+        "Then we began our own migration, moving around the galaxy in the opposite direction of the Kohr-Ah.",
+        "Captain. You have heard our words. Now you have a decision to make.",
+        "Submit to us, the Ur-Quan Kzer-Za, or face our wrath."
+      ]
+    },
+    {
+      "id": "like_to_leave",
+      "text": [
+        "I will leave now."
+      ]
+    },
+    {
+      "id": "INDEPENDENCE_IS_BAD",
+      "clip": "urquan-038.ogg",
+      "text": [
+        "Your independence is too dangerous for us to tolerate.",
+        "You shall be punished."
+      ]
+    },
+    {
+      "id": "whats_up_1",
+      "text": [
+        "Why do you wish to enslave us?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_1",
+      "clip": "urquan-039.ogg",
+      "text": [
+        "Although you consider us the enemy, these conclusions are flawed. We are your salvation.",
+        "We bring you peace",
+        "a peace built upon OUR social framework imposed upon your planet",
+        "a new world order in which your prosperity and security are assured by the Ur-Quan.",
+        "We will protect you from the hazards of this hostile universe, from dangers so hideous",
+        "your simple minds cannot imagine their dark scope.",
+        "Today, we are the enemy. In time, this will change.",
+        "Soon, you will come to understand the boon of slavery we force upon you",
+        "and then, you will revere and even love us for this gift."
+      ]
+    },
+    {
+      "id": "whats_up_2",
+      "text": [
+        "You didn't answer my question. What's your problem?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_2",
+      "clip": "urquan-040.ogg",
+      "text": [
+        "You have intruded upon the battleground of our Doctrinal conflict with the Kohr-Ah.",
+        "This is not tolerable.",
+        "We must maintain our concentration on this war. We must win.",
+        "Should we lose, the consequences to you and all other sentient life in this part of the galaxy",
+        "would be very grave.",
+        "Since you have refused to depart willingly",
+        "it appears that we must eliminate you ourselves."
+      ]
+    },
+    {
+      "id": "whats_up_3",
+      "text": [
+        "Hello? Ur-Quan? Are you paying attention to me?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_3",
+      "clip": "urquan-041.ogg",
+      "text": [
+        "In our twenty thousand years along the Path of Now and Forever",
+        "we have dominated thousands of species, yes",
+        "but we have saved hundreds from extinction.",
+        "You imagine the threat of unknown invaders, or alien pestilence borne on the solar wind.",
+        "We have seen these. But you do not acknowledge your own worst enemy, yourselves.",
+        "We have found dead worlds without number, planets ravaged by atomic fire or gaian collapse.",
+        "These planets were not rendered sterile by outside forces.",
+        "They bear sad testament to the effects of unrestrained instinct and emotion",
+        "or simple ignorance.",
+        "We will prevent such mistakes."
+      ]
+    },
+    {
+      "id": "whats_up_4",
+      "text": [
+        "You aren't much of a listener, are you?"
+      ]
+    },
+    {
+      "id": "GENERAL_INFO_4",
+      "clip": "urquan-042.ogg",
+      "text": [
+        "A final command human, but it is more of a plea.",
+        "Your insubordination has guaranteed your death, there can be no alternative",
+        "but your species has not yet crossed the threshold of disobedience",
+        "that would require us to decimate Earth.",
+        "You have survived combat with us before. You may survive the ensuing battle.",
+        "If this happens, leave! Return to your home. Await our arrival there.",
+        "If you interfere with us here, we may lose the Doctrinal conflict with the Kohr-Ah.",
+        "If we are defeated, you are defeated as well.",
+        "The Kohr-Ah will be unleashed. They will begin a genocidal orgy, cleansing all known sentience.",
+        "They will crack the slave shield around Earth and reduce the surface of your blue world to cinders."
+      ]
+    },
+    {
+      "id": "OUT_TAKES",
+      "clip": "urquan-043.ogg",
+      "text": [
+        "Blah, blah, blah!",
+        "Mary had a little lamb!",
+        "I like to hold fuzzy little animals and give them huggie-wuggies.",
+        "You are probably wondering why an Ur-Quan is saying such stupid things.",
+        "Well, he isn't saying them. I am... that's right -- ME",
+        "the little guy down in the corner.",
+        "Since I've been stuck down here for this entire game",
+        "translating `Submit or Die!' into about a hundred different languages",
+        "I just thought I'd take this opportunity to express MY feelings.",
+        "You want to know what I think?",
+        "I think this whole game would have been better",
+        "if they'd done it as a musical!",
+        "That's what I think, but do the designers listen to me? NO!"
+      ]
+    }
+  ]
+}
