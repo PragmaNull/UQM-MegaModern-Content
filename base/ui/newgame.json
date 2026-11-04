@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "title": "New Game",
+  "back": {
+    "label": "Return to Main Menu",
+    "tooltip": [
+      "Go back to the main menu without starting a game."
+    ]
+  },
+  "exit": {
+    "label": "Start Game",
+    "tooltip": [
+      "Start a new game with this seed.",
+      "The save files keep the seed."
+    ]
+  },
+  "menus": [
+    {
+      "id": "main",
+      "subtitle": "Starmap Seed",
+      "background": 0,
+      "items": [
+        {
+          "choice": "seed.type",
+          "label": "Starmap Seeding",
+          "options": [
+            {
+              "value": "Original",
+              "label": "Original",
+              "tooltip": [
+                "Original game, as written by the glorious founders."
+              ]
+            },
+            {
+              "value": "Planet",
+              "label": "Planets",
+              "tooltip": [
+                "Seed the generation of planetary resources and solar systems."
+              ]
+            },
+            {
+              "value": "MRQ",
+              "label": "MRQ",
+              "tooltip": [
+                "Seed the locations of Melnorme Traders,",
+                "Rainbow Worlds, and Quasispace Portals,",
+                "and the generation of planetary resources and solar systems."
+              ]
+            },
+            {
+              "value": "Starseed",
+              "label": "Starseed",
+              "tooltip": [
+                "Seed the locations of all plot events into the starmap",
+                "including homeworlds, fleet locations, dialog, and artifacts",
+                "as well as planetary resources and Quasispace."
+              ]
+            }
+          ]
+        },
+        {
+          "text": "seed.value",
+          "label": "Seed",
+          "tooltip": [
+            "The seed of the new game.",
+            "Share it to let others play the same starmap.",
+            "The Original starmap always uses 16807."
+          ]
+        },
+        {
+          "choice": "seed.ships",
+          "label": "Ship Seeding",
+          "options": [
+            {
+              "value": "false",
+              "label": "Disabled",
+              "tooltip": [
+                "Alien races fly their normal ships."
+              ]
+            },
+            {
+              "value": "true",
+              "label": "Enabled",
+              "tooltip": [
+                "Aliens are assigned ships from three classes of ships",
+                "based on the seed."
+              ]
+            }
+          ]
+        },
+        {
+          "legacy": "randomSeed",
+          "label": "Random Seed",
+          "tooltip": [
+            "Pick a random seed.",
+            "Changes Original to Planets."
+          ]
+        },
+        {
+          "spacer": true
+        },
+        {
+          "exit": true
+        },
+        {
+          "back": true
+        }
+      ]
+    }
+  ]
+}

@@ -1256,8 +1256,8 @@
           "text": "seed.value",
           "label": "Custom Seed",
           "tooltip": [
-            "Change the seed for random planet generation.",
-            "Only works for New Games.",
+            "The seed that the New Game menu starts with.",
+            "A running game keeps its own seed.",
             "Default value is: 16807"
           ]
         },

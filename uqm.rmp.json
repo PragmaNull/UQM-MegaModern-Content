@@ -4343,6 +4343,10 @@
       "type": "STRING",
       "data": "base/ui/setupmenu.json"
     },
+    "ui.newgamemenu": {
+      "type": "STRING",
+      "data": "base/ui/newgame.json"
+    },
     "text.shofixtibase": {
       "type": "STRTAB",
       "data": "base/lander/energy/shofixtibase.json"
