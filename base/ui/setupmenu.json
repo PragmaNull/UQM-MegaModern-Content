@@ -1198,8 +1198,8 @@
           "label": "Starmap Seeding",
           "options": [
             {
-              "value": "None",
-              "label": "Prime",
+              "value": "Original",
+              "label": "Original",
               "tooltip": [
                 "Original game, as written by the glorious founders. (Default)"
               ]
@@ -1221,7 +1221,7 @@
               ]
             },
             {
-              "value": "Prime",
+              "value": "Starseed",
               "label": "Starseed",
               "tooltip": [
                 "Seed the locations of all plot events into the starmap",
